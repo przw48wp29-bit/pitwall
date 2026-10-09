@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-09T19:55:05.086Z",
+ "updatedAt": "2026-10-09T22:33:12.618Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,36 @@
   }
  },
  "items": [
+  {
+   "title": "Who will go fastest in Singapore Grand Prix Qualifying?",
+   "summary": "Our expert betting writers share their top picks for Qualifying at Marina Bay.",
+   "url": "https://www.formula1.com/en/latest/article/who-the-betting-markets-think-will-go-fastest-in-singapore-grand-prix-qualifying.0TS6DccooSF1duklRZ9yf",
+   "date": "2026-10-09T22:33:12.602Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-09T22:33:12.602Z"
+  },
+  {
+   "title": "Nur ein Versuch, trotzdem Pole: Pirelli erklärt Verstappens Singapur-Strategie",
+   "summary": "Max Verstappen holt in Singapur mit nur einer schnellen Runde die Sprint-Pole: Pirelli erklärt, warum die Strategie allein nicht entscheidend war",
+   "url": "https://www.formel1.de/nc/149307",
+   "date": "2026-10-09T20:34:19.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-09T22:33:12.602Z"
+  },
   {
    "title": "Drivers to watch closely in the Singapore Sprint race",
    "summary": "We’ve picked out the best value bets to help you make your Sprint predictions.",
