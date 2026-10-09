@@ -1,0 +1,25 @@
+name: Tests
+
+# Bei jeder Änderung: Tippspiel-Regeln, Datenbank (PostgreSQL via PGlite)
+# und News-Abruf automatisch prüfen. Ergebnis unter "Actions" → "Tests".
+
+on:
+  push:
+    paths-ignore: ['data/**']
+  pull_request:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install --no-audit --no-fund
+      - run: npm test
