@@ -1,0 +1,32 @@
+name: Tippspiel-Sync (stündlich)
+
+# Überträgt Kalender und Fahrerfeld nach Supabase. Daraus berechnet die
+# Datenbank den Tippschluss. Ohne die Secrets SUPABASE_URL und
+# SUPABASE_SERVICE_KEY beendet sich der Job einfach.
+
+on:
+  schedule:
+    - cron: '7 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+concurrency:
+  group: tippspiel-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Kalender und Fahrer übertragen
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: node scripts/tippspiel.mjs
