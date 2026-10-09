@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.7.2" -->
+<rss version="2.0"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+<atom:link href="https://www.formel1.de/rss/news/feed.xml" rel="self" type="application/rss+xml" />        <title>Formel1.de-News - die aktuellsten F1-News</title>
+        <description><![CDATA[Verpasse keine Formel-1-News mehr mit dem F1-Feed von Formel1.de!]]></description>
+        <link>https://www.formel1.de/</link>
+        <lastBuildDate>Fri, 09 Oct 2026 18:03:01 +0200</lastBuildDate>
+        <generator>FeedCreator 1.7.2</generator>
+        <image>
+            <url>https://www.formel1.de/public/img/formel1.png</url>
+            <title>Formel1.de-News - die aktuellsten F1-News</title>
+            <link>https://www.formel1.de/</link>
+            <description>Verpasse keine Formel-1-News mehr mit dem F1-Feed von Formel1.de!</description>
+        </image>
+        <item>
+            <title>Max Verstappen: Keine Strafe trotz Überholmanöver unter Gelb</title>
+            <link>https://www.formel1.de/nc/149303</link>
+            <description><![CDATA[<img src="https://www.formel1.de/public/news/api/thumb/149303.jpg"/><br/>Max Verstappen überholte Lewis Hamilton trotz gelber Flaggen: Die Rennkommissare sprachen aber keine Strafe gegen den Red-Bull-Piloten aus]]></description>
+            <pubDate>Fri, 09 Oct 2026 18:00:58 +0200</pubDate>
+            <guid  isPermaLink="false">news-149303</guid>
+        </item>
+<item>
+            <title>Nächster FIA-Ärger: Aston Martin erwägt Protest gegen Singapur-Sprint-Qualifying</title>
+            <link>https://www.formel1.de/nc/149302</link>
+            <description><![CDATA[<img src="https://www.formel1.de/public/news/api/thumb/149302.jpg"/><br/>Nach einer erneuten FIA-Panne in Singapur erwägt Aston Martin Protest: Williams-Antrag gegen Overtake-Modus abgelehnt, Zeitnahmesystem schlägt fehl]]></description>
+            <pubDate>Fri, 09 Oct 2026 17:58:24 +0200</pubDate>
+            <guid  isPermaLink="false">news-149302</guid>
+        </item>
+<item>
+            <title>Rätselraten bei Red Bull: Hadjar nach Qualifying-Debakel ratlos</title>
+            <link>https://www.formel1.de/nc/149301</link>
+            <description><![CDATA[<img src="https://www.formel1.de/public/news/api/thumb/149301.jpg"/><br/>Trotz starkem Trainingsauftakt weit hinter Verstappen - Gestrichene Runde und Motorprobleme besiegeln enttäuschenden neunten Startplatz]]></description>
+            <pubDate>Fri, 09 Oct 2026 17:47:40 +0200</pubDate>
+            <guid  isPermaLink="false">news-149301</guid>
+        </item>
+<item>
+            <title>Ferrari fehlt die Pace: Leclerc erkennt einen Trend, Hamilton rätselt</title>
+            <link>https://www.formel1.de/nc/149300</link>
+            <description><![CDATA[<img src="https://www.formel1.de/public/news/api/thumb/149300.jpg"/><br/>Ferrari kommt im Sprint-Qualifying von Singapur nicht an die Spitze heran: Leclerc spricht über fehlende Pace, Hamilton über überraschende Probleme]]></description>
+            <pubDate>Fri, 09 Oct 2026 17:25:31 +0200</pubDate>
+            <guid  isPermaLink="false">news-149300</guid>
+        </item>
+</channel>
+</rss>

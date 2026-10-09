@@ -1,0 +1,19 @@
+{
+  "name": "pitwall-f1-hub",
+  "private": true,
+  "type": "module",
+  "description": "F1-Infoseite mit Tippspiel, täglichem Daten-Update und News per RSS",
+  "scripts": {
+    "update": "node scripts/update.mjs",
+    "news": "node scripts/news.mjs",
+    "tippspiel": "node scripts/tippspiel.mjs",
+    "test": "node tests/run.mjs"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.110.0"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "0.5.8"
+  }
+}

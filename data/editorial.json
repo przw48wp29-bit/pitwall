@@ -1,0 +1,292 @@
+{
+  "generatedAt": "2026-10-09T14:00:00Z",
+  "season": "2026",
+  "source": "seed",
+  "news": [
+    {
+      "date": "2026-10-09",
+      "category": "Rennen",
+      "title": "Russell Schnellster im einzigen Training von Singapur",
+      "summary": "George Russell führt das dunstige Practice 1 in Marina Bay rund zwei Zehntel vor Charles Leclerc an, Lando Norris wird Dritter. Für Russell ist es trotzdem ein schwieriges Wochenende: Er startet wegen eines Motorwechsels von hinten.",
+      "team": "mercedes",
+      "drivers": ["russell", "leclerc", "norris"],
+      "source": "RacingNews365",
+      "url": "https://racingnews365.com/live-2026-f1-singapore-grand-prix-marina-bay-free-practice"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "Technik",
+      "title": "Mercedes teilt die Auto-Spezifikationen auf",
+      "summary": "Russell fährt in Singapur wieder das bewährte Aero-Paket, Antonelli bleibt beim Sepang-Upgrade. So bekommt Mercedes einen direkten Vergleich der beiden Versionen. Zusätzlich bringt das Team einen neuen Frontflügel samt Endplatte.",
+      "team": "mercedes",
+      "drivers": ["russell", "antonelli"],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/why-splitting-car-specifications-is-a-no-brainer-for-mercedes-at-the-singapore-grand-prix.44OonD5CF8Eg4yQ2w5REwh"
+    },
+    {
+      "date": "2026-10-08",
+      "category": "Technik",
+      "title": "Nur drei Teams bringen neue Teile nach Singapur",
+      "summary": "Auf der FIA-Liste stehen nur fünf Neuteile: Mercedes (Frontflügel und Endplatte), Red Bull (Frontflügel, grössere Bremsbelüftung hinten) und McLaren (vordere Bremsbelüftung). Ferrari und sieben weitere Teams verzichten auf Updates.",
+      "source": "The Race",
+      "url": "https://www.the-race.com/formula-1/all-f1-upgrades-singapore-grand-prix/"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "Teams",
+      "title": "Problem bei Verstappen vor dem Sprint Qualifying",
+      "summary": "Red Bull bestätigt vor dem Sprint Qualifying ein technisches Problem an Max Verstappens Auto. Der Niederländer kommt mit Rückenwind: Am letzten Wochenende hat er in Sepang gewonnen.",
+      "team": "red_bull",
+      "drivers": ["max_verstappen"],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-singapore-2026.B1SYUo2x0CHUWLp3hZyw2"
+    },
+    {
+      "date": "2026-10-04",
+      "category": "Rennen",
+      "title": "Verstappen gewinnt verregneten Bahrain GP in Malaysia",
+      "summary": "Im Ersatzrennen auf dem Sepang International Circuit siegt Max Verstappen vor WM-Leader Kimi Antonelli. George Russell fällt spät aus und verliert wichtige Punkte im Titelkampf.",
+      "team": "red_bull",
+      "drivers": ["max_verstappen", "antonelli", "russell"],
+      "source": "Formula1.com",
+      "url": "https://www.formula1.com/en/latest/article/verstappen-wins-rain-hit-bahrain-gp-in-malaysia-over-antonelli-as-russell-retires-late-on.6qfpIHPch8mIVj2YgfHdCp"
+    },
+    {
+      "date": "2026-10-01",
+      "category": "Transfer",
+      "title": "Audi verlängert mit Hülkenberg und Bortoleto",
+      "summary": "Audi zieht die Optionen in beiden Fahrerverträgen. Nico Hülkenberg und Gabriel Bortoleto bilden damit auch 2027 die Fahrerpaarung des Teams aus Hinwil.",
+      "team": "audi",
+      "drivers": ["hulkenberg", "bortoleto"],
+      "source": "RacingNews365",
+      "url": "https://racingnews365.com/audi-confirm-2027-f1-driver-line-up"
+    },
+    {
+      "date": "2026-10-08",
+      "category": "Transfer",
+      "title": "Ocon offen für eine Reservisten-Rolle",
+      "summary": "Esteban Ocon würde als Ersatzfahrer im Fahrerlager bleiben, falls er für 2027 kein Renncockpit bekommt. Bei Haas sind beide Plätze noch nicht vergeben.",
+      "team": "haas",
+      "drivers": ["ocon"],
+      "source": "AutoRacing1",
+      "url": "https://www.autoracing1.com/pl/505937/formula-1-news-2026-singapore-gp-thursday-press-conference/"
+    },
+    {
+      "date": "2026-09-30",
+      "category": "Regeln",
+      "title": "Neue Motoren-Balance für 2027 beschlossen",
+      "summary": "Der Verbrenner bekommt mehr Gewicht: Die Leistungsaufteilung verschiebt sich auf 58/42 (2027) und 60/40 (2028). Dafür steigt die Leistung des Verbrenners von 400 auf 420 kW, und der Benzindurchfluss wird um 5 % erhöht.",
+      "source": "The Race",
+      "url": "https://the-race.com/formula-1/f1-engine-rule-changes-2027-2028/"
+    },
+    {
+      "date": "2026-09-29",
+      "category": "Transfer",
+      "title": "So sieht das Grid 2027 aktuell aus",
+      "summary": "Fast alle Cockpits sind vergeben. Offen sind noch Haas und Racing Bulls, bei Mercedes fehlt die offizielle Bestätigung. Verstappen und Sainz haben Leistungsklauseln, die den Markt noch bewegen könnten.",
+      "source": "Motorsport Week",
+      "url": "https://www.motorsportweek.com/2026/09/29/f1-2027-confirmed-driver-line-ups/"
+    }
+  ],
+  "upgrades": [
+    { "round": 17, "race": "Singapore Grand Prix", "team": "mercedes",
+      "items": [
+        { "area": "Front Wing", "component": "Frontflügel", "purpose": "Mehr Performance im gesamten Einsatzfenster, bessere Kontrolle der Verwirbelung hinter den Vorderreifen", "category": "Performance" },
+        { "area": "Front Wing", "component": "Frontflügel-Endplatte", "purpose": "Ergänzt den neuen Frontflügel, rundet das Sepang-Paket ab", "category": "Performance" }
+      ],
+      "notes": "Aufgeteilte Spezifikation: Russell fährt wieder das alte Aero-Paket, Antonelli das Sepang-Upgrade. Russell bekommt eine komplett neue Power Unit und startet deshalb vom Ende des Feldes.",
+      "sources": [ { "name": "Formula1.com", "url": "https://www.formula1.com/en/latest/article/why-splitting-car-specifications-is-a-no-brainer-for-mercedes-at-the-singapore-grand-prix.44OonD5CF8Eg4yQ2w5REwh" }, { "name": "The Race", "url": "https://www.the-race.com/formula-1/mercedes-taking-old-parts-to-singapore-amid-f1-upgrade-doubts/" } ] },
+    { "round": 17, "race": "Singapore Grand Prix", "team": "red_bull",
+      "items": [
+        { "area": "Front Wing", "component": "Frontflügel (modifiziert)", "purpose": "Aus bestehender Baugruppe abgeleitet, mehr lokaler Abtrieb", "category": "Performance" },
+        { "area": "Brakes", "component": "Bremsbelüftung hinten, Auslässe vergrössert", "purpose": "Mehr Kühlung für die Bremsen", "category": "Strecken-spezifisch" }
+      ],
+      "sources": [ { "name": "The Race", "url": "https://www.the-race.com/formula-1/all-f1-upgrades-singapore-grand-prix/" } ] },
+    { "round": 17, "race": "Singapore Grand Prix", "team": "mclaren",
+      "items": [
+        { "area": "Brakes", "component": "Vordere Bremsbelüftung", "purpose": "Für den hohen Kühlbedarf in Singapur und auf den nächsten Strecken", "category": "Strecken-spezifisch" }
+      ],
+      "sources": [ { "name": "Yahoo Sports", "url": "https://sports.yahoo.com/articles/singapore-gp-upgrade-list-reveals-062200646.html" } ] },
+    { "round": 17, "race": "Singapore Grand Prix", "team": "ferrari", "items": [], "notes": "Ferrari bringt bewusst keine neuen Teile nach Marina Bay." },
+    { "round": 17, "race": "Singapore Grand Prix", "team": "williams", "items": [] },
+    { "round": 17, "race": "Singapore Grand Prix", "team": "aston_martin", "items": [] },
+    { "round": 17, "race": "Singapore Grand Prix", "team": "alpine", "items": [] },
+    { "round": 17, "race": "Singapore Grand Prix", "team": "haas", "items": [] },
+    { "round": 17, "race": "Singapore Grand Prix", "team": "rb", "items": [] },
+    { "round": 17, "race": "Singapore Grand Prix", "team": "audi", "items": [] },
+    { "round": 17, "race": "Singapore Grand Prix", "team": "cadillac", "items": [] },
+
+    { "round": 16, "race": "Bahrain Grand Prix in Malaysia", "team": "mercedes",
+      "items": [
+        { "area": "Front Wing", "component": "Horizontale Elemente und zusätzliches, geschlitztes oberes Element", "purpose": "Lokaler Abtrieb", "category": "Performance" },
+        { "area": "Floor", "component": "Down-Washing-Elemente", "purpose": "Strömungskonditionierung", "category": "Performance" },
+        { "area": "Floor", "component": "Schlitze und Elemente an den Unterbodenecken", "purpose": "Strömungskonditionierung", "category": "Performance" },
+        { "area": "Diffuser", "component": "Diffusordach, Seitenwand und Winglet", "purpose": "Lokaler Abtrieb", "category": "Performance" },
+        { "area": "Suspension", "component": "Radaufhängungs-Verkleidungen", "purpose": "Lokaler Abtrieb", "category": "Performance" },
+        { "area": "Rear Wing", "component": "Spannweite und Position des hinteren Winglets", "purpose": "Lokaler Abtrieb", "category": "Performance" },
+        { "area": "Bodywork", "component": "Heckverkleidung: Volumen und Rampe in der Seitenansicht", "purpose": "Strömungskonditionierung", "category": "Performance" }
+      ],
+      "notes": "Grösstes Paket des Wochenendes. Dazu kommen in Singapur der passende Frontflügel und die Endplatte.",
+      "sources": [ { "name": "Roundtable", "url": "https://roundtable.io/sports/f1/news/bahrain-grand-prix-reported-f1-upgrades-for-every-team-at-sepang" } ] },
+    { "round": 16, "race": "Bahrain Grand Prix in Malaysia", "team": "ferrari",
+      "items": [ { "area": "Diffuser", "component": "Kaskade aus äusseren Diffusor-Winglets", "purpose": "Lokaler Abtrieb", "category": "Performance" } ],
+      "sources": [ { "name": "Roundtable", "url": "https://roundtable.io/sports/f1/news/bahrain-grand-prix-reported-f1-upgrades-for-every-team-at-sepang" } ] },
+    { "round": 16, "race": "Bahrain Grand Prix in Malaysia", "team": "mclaren",
+      "items": [ { "area": "Cooling", "component": "Verkleidung für hohe Kühlung", "purpose": "Mehr Kühlleistung für die Hitze in Sepang", "category": "Strecken-spezifisch" } ],
+      "sources": [ { "name": "Roundtable", "url": "https://roundtable.io/sports/f1/news/bahrain-grand-prix-reported-f1-upgrades-for-every-team-at-sepang" } ] },
+    { "round": 16, "race": "Bahrain Grand Prix in Malaysia", "team": "red_bull",
+      "items": [ { "area": "Floor", "component": "Geometrie des Floor Boards", "purpose": "Lokaler Abtrieb", "category": "Performance" } ],
+      "sources": [ { "name": "Roundtable", "url": "https://roundtable.io/sports/f1/news/bahrain-grand-prix-reported-f1-upgrades-for-every-team-at-sepang" } ] },
+    { "round": 16, "race": "Bahrain Grand Prix in Malaysia", "team": "rb",
+      "items": [
+        { "area": "Front Wing", "component": "Frontflügel-Flap", "purpose": "Mehr Spielraum bei der Balance", "category": "Strecken-spezifisch" },
+        { "area": "Rear Wing", "component": "Zusatzelemente am Heckflügel", "purpose": "Lokaler Abtrieb", "category": "Performance" }
+      ],
+      "sources": [ { "name": "Roundtable", "url": "https://roundtable.io/sports/f1/news/bahrain-grand-prix-reported-f1-upgrades-for-every-team-at-sepang" } ] },
+    { "round": 16, "race": "Bahrain Grand Prix in Malaysia", "team": "alpine",
+      "items": [ { "area": "Brakes", "component": "Auslass der vorderen Bremstrommel", "purpose": "Bremskühlung", "category": "Performance" } ],
+      "sources": [ { "name": "Roundtable", "url": "https://roundtable.io/sports/f1/news/bahrain-grand-prix-reported-f1-upgrades-for-every-team-at-sepang" } ] },
+    { "round": 16, "race": "Bahrain Grand Prix in Malaysia", "team": "haas",
+      "items": [ { "area": "Rear", "component": "Geometrie der hinteren Crashstruktur", "purpose": "Lokaler Abtrieb", "category": "Performance" } ],
+      "sources": [ { "name": "Roundtable", "url": "https://roundtable.io/sports/f1/news/bahrain-grand-prix-reported-f1-upgrades-for-every-team-at-sepang" } ] },
+    { "round": 16, "race": "Bahrain Grand Prix in Malaysia", "team": "audi", "items": [] },
+    { "round": 16, "race": "Bahrain Grand Prix in Malaysia", "team": "williams", "items": [] },
+    { "round": 16, "race": "Bahrain Grand Prix in Malaysia", "team": "aston_martin", "items": [] },
+    { "round": 16, "race": "Bahrain Grand Prix in Malaysia", "team": "cadillac", "items": [] },
+
+    { "round": 15, "race": "Azerbaijan Grand Prix", "team": "audi",
+      "items": [
+        { "area": "Front Wing", "component": "Neuer Frontflügel, Endplatte und Nasenverkleidung", "purpose": "Bessere Anströmung des restlichen Autos, Balance des Pakets", "category": "Performance" },
+        { "area": "Suspension", "component": "Verkleidungen der vorderen Radaufhängung", "purpose": "Auf den neuen Frontflügel abgestimmt", "category": "Performance" },
+        { "area": "Floor", "component": "Unterboden, Leading-Edge-Elemente, Diffusor", "purpose": "Gleichmässig mehr Abtrieb", "category": "Performance" },
+        { "area": "Bodywork", "component": "Verkleidung, Motorabdeckung, Halo-Verkleidung, Kühloptionen", "purpose": "", "category": "Performance" },
+        { "area": "Rear", "component": "Hintere Radaufhängungs-Verkleidung, Anbauteile der hinteren Bremsbelüftung", "purpose": "", "category": "Performance" },
+        { "area": "Rear Wing", "component": "Heckflügel-Baugruppe (Beam Wing, Endplatten)", "purpose": "", "category": "Performance" }
+      ],
+      "notes": "Grösstes Paket in Baku mit insgesamt 14 angemeldeten Teilen. Teamchef Binotto: Das Paket liefere wie erwartet. In Q2 kam trotzdem keiner der beiden Audi.",
+      "sources": [ { "name": "Motorsport Week", "url": "https://www.motorsportweek.com/2026/09/24/f1-baku-upgrades/" }, { "name": "Formula1.com", "url": "https://www.formula1.com/en/latest/article/the-package-is-delivering-as-expected-audi-reflect-on-new-upgrade-package-after-practice-in-azerbaijan.5U8qcauiyASv8Je72XQF3c" } ] },
+    { "round": 15, "race": "Azerbaijan Grand Prix", "team": "mclaren",
+      "items": [
+        { "area": "Bodywork", "component": "Seitenkasten-Einlass, Motorabdeckung, Coke-Line", "purpose": "Bessere Strömung Richtung Heck", "category": "Performance" },
+        { "area": "Bodywork", "component": "Alternative Seitenkasten-Form", "purpose": "Optionale Verkleidung", "category": "Performance" },
+        { "area": "Floor", "component": "Unterbodenkante und Diffusor", "purpose": "An die neue Strömung angepasst", "category": "Performance" },
+        { "area": "Suspension", "component": "Hintere Radaufhängungs-Verkleidungen", "purpose": "Angepasst", "category": "Performance" },
+        { "area": "Cooling", "component": "Louvre-Anordnung", "purpose": "Verschiedene Kühlstufen", "category": "Strecken-spezifisch" },
+        { "area": "Rear Wing", "component": "Flap für mittleren Abtrieb (H-Wing)", "purpose": "Öffnet im Straight Mode weiter, weniger Luftwiderstand", "category": "Strecken-spezifisch" }
+      ],
+      "notes": "Der Low-Drag-H-Wing aus Monza kommt zurück.",
+      "sources": [ { "name": "Motorsport Week", "url": "https://www.motorsportweek.com/2026/09/24/f1-baku-upgrades/" } ] },
+    { "round": 15, "race": "Azerbaijan Grand Prix", "team": "red_bull",
+      "items": [
+        { "area": "Floor", "component": "Geometrie von Unterboden und Diffusor", "purpose": "Mehr lokaler Abtrieb bei gleicher Strömungsbalance", "category": "Performance" },
+        { "area": "Floor", "component": "Übergang Seitenkasten–Unterboden", "purpose": "Bessere Strömung", "category": "Performance" },
+        { "area": "Cooling", "component": "Kühl-Louvres", "purpose": "In den Seitenkasten integriert, gleiche Kühlleistung", "category": "Performance" },
+        { "area": "Bodywork", "component": "Spiegel und Turning Vane der Halo-Verkleidung", "purpose": "Strömung dahinter konditionieren", "category": "Performance" }
+      ],
+      "sources": [ { "name": "Motorsport Week", "url": "https://www.motorsportweek.com/2026/09/24/f1-baku-upgrades/" } ] },
+    { "round": 15, "race": "Azerbaijan Grand Prix", "team": "williams",
+      "items": [
+        { "area": "Chassis", "component": "Chassis-Änderung", "purpose": "Gewichtsreduktion", "category": "Performance" },
+        { "area": "Floor", "component": "Unterboden (Leading Edge, Floor Body, Unterbodenecken)", "purpose": "Vorderen und äusseren Unterbodenbereich stärken", "category": "Performance" },
+        { "area": "Rear", "component": "Heckpartie", "purpose": "Ergänzt den neuen Unterboden", "category": "Performance" },
+        { "area": "Brakes", "component": "Strömungselemente an der vorderen Bremsbelüftung", "purpose": "Besseres Zusammenspiel mit dem Frontflügel", "category": "Performance" },
+        { "area": "Suspension", "component": "Hintere Radaufhängungs-Verkleidung", "purpose": "Neu ausgerichtet", "category": "Performance" },
+        { "area": "Brakes", "component": "Leading-Edge-Elemente an der hinteren Bremsbelüftung", "purpose": "Durch die übrigen Änderungen möglich geworden", "category": "Performance" }
+      ],
+      "notes": "Ein Chassis-Wechsel mitten in der Saison ist selten. Albon schaffte es damit im Qualifying in die Top 10.",
+      "sources": [ { "name": "Motorsport Week", "url": "https://www.motorsportweek.com/2026/09/24/f1-baku-upgrades/" } ] },
+    { "round": 15, "race": "Azerbaijan Grand Prix", "team": "rb",
+      "items": [
+        { "area": "Front Wing", "component": "Frontflügel, Bremsbelüftung, vordere Lippe", "purpose": "Sauberere Anströmung des Unterbodens", "category": "Performance" },
+        { "area": "Suspension", "component": "Profile der Radaufhängungs-Streben", "purpose": "Sauberere Anströmung des Unterbodens", "category": "Performance" }
+      ],
+      "sources": [ { "name": "Motorsport Week", "url": "https://www.motorsportweek.com/2026/09/24/f1-baku-upgrades/" } ] },
+    { "round": 15, "race": "Azerbaijan Grand Prix", "team": "cadillac",
+      "items": [
+        { "area": "Brakes", "component": "Einlass und Auslass der vorderen Bremskühlung", "purpose": "Mehr Bremskühlung", "category": "Strecken-spezifisch" },
+        { "area": "Suspension", "component": "Verkleidungen der vorderen Radaufhängung", "purpose": "An die neuen Kühlkanäle angepasst", "category": "Performance" },
+        { "area": "Diffuser", "component": "Unterkante des Diffusor-Winglets", "purpose": "Mehr lokaler Abtrieb", "category": "Performance" }
+      ],
+      "notes": "Sergio Pérez erhält zusätzlich eine neue Ferrari Power Unit.",
+      "sources": [ { "name": "Motorsport Week", "url": "https://www.motorsportweek.com/2026/09/24/f1-baku-upgrades/" }, { "name": "Scuderia Fans", "url": "https://scuderiafans.com/2026-azerbaijan-gp-upgrades-audi-leads-overhaul-as-ferrari-declares-no-changes/" } ] },
+    { "round": 15, "race": "Azerbaijan Grand Prix", "team": "mercedes", "items": [] },
+    { "round": 15, "race": "Azerbaijan Grand Prix", "team": "ferrari", "items": [] },
+    { "round": 15, "race": "Azerbaijan Grand Prix", "team": "aston_martin", "items": [] },
+    { "round": 15, "race": "Azerbaijan Grand Prix", "team": "alpine", "items": [] },
+    { "round": 15, "race": "Azerbaijan Grand Prix", "team": "haas", "items": [] }
+  ],
+  "contracts": [
+    { "driverId": "antonelli", "currentTeam": "mercedes", "team2027": "mercedes", "status": "erwartet", "until": "", "note": "Noch keine offizielle Bestätigung. Laut Berichten hat er einen Mehrjahresvertrag mit Optionen zur Verlängerung.", "sources": [ { "name": "Motor Sport Magazine", "url": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-2027-driver-line-ups-latest-contract-news-and-rumours/" } ] },
+    { "driverId": "russell", "currentTeam": "mercedes", "team2027": "mercedes", "status": "erwartet", "until": "", "note": "Offiziell noch nicht verkündet, ein Verbleib gilt aber als sicher.", "sources": [ { "name": "Motor Sport Magazine", "url": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-2027-driver-line-ups-latest-contract-news-and-rumours/" } ] },
+    { "driverId": "hamilton", "currentTeam": "ferrari", "team2027": "ferrari", "status": "bestätigt", "until": "2027 (Option 2028)", "note": "Der Vertrag deckt 2027 ab, eine Option für 2028 wird berichtet.", "sources": [ { "name": "PlanetF1", "url": "https://www.planetf1.com/news/f1-2027-driver-line-up-confirmed-grid" } ] },
+    { "driverId": "leclerc", "currentTeam": "ferrari", "team2027": "ferrari", "status": "bestätigt", "until": "", "sources": [ { "name": "RacingNews365", "url": "https://racingnews365.com/complete-f1-2027-confirmed-driver-line-ups" } ] },
+    { "driverId": "norris", "currentTeam": "mclaren", "team2027": "mclaren", "status": "bestätigt", "until": "mind. 2030", "sources": [ { "name": "PlanetF1", "url": "https://www.planetf1.com/news/f1-2027-driver-line-up-confirmed-grid" } ] },
+    { "driverId": "piastri", "currentTeam": "mclaren", "team2027": "mclaren", "status": "bestätigt", "until": "2028", "sources": [ { "name": "PlanetF1", "url": "https://www.planetf1.com/news/f1-2027-driver-line-up-confirmed-grid" } ] },
+    { "driverId": "max_verstappen", "currentTeam": "red_bull", "team2027": "red_bull", "status": "bestätigt", "until": "2028 bzw. 2030", "note": "Bei der Laufzeit widersprechen sich die Quellen: 2028 oder 2030. Die berichteten Leistungsklauseln machen ihn zum wichtigsten Unsicherheitsfaktor auf dem Fahrermarkt.", "sources": [ { "name": "Coffee Corner Motorsport", "url": "https://coffeecornermotorsport.com/f1-2027-driver-line-up/" } ] },
+    { "driverId": "hadjar", "currentTeam": "red_bull", "team2027": "red_bull", "status": "bestätigt", "until": "", "sources": [ { "name": "Motorsport Week", "url": "https://www.motorsportweek.com/2026/09/29/f1-2027-confirmed-driver-line-ups/" } ] },
+    { "driverId": "alonso", "currentTeam": "aston_martin", "team2027": "aston_martin", "status": "bestätigt", "until": "", "note": "Verlängerung bestätigt. Mit Stroll fährt er im fünften Jahr in Folge zusammen.", "sources": [ { "name": "Motorsport Week", "url": "https://www.motorsportweek.com/2026/09/29/f1-2027-confirmed-driver-line-ups/" } ] },
+    { "driverId": "stroll", "currentTeam": "aston_martin", "team2027": "aston_martin", "status": "bestätigt", "until": "", "sources": [ { "name": "Motorsport Week", "url": "https://www.motorsportweek.com/2026/09/29/f1-2027-confirmed-driver-line-ups/" } ] },
+    { "driverId": "gasly", "currentTeam": "alpine", "team2027": "alpine", "status": "bestätigt", "until": "2028", "sources": [ { "name": "RacingNews365", "url": "https://racingnews365.com/complete-f1-2027-confirmed-driver-line-ups" } ] },
+    { "driverId": "colapinto", "currentTeam": "alpine", "team2027": "alpine", "status": "bestätigt", "until": "", "sources": [ { "name": "RacingNews365", "url": "https://racingnews365.com/complete-f1-2027-confirmed-driver-line-ups" } ] },
+    { "driverId": "albon", "currentTeam": "williams", "team2027": "williams", "status": "bestätigt", "until": "", "sources": [ { "name": "RacingNews365", "url": "https://racingnews365.com/complete-f1-2027-confirmed-driver-line-ups" } ] },
+    { "driverId": "sainz", "currentTeam": "williams", "team2027": "williams", "status": "bestätigt", "until": "", "note": "Der Vertrag hat laut Berichten leistungsabhängige Ausstiegsklauseln. Ein Rennsieger könnte so wieder auf den Markt kommen.", "sources": [ { "name": "Coffee Corner Motorsport", "url": "https://coffeecornermotorsport.com/f1-2027-driver-line-up/" } ] },
+    { "driverId": "hulkenberg", "currentTeam": "audi", "team2027": "audi", "status": "bestätigt", "until": "", "note": "Audi hat die Vertragsoption gezogen.", "sources": [ { "name": "RacingNews365", "url": "https://racingnews365.com/audi-confirm-2027-f1-driver-line-up" } ] },
+    { "driverId": "bortoleto", "currentTeam": "audi", "team2027": "audi", "status": "bestätigt", "until": "", "sources": [ { "name": "RacingNews365", "url": "https://racingnews365.com/audi-confirm-2027-f1-driver-line-up" } ] },
+    { "driverId": "perez", "currentTeam": "cadillac", "team2027": "cadillac", "status": "bestätigt", "until": "", "sources": [ { "name": "Motorsport Week", "url": "https://www.motorsportweek.com/2026/09/29/f1-2027-confirmed-driver-line-ups/" } ] },
+    { "driverId": "bottas", "currentTeam": "cadillac", "team2027": "cadillac", "status": "bestätigt", "until": "", "sources": [ { "name": "Motorsport Week", "url": "https://www.motorsportweek.com/2026/09/29/f1-2027-confirmed-driver-line-ups/" } ] },
+    { "driverId": "bearman", "currentTeam": "haas", "team2027": null, "status": "offen", "until": "", "note": "Für 2027 sind bei Haas noch beide Cockpits offiziell offen.", "sources": [ { "name": "RacingNews365", "url": "https://racingnews365.com/complete-f1-2027-confirmed-driver-line-ups" } ] },
+    { "driverId": "ocon", "currentTeam": "haas", "team2027": null, "status": "offen", "until": "", "note": "Er sagt, er sei auch für eine Reservisten-Rolle offen, falls kein Renncockpit frei wird.", "sources": [ { "name": "AutoRacing1", "url": "https://www.autoracing1.com/pl/505937/formula-1-news-2026-singapore-gp-thursday-press-conference/" } ] },
+    { "driverId": "lawson", "currentTeam": "rb", "team2027": null, "status": "offen", "until": "", "note": "Racing Bulls hat für 2027 noch nichts bekanntgegeben.", "sources": [ { "name": "RacingNews365", "url": "https://racingnews365.com/complete-f1-2027-confirmed-driver-line-ups" } ] },
+    { "driverId": "arvid_lindblad", "currentTeam": "rb", "team2027": null, "status": "offen", "until": "", "sources": [ { "name": "RacingNews365", "url": "https://racingnews365.com/complete-f1-2027-confirmed-driver-line-ups" } ] }
+  ],
+  "rumours": [
+    { "title": "Bewegen Verstappens Leistungsklauseln den Markt?", "text": "Mehrere Medien sehen Verstappen und Sainz als die zwei Verträge, die den Fahrermarkt noch kippen könnten. Beide sollen Ausstiegsmöglichkeiten bei ausbleibender Leistung des Teams haben.", "likelihood": "mittel", "sources": [ { "name": "Coffee Corner Motorsport", "url": "https://coffeecornermotorsport.com/f1-2027-driver-line-up/" } ] }
+  ],
+  "predictions": {
+    "summary": "Antonelli führt mit 84 Punkten. Bei noch maximal 183 Punkten (7 Rennen und 1 Sprint) reichen ihm konstante Podestplätze. Russell startet in Singapur von hinten, das verschafft Antonelli zusätzlichen Spielraum.",
+    "title": [
+      { "driverId": "antonelli", "name": "Antonelli", "team": "mercedes", "chance": 80 },
+      { "driverId": "russell", "name": "Russell", "team": "mercedes", "chance": 12 },
+      { "driverId": "hamilton", "name": "Hamilton", "team": "ferrari", "chance": 5 },
+      { "driverId": "leclerc", "name": "Leclerc", "team": "ferrari", "chance": 3 }
+    ],
+    "storylines": [
+      { "title": "Mercedes testet im Titelkampf", "text": "Mercedes lässt in Singapur zwei Spezifikationen gegeneinander fahren. Die Daten entscheiden, welches Paket die Saison zu Ende fährt." },
+      { "title": "Verstappen im Aufwind", "text": "Nach dem Sieg in Sepang will Red Bull mit neuem Frontflügel nachlegen, doch ein technisches Problem trübt den Start ins Wochenende." },
+      { "title": "Letzter Sprint des Jahres", "text": "Singapur ist das letzte Sprint-Wochenende 2026. Danach sind pro Wochenende höchstens 25 Punkte zu holen." }
+    ]
+  },
+  "driverNotes": {
+    "antonelli": { "form": "stark", "text": "Acht Saisonsiege, WM-Leader mit deutlichem Vorsprung. In Sepang Zweiter hinter Verstappen." },
+    "russell": { "form": "durchwachsen", "text": "Schnell, aber von Zuverlässigkeitsproblemen gebremst: Ausfall in Sepang, in Singapur Startplatz-Strafe nach dem Motorwechsel." },
+    "max_verstappen": { "form": "stark", "text": "Gewinnt den verregneten Bahrain GP in Malaysia und ist seit dem Sommer der konstanteste Red-Bull-Fahrer." }
+  },
+  "teamInfo": {},
+  "circuits": {
+    "marina_bay": { "Länge": "4,927 km", "Runden": "62", "Kurven": "19", "Typ": "Stadtkurs, Nachtrennen", "notes": "Hohe Luftfeuchtigkeit und Hitze, extrem bremsen- und kühlungslastig. Safety-Car-Phasen sind hier fast die Regel." }
+  },
+  "rules": [
+    { "year": 2026, "title": "Active Aero statt DRS", "tag": "Neu", "text": "Front- und Heckflügel verstellen sich. Im Straight Mode öffnen beide Klappen in festgelegten Zonen und senken den Luftwiderstand, und das für alle Fahrer, nicht nur innerhalb einer Sekunde zum Vordermann. In Kurven gilt der Corner Mode mit vollem Abtrieb.", "sources": [ { "name": "Formula1.com", "url": "https://www.formula1.com/en/latest/article/f1-2026-regulations-explained-the-key-terms-for-formula-1s-new-for-2026-rules.3T5BU6TC9quGcIpGzoWkY0" } ] },
+    { "year": 2026, "title": "Overtake Mode", "tag": "Neu", "text": "Die neue Überholhilfe. Wer weniger als eine Sekunde hinter dem Vordermann liegt, bekommt 0,5 MJ zusätzliche elektrische Energie und damit mehr Leistung als der Verteidiger." },
+    { "year": 2026, "title": "Boost", "tag": "Neu", "text": "Per Knopfdruck ruft der Fahrer die volle Leistung der Power Unit ab, zum Angreifen oder Verteidigen. Das leert allerdings die Batterie schneller." },
+    { "year": 2026, "title": "Power Unit ~50/50", "tag": "Neu", "text": "Verbrenner und Elektromotor liefern etwa gleich viel Leistung, die MGU-H fällt weg und die MGU-K leistet bis zu 350 kW. In der Praxis liegt die Aufteilung bei rund 53/47 zugunsten des Verbrenners. Energiemanagement ist entscheidend." },
+    { "year": 2026, "title": "100 % nachhaltiger Kraftstoff", "tag": "Neu", "text": "Alle Autos fahren mit vollständig nachhaltigem Benzin, synthetisch hergestellt oder aus echten Abfall- und Bio-Rohstoffen." },
+    { "year": 2026, "title": "Kleinere, leichtere Autos", "tag": "Neu", "text": "Kürzerer Radstand (max. 3400 mm), schmaleres Auto (1900 mm) und ein geringeres Mindestgewicht von 768 kg. Weniger Abtrieb, dafür agilere Autos." },
+    { "year": 2026, "title": "11 Teams, 22 Autos", "tag": "Neu", "text": "Cadillac kommt als elftes Team dazu, Audi übernimmt Sauber. Neue Motorenhersteller sind Audi und Red Bull Ford, Honda arbeitet jetzt mit Aston Martin." },
+    { "year": 2026, "title": "Kein Punkt für die schnellste Runde", "tag": "Gilt weiter", "text": "Seit 2025 gibt es keinen Extrapunkt mehr für die schnellste Rennrunde. Punkte erhalten die Top 10 (25-18-15-12-10-8-6-4-2-1), im Sprint die Top 8 (8 bis 1)." },
+    { "year": 2027, "title": "Mehr Verbrenner-Anteil", "tag": "Beschlossen", "text": "Die Leistungsaufteilung verschiebt sich auf 58/42 (2027) und 60/40 (2028). Dafür steigt die Verbrenner-Leistung von 400 auf 420 kW (2028: 450 kW), der Benzindurchfluss um 5 % (2028: 13 %).", "sources": [ { "name": "The Race", "url": "https://the-race.com/formula-1/f1-engine-rule-changes-2027-2028/" } ] },
+    { "year": 2027, "title": "Aero-Anpassungen", "tag": "Beschlossen", "text": "Änderungen an Unterbodenkante, Planke und Heckflügel sollen den Abtrieb begrenzen. Das schont die Reifen und hilft beim Energiemanagement. Williams-Teamchef Vowles nennt die Eingriffe recht deutlich.", "sources": [ { "name": "The Race", "url": "https://www.the-race.com/formula-1/significant-aero-rule-changes-for-f1-2027-explained/" } ] },
+    { "year": 2027, "title": "Sportliche Änderungen", "tag": "Beschlossen", "text": "Die Wintertests dauern vier statt drei Tage. Die Hitzewarnung (Heat Hazard) kann für Sprint und Grand Prix getrennt ausgesprochen werden.", "sources": [ { "name": "PlanetF1", "url": "https://www.planetf1.com/news/fia-statement-f1-commission-changes-2027-season" } ] }
+  ],
+  "records": [],
+  "penalties": {
+    "superlicence": [],
+    "grid": [
+      { "round": 17, "race": "Singapore Grand Prix", "driverId": "russell", "penalty": "Start von hinten", "reason": "Komplett neue Power Unit nach dem Motorschaden in Sepang", "sources": [ { "name": "Formula1.com", "url": "https://www.formula1.com/en/latest/article/russell-promises-all-out-attack-from-back-of-singapore-grid-amid-engine-penalty.1Owe717iaaEqDioJZqUyaJ" } ] },
+      { "round": 16, "race": "Bahrain Grand Prix in Malaysia", "driverId": "arvid_lindblad", "penalty": "30 Plätze", "reason": "Fünfter Verbrennungsmotor, fünfter Turbolader und fünfter Auspuff der Saison", "sources": [ { "name": "RaceFans", "url": "https://www.racefans.net/2026/10/02/hadjar-colapinto-and-lindblad-to-take-grid-penalties-in-malaysia/" } ] },
+      { "round": 16, "race": "Bahrain Grand Prix in Malaysia", "driverId": "colapinto", "penalty": "15 Plätze", "reason": "5 Plätze für die Kollision in Baku plus 10 Plätze für einen Verbrennungsmotor über dem Kontingent", "sources": [ { "name": "RaceFans", "url": "https://www.racefans.net/2026/10/02/hadjar-colapinto-and-lindblad-to-take-grid-penalties-in-malaysia/" } ] },
+      { "round": 16, "race": "Bahrain Grand Prix in Malaysia", "driverId": "hadjar", "penalty": "5 Plätze", "reason": "Siebter Verbrennungsmotor der Saison", "sources": [ { "name": "RaceFans", "url": "https://www.racefans.net/2026/10/02/hadjar-colapinto-and-lindblad-to-take-grid-penalties-in-malaysia/" } ] }
+    ],
+    "pu": {}
+  }
+}

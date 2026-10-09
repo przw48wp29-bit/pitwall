@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pitwall – Tests</title>
+<style>
+  :root { color-scheme: dark; --ok: #3ddc84; --bad: #ff4d4d; }
+  body { margin: 0; padding: 24px 16px; background: #15151e; color: #f2f2f2; font: 15px/1.5 system-ui, sans-serif; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  .sum { margin: 0 0 20px; color: #aaa; }
+  .sum b.ok { color: var(--ok); } .sum b.bad { color: var(--bad); }
+  h2 { font-size: 15px; text-transform: uppercase; letter-spacing: .06em; color: #aaa; margin: 22px 0 8px; }
+  .t { display: flex; gap: 10px; padding: 6px 0; border-bottom: 1px solid #2a2a35; }
+  .t .s { width: 18px; flex: none; font-weight: 700; }
+  .t.ok .s { color: var(--ok); } .t.bad .s { color: var(--bad); }
+  .t .e { color: var(--bad); font-size: 13px; }
+  .t .ms { margin-left: auto; color: #777; font-size: 12px; }
+</style>
+</head>
+<body>
+<h1>Pitwall – automatische Tests</h1>
+<p class="sum" id="sum">Tests laufen …</p>
+<div id="out"></div>
+<script type="module">
+  import { runAll } from './harness.js';
+  const out = document.getElementById('out');
+  let lastSuite = '';
+  const esc = s => String(s).replace(/[&<>]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
+  const { PGlite } = await import('https://cdn.jsdelivr.net/npm/@electric-sql/pglite@0.5.8/dist/index.js');
+  const ctx = { PGlite, readText: p => fetch('../' + p, { cache: 'no-store' }).then(r => r.text()) };
+  const mods = await Promise.all(['./rules.test.js', './news.test.js', './stats.test.js', './db.test.js', './scoring.test.js'].map(m => import(m)));
+  const results = await runAll(mods.map(m => m.default), ctx, r => {
+    if (r.suite !== lastSuite) { out.insertAdjacentHTML('beforeend', `<h2>${esc(r.suite)}</h2>`); lastSuite = r.suite; }
+    out.insertAdjacentHTML('beforeend', `<div class="t ${r.ok ? 'ok' : 'bad'}"><span class="s">${r.ok ? '✓' : '✗'}</span><div>${esc(r.title)}${r.error ? `<div class="e">${esc(r.error)}</div>` : ''}</div><span class="ms">${r.ms} ms</span></div>`);
+  });
+  const bad = results.filter(r => !r.ok).length;
+  document.getElementById('sum').innerHTML = `<b class="${bad ? 'bad' : 'ok'}">${results.length - bad} von ${results.length} bestanden</b>${bad ? ` · ${bad} fehlgeschlagen` : ''}`;
+  window.__results = results;
+</script>
+</body>
+</html>

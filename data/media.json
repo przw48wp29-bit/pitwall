@@ -1,0 +1,800 @@
+{
+    "drivers":  {
+                    "norris":  {
+                                   "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_%28cropped2%29.jpg/960px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_%28cropped2%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                   "large":  "https://upload.wikimedia.org/wikipedia/commons/9/90/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_%28cropped2%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                   "file":  "https://commons.wikimedia.org/wiki/File:2024-08-25_Motorsport,_Formel_1,_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3968_by_Stepro_(cropped2).jpg",
+                                   "credit":  "Original: Steffen Prößdorf; Derivative work: Mb2437",
+                                   "license":  "CC BY-SA 4.0",
+                                   "w":  1234,
+                                   "h":  1521,
+                                   "curated":  true
+                               },
+                    "colapinto":  {
+                                      "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Franco_Colapinto_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8698%29_cropped.jpg/960px-Franco_Colapinto_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8698%29_cropped.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Franco_Colapinto_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8698%29_cropped.jpg/1920px-Franco_Colapinto_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8698%29_cropped.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "file":  "https://commons.wikimedia.org/wiki/File:Franco_Colapinto_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_(028A8698)_cropped.jpg",
+                                      "credit":  "Yu Chu Chin",
+                                      "license":  "CC BY-SA 4.0",
+                                      "w":  2463,
+                                      "h":  3696,
+                                      "curated":  true
+                                  },
+                    "perez":  {
+                                  "src":  "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sergio_P%C3%A9rez_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                  "large":  "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sergio_P%C3%A9rez_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                  "file":  "https://commons.wikimedia.org/wiki/File:Sergio_P%C3%A9rez_2019_(cropped).jpg",
+                                  "credit":  "XaviYuahanda",
+                                  "license":  "CC BY-SA 4.0",
+                                  "w":  475,
+                                  "h":  634,
+                                  "curated":  true
+                              },
+                    "hamilton":  {
+                                     "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg/960px-Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                     "large":  "https://upload.wikimedia.org/wikipedia/commons/d/d3/Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_%2854566928382%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                     "file":  "https://commons.wikimedia.org/wiki/File:Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_(54566928382)_(cropped).jpg",
+                                     "credit":  "Picture by Lauren Hurley / No 10 Downing Street",
+                                     "license":  "OGL 3",
+                                     "w":  1430,
+                                     "h":  1907,
+                                     "curated":  true
+                                 },
+                    "albon":  {
+                                  "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Alex_Albon_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8626%29_%28cropped%29.jpg/960px-Alex_Albon_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8626%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                  "large":  "https://upload.wikimedia.org/wikipedia/commons/4/4a/Alex_Albon_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8626%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                  "file":  "https://commons.wikimedia.org/wiki/File:Alex_Albon_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_(028A8626)_(cropped).jpg",
+                                  "credit":  "Yu Chu Chin",
+                                  "license":  "CC BY-SA 4.0",
+                                  "w":  1492,
+                                  "h":  1990,
+                                  "curated":  true
+                              },
+                    "piastri":  {
+                                    "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/2026_Chinese_GP_-_Oscar_Piastri_%28cropped%29_%28cropped%29.jpg/960px-2026_Chinese_GP_-_Oscar_Piastri_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                    "large":  "https://upload.wikimedia.org/wikipedia/commons/e/e5/2026_Chinese_GP_-_Oscar_Piastri_%28cropped%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                    "file":  "https://commons.wikimedia.org/wiki/File:2026_Chinese_GP_-_Oscar_Piastri_(cropped)_(cropped).jpg",
+                                    "credit":  "Liauzh",
+                                    "license":  "CC BY 4.0",
+                                    "w":  1589,
+                                    "h":  2118,
+                                    "curated":  true
+                                },
+                    "bearman":  {
+                                    "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_%28cropped%29.jpg/960px-2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                    "large":  "https://upload.wikimedia.org/wikipedia/commons/9/9a/2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                    "file":  "https://commons.wikimedia.org/wiki/File:2025_Japan_GP_-_Haas_-_Oliver_Bearman_-_Thursday_(cropped).jpg",
+                                    "credit":  "Liauzh",
+                                    "license":  "CC BY-SA 4.0",
+                                    "w":  1428,
+                                    "h":  2218,
+                                    "curated":  true
+                                },
+                    "alonso":  {
+                                   "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Alonso-68_%2824710447098%29.jpg/960px-Alonso-68_%2824710447098%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                   "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Alonso-68_%2824710447098%29.jpg/1920px-Alonso-68_%2824710447098%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                   "file":  "https://commons.wikimedia.org/wiki/File:Alonso-68_(24710447098).jpg",
+                                   "credit":  "United Autosports",
+                                   "license":  "CC BY-SA 2.0",
+                                   "w":  3456,
+                                   "h":  5184,
+                                   "curated":  true
+                               },
+                    "tsunoda":  {
+                                    "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Yuki_Tsunoda_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8096%29.jpg/960px-Yuki_Tsunoda_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8096%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                    "large":  "https://upload.wikimedia.org/wikipedia/commons/a/a0/Yuki_Tsunoda_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8096%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                    "file":  "https://commons.wikimedia.org/wiki/File:Yuki_Tsunoda_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_(028A8096).jpg",
+                                    "credit":  "Yu Chu Chin",
+                                    "license":  "CC BY-SA 4.0",
+                                    "w":  1916,
+                                    "h":  2874,
+                                    "curated":  true
+                                },
+                    "sainz":  {
+                                  "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Carlos_Sainz_at_the_83rd_Venice_FILM_festival-9_%28cropped%29.jpg/960px-Carlos_Sainz_at_the_83rd_Venice_FILM_festival-9_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                  "large":  "https://upload.wikimedia.org/wikipedia/commons/0/01/Carlos_Sainz_at_the_83rd_Venice_FILM_festival-9_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                  "file":  "https://commons.wikimedia.org/wiki/File:Carlos_Sainz_at_the_83rd_Venice_FILM_festival-9_(cropped).jpg",
+                                  "credit":  "LucaFazPhoto",
+                                  "license":  "CC BY-SA 4.0",
+                                  "w":  1805,
+                                  "h":  2351,
+                                  "curated":  true
+                              },
+                    "stroll":  {
+                                   "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/2025_Japan_GP_-_Aston_Martin_-_Lance_Stroll_-_Fanzone_Stage_%28cropped%29.jpg/960px-2025_Japan_GP_-_Aston_Martin_-_Lance_Stroll_-_Fanzone_Stage_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                   "large":  "https://upload.wikimedia.org/wikipedia/commons/4/4e/2025_Japan_GP_-_Aston_Martin_-_Lance_Stroll_-_Fanzone_Stage_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                   "file":  "https://commons.wikimedia.org/wiki/File:2025_Japan_GP_-_Aston_Martin_-_Lance_Stroll_-_Fanzone_Stage_(cropped).jpg",
+                                   "credit":  "Liauzh",
+                                   "license":  "CC BY-SA 4.0",
+                                   "w":  1539,
+                                   "h":  1944,
+                                   "curated":  true
+                               },
+                    "gasly":  {
+                                  "src":  "https://upload.wikimedia.org/wikipedia/commons/3/3e/Pierre_Gasly_2017_Malaysia.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                  "large":  "https://upload.wikimedia.org/wikipedia/commons/3/3e/Pierre_Gasly_2017_Malaysia.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                  "file":  "https://commons.wikimedia.org/wiki/File:Pierre_Gasly_2017_Malaysia.jpg",
+                                  "credit":  "Morio",
+                                  "license":  "CC BY-SA 4.0",
+                                  "w":  800,
+                                  "h":  1067,
+                                  "curated":  true
+                              },
+                    "lawson":  {
+                                   "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Liam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7795%29.jpg/960px-Liam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7795%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                   "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Liam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7795%29.jpg/1920px-Liam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7795%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                   "file":  "https://commons.wikimedia.org/wiki/File:Liam_Lawson_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk,_Melbourne_(028A7795).jpg",
+                                   "credit":  "Yu Chu Chin",
+                                   "license":  "CC BY-SA 4.0",
+                                   "w":  3542,
+                                   "h":  5313,
+                                   "curated":  true
+                               },
+                    "arvid_lindblad":  {
+                                           "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Arvid_Lindblad_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7869%29_%28cropped%29.jpg/960px-Arvid_Lindblad_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7869%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                           "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Arvid_Lindblad_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7869%29_%28cropped%29.jpg/1920px-Arvid_Lindblad_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk%2C_Melbourne_%28028A7869%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                           "file":  "https://commons.wikimedia.org/wiki/File:Arvid_Lindblad_at_the_Red_Bull_Fan_Zone_%E2%80%93_Crown_Riverwalk,_Melbourne_(028A7869)_(cropped).jpg",
+                                           "credit":  "Yu Chu Chin",
+                                           "license":  "CC BY-SA 4.0",
+                                           "w":  3590,
+                                           "h":  5035,
+                                           "curated":  true
+                                       },
+                    "ocon":  {
+                                 "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Esteban_Ocon_2024_Suzuka_%28cropped%29.jpg/960px-Esteban_Ocon_2024_Suzuka_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                 "large":  "https://upload.wikimedia.org/wikipedia/commons/2/2e/Esteban_Ocon_2024_Suzuka_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                 "file":  "https://commons.wikimedia.org/wiki/File:Esteban_Ocon_2024_Suzuka_(cropped).jpg",
+                                 "credit":  "Rrtb505050",
+                                 "license":  "CC0",
+                                 "w":  1597,
+                                 "h":  1999,
+                                 "curated":  true
+                             },
+                    "antonelli":  {
+                                      "src":  "https://upload.wikimedia.org/wikipedia/commons/f/f3/Kimi_Antonelli_at_the_2025_US_Grand_Prix_in_Austin%2C_TX_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                      "large":  "https://upload.wikimedia.org/wikipedia/commons/f/f3/Kimi_Antonelli_at_the_2025_US_Grand_Prix_in_Austin%2C_TX_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                      "file":  "https://commons.wikimedia.org/wiki/File:Kimi_Antonelli_at_the_2025_US_Grand_Prix_in_Austin,_TX_(cropped).jpg",
+                                      "credit":  "Kuyper",
+                                      "license":  "CC BY-SA 4.0",
+                                      "w":  723,
+                                      "h":  1023,
+                                      "curated":  true
+                                  },
+                    "bortoleto":  {
+                                      "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Gabriel_Bortoleto_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8581%29_cropped.jpg/960px-Gabriel_Bortoleto_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8581%29_cropped.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "large":  "https://upload.wikimedia.org/wikipedia/commons/2/25/Gabriel_Bortoleto_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8581%29_cropped.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                      "file":  "https://commons.wikimedia.org/wiki/File:Gabriel_Bortoleto_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_(028A8581)_cropped.jpg",
+                                      "credit":  "Yu Chu Chin",
+                                      "license":  "CC BY-SA 4.0",
+                                      "w":  1899,
+                                      "h":  2849,
+                                      "curated":  true
+                                  },
+                    "max_verstappen":  {
+                                           "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg/960px-2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                           "large":  "https://upload.wikimedia.org/wikipedia/commons/5/52/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_%28medium_crop%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                           "file":  "https://commons.wikimedia.org/wiki/File:2024-08-25_Motorsport,_Formel_1,_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_(medium_crop).jpg",
+                                           "credit":  "Steffen Prößdorf",
+                                           "license":  "CC BY-SA 4.0",
+                                           "w":  1728,
+                                           "h":  2282,
+                                           "curated":  true
+                                       },
+                    "russell":  {
+                                    "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/KingsLeonSilverstne040724_%2828_of_112%29_%2853838006028%29_%28cropped%29.jpg/960px-KingsLeonSilverstne040724_%2828_of_112%29_%2853838006028%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                    "large":  "https://upload.wikimedia.org/wikipedia/commons/7/7f/KingsLeonSilverstne040724_%2828_of_112%29_%2853838006028%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                    "file":  "https://commons.wikimedia.org/wiki/File:KingsLeonSilverstne040724_(28_of_112)_(53838006028)_(cropped).jpg",
+                                    "credit":  "Raph_PH",
+                                    "license":  "CC BY 2.0",
+                                    "w":  1331,
+                                    "h":  1599,
+                                    "curated":  true
+                                },
+                    "hadjar":  {
+                                   "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Isack_Hadjar_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8753%29_%28cropped%29.jpg/960px-Isack_Hadjar_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8753%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                   "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Isack_Hadjar_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8753%29_%28cropped%29.jpg/1920px-Isack_Hadjar_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_%28028A8753%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                   "file":  "https://commons.wikimedia.org/wiki/File:Isack_Hadjar_at_the_Melbourne_Walk_during_the_2026_Australian_Grand_Prix_(028A8753)_(cropped).jpg",
+                                   "credit":  "Yu Chu Chin",
+                                   "license":  "CC BY-SA 4.0",
+                                   "w":  2533,
+                                   "h":  3419,
+                                   "curated":  true
+                               },
+                    "leclerc":  {
+                                    "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Charles_Leclerc_at_the_2026_Cannes_Film_Festival_%28cropped%29.jpg/960px-Charles_Leclerc_at_the_2026_Cannes_Film_Festival_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                    "large":  "https://upload.wikimedia.org/wikipedia/commons/d/d5/Charles_Leclerc_at_the_2026_Cannes_Film_Festival_%28cropped%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                    "file":  "https://commons.wikimedia.org/wiki/File:Charles_Leclerc_at_the_2026_Cannes_Film_Festival_(cropped).jpg",
+                                    "credit":  "Gabriel Hutchinson",
+                                    "license":  "CC BY-SA 4.0",
+                                    "w":  1504,
+                                    "h":  2007,
+                                    "curated":  true
+                                },
+                    "hulkenberg":  {
+                                       "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/2019_Formula_One_tests_Barcelona%2C_Hulkenberg_%2840287128313%29.jpg/960px-2019_Formula_One_tests_Barcelona%2C_Hulkenberg_%2840287128313%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                       "large":  "https://upload.wikimedia.org/wikipedia/commons/d/de/2019_Formula_One_tests_Barcelona%2C_Hulkenberg_%2840287128313%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                       "file":  "https://commons.wikimedia.org/wiki/File:2019_Formula_One_tests_Barcelona,_Hulkenberg_(40287128313).jpg",
+                                       "credit":  "Marc Alvarado",
+                                       "license":  "CC BY-SA 2.0",
+                                       "w":  1766,
+                                       "h":  2320,
+                                       "curated":  true
+                                   },
+                    "bottas":  {
+                                   "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Valtteri_Bottas_at_the_2026_Adelaide_Motorsport_Festival_%28028A7556%29.jpg/960px-Valtteri_Bottas_at_the_2026_Adelaide_Motorsport_Festival_%28028A7556%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                   "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Valtteri_Bottas_at_the_2026_Adelaide_Motorsport_Festival_%28028A7556%29.jpg/1920px-Valtteri_Bottas_at_the_2026_Adelaide_Motorsport_Festival_%28028A7556%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                   "file":  "https://commons.wikimedia.org/wiki/File:Valtteri_Bottas_at_the_2026_Adelaide_Motorsport_Festival_(028A7556).jpg",
+                                   "credit":  "Yu Chu Chin",
+                                   "license":  "CC BY-SA 4.0",
+                                   "w":  3865,
+                                   "h":  5797,
+                                   "curated":  true
+                               }
+                },
+    "driverCars":  {
+                       "gasly":  {
+                                     "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/FIA_F1_Austria_2026_Nr._10_Gasly_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._10_Gasly_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                     "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/FIA_F1_Austria_2026_Nr._10_Gasly_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._10_Gasly_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                     "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._10_Gasly_(1).jpg",
+                                     "credit":  "Lukas Raich",
+                                     "license":  "CC BY-SA 4.0",
+                                     "w":  5883,
+                                     "h":  2942,
+                                     "curated":  true
+                                 },
+                       "bearman":  {
+                                       "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/FIA_F1_Austria_2026_Nr._87_Bearman_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._87_Bearman_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                       "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/FIA_F1_Austria_2026_Nr._87_Bearman_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._87_Bearman_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                       "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._87_Bearman_(1).jpg",
+                                       "credit":  "Lukas Raich",
+                                       "license":  "CC BY-SA 4.0",
+                                       "w":  5763,
+                                       "h":  2882,
+                                       "curated":  true
+                                   },
+                       "bortoleto":  {
+                                         "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/FIA_F1_Austria_2026_Nr._5_Bortoleto_%283%29.jpg/960px-FIA_F1_Austria_2026_Nr._5_Bortoleto_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                         "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/FIA_F1_Austria_2026_Nr._5_Bortoleto_%283%29.jpg/1920px-FIA_F1_Austria_2026_Nr._5_Bortoleto_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                         "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._5_Bortoleto_(3).jpg",
+                                         "credit":  "Lukas Raich",
+                                         "license":  "CC BY-SA 4.0",
+                                         "w":  7061,
+                                         "h":  3531,
+                                         "curated":  true
+                                     },
+                       "leclerc":  {
+                                       "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/FIA_F1_Austria_2026_Nr._16_Leclerc_%283%29.jpg/960px-FIA_F1_Austria_2026_Nr._16_Leclerc_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                       "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/FIA_F1_Austria_2026_Nr._16_Leclerc_%283%29.jpg/1920px-FIA_F1_Austria_2026_Nr._16_Leclerc_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                       "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._16_Leclerc_(3).jpg",
+                                       "credit":  "Lukas Raich",
+                                       "license":  "CC BY-SA 4.0",
+                                       "w":  7097,
+                                       "h":  3548,
+                                       "curated":  true
+                                   },
+                       "antonelli":  {
+                                         "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/FIA_F1_Austria_2026_Nr._12_Antonelli_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._12_Antonelli_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                         "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/FIA_F1_Austria_2026_Nr._12_Antonelli_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._12_Antonelli_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                         "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._12_Antonelli_(1).jpg",
+                                         "credit":  "Lukas Raich",
+                                         "license":  "CC BY-SA 4.0",
+                                         "w":  5207,
+                                         "h":  2603,
+                                         "curated":  true
+                                     },
+                       "alonso":  {
+                                      "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/FIA_F1_Austria_2026_Nr._14_Alonso_%283%29.jpg/960px-FIA_F1_Austria_2026_Nr._14_Alonso_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/FIA_F1_Austria_2026_Nr._14_Alonso_%283%29.jpg/1920px-FIA_F1_Austria_2026_Nr._14_Alonso_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._14_Alonso_(3).jpg",
+                                      "credit":  "Lukas Raich",
+                                      "license":  "CC BY-SA 4.0",
+                                      "w":  6690,
+                                      "h":  3346,
+                                      "curated":  true
+                                  },
+                       "stroll":  {
+                                      "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/FIA_F1_Austria_2026_Nr._18_Stroll_%283%29.jpg/960px-FIA_F1_Austria_2026_Nr._18_Stroll_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/FIA_F1_Austria_2026_Nr._18_Stroll_%283%29.jpg/1920px-FIA_F1_Austria_2026_Nr._18_Stroll_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._18_Stroll_(3).jpg",
+                                      "credit":  "Lukas Raich",
+                                      "license":  "CC BY-SA 4.0",
+                                      "w":  6540,
+                                      "h":  3270,
+                                      "curated":  true
+                                  },
+                       "arvid_lindblad":  {
+                                              "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/FIA_F1_Austria_2026_Nr._41_Lindblad_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._41_Lindblad_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                              "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/FIA_F1_Austria_2026_Nr._41_Lindblad_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._41_Lindblad_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                              "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._41_Lindblad_(1).jpg",
+                                              "credit":  "Lukas Raich",
+                                              "license":  "CC BY-SA 4.0",
+                                              "w":  5197,
+                                              "h":  2598,
+                                              "curated":  true
+                                          },
+                       "bottas":  {
+                                      "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/FIA_F1_Austria_2026_Nr._77_Bottas_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._77_Bottas_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/FIA_F1_Austria_2026_Nr._77_Bottas_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._77_Bottas_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._77_Bottas_(1).jpg",
+                                      "credit":  "Lukas Raich",
+                                      "license":  "CC BY-SA 4.0",
+                                      "w":  5427,
+                                      "h":  2713,
+                                      "curated":  true
+                                  },
+                       "ocon":  {
+                                    "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/FIA_F1_Austria_2026_Nr._31_Ocon_%283%29.jpg/960px-FIA_F1_Austria_2026_Nr._31_Ocon_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                    "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/FIA_F1_Austria_2026_Nr._31_Ocon_%283%29.jpg/1920px-FIA_F1_Austria_2026_Nr._31_Ocon_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                    "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._31_Ocon_(3).jpg",
+                                    "credit":  "Lukas Raich",
+                                    "license":  "CC BY-SA 4.0",
+                                    "w":  7515,
+                                    "h":  3758,
+                                    "curated":  true
+                                },
+                       "albon":  {
+                                     "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/FIA_F1_Austria_2026_Nr._23_Albon_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._23_Albon_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                     "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/FIA_F1_Austria_2026_Nr._23_Albon_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._23_Albon_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                     "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._23_Albon_(1).jpg",
+                                     "credit":  "Lukas Raich",
+                                     "license":  "CC BY-SA 4.0",
+                                     "w":  5238,
+                                     "h":  2619,
+                                     "curated":  true
+                                 },
+                       "max_verstappen":  {
+                                              "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/FIA_F1_Austria_2026_Nr._3_Verstappen_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._3_Verstappen_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                              "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/FIA_F1_Austria_2026_Nr._3_Verstappen_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._3_Verstappen_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                              "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._3_Verstappen_(1).jpg",
+                                              "credit":  "Lukas Raich",
+                                              "license":  "CC BY-SA 4.0",
+                                              "w":  5215,
+                                              "h":  2608,
+                                              "curated":  true
+                                          },
+                       "russell":  {
+                                       "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/FIA_F1_Austria_2026_Nr._63_Russell_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._63_Russell_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                       "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/FIA_F1_Austria_2026_Nr._63_Russell_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._63_Russell_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                       "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._63_Russell_(1).jpg",
+                                       "credit":  "Lukas Raich",
+                                       "license":  "CC BY-SA 4.0",
+                                       "w":  5299,
+                                       "h":  2650,
+                                       "curated":  true
+                                   },
+                       "norris":  {
+                                      "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/FIA_F1_Austria_2026_Nr._1_Norris_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._1_Norris_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/FIA_F1_Austria_2026_Nr._1_Norris_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._1_Norris_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._1_Norris_(1).jpg",
+                                      "credit":  "Lukas Raich",
+                                      "license":  "CC BY-SA 4.0",
+                                      "w":  5037,
+                                      "h":  2519,
+                                      "curated":  true
+                                  },
+                       "piastri":  {
+                                       "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/FIA_F1_Austria_2026_Nr._81_Piastri_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._81_Piastri_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                       "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/FIA_F1_Austria_2026_Nr._81_Piastri_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._81_Piastri_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                       "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._81_Piastri_(1).jpg",
+                                       "credit":  "Lukas Raich",
+                                       "license":  "CC BY-SA 4.0",
+                                       "w":  4912,
+                                       "h":  2456,
+                                       "curated":  true
+                                   },
+                       "hadjar":  {
+                                      "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/FIA_F1_Austria_2026_Nr._6_Hadjar_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._6_Hadjar_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/FIA_F1_Austria_2026_Nr._6_Hadjar_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._6_Hadjar_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._6_Hadjar_(1).jpg",
+                                      "credit":  "Lukas Raich",
+                                      "license":  "CC BY-SA 4.0",
+                                      "w":  5383,
+                                      "h":  2692,
+                                      "curated":  true
+                                  },
+                       "hamilton":  {
+                                        "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/FIA_F1_Austria_2026_Nr._44_Hamilton_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._44_Hamilton_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                        "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/FIA_F1_Austria_2026_Nr._44_Hamilton_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._44_Hamilton_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                        "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._44_Hamilton_(1).jpg",
+                                        "credit":  "Lukas Raich",
+                                        "license":  "CC BY-SA 4.0",
+                                        "w":  5273,
+                                        "h":  2636,
+                                        "curated":  true
+                                    },
+                       "lawson":  {
+                                      "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/FIA_F1_Austria_2026_Nr._30_Lawson_%283%29.jpg/960px-FIA_F1_Austria_2026_Nr._30_Lawson_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/FIA_F1_Austria_2026_Nr._30_Lawson_%283%29.jpg/1920px-FIA_F1_Austria_2026_Nr._30_Lawson_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._30_Lawson_(3).jpg",
+                                      "credit":  "Lukas Raich",
+                                      "license":  "CC BY-SA 4.0",
+                                      "w":  6903,
+                                      "h":  3451,
+                                      "curated":  true
+                                  },
+                       "colapinto":  {
+                                         "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/FIA_F1_Austria_2026_Nr._43_Colapinto_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._43_Colapinto_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                         "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/FIA_F1_Austria_2026_Nr._43_Colapinto_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._43_Colapinto_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                         "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._43_Colapinto_(1).jpg",
+                                         "credit":  "Lukas Raich",
+                                         "license":  "CC BY-SA 4.0",
+                                         "w":  5333,
+                                         "h":  2667,
+                                         "curated":  true
+                                     },
+                       "hulkenberg":  {
+                                          "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/FIA_F1_Austria_2026_Nr._27_H%C3%BClkenberg_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._27_H%C3%BClkenberg_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                          "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/FIA_F1_Austria_2026_Nr._27_H%C3%BClkenberg_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._27_H%C3%BClkenberg_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                          "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._27_H%C3%BClkenberg_(1).jpg",
+                                          "credit":  "Lukas Raich",
+                                          "license":  "CC BY-SA 4.0",
+                                          "w":  5349,
+                                          "h":  2674,
+                                          "curated":  true
+                                      },
+                       "perez":  {
+                                     "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/FIA_F1_Austria_2026_Nr._11_Perez_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._11_Perez_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                     "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/FIA_F1_Austria_2026_Nr._11_Perez_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._11_Perez_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                     "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._11_Perez_(1).jpg",
+                                     "credit":  "Lukas Raich",
+                                     "license":  "CC BY-SA 4.0",
+                                     "w":  5047,
+                                     "h":  2524,
+                                     "curated":  true
+                                 },
+                       "sainz":  {
+                                     "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/FIA_F1_Austria_2026_Nr._55_Sainz_%283%29.jpg/960px-FIA_F1_Austria_2026_Nr._55_Sainz_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                     "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/FIA_F1_Austria_2026_Nr._55_Sainz_%283%29.jpg/1920px-FIA_F1_Austria_2026_Nr._55_Sainz_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                     "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._55_Sainz_(3).jpg",
+                                     "credit":  "Lukas Raich",
+                                     "license":  "CC BY-SA 4.0",
+                                     "w":  6862,
+                                     "h":  3431,
+                                     "curated":  true
+                                 }
+                   },
+    "cars":  {
+                 "mercedes":  {
+                                  "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/FIA_F1_Austria_2026_Nr._63_Russell_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._63_Russell_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                  "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/FIA_F1_Austria_2026_Nr._63_Russell_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._63_Russell_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                  "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._63_Russell_(1).jpg",
+                                  "credit":  "Lukas Raich",
+                                  "license":  "CC BY-SA 4.0",
+                                  "w":  5299,
+                                  "h":  2650,
+                                  "curated":  true
+                              },
+                 "ferrari":  {
+                                 "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/FIA_F1_Austria_2026_Nr._16_Leclerc_%283%29.jpg/960px-FIA_F1_Austria_2026_Nr._16_Leclerc_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                 "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/FIA_F1_Austria_2026_Nr._16_Leclerc_%283%29.jpg/1920px-FIA_F1_Austria_2026_Nr._16_Leclerc_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                 "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._16_Leclerc_(3).jpg",
+                                 "credit":  "Lukas Raich",
+                                 "license":  "CC BY-SA 4.0",
+                                 "w":  7097,
+                                 "h":  3548,
+                                 "curated":  true
+                             },
+                 "mclaren":  {
+                                 "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/FIA_F1_Austria_2026_Nr._1_Norris_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._1_Norris_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                 "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/FIA_F1_Austria_2026_Nr._1_Norris_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._1_Norris_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                 "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._1_Norris_(1).jpg",
+                                 "credit":  "Lukas Raich",
+                                 "license":  "CC BY-SA 4.0",
+                                 "w":  5037,
+                                 "h":  2519,
+                                 "curated":  true
+                             },
+                 "red_bull":  {
+                                  "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/FIA_F1_Austria_2026_Nr._3_Verstappen_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._3_Verstappen_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                  "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/FIA_F1_Austria_2026_Nr._3_Verstappen_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._3_Verstappen_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                  "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._3_Verstappen_(1).jpg",
+                                  "credit":  "Lukas Raich",
+                                  "license":  "CC BY-SA 4.0",
+                                  "w":  5215,
+                                  "h":  2608,
+                                  "curated":  true
+                              },
+                 "rb":  {
+                            "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/FIA_F1_Austria_2026_Nr._30_Lawson_%283%29.jpg/960px-FIA_F1_Austria_2026_Nr._30_Lawson_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                            "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/FIA_F1_Austria_2026_Nr._30_Lawson_%283%29.jpg/1920px-FIA_F1_Austria_2026_Nr._30_Lawson_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                            "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._30_Lawson_(3).jpg",
+                            "credit":  "Lukas Raich",
+                            "license":  "CC BY-SA 4.0",
+                            "w":  6903,
+                            "h":  3451,
+                            "curated":  true
+                        },
+                 "alpine":  {
+                                "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/FIA_F1_Austria_2026_Nr._43_Colapinto_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._43_Colapinto_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/FIA_F1_Austria_2026_Nr._43_Colapinto_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._43_Colapinto_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._43_Colapinto_(1).jpg",
+                                "credit":  "Lukas Raich",
+                                "license":  "CC BY-SA 4.0",
+                                "w":  5333,
+                                "h":  2667,
+                                "curated":  true
+                            },
+                 "aston_martin":  {
+                                      "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/FIA_F1_Austria_2026_Nr._14_Alonso_%283%29.jpg/960px-FIA_F1_Austria_2026_Nr._14_Alonso_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/FIA_F1_Austria_2026_Nr._14_Alonso_%283%29.jpg/1920px-FIA_F1_Austria_2026_Nr._14_Alonso_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._14_Alonso_(3).jpg",
+                                      "credit":  "Lukas Raich",
+                                      "license":  "CC BY-SA 4.0",
+                                      "w":  6690,
+                                      "h":  3346,
+                                      "curated":  true
+                                  },
+                 "williams":  {
+                                  "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/FIA_F1_Austria_2026_Nr._55_Sainz_%283%29.jpg/960px-FIA_F1_Austria_2026_Nr._55_Sainz_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                  "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/FIA_F1_Austria_2026_Nr._55_Sainz_%283%29.jpg/1920px-FIA_F1_Austria_2026_Nr._55_Sainz_%283%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                  "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._55_Sainz_(3).jpg",
+                                  "credit":  "Lukas Raich",
+                                  "license":  "CC BY-SA 4.0",
+                                  "w":  6862,
+                                  "h":  3431,
+                                  "curated":  true
+                              },
+                 "haas":  {
+                              "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/FIA_F1_Austria_2026_Nr._87_Bearman_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._87_Bearman_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                              "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/FIA_F1_Austria_2026_Nr._87_Bearman_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._87_Bearman_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                              "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._87_Bearman_(1).jpg",
+                              "credit":  "Lukas Raich",
+                              "license":  "CC BY-SA 4.0",
+                              "w":  5763,
+                              "h":  2882,
+                              "curated":  true
+                          },
+                 "audi":  {
+                              "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/FIA_F1_Austria_2026_Nr._27_H%C3%BClkenberg_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._27_H%C3%BClkenberg_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                              "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/FIA_F1_Austria_2026_Nr._27_H%C3%BClkenberg_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._27_H%C3%BClkenberg_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                              "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._27_H%C3%BClkenberg_(1).jpg",
+                              "credit":  "Lukas Raich",
+                              "license":  "CC BY-SA 4.0",
+                              "w":  5349,
+                              "h":  2674,
+                              "curated":  true
+                          },
+                 "cadillac":  {
+                                  "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/FIA_F1_Austria_2026_Nr._11_Perez_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._11_Perez_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                  "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/FIA_F1_Austria_2026_Nr._11_Perez_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._11_Perez_%281%29.jpg?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                  "file":  "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._11_Perez_(1).jpg",
+                                  "credit":  "Lukas Raich",
+                                  "license":  "CC BY-SA 4.0",
+                                  "w":  5047,
+                                  "h":  2524,
+                                  "curated":  true
+                              }
+             },
+    "circuits":  {
+                     "interlagos":  {
+                                        "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace_%28AKA_Interlagos%29_track_map.svg/960px-Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace_%28AKA_Interlagos%29_track_map.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                        "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace_%28AKA_Interlagos%29_track_map.svg/1920px-Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace_%28AKA_Interlagos%29_track_map.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                        "file":  "https://commons.wikimedia.org/wiki/File:Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace_(AKA_Interlagos)_track_map.svg",
+                                        "credit":  "Will Pittenger",
+                                        "license":  "CC BY-SA 3.0",
+                                        "w":  1435,
+                                        "h":  940,
+                                        "curated":  true
+                                    },
+                     "americas":  {
+                                      "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Austin_circuit.svg/960px-Austin_circuit.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Austin_circuit.svg/1920px-Austin_circuit.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "file":  "https://commons.wikimedia.org/wiki/File:Austin_circuit.svg",
+                                      "credit":  "Gustavo GirardelliOwn work This W3C-unspecified vector image was created with Inkscape .",
+                                      "license":  "CC BY-SA 2.0",
+                                      "w":  2300,
+                                      "h":  2300,
+                                      "curated":  true
+                                  },
+                     "rodriguez":  {
+                                       "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez_2015.svg/960px-Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez_2015.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                       "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez_2015.svg/1920px-Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez_2015.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                       "file":  "https://commons.wikimedia.org/wiki/File:Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez_2015.svg",
+                                       "credit":  "Pitlane02",
+                                       "license":  "CC BY-SA 3.0",
+                                       "w":  512,
+                                       "h":  404,
+                                       "curated":  true
+                                   },
+                     "catalunya":  {
+                                       "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Circuit_de_Catalunya_moto_2021.svg/960px-Circuit_de_Catalunya_moto_2021.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                       "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Circuit_de_Catalunya_moto_2021.svg/1920px-Circuit_de_Catalunya_moto_2021.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                       "file":  "https://commons.wikimedia.org/wiki/File:Circuit_de_Catalunya_moto_2021.svg",
+                                       "credit":  "Formula1 Circuit Catalunya.svg: Will Pittenger derivative work: HorsePunchKid, Cs-wolves, Sentoan, Gpmat",
+                                       "license":  "CC BY-SA 3.0",
+                                       "w":  1409,
+                                       "h":  518,
+                                       "curated":  true
+                                   },
+                     "marina_bay":  {
+                                        "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Marina_Bay_circuit_2023.svg/960px-Marina_Bay_circuit_2023.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                        "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Marina_Bay_circuit_2023.svg/1920px-Marina_Bay_circuit_2023.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                        "file":  "https://commons.wikimedia.org/wiki/File:Marina_Bay_circuit_2023.svg",
+                                        "credit":  "Cherkash",
+                                        "license":  "CC BY-SA 4.0",
+                                        "w":  948,
+                                        "h":  620,
+                                        "curated":  true
+                                    },
+                     "silverstone":  {
+                                         "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Silverstone_Circuit_2020.png/960px-Silverstone_Circuit_2020.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                         "large":  "https://upload.wikimedia.org/wikipedia/commons/b/bd/Silverstone_Circuit_2020.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail_unscaled",
+                                         "file":  "https://commons.wikimedia.org/wiki/File:Silverstone_Circuit_2020.png",
+                                         "credit":  "Antoine266",
+                                         "license":  "CC BY-SA 4.0",
+                                         "w":  1665,
+                                         "h":  1200,
+                                         "curated":  true
+                                     },
+                     "sepang":  {
+                                    "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Circuit_Sepang.svg/960px-Circuit_Sepang.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                    "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Circuit_Sepang.svg/1920px-Circuit_Sepang.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                    "file":  "https://commons.wikimedia.org/wiki/File:Circuit_Sepang.svg",
+                                    "credit":  "Rumbin",
+                                    "license":  "Public domain",
+                                    "w":  767,
+                                    "h":  800,
+                                    "curated":  true
+                                },
+                     "madring":  {
+                                     "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Madring_%282026%29.svg/960px-Madring_%282026%29.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                     "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Madring_%282026%29.svg/1920px-Madring_%282026%29.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                     "file":  "https://commons.wikimedia.org/wiki/File:Madring_(2026).svg",
+                                     "credit":  "GabrielStella, Cherkash",
+                                     "license":  "CC BY-SA 3.0",
+                                     "w":  755,
+                                     "h":  507,
+                                     "curated":  true
+                                 },
+                     "shanghai":  {
+                                      "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Shanghai_International_Racing_Circuit_track_map.svg/960px-Shanghai_International_Racing_Circuit_track_map.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Shanghai_International_Racing_Circuit_track_map.svg/1920px-Shanghai_International_Racing_Circuit_track_map.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                      "file":  "https://commons.wikimedia.org/wiki/File:Shanghai_International_Racing_Circuit_track_map.svg",
+                                      "credit":  "Will Pittenger",
+                                      "license":  "CC BY-SA 3.0",
+                                      "w":  1207,
+                                      "h":  765,
+                                      "curated":  true
+                                  },
+                     "villeneuve":  {
+                                        "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/%C3%8Ele_Notre-Dame_%28Circuit_Gilles_Villeneuve%29.svg/960px-%C3%8Ele_Notre-Dame_%28Circuit_Gilles_Villeneuve%29.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                        "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/%C3%8Ele_Notre-Dame_%28Circuit_Gilles_Villeneuve%29.svg/1920px-%C3%8Ele_Notre-Dame_%28Circuit_Gilles_Villeneuve%29.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                        "file":  "https://commons.wikimedia.org/wiki/File:%C3%8Ele_Notre-Dame_(Circuit_Gilles_Villeneuve).svg",
+                                        "credit":  "Will Pittenger",
+                                        "license":  "CC BY-SA 3.0",
+                                        "w":  1430,
+                                        "h":  973,
+                                        "curated":  true
+                                    },
+                     "vegas":  {
+                                   "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2023_Las_Vegas_street_circuit.svg/960px-2023_Las_Vegas_street_circuit.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                   "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/2023_Las_Vegas_street_circuit.svg/1920px-2023_Las_Vegas_street_circuit.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                   "file":  "https://commons.wikimedia.org/wiki/File:2023_Las_Vegas_street_circuit.svg",
+                                   "credit":  "Valentin JJ.",
+                                   "license":  "CC BY-SA 4.0",
+                                   "w":  1206,
+                                   "h":  819,
+                                   "curated":  true
+                               },
+                     "baku":  {
+                                  "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Baku_Formula_One_circuit_map.svg/960px-Baku_Formula_One_circuit_map.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                  "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Baku_Formula_One_circuit_map.svg/1920px-Baku_Formula_One_circuit_map.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                  "file":  "https://commons.wikimedia.org/wiki/File:Baku_Formula_One_circuit_map.svg",
+                                  "credit":  "HumanBodyPiloter5",
+                                  "license":  "CC0",
+                                  "w":  2437,
+                                  "h":  1806,
+                                  "curated":  true
+                              },
+                     "monza":  {
+                                   "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Monza_track_map.svg/960px-Monza_track_map.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                   "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Monza_track_map.svg/1920px-Monza_track_map.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                   "file":  "https://commons.wikimedia.org/wiki/File:Monza_track_map.svg",
+                                   "credit":  "Will Pittenger",
+                                   "license":  "CC BY-SA 3.0",
+                                   "w":  1467,
+                                   "h":  749,
+                                   "curated":  true
+                               },
+                     "hungaroring":  {
+                                         "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Hungaroring2026.svg/960px-Hungaroring2026.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                         "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Hungaroring2026.svg/1920px-Hungaroring2026.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                         "file":  "https://commons.wikimedia.org/wiki/File:Hungaroring2026.svg",
+                                         "credit":  "PhilipTheLeftist",
+                                         "license":  "CC0",
+                                         "w":  848,
+                                         "h":  893,
+                                         "curated":  true
+                                     },
+                     "monaco":  {
+                                    "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Monte_Carlo_Formula_1_track_map.svg/960px-Monte_Carlo_Formula_1_track_map.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                    "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Monte_Carlo_Formula_1_track_map.svg/1920px-Monte_Carlo_Formula_1_track_map.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                    "file":  "https://commons.wikimedia.org/wiki/File:Monte_Carlo_Formula_1_track_map.svg",
+                                    "credit":  "Will Pittenger",
+                                    "license":  "CC BY-SA 3.0",
+                                    "w":  1466,
+                                    "h":  1025,
+                                    "curated":  true
+                                },
+                     "albert_park":  {
+                                         "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Albert_Park_Circuit_2021.svg/960px-Albert_Park_Circuit_2021.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                         "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Albert_Park_Circuit_2021.svg/1920px-Albert_Park_Circuit_2021.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                         "file":  "https://commons.wikimedia.org/wiki/File:Albert_Park_Circuit_2021.svg",
+                                         "credit":  "AEPA Racing",
+                                         "license":  "CC BY-SA 4.0",
+                                         "w":  1519,
+                                         "h":  1049,
+                                         "curated":  true
+                                     },
+                     "suzuka":  {
+                                    "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Suzuka_circuit_map--2005.svg/960px-Suzuka_circuit_map--2005.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                    "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Suzuka_circuit_map--2005.svg/1920px-Suzuka_circuit_map--2005.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                    "file":  "https://commons.wikimedia.org/wiki/File:Suzuka_circuit_map--2005.svg",
+                                    "credit":  "Will Pittenger",
+                                    "license":  "CC BY-SA 3.0",
+                                    "w":  1273,
+                                    "h":  983,
+                                    "curated":  true
+                                },
+                     "losail":  {
+                                    "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Lusail_International_Circuit_2023.svg/960px-Lusail_International_Circuit_2023.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                    "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Lusail_International_Circuit_2023.svg/1920px-Lusail_International_Circuit_2023.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                    "file":  "https://commons.wikimedia.org/wiki/File:Lusail_International_Circuit_2023.svg",
+                                    "credit":  "Losail.svg: Will Pittenger derivative work: Gpmat",
+                                    "license":  "CC BY-SA 3.0",
+                                    "w":  1201,
+                                    "h":  893,
+                                    "curated":  true
+                                },
+                     "spa":  {
+                                 "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Spa-Francorchamps_of_Belgium.svg/960px-Spa-Francorchamps_of_Belgium.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                 "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Spa-Francorchamps_of_Belgium.svg/1920px-Spa-Francorchamps_of_Belgium.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                 "file":  "https://commons.wikimedia.org/wiki/File:Spa-Francorchamps_of_Belgium.svg",
+                                 "credit":  "Will Pittenger",
+                                 "license":  "CC BY-SA 3.0",
+                                 "w":  1416,
+                                 "h":  875,
+                                 "curated":  true
+                             },
+                     "zandvoort":  {
+                                       "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Zandvoort_Circuit.png/960px-Zandvoort_Circuit.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                       "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Zandvoort_Circuit.png/1920px-Zandvoort_Circuit.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                       "file":  "https://commons.wikimedia.org/wiki/File:Zandvoort_Circuit.png",
+                                       "credit":  "Anthony Alessio Tralongo",
+                                       "license":  "CC BY-SA 4.0",
+                                       "w":  18989,
+                                       "h":  17338,
+                                       "curated":  true
+                                   },
+                     "yas_marina":  {
+                                        "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Yas_Marina_Circuit.png/960px-Yas_Marina_Circuit.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                        "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Yas_Marina_Circuit.png/1920px-Yas_Marina_Circuit.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                        "file":  "https://commons.wikimedia.org/wiki/File:Yas_Marina_Circuit.png",
+                                        "credit":  "Anthony Alessio Tralongo",
+                                        "license":  "CC BY-SA 4.0",
+                                        "w":  13348,
+                                        "h":  7367,
+                                        "curated":  true
+                                    },
+                     "red_bull_ring":  {
+                                           "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Spielberg_bare_map_numbers_contextless_2016_onwards.svg/960px-Spielberg_bare_map_numbers_contextless_2016_onwards.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                           "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Spielberg_bare_map_numbers_contextless_2016_onwards.svg/1920px-Spielberg_bare_map_numbers_contextless_2016_onwards.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                           "file":  "https://commons.wikimedia.org/wiki/File:Spielberg_bare_map_numbers_contextless_2016_onwards.svg",
+                                           "credit":  "I, User:HumanBodyPiloter5, created this SVG map as a derivative work based on the satellite image of the Spielberg circuit released by w:en:Planet Labs under CC-BY-SA 4.0 in 2018",
+                                           "license":  "CC BY-SA 4.0",
+                                           "w":  2419,
+                                           "h":  1956,
+                                           "curated":  true
+                                       },
+                     "miami":  {
+                                   "src":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Formula1_Circuit_Miami_Hard_Rock_Stadium.svg/960px-Formula1_Circuit_Miami_Hard_Rock_Stadium.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                   "large":  "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Formula1_Circuit_Miami_Hard_Rock_Stadium.svg/1920px-Formula1_Circuit_Miami_Hard_Rock_Stadium.svg.png?utm_source=commons.wikimedia.org\u0026utm_campaign=imageinfo\u0026utm_content=thumbnail",
+                                   "file":  "https://commons.wikimedia.org/wiki/File:Formula1_Circuit_Miami_Hard_Rock_Stadium.svg",
+                                   "credit":  "Dh16dh",
+                                   "license":  "CC BY-SA 4.0",
+                                   "w":  512,
+                                   "h":  218,
+                                   "curated":  true
+                               }
+                 }
+}
