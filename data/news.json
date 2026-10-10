@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10T18:36:07.527Z",
+ "updatedAt": "2026-10-10T20:31:41.242Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,53 @@
   }
  },
  "items": [
+  {
+   "title": "Our Singapore Grand Prix Bet Builder picks made",
+   "summary": "We have picked a three-leg Bet Builder for Sunday’s Grand Prix, including podium and top-six finish selections.",
+   "url": "https://www.formula1.com/en/latest/article/singapore-grand-prix-bet-builder-selections-made-after-max-verstappen-beats-ferrari-to-pole-position.7JDShVUIY4ZvWf1bqelhxm",
+   "date": "2026-10-10T20:31:41.227Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T20:31:41.227Z"
+  },
+  {
+   "title": "What are the tyre strategy options for the Singapore GP?",
+   "summary": "Matt Youson takes a look at the different pit stop and tyre options that are available to the teams on race day at the Marina Bay Street Circuit.",
+   "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-singapore-gp.5jWKmehs0PU7rZJfM7hesc",
+   "date": "2026-10-10T20:30:41.227Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T20:31:41.227Z"
+  },
+  {
+   "title": "Schuldig, aber ohne Strafe: Kuriose FIA-Urteile nach Singapur-Sprint",
+   "summary": "Sergio Perez wurde nach einer Kollision schuldig gesprochen, bleibt aber straffrei - Auch Lindblad, Albon und Bottas kamen nach FIA-Urteilen ohne Strafe davon",
+   "url": "https://www.formel1.de/nc/149323",
+   "date": "2026-10-10T19:59:08.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "perez",
+    "arvid_lindblad",
+    "albon",
+    "bottas"
+   ],
+   "teams": [],
+   "team": "cadillac",
+   "category": "Regeln",
+   "firstSeen": "2026-10-10T20:31:41.227Z"
+  },
   {
    "title": "Why F1 fans should keep emotions out of Singapore GP",
    "summary": "Safer gambling is important, so we’ve flagged some key areas to avoid letting your emotions run wild during Sunday's race at Marina Bay.",
@@ -141,7 +188,7 @@
    "firstSeen": "2026-10-10T18:36:07.501Z"
   },
   {
-   "title": "\"Nicht akzeptabel\": McLaren-Teamchef Stella sucht Gespräch mit Fahrern",
+   "title": "McLaren-Kollision in Singapur: \"Nicht akzeptabel\" für Teamchef Stella",
    "summary": "Nach der Kollision zwischen Oscar Piastri und Lando Norris im Sprint von Singapur zeigt sich McLaren-Teamchef Andrea Stella keineswegs begeistert",
    "url": "https://www.formel1.de/nc/149320",
    "date": "2026-10-10T17:50:37.000Z",
@@ -984,64 +1031,6 @@
    ],
    "team": "ferrari",
    "category": "Rennen",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Wolff gibt nach Sprint-Quali zu: Neuer Mercedes \"schwieriger zu fahren\"",
-   "summary": "George Russell schlägt im \"alten\" Mercedes Kimi Antonelli in der Update-Version im Sprint-Qualifying in Singapur deutlich - Das Upgrade droht ein Flop zu werden",
-   "url": "https://www.formel1.de/nc/149299",
-   "date": "2026-10-09T15:08:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell",
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Technik",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Sprint-Quali Singapur: Verstappen auf Pole, Enttäuschung für Antonelli!",
-   "summary": "Max Verstappen hat sich die Sprintpole in Singapur gesichert, während George Russell mit dem alten Mercedes-Paket deutlich schneller war als Kimi Antonelli",
-   "url": "https://www.formel1.de/nc/149298",
-   "date": "2026-10-09T14:28:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "antonelli",
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Toto Wolff platzt der Kragen: \"Wer das glaubt, ist hirnlos!\"",
-   "summary": "Toto Wolff weist Vorwürfe einer Antonelli-Bevorzugung scharf zurück: Trotz Rückstand soll George Russell bei Mercedes weiterhin gleiche Chancen erhalten",
-   "url": "https://www.formel1.de/nc/149297",
-   "date": "2026-10-09T13:36:12.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
    "firstSeen": "2026-10-09T19:55:05.085Z"
   }
  ]
