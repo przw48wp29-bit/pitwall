@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-09T22:33:12.618Z",
+ "updatedAt": "2026-10-10T04:34:18.289Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Williams verklagt Garagenbesitzer: Wo ist dieser Formel-1-Bolide?",
+   "summary": "Ein historischer Williams verschwindet spurlos - Jetzt fordert das Formel-1-Team von einem Garagenbesitzer mehr als eine Million Pfund",
+   "url": "https://www.formel1.de/nc/149308",
+   "date": "2026-10-10T04:30:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "News",
+   "firstSeen": "2026-10-10T04:34:18.159Z"
+  },
   {
    "title": "Who will go fastest in Singapore Grand Prix Qualifying?",
    "summary": "Our expert betting writers share their top picks for Qualifying at Marina Bay.",
