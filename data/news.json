@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10T08:32:59.381Z",
+ "updatedAt": "2026-10-10T10:31:45.148Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,41 @@
   }
  },
  "items": [
+  {
+   "title": "LIVE COVERAGE: Verstappen wins dramatic Singapore Sprint",
+   "summary": "Live coverage of the F1 Sprint at the 2026 Singapore Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-f1-sprint-in-singapore-2026.5TXFKG7uP5goYHSqUotcmZ",
+   "date": "2026-10-10T10:31:45.125Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T10:31:45.125Z"
+  },
+  {
+   "title": "Wilder Singapur-Sprint: Russell-Crash, McLaren-Kollision & 13 Autos im Ziel",
+   "summary": "Max Verstappen siegt in einem wilden Singapur-Sprint, bei dem George Russell crasht, beide McLaren miteinander kollidieren und nur 13 Autos das Ziel sehen",
+   "url": "https://www.formel1.de/nc/149312",
+   "date": "2026-10-10T10:23:26.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell",
+    "max_verstappen"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T10:31:45.125Z"
+  },
   {
    "title": "Why Wolff is backing Mercedes’ split-spec strategy",
    "summary": "Toto Wolff has explained the thinking behind Mercedes’ choice to give each of their drivers a different specification of the W17 in Singapore.",
