@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10T06:39:20.736Z",
+ "updatedAt": "2026-10-10T08:32:59.381Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,38 @@
   }
  },
  "items": [
+  {
+   "title": "Why Wolff is backing Mercedes’ split-spec strategy",
+   "summary": "Toto Wolff has explained the thinking behind Mercedes’ choice to give each of their drivers a different specification of the W17 in Singapore.",
+   "url": "https://www.formula1.com/en/latest/article/wolff-concedes-upgraded-mercedes-is-a-little-more-tricky-to-drive-as-he-backs-split-spec-strategy.3tWxlbHKJMR3Aqg87zVDwz",
+   "date": "2026-10-10T08:32:59.265Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-10T08:32:59.265Z"
+  },
+  {
+   "title": "James Vowles: Darum müssen wir die Budgetregeln dringend ändern!",
+   "summary": "Williams-Teamchef James Vowles sieht grosse Probleme für kleine Teams durch die aktuellen Budgetregeln: Er erklärt, warum sich einiges ändern muss",
+   "url": "https://www.formel1.de/nc/149311",
+   "date": "2026-10-10T07:11:28.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "News",
+   "firstSeen": "2026-10-10T08:32:59.265Z"
+  },
   {
    "title": "Von Alain Prost gelernt: Warum Toto Wolff auf Chancengleichheit besteht",
    "summary": "Toto Wolff will in seinem Team keinen Fahrer bevorzugen und geht dabei offen mit den Fahrern um: Diese Lektion hat er von Alain Prost mitgenommen",
