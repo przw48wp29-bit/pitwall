@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10T16:31:59.216Z",
+ "updatedAt": "2026-10-10T18:36:07.527Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,210 @@
   }
  },
  "items": [
+  {
+   "title": "Why F1 fans should keep emotions out of Singapore GP",
+   "summary": "Safer gambling is important, so we’ve flagged some key areas to avoid letting your emotions run wild during Sunday's race at Marina Bay.",
+   "url": "https://www.formula1.com/en/latest/article/why-f1-fans-should-keep-emotions-out-of-their-bets-during-the-singapore-grand-prix.6A2tjupHGD063ttuHg3OLM",
+   "date": "2026-10-10T18:36:07.501Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T18:36:07.501Z"
+  },
+  {
+   "title": "'It is serious' – Stella addresses Norris and Piastri's clash",
+   "summary": "McLaren Team Principal Andrea Stella has shared his reaction to the collision that occurred between Lando Norris and Oscar Piastri on the final lap of the Singapore Sprint.",
+   "url": "https://www.formula1.com/en/latest/article/it-is-serious-stella-disappointed-by-norris-and-piastris-clash-in-singapore-sprint.7hW2cxQgohHZfu4wgvtfRQ",
+   "date": "2026-10-10T18:35:07.501Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris",
+    "piastri"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T18:36:07.501Z"
+  },
+  {
+   "title": "What To Watch For in the Singapore Grand Prix",
+   "summary": "Chris Medland picks out five key things to keep an eye on when the lights go out on race day at the Marina Bay Street Circuit.",
+   "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-singapore-grand-prix.3sJXqpx3NdOWrrjnXZ7h0d",
+   "date": "2026-10-10T18:34:07.501Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T18:36:07.501Z"
+  },
+  {
+   "title": "What the teams said – Sprint day and Qualifying in Singapore",
+   "summary": "The drivers and teams report back on all the action from the Sprint and Qualifying at the Marina Bay Street Circuit, ahead of the 2026 Singapore Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-sprint-day-and-qualifying-in-singapore-2026.5FELDvSCjmTcjvCtfedWaU",
+   "date": "2026-10-10T18:33:07.501Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T18:36:07.501Z"
+  },
+  {
+   "title": "The F1 drivers Verstappen joins with 50 poles or more",
+   "summary": "After securing his 50th F1 pole position at the Singapore Grand Prix, Max Verstappen has joined an exclusive group of drivers who have achieved this feat.",
+   "url": "https://www.formula1.com/en/latest/article/the-f1-drivers-with-50-pole-positions-or-more-as-verstappen-joins-the-club.7yYHrMHRlBIX609WQwlJ8g",
+   "date": "2026-10-10T18:32:07.501Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T18:36:07.501Z"
+  },
+  {
+   "title": "Nichts läuft bei Isack Hadjar: Red Bull entschuldigt sich",
+   "summary": "Auch am Samstag vor dem Grand Prix von Singapur hatte Isack Hadjar in seinem Red Bull mit technischen Problemen zu kämpfen",
+   "url": "https://www.formel1.de/nc/149322",
+   "date": "2026-10-10T18:31:43.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hadjar"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T18:36:07.501Z"
+  },
+  {
+   "title": "Russell trying to understand why Mercedes 'didn't feel the same'",
+   "summary": "George Russell believes that his Mercedes in Qualifying for the Singapore Grand Prix \"didn't feel the same\" following his crash in Saturday's earlier Sprint.",
+   "url": "https://www.formula1.com/en/latest/article/didnt-feel-the-same-russell-trying-to-understand-lack-of-pace-in-singapore-gp-qualifying.1sLY17kQLqTBgyoTRUQOHo",
+   "date": "2026-10-10T18:31:07.501Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "russell"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T18:36:07.501Z"
+  },
+  {
+   "title": "Toto Wolff: \"Max Verstappen ist jetzt eindeutig dominierend\"",
+   "summary": "Toto Wolff sieht Verstappen aktuell klar vorn, doch der Singapur Streckencharakter könnte das Kräfteverhältnis verzerren und Mercedes' Situation relativieren",
+   "url": "https://www.formel1.de/nc/149321",
+   "date": "2026-10-10T18:23:43.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-10T18:36:07.501Z"
+  },
+  {
+   "title": "\"Nicht akzeptabel\": McLaren-Teamchef Stella sucht Gespräch mit Fahrern",
+   "summary": "Nach der Kollision zwischen Oscar Piastri und Lando Norris im Sprint von Singapur zeigt sich McLaren-Teamchef Andrea Stella keineswegs begeistert",
+   "url": "https://www.formel1.de/nc/149320",
+   "date": "2026-10-10T17:50:37.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "piastri",
+    "norris"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T18:36:07.501Z"
+  },
+  {
+   "title": "Mercedes schöpft neue Hoffnung: Neues Paket hat \"einigermassen funktioniert\"",
+   "summary": "Kimi Antonelli konnte mit dem neuen Paket im Qualifying von Singapur vor Teamkollege George Russell landen: Der erste richtige Schritt für Mercedes?",
+   "url": "https://www.formel1.de/nc/149319",
+   "date": "2026-10-10T17:26:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli",
+    "russell"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T18:36:07.501Z"
+  },
+  {
+   "title": "Ferrari verschenkt Singapur-Pole: Hamilton bereut Set-Up-Änderung für Q3",
+   "summary": "Ferrari verpasst in Singapur die Pole nur knapp: Hamilton schiebt die Balance mit einer Set-up-Änderung über das Limit, Leclerc macht Fehler",
+   "url": "https://www.formel1.de/nc/149318",
+   "date": "2026-10-10T16:47:30.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T18:36:07.501Z"
+  },
+  {
+   "title": "Nico Hülkenberg wieder Elfter, aber: Droht Ärger von den Kommissaren?",
+   "summary": "Nico Hülkenberg muss sich nach dem Qualifying noch vor den Kommissaren verantworten - Top-10-Einzug wieder einmal um eine Position verfehlt",
+   "url": "https://www.formel1.de/nc/149317",
+   "date": "2026-10-10T16:36:10.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hulkenberg"
+   ],
+   "teams": [],
+   "team": "audi",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T18:36:07.501Z"
+  },
   {
    "title": "Hadjar ‘really p****d’ to miss out on Singapore Qualifying",
    "summary": "Isack Hadjar qualified in last place at the Marina Bay Circuit after a gearbox fault prevented him from completing a timed lap.",
@@ -838,202 +1042,6 @@
    ],
    "team": "mercedes",
    "category": "News",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Wann Racing Bulls seine Fahrerentscheidung trifft - und wie",
-   "summary": "Racing Bulls hat für 2027 drei Kandidaten, aber nur zwei Cockpits: Teamchef Alan Permane erklärt, worauf es bei der schwierigen Fahrerentscheidung ankommt",
-   "url": "https://www.formel1.de/nc/149296",
-   "date": "2026-10-09T11:33:55.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "rb"
-   ],
-   "team": "rb",
-   "category": "News",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "\"Das sollte verboten werden\": Formel-1-Stars streiten über Kühlwesten",
-   "summary": "Kühlwesten sollen Formel-1-Fahrer vor extremer Hitze schützen, doch Verstappen und Hadjar wollen sie am liebsten abschaffen - Andere Piloten sehen das ganz anders",
-   "url": "https://www.formel1.de/nc/149295",
-   "date": "2026-10-09T11:25:44.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "hadjar"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Training Singapur: Mercedes-Bestzeit, Funkprobleme bei Verstappen",
-   "summary": "Beim einzigen Freien Training in Singapur holte sich George Russell die Bestzeit, während Max Verstappen mit Funkproblemen lange in der Garage blieb",
-   "url": "https://www.formel1.de/nc/149293",
-   "date": "2026-10-09T10:24:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Günther Steiner erklärt: Das ist das grosse Ferrari-Problem",
-   "summary": "Günther Steiner kritisiert Ferraris Umgang mit Fehlern und erklärt am Beispiel der Reifenstrategie in Malaysia, was McLaren seiner Meinung nach besser macht",
-   "url": "https://www.formel1.de/nc/149294",
-   "date": "2026-10-09T10:21:19.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "ferrari",
-    "mclaren"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Formel-1-Reifen 2026: Welche Mischungen bei welchem Grand Prix?",
-   "summary": "Hier erfahren, welche Reifenmischungen Formel-1-Lieferant Pirelli bei den einzelnen Grands Prix der Saison 2026 zur Verfügung stellt und was anders ist als 2025",
-   "url": "https://www.formel1.de/nc/146922",
-   "date": "2026-10-09T08:46:17.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Formel 1 bei RTL und Sky: Ab 2027 könnte sich für Zuschauer einiges ändern",
-   "summary": "Was wird aus Heiko Wasser, Sascha Roos und Ralf Schumacher? RTL und Sky planen Änderungen bei ihren Formel-1-Übertragungen ab der Saison 2027",
-   "url": "https://www.formel1.de/nc/149292",
-   "date": "2026-10-09T08:19:03.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Business",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
-   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
-   "url": "https://www.formel1.de/nc/146408",
-   "date": "2026-10-09T07:56:13.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Transfer",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Fernando Alonso gegen weitere Nachtrennen: Lieber Mittag zuhause!",
-   "summary": "Während sich Lewis Hamilton weitere Nachtrennen in der Formel 1 wünscht und vorstellen könnte, will Fernando Alonso lieber zuhause Mittag essen",
-   "url": "https://www.formel1.de/nc/149291",
-   "date": "2026-10-09T07:46:54.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "alonso",
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "aston_martin",
-   "category": "News",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Lewis Hamilton: Junge Fahrer sind heute im Regen vorsichtiger",
-   "summary": "Während ältere Fahrer gerne im Regen fahren würden, glaubt Lewis Hamilton, dass die Jüngeren vorsichtiger sind und die Rennleitung dadurch beeinflussen würden",
-   "url": "https://www.formel1.de/nc/149289",
-   "date": "2026-10-09T06:13:42.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Ist Isack Hadjar durch seine Verletzungspause besser geworden?",
-   "summary": "Platz drei in Baku, Platz fünf in Sepang: Isack Hadjar überzeugt nach seinem Comeback - Hat ihn die Verletzungspause zu einem besseren Fahrer gemacht?",
-   "url": "https://www.formel1.de/nc/149288",
-   "date": "2026-10-09T04:23:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hadjar"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Oscar Piastri: Red Bull in der Formel 1 wieder zum \"Mass der Dinge\" geworden",
-   "summary": "McLaren-Pilot Oscar Piastri ist überzeugt: Nach dem Sieg von Max Verstappen in Malaysia ist Red Bull für die Saison 2026 wieder zum \"Mass der Dinge\" geworden",
-   "url": "https://www.formel1.de/nc/149287",
-   "date": "2026-10-08T19:33:17.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "piastri",
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull",
-    "mclaren"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Finanzbericht: Red Bull zahlte Horner mehr als 118 Millionen Euro Abfindung",
-   "summary": "Christian Horner hat nach seinem Aus bei Red Bull eine Abfindung in Höhe von mehr als 118 Millionen Euro kassiert, wobei 39 Millionen Euro vom Formel-1-Team kamen",
-   "url": "https://www.formel1.de/nc/149286",
-   "date": "2026-10-08T18:51:45.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Business",
    "firstSeen": "2026-10-09T19:55:05.085Z"
   }
  ]
