@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10T04:34:18.289Z",
+ "updatedAt": "2026-10-10T06:39:20.736Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,20 @@
   }
  },
  "items": [
+  {
+   "title": "Von Alain Prost gelernt: Warum Toto Wolff auf Chancengleichheit besteht",
+   "summary": "Toto Wolff will in seinem Team keinen Fahrer bevorzugen und geht dabei offen mit den Fahrern um: Diese Lektion hat er von Alain Prost mitgenommen",
+   "url": "https://www.formel1.de/nc/149310",
+   "date": "2026-10-10T06:18:02.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-10T06:39:20.713Z"
+  },
   {
    "title": "Williams verklagt Garagenbesitzer: Wo ist dieser Formel-1-Bolide?",
    "summary": "Ein historischer Williams verschwindet spurlos - Jetzt fordert das Formel-1-Team von einem Garagenbesitzer mehr als eine Million Pfund",
