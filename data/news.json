@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10T12:38:22.097Z",
+ "updatedAt": "2026-10-10T14:31:32.594Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,77 @@
   }
  },
  "items": [
+  {
+   "title": "Stewards decision on McLaren Singapore Sprint clash revealed",
+   "summary": "Lando Norris and Oscar Piastri have both escaped punishment after the McLaren team mates collided on the final lap of the Singapore Grand Prix Sprint.",
+   "url": "https://www.formula1.com/en/latest/article/stewards-reach-verdict-after-mclaren-intra-team-collision-in-singapore-gp-sprint.2LEoxWh3e7IEg674uCdLQ5",
+   "date": "2026-10-10T14:31:32.577Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris",
+    "piastri"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Regeln",
+   "firstSeen": "2026-10-10T14:31:32.577Z"
+  },
+  {
+   "title": "Perez and Stroll reflect on Singapore Sprint clash",
+   "summary": "Cadillac's Sergio Perez and Aston Martin's Lance Stroll both suffered an early exit from the Sprint at the Singapore Grand Prix, with the pair colliding less than one lap into the event.",
+   "url": "https://www.formula1.com/en/latest/article/perez-and-stroll-react-to-singapore-sprint-clash-as-outcome-of-stewards-investigation-announced.7ezizVQPLUUVJw3UX70ZK0",
+   "date": "2026-10-10T14:30:32.577Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "perez",
+    "stroll"
+   ],
+   "teams": [
+    "aston_martin",
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T14:31:32.577Z"
+  },
+  {
+   "title": "LIVE COVERAGE: Battle for pole position in Singapore",
+   "summary": "Live coverage of the Formula 1 Qualifying session for the 2026 Singapore Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-singapore-2026.17cYORHG0DLsHyQxOhzimh",
+   "date": "2026-10-10T14:29:32.577Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T14:31:32.577Z"
+  },
+  {
+   "title": "Ralf Schumacher rechnet mit Russell ab: \"Fast ein Anfängerfehler\"",
+   "summary": "Ralf Schumacher kritisiert George Russell nach dessen Sprint-Crash in Singapur scharf - Der Mercedes-Pilot erklärt, wie es zum Unfall kam",
+   "url": "https://www.formel1.de/nc/149315",
+   "date": "2026-10-10T13:26:09.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T14:31:32.577Z"
+  },
   {
    "title": "Hamilton delighted with ‘mega start’ in Singapore Sprint",
    "summary": "Lewis Hamilton improved from P6 to P3 on the opening lap of the Sprint in Singapore, which became P2 following George Russell’s early retirement.",
@@ -105,7 +176,7 @@
    "title": "Norris und Piastri: So reagieren die Fahrer auf den McLaren-Crash",
    "summary": "McLaren verliert beim Singapur-Sprint Punkte durch eine Kollision: Norris verteidigt sich, Piastri bleibt gelassen - Ralf Schumacher kritisiert das Team",
    "url": "https://www.formel1.de/nc/149314",
-   "date": "2026-10-10T11:59:04.000Z",
+   "date": "2026-10-10T11:59:00.000Z",
    "source": "Formel1.de",
    "sourceId": "formel1de",
    "lang": "de",
