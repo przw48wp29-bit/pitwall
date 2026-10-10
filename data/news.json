@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10T14:31:32.594Z",
+ "updatedAt": "2026-10-10T16:31:59.216Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,155 @@
   }
  },
  "items": [
+  {
+   "title": "Hadjar ‘really p****d’ to miss out on Singapore Qualifying",
+   "summary": "Isack Hadjar qualified in last place at the Marina Bay Circuit after a gearbox fault prevented him from completing a timed lap.",
+   "url": "https://www.formula1.com/en/latest/article/hadjar-really-p-d-to-miss-out-on-singapore-qualifying-as-reliability-woes-continue.4kqEILdQ3b5m391JE11XXy",
+   "date": "2026-10-10T16:31:59.201Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hadjar"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Technik",
+   "firstSeen": "2026-10-10T16:31:59.201Z"
+  },
+  {
+   "title": "Antonelli now ‘seeing the potential’ in Mercedes’ upgrades",
+   "summary": "Kimi Antonelli declared that he and Mercedes are now “starting to see the potential” in the upgrades they recently introduced, after enjoying a “better day” around Singapore’s Marina Bay Street Circuit.",
+   "url": "https://www.formula1.com/en/latest/article/antonelli-now-seeing-the-potential-in-mercedes-upgrades-after-better-day-in-singapore.1BdEq0Y4u9ZIr3eSyJWhes",
+   "date": "2026-10-10T16:30:59.201Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Technik",
+   "firstSeen": "2026-10-10T16:31:59.201Z"
+  },
+  {
+   "title": "Leclerc reveals ‘misjudgement’ that cost him Singapore pole",
+   "summary": "Charles Leclerc believed that there was more potential in his Ferrari after he narrowly missed out on pole position for the Singapore Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/i-had-a-lot-of-struggles-leclerc-reveals-misjudgement-that-cost-him-singapore-pole.10ZX0dKhEvCzFcqEfu3M0m",
+   "date": "2026-10-10T16:29:59.201Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T16:31:59.201Z"
+  },
+  {
+   "title": "'We are where we should be' – Norris on Singapore Qualifying",
+   "summary": "Lando Norris believes that fifth on the grid for the Singapore Grand Prix is \"where we should be\", as McLaren continue to struggle to match the pace of the leading runners this weekend.",
+   "url": "https://www.formula1.com/en/latest/article/we-are-where-we-should-be-norris-and-piastri-reflect-on-mclarens-singapore-gp-qualifying.4c0lo9EiE9BYYL5iqIHNim",
+   "date": "2026-10-10T16:28:59.201Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T16:31:59.201Z"
+  },
+  {
+   "title": "Verstappen boosted by ‘very special’ pole for Singapore GP",
+   "summary": "Max Verstappen was suitably delighted after securing pole position for the Singapore Grand Prix, declaring that “this is the one I wanted” as he chases a maiden triumph at the event.",
+   "url": "https://www.formula1.com/en/latest/article/this-is-the-one-i-wanted-verstappen-boosted-by-very-special-pole-for-singapore-grand-prix.4GlVhEjfx7X640aHrg3A4z",
+   "date": "2026-10-10T16:27:59.201Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T16:31:59.201Z"
+  },
+  {
+   "title": "Verstappen beats Leclerc to pole position for Singapore GP",
+   "summary": "Max Verstappen denied Charles Leclerc pole position at Singapore's Marina Bay Circuit.",
+   "url": "https://www.formula1.com/en/latest/article/verstappen-beats-leclerc-to-pole-position-for-the-singapore-gp.7yum1V3S9aSTyj3Zzzs0Y9",
+   "date": "2026-10-10T16:26:59.201Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen",
+    "leclerc"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T16:31:59.201Z"
+  },
+  {
+   "title": "Formel-1-Motorenstrafen 2026: Die Übersicht",
+   "summary": "Die verwendeten Motorenteile während der Saison 2026 in der Übersicht: Wann welchem Formel-1-Fahrer eine Strafe droht",
+   "url": "https://www.formel1.de/nc/146406",
+   "date": "2026-10-10T15:33:08.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-10-09T19:55:05.085Z"
+  },
+  {
+   "title": "Die Qualifying-, Sprint- und Rennduelle der Formel-1-Saison 2026",
+   "summary": "Der aktuelle Zwischenstand bei den Qualifying- und Rennduellen der Teamkollegen in der Formel-1-Saison 2026",
+   "url": "https://www.formel1.de/nc/146557",
+   "date": "2026-10-10T15:26:55.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-09T19:55:05.085Z"
+  },
+  {
+   "title": "Qualifying: Max Verstappen mit erster \"echter\" Singapur-Pole",
+   "summary": "Max Verstappen holte sich zum ersten Mal eine Poleposition für den Singapur-Grand-Prix vor den beiden Ferraris von Charles Leclerc und Lewis Hamilton",
+   "url": "https://www.formel1.de/nc/149316",
+   "date": "2026-10-10T14:38:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "leclerc",
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T16:31:59.201Z"
+  },
   {
    "title": "Stewards decision on McLaren Singapore Sprint clash revealed",
    "summary": "Lando Norris and Oscar Piastri have both escaped punishment after the McLaren team mates collided on the final lap of the Singapore Grand Prix Sprint.",
@@ -49,16 +198,18 @@
    "firstSeen": "2026-10-10T14:31:32.577Z"
   },
   {
-   "title": "LIVE COVERAGE: Battle for pole position in Singapore",
+   "title": "AS IT HAPPENED: Verstappen secures Singapore GP pole",
    "summary": "Live coverage of the Formula 1 Qualifying session for the 2026 Singapore Grand Prix.",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-singapore-2026.17cYORHG0DLsHyQxOhzimh",
    "date": "2026-10-10T14:29:32.577Z",
    "source": "Formula1.com",
    "sourceId": "f1com",
    "lang": "en",
-   "drivers": [],
+   "drivers": [
+    "max_verstappen"
+   ],
    "teams": [],
-   "team": null,
+   "team": "red_bull",
    "category": "Rennen",
    "firstSeen": "2026-10-10T14:31:32.577Z"
   },
@@ -651,20 +802,6 @@
    "firstSeen": "2026-10-09T19:55:05.085Z"
   },
   {
-   "title": "Die Qualifying-, Sprint- und Rennduelle der Formel-1-Saison 2026",
-   "summary": "Der aktuelle Zwischenstand bei den Qualifying- und Rennduellen der Teamkollegen in der Formel-1-Saison 2026",
-   "url": "https://www.formel1.de/nc/146557",
-   "date": "2026-10-09T14:53:24.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
    "title": "Sprint-Quali Singapur: Verstappen auf Pole, Enttäuschung für Antonelli!",
    "summary": "Max Verstappen hat sich die Sprintpole in Singapur gesichert, während George Russell mit dem alten Mercedes-Paket deutlich schneller war als Kimi Antonelli",
    "url": "https://www.formel1.de/nc/149298",
@@ -701,20 +838,6 @@
    ],
    "team": "mercedes",
    "category": "News",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Formel-1-Motorenstrafen 2026: Die Übersicht",
-   "summary": "Die verwendeten Motorenteile während der Saison 2026 in der Übersicht: Wann welchem Formel-1-Fahrer eine Strafe droht",
-   "url": "https://www.formel1.de/nc/146406",
-   "date": "2026-10-09T12:25:39.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
    "firstSeen": "2026-10-09T19:55:05.085Z"
   },
   {
