@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10T10:31:45.148Z",
+ "updatedAt": "2026-10-10T12:38:22.097Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,26 +10,135 @@
  },
  "items": [
   {
-   "title": "LIVE COVERAGE: Verstappen wins dramatic Singapore Sprint",
-   "summary": "Live coverage of the F1 Sprint at the 2026 Singapore Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-f1-sprint-in-singapore-2026.5TXFKG7uP5goYHSqUotcmZ",
-   "date": "2026-10-10T10:31:45.125Z",
+   "title": "Hamilton delighted with ‘mega start’ in Singapore Sprint",
+   "summary": "Lewis Hamilton improved from P6 to P3 on the opening lap of the Sprint in Singapore, which became P2 following George Russell’s early retirement.",
+   "url": "https://www.formula1.com/en/latest/article/this-is-a-great-day-hamilton-delighted-with-mega-start-that-earned-him-p2-in-singapore-sprint.2wLysf0JmbM1YLtPwOauab",
+   "date": "2026-10-10T12:38:22.071Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton",
+    "russell"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T12:38:22.071Z"
+  },
+  {
+   "title": "Verstappen admits concern over ‘horrendous’ Sprint start",
+   "summary": "Red Bull's Max Verstappen overcame a difficult start and challenging conditions to take victory in the Sprint at the Singapore Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/verstappen-reacts-to-first-singapore-sprint-win-as-he-admits-concern-over-horrendous-start.5Os9a1WXb1b5d0LJteX9QX",
+   "date": "2026-10-10T12:37:22.071Z",
    "source": "Formula1.com",
    "sourceId": "f1com",
    "lang": "en",
    "drivers": [
     "max_verstappen"
    ],
-   "teams": [],
+   "teams": [
+    "red_bull"
+   ],
    "team": "red_bull",
    "category": "Rennen",
-   "firstSeen": "2026-10-10T10:31:45.125Z"
+   "firstSeen": "2026-10-10T12:38:22.071Z"
+  },
+  {
+   "title": "McLaren drivers give verdicts on their Singapore Sprint collision",
+   "summary": "McLaren drivers Lando Norris and Oscar Piastri have given their perspectives on the collision between the pair during the Singapore Grand Prix Sprint.",
+   "url": "https://www.formula1.com/en/latest/article/norris-and-piastri-offer-verdicts-on-mclaren-intra-team-collision-in-singapore-gp-sprint.1aNdfxcp4bRsnOwUXTg7rd",
+   "date": "2026-10-10T12:36:22.071Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris",
+    "piastri"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T12:38:22.071Z"
+  },
+  {
+   "title": "Russell reacts to ‘silly’ crash in Singapore Sprint",
+   "summary": "After snatching the lead of the Sprint from Red Bull’s Max Verstappen, George Russell crashed out of the event at the Marina Bay Circuit.",
+   "url": "https://www.formula1.com/en/latest/article/i-just-misjudged-it-russell-reacts-to-silly-crash-in-singapore-sprint.15D0NGraWZQesM5BkeBJp3",
+   "date": "2026-10-10T12:35:22.071Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "russell",
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T12:38:22.071Z"
+  },
+  {
+   "title": "Verstappen wins Sprint as Russell crashes and McLarens collide",
+   "summary": "Max Verstappen followed up his victory at the Bahrain Grand Prix in Malaysia by winning Saturday’s Sprint race around the streets of Singapore – mastering the mixed weather conditions while George Russell crashed out early on and the McLaren drivers clashed in the closing stages.",
+   "url": "https://www.formula1.com/en/latest/article/verstappen-wins-dramatic-rain-hit-singapore-sprint-as-russell-crashes-and-mclarens-collide.4r90mH2skljBa5sinFAsyp",
+   "date": "2026-10-10T12:34:22.071Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen",
+    "russell"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T12:38:22.071Z"
+  },
+  {
+   "title": "Norris und Piastri: So reagieren die Fahrer auf den McLaren-Crash",
+   "summary": "McLaren verliert beim Singapur-Sprint Punkte durch eine Kollision: Norris verteidigt sich, Piastri bleibt gelassen - Ralf Schumacher kritisiert das Team",
+   "url": "https://www.formel1.de/nc/149314",
+   "date": "2026-10-10T11:59:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris",
+    "piastri"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T12:38:22.071Z"
+  },
+  {
+   "title": "Neue Startzeit: Formel-1-Qualifying in Singapur verschoben!",
+   "summary": "Die Verzögerung im Formel-1-Sprint hat Auswirkungen für das Qualifying, das eine halbe Stunde später um 15:30 Uhr deutscher Zeit beginnen wird",
+   "url": "https://www.formel1.de/nc/149313",
+   "date": "2026-10-10T11:48:18.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T12:38:22.071Z"
   },
   {
    "title": "Wilder Singapur-Sprint: Russell-Crash, McLaren-Kollision & 13 Autos im Ziel",
    "summary": "Max Verstappen siegt in einem wilden Singapur-Sprint, bei dem George Russell crasht, beide McLaren miteinander kollidieren und nur 13 Autos das Ziel sehen",
    "url": "https://www.formel1.de/nc/149312",
-   "date": "2026-10-10T10:23:26.000Z",
+   "date": "2026-10-10T10:43:00.000Z",
    "source": "Formel1.de",
    "sourceId": "formel1de",
    "lang": "de",
@@ -41,6 +150,22 @@
     "mclaren"
    ],
    "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-10T10:31:45.125Z"
+  },
+  {
+   "title": "AS IT HAPPENED: Verstappen wins dramatic Singapore Sprint",
+   "summary": "Live coverage of the F1 Sprint at the 2026 Singapore Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-f1-sprint-in-singapore-2026.5TXFKG7uP5goYHSqUotcmZ",
+   "date": "2026-10-10T10:31:45.125Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
    "category": "Rennen",
    "firstSeen": "2026-10-10T10:31:45.125Z"
   },
