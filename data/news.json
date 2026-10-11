@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11T10:32:38.103Z",
+ "updatedAt": "2026-10-11T12:39:39.527Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,37 @@
   }
  },
  "items": [
+  {
+   "title": "OFFICIAL GRID: Who starts where for the Singapore Grand Prix",
+   "summary": "The full official starting order for Sunday's 2026 Singapore Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-for-the-2026-singapore-grand-prix.4JVD7MzJPal9kXzVlrEXXo",
+   "date": "2026-10-11T12:39:39.508Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T12:39:39.508Z"
+  },
+  {
+   "title": "LIVE COVERAGE: Verstappen leads Leclerc in Singapore GP",
+   "summary": "Live coverage of the Formula 1 Singapore Airlines Singapore Grand Prix 2026.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-singapore-airlines-singapore-grand-prix-2026.64UBFhKsSsN0V9RoD8JQqx",
+   "date": "2026-10-11T12:38:39.508Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen",
+    "leclerc"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T12:39:39.508Z"
+  },
   {
    "title": "F1-Eklat um Überholmodus: FIA gibt Fehler zu, Sainz ist fassungslos",
    "summary": "Die FIA räumt einen Fehler beim Sprint-Qualifying in Singapur ein: Trotz ungleicher Bedingungen blieb das Ergebnis bestehen - Sainz übt Kritik",
@@ -982,42 +1013,6 @@
     "mclaren"
    ],
    "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Ferrari 'not fast enough' in Sprint Qualifying – Leclerc",
-   "summary": "Charles Leclerc believes Ferrari were \"just not fast enough to fight\" for pole position in Sprint Qualifying ahead of the Singapore Grand Prix this weekend.",
-   "url": "https://www.formula1.com/en/latest/article/just-not-fast-enough-to-fight-leclerc-reflects-on-ferraris-singapore-gp-sprint-qualifying.21EtqZ7mRhjgCybXJkEs5Y",
-   "date": "2026-10-09T19:47:05.085Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Antonelli struggling with ‘very difficult’ new-spec car",
-   "summary": "After Mercedes' decision to split car specifications for the Singapore Grand Prix weekend, Kimi Antonelli admitted that the newer version had proven tricky to drive after his P7 in Sprint Qualifying.",
-   "url": "https://www.formula1.com/en/latest/article/antonelli-struggling-with-very-difficult-new-spec-mercedes-after-p7-in-singapore-sprint-qualifying.PuBAg4FVi18iuQaMRyBgS",
-   "date": "2026-10-09T19:46:05.085Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
    "category": "Rennen",
    "firstSeen": "2026-10-09T19:55:05.085Z"
   }
