@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-10T20:31:41.242Z",
+ "updatedAt": "2026-10-11T06:40:03.830Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,74 @@
   }
  },
  "items": [
+  {
+   "title": "Racing Bulls to make driver decision 'in the coming weeks'",
+   "summary": "Team Principal Alan Permane confirmed that Racing Bulls are yet to decide which drivers will represent them in 2027.",
+   "url": "https://www.formula1.com/en/latest/article/permane-states-racing-bulls-will-select-their-2027-driver-line-up-in-the-coming-weeks.39Cso2HINAEU5KViOulOZb",
+   "date": "2026-10-11T06:40:03.802Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "News",
+   "firstSeen": "2026-10-11T06:40:03.802Z"
+  },
+  {
+   "title": "Norris vs. Piastri: Warum der Singapur-Vorfall für McLaren so \"ernst\" ist",
+   "summary": "Andrea Stella ist über die Kollision zwischen Lando Norris und Oscar Piastri im Singapur-Sprint alles andere als glücklich und erklärt die Gründe dafür",
+   "url": "https://www.formel1.de/nc/149325",
+   "date": "2026-10-11T06:30:43.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris",
+    "piastri"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T06:40:03.802Z"
+  },
+  {
+   "title": "Widersprüchliche Daten: Warum Hülkenberg ohne Strafe davonkommt!",
+   "summary": "Nico Hülkenberg musste sich nach dem Qualifying noch vor den Kommissaren verantworten - Top-10-Einzug wieder einmal um eine Position verfehlt",
+   "url": "https://www.formel1.de/nc/149317",
+   "date": "2026-10-11T05:57:28.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hulkenberg"
+   ],
+   "teams": [],
+   "team": "audi",
+   "category": "Regeln",
+   "firstSeen": "2026-10-10T18:36:07.501Z"
+  },
+  {
+   "title": "\"Besserer Job\" oder mehr Leistung? So kam Verstappens Polerunde zustande",
+   "summary": "Zwischen Max Verstappen und Charles Leclerc wurde es im Qualifying von Singapur eng: So ist er Vergleich der beiden schnellsten Runden",
+   "url": "https://www.formel1.de/nc/149324",
+   "date": "2026-10-11T05:32:35.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "leclerc"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T06:40:03.802Z"
+  },
   {
    "title": "Our Singapore Grand Prix Bet Builder picks made",
    "summary": "We have picked a three-leg Bet Builder for Sunday’s Grand Prix, including podium and top-six finish selections.",
@@ -241,22 +309,6 @@
     "ferrari"
    ],
    "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T18:36:07.501Z"
-  },
-  {
-   "title": "Nico Hülkenberg wieder Elfter, aber: Droht Ärger von den Kommissaren?",
-   "summary": "Nico Hülkenberg muss sich nach dem Qualifying noch vor den Kommissaren verantworten - Top-10-Einzug wieder einmal um eine Position verfehlt",
-   "url": "https://www.formel1.de/nc/149317",
-   "date": "2026-10-10T16:36:10.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hulkenberg"
-   ],
-   "teams": [],
-   "team": "audi",
    "category": "Rennen",
    "firstSeen": "2026-10-10T18:36:07.501Z"
   },
@@ -976,61 +1028,6 @@
    ],
    "team": "red_bull",
    "category": "Regeln",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Nächster FIA-Ärger: Aston Martin erwägt Protest gegen Singapur-Sprint-Qualifying",
-   "summary": "Nach einer erneuten FIA-Panne in Singapur erwägt Aston Martin Protest: Williams-Antrag gegen Overtake-Modus abgelehnt, Zeitnahmesystem schlägt fehl",
-   "url": "https://www.formel1.de/nc/149302",
-   "date": "2026-10-09T15:58:24.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "aston_martin",
-    "williams"
-   ],
-   "team": "aston_martin",
-   "category": "Regeln",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Rätselraten bei Red Bull: Hadjar nach Qualifying-Debakel ratlos",
-   "summary": "Trotz starkem Trainingsauftakt weit hinter Verstappen - Gestrichene Runde und Motorprobleme besiegeln enttäuschenden neunten Startplatz",
-   "url": "https://www.formel1.de/nc/149301",
-   "date": "2026-10-09T15:47:40.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hadjar",
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Ferrari fehlt die Pace: Leclerc erkennt einen Trend, Hamilton rätselt",
-   "summary": "Ferrari kommt im Sprint-Qualifying von Singapur nicht an die Spitze heran: Leclerc spricht über fehlende Pace, Hamilton über überraschende Probleme",
-   "url": "https://www.formel1.de/nc/149300",
-   "date": "2026-10-09T15:25:31.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc",
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
    "firstSeen": "2026-10-09T19:55:05.085Z"
   }
  ]
