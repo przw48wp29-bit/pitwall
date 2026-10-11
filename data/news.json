@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11T12:39:39.527Z",
+ "updatedAt": "2026-10-11T14:32:41.348Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,62 @@
   }
  },
  "items": [
+  {
+   "title": "Verstappen your Singapore Driver of the Day after dominant win",
+   "summary": "His first-ever Grand Prix win in Singapore, but his fifth consecutive Driver of the Day triumph - Max Verstappen was simply untouchable around Marina Bay as he and a resurgent Red Bull powered to glory over Ferrari and Mercedes",
+   "url": "https://www.formula1.com/en/latest/article/driver-of-the-day-first-time-singapore-gp-winner-verstappen-gets-your-vote.6KaQbrOz89gdBDMMW9bjqM",
+   "date": "2026-10-11T14:32:41.325Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "mercedes",
+    "red_bull",
+    "ferrari"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T14:32:41.325Z"
+  },
+  {
+   "title": "Verstappen seals commanding Singapore victory",
+   "summary": "Red Bull's Max Verstappen continued his winning form by triumphing in the Singapore Grand Prix on his 250th Grand Prix start.",
+   "url": "https://www.formula1.com/en/latest/article/verstappen-seals-commanding-singapore-grand-prix-victory-from-leclerc-and-antonelli.49wDzysiVqi5cloGjle40A",
+   "date": "2026-10-11T14:31:41.325Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T14:32:41.325Z"
+  },
+  {
+   "title": "Jetzt fehlt nur noch Madrid: Max Verstappen siegt erstmals in Singapur!",
+   "summary": "Max Verstappen hat zum ersten Mal den Grossen Preis von Singapur gewonnen - Charles Leclerc und Kimi Antonelli auf dem Podium",
+   "url": "https://www.formel1.de/nc/149330",
+   "date": "2026-10-11T14:02:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "leclerc",
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T14:32:41.325Z"
+  },
   {
    "title": "OFFICIAL GRID: Who starts where for the Singapore Grand Prix",
    "summary": "The full official starting order for Sunday's 2026 Singapore Grand Prix.",
@@ -24,7 +80,7 @@
    "firstSeen": "2026-10-11T12:39:39.508Z"
   },
   {
-   "title": "LIVE COVERAGE: Verstappen leads Leclerc in Singapore GP",
+   "title": "LIVE COVERAGE: Verstappen wins Singapore Grand Prix",
    "summary": "Live coverage of the Formula 1 Singapore Airlines Singapore Grand Prix 2026.",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-singapore-airlines-singapore-grand-prix-2026.64UBFhKsSsN0V9RoD8JQqx",
    "date": "2026-10-11T12:38:39.508Z",
@@ -32,8 +88,7 @@
    "sourceId": "f1com",
    "lang": "en",
    "drivers": [
-    "max_verstappen",
-    "leclerc"
+    "max_verstappen"
    ],
    "teams": [],
    "team": "red_bull",
@@ -959,60 +1014,6 @@
    "drivers": [],
    "teams": [],
    "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Stewards issue verdict over Verstappen yellow flag incident",
-   "summary": "Max Verstappen has avoided a grid penalty for Saturday’s Sprint race in Singapore after being investigated for allegedly breaching yellow flag regulations during Sprint Qualifying.",
-   "url": "https://www.formula1.com/en/latest/article/stewards-deliver-verdict-after-verstappen-investigated-for-yellow-flag-incident-in-sprint-qualifying.1tKjwEbNYya8XF9mSJ5sFv",
-   "date": "2026-10-09T19:50:05.085Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Regeln",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Hadjar assesses ‘very poor performance’ in Singapore",
-   "summary": "While Max Verstappen took pole in Sprint Qualifying at the Singapore Grand Prix, Red Bull team mate Isack Hadjar faced a difficult session en route to ninth place.",
-   "url": "https://www.formula1.com/en/latest/article/i-dont-feel-like-its-driveable-hadjar-assesses-very-poor-performance-in-singapore-sprint-qualifying.3ITCXB4gJln2mODqwiFIoH",
-   "date": "2026-10-09T19:49:05.085Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hadjar",
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "McLaren pair divided over ‘very tricky’ Sprint Qualifying",
-   "summary": "McLaren's Oscar Piastri and Lando Norris placed fourth and fifth respectively in Sprint Qualifying at the Singapore Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/norris-and-piastri-divided-over-mclarens-performance-in-very-tricky-sprint-qualifying-in-singapore.1myBR2fHEKECN8JHD3iFKW",
-   "date": "2026-10-09T19:48:05.085Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "piastri",
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
    "category": "Rennen",
    "firstSeen": "2026-10-09T19:55:05.085Z"
   }
