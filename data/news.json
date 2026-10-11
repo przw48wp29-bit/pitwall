@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11T14:32:41.348Z",
+ "updatedAt": "2026-10-11T16:33:10.831Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,138 @@
   }
  },
  "items": [
+  {
+   "title": "‘It was a mistake’ – Vasseur on Hamilton’s strategy call",
+   "summary": "Ferrari Team Principal Fred Vasseur has explained how a podium finish slipped out of Lewis Hamilton’s hands at the Singapore Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/it-was-a-mistake-vasseur-reacts-to-hamiltons-strategy-call-that-lost-a-podium-in-singapore.7FetC3ZueATDEKBKuuy4V",
+   "date": "2026-10-11T16:33:10.803Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T16:33:10.803Z"
+  },
+  {
+   "title": "Russell rues ‘difficult’ Singapore GP as ‘story of season’",
+   "summary": "Mercedes' George Russell faced a challenging drive at the Singapore Grand Prix, having climbed through the order from P19 to P9.",
+   "url": "https://www.formula1.com/en/latest/article/the-story-of-the-season-russell-assesses-very-difficult-recovery-drive-in-singapore-grand-prix.bdIuyUxGaD3yWI4SpS7zZ",
+   "date": "2026-10-11T16:32:10.803Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "russell"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T16:33:10.803Z"
+  },
+  {
+   "title": "Antonelli reacts as Singapore P3 puts him on brink of title",
+   "summary": "Kimi Antonelli amusingly appeared to be taken by surprise when informed that his podium finish in the Singapore Grand Prix has put him on the brink of clinching this year’s World Championship title.",
+   "url": "https://www.formula1.com/en/latest/article/can-i-really-antonelli-reacts-as-he-gives-himself-first-chance-of-sealing-world-title-after-singapore-podium.2BhiC6Exd2Jtm9uT3xZ2Rb",
+   "date": "2026-10-11T16:31:10.803Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T16:33:10.803Z"
+  },
+  {
+   "title": "Norris 'not happy with a P4' finish in Singapore GP",
+   "summary": "Lando Norris admits that he is \"not happy with a P4\" finish in the Singapore Grand Prix, with the reigning World Champion demanding more from McLaren as they \"want to fight for wins\".",
+   "url": "https://www.formula1.com/en/latest/article/we-want-to-fight-for-wins-norris-not-happy-with-a-p4-finish-in-singapore-gp.7KagAh8STy3D0lYmIV5fOx",
+   "date": "2026-10-11T16:30:10.803Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T16:33:10.803Z"
+  },
+  {
+   "title": "Leclerc ‘gave it all’ to secure P2 in Singapore",
+   "summary": "Charles Leclerc has reflected on his return to the podium at the Singapore Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/i-dont-regret-anything-leclerc-gave-it-all-to-secure-p2-in-singapore.4TemKhORmVtudPgWO2Uiw4",
+   "date": "2026-10-11T16:29:10.803Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T16:33:10.803Z"
+  },
+  {
+   "title": "Verstappen thrilled with first Singapore win at 10th attempt",
+   "summary": "Max Verstappen expressed his pride and satisfaction after claiming a long-awaited Singapore Grand Prix win – the result coming in the Dutchman’s 10th attempt.",
+   "url": "https://www.formula1.com/en/latest/article/its-taken-a-while-verstappen-thrilled-with-maiden-singapore-win-at-10th-attempt.7A6wicGmDmoONtJzg1TdLl",
+   "date": "2026-10-11T16:28:10.803Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T16:33:10.803Z"
+  },
+  {
+   "title": "So kann Kimi Antonelli schon in Austin Formel-1-Weltmeister werden",
+   "summary": "Kim Antonelli steht nach seinem Podestplatz in Singapur vor dem Gewinn seines ersten WM-Titels: Die Entscheidung kann nun bereits in Austin fallen",
+   "url": "https://www.formel1.de/nc/149331",
+   "date": "2026-10-11T16:08:37.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-11T16:33:10.803Z"
+  },
+  {
+   "title": "Die Qualifying-, Sprint- und Rennduelle der Formel-1-Saison 2026",
+   "summary": "Der aktuelle Zwischenstand bei den Qualifying- und Rennduellen der Teamkollegen in der Formel-1-Saison 2026",
+   "url": "https://www.formel1.de/nc/146557",
+   "date": "2026-10-11T15:00:35.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-09T19:55:05.085Z"
+  },
   {
    "title": "Verstappen your Singapore Driver of the Day after dominant win",
    "summary": "His first-ever Grand Prix win in Singapore, but his fifth consecutive Driver of the Day triumph - Max Verstappen was simply untouchable around Marina Bay as he and a resurgent Red Bull powered to glory over Ferrari and Mercedes",
@@ -80,7 +212,7 @@
    "firstSeen": "2026-10-11T12:39:39.508Z"
   },
   {
-   "title": "LIVE COVERAGE: Verstappen wins Singapore Grand Prix",
+   "title": "AS IT HAPPENED: Verstappen wins Singapore Grand Prix",
    "summary": "Live coverage of the Formula 1 Singapore Airlines Singapore Grand Prix 2026.",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-singapore-airlines-singapore-grand-prix-2026.64UBFhKsSsN0V9RoD8JQqx",
    "date": "2026-10-11T12:38:39.508Z",
@@ -580,20 +712,6 @@
    "firstSeen": "2026-10-09T19:55:05.085Z"
   },
   {
-   "title": "Die Qualifying-, Sprint- und Rennduelle der Formel-1-Saison 2026",
-   "summary": "Der aktuelle Zwischenstand bei den Qualifying- und Rennduellen der Teamkollegen in der Formel-1-Saison 2026",
-   "url": "https://www.formel1.de/nc/146557",
-   "date": "2026-10-10T15:26:55.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
    "title": "Qualifying: Max Verstappen mit erster \"echter\" Singapur-Pole",
    "summary": "Max Verstappen holte sich zum ersten Mal eine Poleposition für den Singapur-Grand-Prix vor den beiden Ferraris von Charles Leclerc und Lewis Hamilton",
    "url": "https://www.formel1.de/nc/149316",
@@ -905,117 +1023,6 @@
    "team": "williams",
    "category": "News",
    "firstSeen": "2026-10-10T04:34:18.159Z"
-  },
-  {
-   "title": "Who will go fastest in Singapore Grand Prix Qualifying?",
-   "summary": "Our expert betting writers share their top picks for Qualifying at Marina Bay.",
-   "url": "https://www.formula1.com/en/latest/article/who-the-betting-markets-think-will-go-fastest-in-singapore-grand-prix-qualifying.0TS6DccooSF1duklRZ9yf",
-   "date": "2026-10-09T22:33:12.602Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-09T22:33:12.602Z"
-  },
-  {
-   "title": "Nur ein Versuch, trotzdem Pole: Pirelli erklärt Verstappens Singapur-Strategie",
-   "summary": "Max Verstappen holt in Singapur mit nur einer schnellen Runde die Sprint-Pole: Pirelli erklärt, warum die Strategie allein nicht entscheidend war",
-   "url": "https://www.formel1.de/nc/149307",
-   "date": "2026-10-09T20:34:19.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-09T22:33:12.602Z"
-  },
-  {
-   "title": "Drivers to watch closely in the Singapore Sprint race",
-   "summary": "We’ve picked out the best value bets to help you make your Sprint predictions.",
-   "url": "https://www.formula1.com/en/latest/article/drivers-to-watch-closely-in-singapore-sprint-race-as-max-verstappen-starts-on-pole.6XA2At9A5soF69ZOlOdRaD",
-   "date": "2026-10-09T19:55:05.085Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "How Verstappen could prove tough to beat in Singapore Sprint",
-   "summary": "F1.com's Lawrence Barretto delves into the data from Sprint Qualifying at the Singapore Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/could-verstappen-prove-tough-to-beat-in-the-singapore-sprint.5yt8hh7ft5DHVRUbRSAqkC",
-   "date": "2026-10-09T19:54:05.085Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Wolff fires back at ‘brainless’ driver treatment rumours",
-   "summary": "Toto Wolff has reiterated Mercedes' equal approach to their drivers after criticising \"nonsensical\" accusations of favouritism towards Kimi Antonelli over George Russell.",
-   "url": "https://www.formula1.com/en/latest/article/brainless-wolff-fires-back-at-lunatics-over-antonelli-russell-treatment-rumours.71hf65gv03AdyQO9yiSbGU",
-   "date": "2026-10-09T19:53:05.085Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli",
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Why Verstappen avoided a penalty after Sprint Qualifying",
-   "summary": "Max Verstappen was summoned by the stewards after Sprint Qualifying at the Singapore Grand Prix, but the Red Bull driver did not receive a punishment.",
-   "url": "https://www.formula1.com/en/latest/article/why-verstappen-avoided-a-penalty-after-sprint-qualifying-yellow-flag-incident-in-singapore.41kSukNyM3UHFGoX0absV6",
-   "date": "2026-10-09T19:52:05.085Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Regeln",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "What the teams said – Sprint Qualifying in Singapore",
-   "summary": "The drivers and teams report back on all the action from Sprint Qualifying at the Marina Bay Street Circuit, ahead of the 2026 Singapore Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-sprint-qualifying-in-singapore-2026.15FW4Oo4cNZdSNNfnTdyDp",
-   "date": "2026-10-09T19:51:05.085Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
   }
  ]
 }
