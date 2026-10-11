@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11T16:33:10.831Z",
+ "updatedAt": "2026-10-11T18:36:59.121Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,108 @@
   }
  },
  "items": [
+  {
+   "title": "What the teams said – Race day in Singapore",
+   "summary": "The drivers and teams report back on all the action from the 2026 Singapore Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-singapore-2026.3lLHolVW3aIRAl7Ohxlxf6",
+   "date": "2026-10-11T18:36:59.043Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T18:36:59.043Z"
+  },
+  {
+   "title": "All the key moments from the 2026 Singapore Grand Prix",
+   "summary": "Max Verstappen continued his 2026 resurgence in Singapore, beating Charles Leclerc and Kimi Antonelli to a long-awaited Grand Prix victory around Marina Bay.",
+   "url": "https://www.formula1.com/en/latest/article/singapore-lowdown-all-the-key-moments-as-verstappen-dominates-and-ferrari-face-strategy-turmoil.08P4aNzUgbtUZ7GnJ9njb",
+   "date": "2026-10-11T18:35:59.043Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen",
+    "leclerc",
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T18:36:59.043Z"
+  },
+  {
+   "title": "Hamilton apologises after ‘painful lesson’ in Singapore",
+   "summary": "Lewis Hamilton has conceded that the decision to stay out on track rather than pit under the Virtual Safety Car during the Singapore Grand Prix was his, labelling it as a \"painful lesson\".",
+   "url": "https://www.formula1.com/en/latest/article/a-painful-lesson-hamilton-apologises-as-he-takes-responsibility-for-strategy-gamble-in-singapore.6NUbQvdet1DQa5ElDtonw1",
+   "date": "2026-10-11T18:34:59.043Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T18:36:59.043Z"
+  },
+  {
+   "title": "\"Kleines Wunder\": Hülkenberg hält Russell in Singapur hinter sich",
+   "summary": "Nico Hülkenberg holt in Singapur insgesamt sechs Punkte für Audi und hält George Russell hinter sich: Der Deutsche spricht von einem \"kleinen Wunder\"",
+   "url": "https://www.formel1.de/nc/149334",
+   "date": "2026-10-11T18:22:27.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hulkenberg",
+    "russell"
+   ],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-10-11T18:36:59.043Z"
+  },
+  {
+   "title": "Podium verschenkt: Hamilton nimmt fehlerhafte Ferrari-Strategie auf sich",
+   "summary": "Lewis Hamilton verliert in Singapur drei Plätze durch eine eigene VSC-Entscheidung - Teamchef Vasseur stellt klar: Ferrari wollte beide Autos reinholen",
+   "url": "https://www.formel1.de/nc/149333",
+   "date": "2026-10-11T16:53:48.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T18:36:59.043Z"
+  },
+  {
+   "title": "War Charles Leclerc am Start nicht aggressiv genug gegen Max Verstappen?",
+   "summary": "Am Start hatte Charles Leclerc die Chance, Max Verstappen die Führung abzunehmen und um den Sieg zu kämpfen: Hätte er aggressiver sein müssen?",
+   "url": "https://www.formel1.de/nc/149332",
+   "date": "2026-10-11T16:47:56.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc",
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T18:36:59.043Z"
+  },
   {
    "title": "‘It was a mistake’ – Vasseur on Hamilton’s strategy call",
    "summary": "Ferrari Team Principal Fred Vasseur has explained how a podium finish slipped out of Lewis Hamilton’s hands at the Singapore Grand Prix.",
@@ -926,103 +1028,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-10-10T12:38:22.071Z"
-  },
-  {
-   "title": "Wilder Singapur-Sprint: Russell-Crash, McLaren-Kollision & 13 Autos im Ziel",
-   "summary": "Max Verstappen siegt in einem wilden Singapur-Sprint, bei dem George Russell crasht, beide McLaren miteinander kollidieren und nur 13 Autos das Ziel sehen",
-   "url": "https://www.formel1.de/nc/149312",
-   "date": "2026-10-10T10:43:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell",
-    "max_verstappen"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T10:31:45.125Z"
-  },
-  {
-   "title": "AS IT HAPPENED: Verstappen wins dramatic Singapore Sprint",
-   "summary": "Live coverage of the F1 Sprint at the 2026 Singapore Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-f1-sprint-in-singapore-2026.5TXFKG7uP5goYHSqUotcmZ",
-   "date": "2026-10-10T10:31:45.125Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T10:31:45.125Z"
-  },
-  {
-   "title": "Why Wolff is backing Mercedes’ split-spec strategy",
-   "summary": "Toto Wolff has explained the thinking behind Mercedes’ choice to give each of their drivers a different specification of the W17 in Singapore.",
-   "url": "https://www.formula1.com/en/latest/article/wolff-concedes-upgraded-mercedes-is-a-little-more-tricky-to-drive-as-he-backs-split-spec-strategy.3tWxlbHKJMR3Aqg87zVDwz",
-   "date": "2026-10-10T08:32:59.265Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-10T08:32:59.265Z"
-  },
-  {
-   "title": "James Vowles: Darum müssen wir die Budgetregeln dringend ändern!",
-   "summary": "Williams-Teamchef James Vowles sieht grosse Probleme für kleine Teams durch die aktuellen Budgetregeln: Er erklärt, warum sich einiges ändern muss",
-   "url": "https://www.formel1.de/nc/149311",
-   "date": "2026-10-10T07:11:28.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "williams"
-   ],
-   "team": "williams",
-   "category": "News",
-   "firstSeen": "2026-10-10T08:32:59.265Z"
-  },
-  {
-   "title": "Von Alain Prost gelernt: Warum Toto Wolff auf Chancengleichheit besteht",
-   "summary": "Toto Wolff will in seinem Team keinen Fahrer bevorzugen und geht dabei offen mit den Fahrern um: Diese Lektion hat er von Alain Prost mitgenommen",
-   "url": "https://www.formel1.de/nc/149310",
-   "date": "2026-10-10T06:18:02.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-10T06:39:20.713Z"
-  },
-  {
-   "title": "Williams verklagt Werkstattbesitzer: Wo ist dieser Formel-1-Bolide?",
-   "summary": "Ein historischer Williams verschwindet spurlos - Jetzt fordert das Formel-1-Team von einem Werkstattbesitzer mehr als eine Million Pfund",
-   "url": "https://www.formel1.de/nc/149308",
-   "date": "2026-10-10T04:30:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "williams"
-   ],
-   "team": "williams",
-   "category": "News",
-   "firstSeen": "2026-10-10T04:34:18.159Z"
   }
  ]
 }
