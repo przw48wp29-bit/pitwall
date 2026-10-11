@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11T18:36:59.121Z",
+ "updatedAt": "2026-10-11T20:32:55.080Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,24 @@
   }
  },
  "items": [
+  {
+   "title": "\"Gerade gut genug\": So bewertet Max Verstappen seinen ersten Singapur-Sieg",
+   "summary": "Max Verstappen gewinnt erstmals in Singapur: Während Laurent Mekies sein Tempo lobt, räumt Red Bull bei der Startperformance weiteren Verbesserungsbedarf ein",
+   "url": "https://www.formel1.de/nc/149335",
+   "date": "2026-10-11T19:50:07.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T20:32:55.062Z"
+  },
   {
    "title": "What the teams said – Race day in Singapore",
    "summary": "The drivers and teams report back on all the action from the 2026 Singapore Grand Prix.",
@@ -77,7 +95,7 @@
    "firstSeen": "2026-10-11T18:36:59.043Z"
   },
   {
-   "title": "Podium verschenkt: Hamilton nimmt fehlerhafte Ferrari-Strategie auf sich",
+   "title": "Ferrari stellt klar: Wollten Hamilton in der VSC-Phase reinholen, aber …",
    "summary": "Lewis Hamilton verliert in Singapur drei Plätze durch eine eigene VSC-Entscheidung - Teamchef Vasseur stellt klar: Ferrari wollte beide Autos reinholen",
    "url": "https://www.formel1.de/nc/149333",
    "date": "2026-10-11T16:53:48.000Z",
@@ -91,7 +109,7 @@
     "ferrari"
    ],
    "team": "ferrari",
-   "category": "Rennen",
+   "category": "News",
    "firstSeen": "2026-10-11T18:36:59.043Z"
   },
   {
@@ -1012,20 +1030,6 @@
     "mclaren"
    ],
    "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T12:38:22.071Z"
-  },
-  {
-   "title": "Neue Startzeit: Formel-1-Qualifying in Singapur verschoben!",
-   "summary": "Die Verzögerung im Formel-1-Sprint hat Auswirkungen für das Qualifying, das eine halbe Stunde später um 15:30 Uhr deutscher Zeit beginnen wird",
-   "url": "https://www.formel1.de/nc/149313",
-   "date": "2026-10-10T11:48:18.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
    "category": "Rennen",
    "firstSeen": "2026-10-10T12:38:22.071Z"
   }
