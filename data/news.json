@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11T08:34:06.951Z",
+ "updatedAt": "2026-10-11T10:32:38.103Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "F1-Eklat um Überholmodus: FIA gibt Fehler zu, Sainz ist fassungslos",
+   "summary": "Die FIA räumt einen Fehler beim Sprint-Qualifying in Singapur ein: Trotz ungleicher Bedingungen blieb das Ergebnis bestehen - Sainz übt Kritik",
+   "url": "https://www.formel1.de/nc/149329",
+   "date": "2026-10-11T08:54:25.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "sainz"
+   ],
+   "teams": [],
+   "team": "williams",
+   "category": "Regeln",
+   "firstSeen": "2026-10-11T10:32:38.078Z"
+  },
   {
    "title": "Our final predictions and latest Singapore GP odds",
    "summary": "Our expert betting writers bring you their final predictions and latest odds before the Singapore Grand Prix.",
@@ -1002,23 +1018,6 @@
     "mercedes"
    ],
    "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "\"Keine Ausrede\": Norris erklärt Qualifying-Niederlage gegen Piastri",
-   "summary": "Lando Norris übernimmt nach Platz fünf im Sprint-Qualifying von Singapur die Verantwortung: Oscar Piastri war im entscheidenden Abschnitt erneut schneller",
-   "url": "https://www.formel1.de/nc/149306",
-   "date": "2026-10-09T18:56:33.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris",
-    "piastri"
-   ],
-   "teams": [],
-   "team": "mclaren",
    "category": "Rennen",
    "firstSeen": "2026-10-09T19:55:05.085Z"
   }
