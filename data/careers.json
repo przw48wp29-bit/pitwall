@@ -22,7 +22,7 @@
   "starts": 396,
   "wins": 106,
   "podiums": 208,
-  "poles": 118,
+  "poles": 119,
   "titles": 7,
   "first": "2007"
  },
@@ -35,6 +35,15 @@
   "titles": 0,
   "first": "2018"
  },
+ "max_verstappen": {
+  "seasons": 12,
+  "starts": 249,
+  "wins": 72,
+  "podiums": 135,
+  "poles": 67,
+  "titles": 4,
+  "first": "2015"
+ },
  "norris": {
   "seasons": 8,
   "starts": 168,
@@ -43,15 +52,6 @@
   "poles": 33,
   "titles": 1,
   "first": "2019"
- },
- "max_verstappen": {
-  "seasons": 12,
-  "starts": 249,
-  "wins": 72,
-  "podiums": 135,
-  "poles": 66,
-  "titles": 4,
-  "first": "2015"
  },
  "piastri": {
   "seasons": 4,
