@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11T06:40:03.830Z",
+ "updatedAt": "2026-10-11T08:34:06.951Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,54 @@
   }
  },
  "items": [
+  {
+   "title": "Our final predictions and latest Singapore GP odds",
+   "summary": "Our expert betting writers bring you their final predictions and latest odds before the Singapore Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/our-final-singapore-grand-prix-betting-predictions-before-lights-out-at-marina-bay.ExmwSnuuAUr9ysMNv8BhZ",
+   "date": "2026-10-11T08:34:06.931Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T08:34:06.931Z"
+  },
+  {
+   "title": "Hamilton fordert Änderungen in Singapur: Sprint wäre ohne Regen langweilig",
+   "summary": "Lewis Hamilton würde die Strecke in Singapur verändern, um mehr Überholmanöver zu ermöglichen, während Verstappen und Leclerc an Stadtsprints zweifeln",
+   "url": "https://www.formel1.de/nc/149328",
+   "date": "2026-10-11T07:58:40.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton",
+    "max_verstappen",
+    "leclerc"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T08:34:06.931Z"
+  },
+  {
+   "title": "Max Verstappen in Singapur: Grösster Stolperstein ist der Start",
+   "summary": "Max Verstappen könnte am Sonntag den nächsten Sieg feiern, doch zwischen ihm und dem Erfolg steht noch der Start, der am Samstag wieder schwach war",
+   "url": "https://www.formel1.de/nc/149326",
+   "date": "2026-10-11T07:15:16.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-11T08:34:06.931Z"
+  },
   {
    "title": "Racing Bulls to make driver decision 'in the coming weeks'",
    "summary": "Team Principal Alan Permane confirmed that Racing Bulls are yet to decide which drivers will represent them in 2027.",
@@ -26,7 +74,7 @@
    "firstSeen": "2026-10-11T06:40:03.802Z"
   },
   {
-   "title": "Norris vs. Piastri: Warum der Singapur-Vorfall für McLaren so \"ernst\" ist",
+   "title": "Warum Andrea Stella so enttäuscht über die McLaren-Kollision ist",
    "summary": "Andrea Stella ist über die Kollision zwischen Lando Norris und Oscar Piastri im Singapur-Sprint alles andere als glücklich und erklärt die Gründe dafür",
    "url": "https://www.formel1.de/nc/149325",
    "date": "2026-10-11T06:30:43.000Z",
@@ -741,10 +789,10 @@
    "firstSeen": "2026-10-10T06:39:20.713Z"
   },
   {
-   "title": "Williams verklagt Garagenbesitzer: Wo ist dieser Formel-1-Bolide?",
-   "summary": "Ein historischer Williams verschwindet spurlos - Jetzt fordert das Formel-1-Team von einem Garagenbesitzer mehr als eine Million Pfund",
+   "title": "Williams verklagt Werkstattbesitzer: Wo ist dieser Formel-1-Bolide?",
+   "summary": "Ein historischer Williams verschwindet spurlos - Jetzt fordert das Formel-1-Team von einem Werkstattbesitzer mehr als eine Million Pfund",
    "url": "https://www.formel1.de/nc/149308",
-   "date": "2026-10-10T04:30:04.000Z",
+   "date": "2026-10-10T04:30:00.000Z",
    "source": "Formel1.de",
    "sourceId": "formel1de",
    "lang": "de",
@@ -972,62 +1020,6 @@
    "teams": [],
    "team": "mclaren",
    "category": "Rennen",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Mercedes-Kampf: Russell will Antonelli-Rückstand nicht auf Pech schieben",
-   "summary": "George Russell liegt 84 Punkte hinter Kimi Antonelli, verweigert Ausreden wegen Technik-Pechs und kritisiert seine eigene Leistung im Mercedes-Duell deutlich",
-   "url": "https://www.formel1.de/nc/149305",
-   "date": "2026-10-09T17:32:59.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell",
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Technik",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Audi nicht in SQ3: \"Eigentlich waren wir schnell genug, aber ...\"",
-   "summary": "Startplätze 12 und 14 für Audi im Sprint-Qualifying von Singapur - Spektakuläre SQ1-Leistung von Hülkenberg bleibt Eintagsfliege",
-   "url": "https://www.formel1.de/nc/149304",
-   "date": "2026-10-09T16:30:31.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hulkenberg"
-   ],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "Rennen",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Max Verstappen: Keine Strafe trotz Überholmanöver unter Gelb",
-   "summary": "Max Verstappen überholte Lewis Hamilton trotz gelber Flaggen: Die Rennkommissare sprachen aber keine Strafe gegen den Red-Bull-Piloten aus",
-   "url": "https://www.formel1.de/nc/149303",
-   "date": "2026-10-09T16:00:58.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "hamilton"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Regeln",
    "firstSeen": "2026-10-09T19:55:05.085Z"
   }
  ]
