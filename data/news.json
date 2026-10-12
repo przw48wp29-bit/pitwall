@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T04:38:02.520Z",
+ "updatedAt": "2026-10-12T06:48:01.097Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,38 @@
   }
  },
  "items": [
+  {
+   "title": "Nach Funk-Chaos: Bei Verstappen ändert sich schon in Austin etwas",
+   "summary": "Funkprobleme zwangen Verstappen und Lambiase in Singapur zu ungewöhnlichen Methoden, gleichzeitig steht bei Red Bull ein Personalwechsel bevor",
+   "url": "https://www.formel1.de/nc/149339",
+   "date": "2026-10-12T06:47:19.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-12T06:48:01.081Z"
+  },
+  {
+   "title": "Formel-1-Zuschauer: So viele kamen zum Grand Prix von Singapur",
+   "summary": "Kein Rekord, aber: So viele Formel-1-Zuschauer verfolgten den Grand Prix von Singapur 2026 vor Ort am Marina Bay Circuit",
+   "url": "https://www.formel1.de/nc/146482",
+   "date": "2026-10-12T05:52:26.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-12T06:48:01.081Z"
+  },
   {
    "title": "Wer letzte Nacht am besten geschlafen hat: Max Verstappen",
    "summary": "Mercedes schien 2026 uneinholbar, doch die Siege von Max Verstappen werfen eine Frage auf: War die Überlegenheit der Silberpfeile nur eine Momentaufnahme?",
@@ -988,44 +1020,6 @@
     "red_bull"
    ],
    "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T12:38:22.071Z"
-  },
-  {
-   "title": "McLaren drivers give verdicts on their Singapore Sprint collision",
-   "summary": "McLaren drivers Lando Norris and Oscar Piastri have given their perspectives on the collision between the pair during the Singapore Grand Prix Sprint.",
-   "url": "https://www.formula1.com/en/latest/article/norris-and-piastri-offer-verdicts-on-mclaren-intra-team-collision-in-singapore-gp-sprint.1aNdfxcp4bRsnOwUXTg7rd",
-   "date": "2026-10-10T12:36:22.071Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris",
-    "piastri"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T12:38:22.071Z"
-  },
-  {
-   "title": "Russell reacts to ‘silly’ crash in Singapore Sprint",
-   "summary": "After snatching the lead of the Sprint from Red Bull’s Max Verstappen, George Russell crashed out of the event at the Marina Bay Circuit.",
-   "url": "https://www.formula1.com/en/latest/article/i-just-misjudged-it-russell-reacts-to-silly-crash-in-singapore-sprint.15D0NGraWZQesM5BkeBJp3",
-   "date": "2026-10-10T12:35:22.071Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell",
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "mercedes",
    "category": "Rennen",
    "firstSeen": "2026-10-10T12:38:22.071Z"
   }
