@@ -262,16 +262,6 @@
    "h": 2636,
    "curated": true
   },
-  "leclerc": {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/FIA_F1_Austria_2026_Nr._16_Leclerc_%283%29.jpg/960px-FIA_F1_Austria_2026_Nr._16_Leclerc_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/FIA_F1_Austria_2026_Nr._16_Leclerc_%283%29.jpg/1920px-FIA_F1_Austria_2026_Nr._16_Leclerc_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "file": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._16_Leclerc_(3).jpg",
-   "credit": "Lukas Raich",
-   "license": "CC BY-SA 4.0",
-   "w": 7097,
-   "h": 3548,
-   "curated": true
-  },
   "max_verstappen": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/FIA_F1_Austria_2026_Nr._3_Verstappen_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._3_Verstappen_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/FIA_F1_Austria_2026_Nr._3_Verstappen_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._3_Verstappen_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -280,6 +270,16 @@
    "license": "CC BY-SA 4.0",
    "w": 5215,
    "h": 2608,
+   "curated": true
+  },
+  "leclerc": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/FIA_F1_Austria_2026_Nr._16_Leclerc_%283%29.jpg/960px-FIA_F1_Austria_2026_Nr._16_Leclerc_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/FIA_F1_Austria_2026_Nr._16_Leclerc_%283%29.jpg/1920px-FIA_F1_Austria_2026_Nr._16_Leclerc_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._16_Leclerc_(3).jpg",
+   "credit": "Lukas Raich",
+   "license": "CC BY-SA 4.0",
+   "w": 7097,
+   "h": 3548,
    "curated": true
   },
   "norris": {
@@ -362,16 +362,6 @@
    "h": 2882,
    "curated": true
   },
-  "bortoleto": {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/FIA_F1_Austria_2026_Nr._5_Bortoleto_%283%29.jpg/960px-FIA_F1_Austria_2026_Nr._5_Bortoleto_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/FIA_F1_Austria_2026_Nr._5_Bortoleto_%283%29.jpg/1920px-FIA_F1_Austria_2026_Nr._5_Bortoleto_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "file": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._5_Bortoleto_(3).jpg",
-   "credit": "Lukas Raich",
-   "license": "CC BY-SA 4.0",
-   "w": 7061,
-   "h": 3531,
-   "curated": true
-  },
   "hulkenberg": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/FIA_F1_Austria_2026_Nr._27_H%C3%BClkenberg_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._27_H%C3%BClkenberg_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/FIA_F1_Austria_2026_Nr._27_H%C3%BClkenberg_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._27_H%C3%BClkenberg_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -380,6 +370,16 @@
    "license": "CC BY-SA 4.0",
    "w": 5349,
    "h": 2674,
+   "curated": true
+  },
+  "bortoleto": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/FIA_F1_Austria_2026_Nr._5_Bortoleto_%283%29.jpg/960px-FIA_F1_Austria_2026_Nr._5_Bortoleto_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/FIA_F1_Austria_2026_Nr._5_Bortoleto_%283%29.jpg/1920px-FIA_F1_Austria_2026_Nr._5_Bortoleto_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._5_Bortoleto_(3).jpg",
+   "credit": "Lukas Raich",
+   "license": "CC BY-SA 4.0",
+   "w": 7061,
+   "h": 3531,
    "curated": true
   },
   "ocon": {

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-11T20:32:55.080Z",
+ "updatedAt": "2026-10-12T04:19:22.100Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Wer letzte Nacht am schlechtesten geschlafen hat: Nikola Tsolov",
+   "summary": "Während Nikola Tsolov aktuell frei hat, fährt sein grösster F1-Konkurrent in der Form seines Lebens - Lando Norris hat derweil schon am Samstag schlecht geschlafen",
+   "url": "https://www.formel1.de/nc/149336",
+   "date": "2026-10-12T03:30:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-10-12T04:19:22.099Z"
+  },
   {
    "title": "\"Gerade gut genug\": So bewertet Max Verstappen seinen ersten Singapur-Sieg",
    "summary": "Max Verstappen gewinnt erstmals in Singapur: Während Laurent Mekies sein Tempo lobt, räumt Red Bull bei der Startperformance weiteren Verbesserungsbedarf ein",
@@ -1011,25 +1027,6 @@
     "mclaren"
    ],
    "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T12:38:22.071Z"
-  },
-  {
-   "title": "Norris und Piastri: So reagieren die Fahrer auf den McLaren-Crash",
-   "summary": "McLaren verliert beim Singapur-Sprint Punkte durch eine Kollision: Norris verteidigt sich, Piastri bleibt gelassen - Ralf Schumacher kritisiert das Team",
-   "url": "https://www.formel1.de/nc/149314",
-   "date": "2026-10-10T11:59:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris",
-    "piastri"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
    "category": "Rennen",
    "firstSeen": "2026-10-10T12:38:22.071Z"
   }

@@ -1,16 +1,16 @@
 {
  "antonelli": {
   "seasons": 2,
-  "starts": 40,
+  "starts": 41,
   "wins": 8,
-  "podiums": 16,
+  "podiums": 17,
   "poles": 9,
   "titles": 0,
   "first": "2025"
  },
  "russell": {
   "seasons": 8,
-  "starts": 168,
+  "starts": 169,
   "wins": 8,
   "podiums": 32,
   "poles": 18,
@@ -19,34 +19,34 @@
  },
  "hamilton": {
   "seasons": 20,
-  "starts": 396,
+  "starts": 397,
   "wins": 106,
   "podiums": 208,
   "poles": 119,
   "titles": 7,
   "first": "2007"
  },
- "leclerc": {
-  "seasons": 9,
-  "starts": 189,
-  "wins": 9,
-  "podiums": 54,
-  "poles": 34,
-  "titles": 0,
-  "first": "2018"
- },
  "max_verstappen": {
   "seasons": 12,
-  "starts": 249,
-  "wins": 72,
-  "podiums": 135,
+  "starts": 250,
+  "wins": 73,
+  "podiums": 136,
   "poles": 67,
   "titles": 4,
   "first": "2015"
  },
+ "leclerc": {
+  "seasons": 9,
+  "starts": 190,
+  "wins": 9,
+  "podiums": 55,
+  "poles": 34,
+  "titles": 0,
+  "first": "2018"
+ },
  "norris": {
   "seasons": 8,
-  "starts": 168,
+  "starts": 169,
   "wins": 13,
   "podiums": 49,
   "poles": 33,
@@ -55,7 +55,7 @@
  },
  "piastri": {
   "seasons": 4,
-  "starts": 86,
+  "starts": 87,
   "wins": 9,
   "podiums": 28,
   "poles": 15,
@@ -64,7 +64,7 @@
  },
  "hadjar": {
   "seasons": 2,
-  "starts": 37,
+  "starts": 38,
   "wins": 0,
   "podiums": 3,
   "poles": 3,
@@ -73,7 +73,7 @@
  },
  "lawson": {
   "seasons": 4,
-  "starts": 51,
+  "starts": 52,
   "wins": 0,
   "podiums": 0,
   "poles": 0,
@@ -82,7 +82,7 @@
  },
  "gasly": {
   "seasons": 10,
-  "starts": 194,
+  "starts": 195,
   "wins": 1,
   "podiums": 5,
   "poles": 1,
@@ -91,7 +91,7 @@
  },
  "arvid_lindblad": {
   "seasons": 1,
-  "starts": 16,
+  "starts": 17,
   "wins": 0,
   "podiums": 0,
   "poles": 0,
@@ -100,7 +100,7 @@
  },
  "colapinto": {
   "seasons": 3,
-  "starts": 43,
+  "starts": 44,
   "wins": 0,
   "podiums": 0,
   "poles": 0,
@@ -109,34 +109,34 @@
  },
  "bearman": {
   "seasons": 3,
-  "starts": 43,
+  "starts": 44,
   "wins": 0,
   "podiums": 0,
   "poles": 0,
   "titles": 0,
   "first": "2024"
  },
- "bortoleto": {
-  "seasons": 2,
-  "starts": 40,
-  "wins": 0,
-  "podiums": 0,
-  "poles": 0,
-  "titles": 0,
-  "first": "2025"
- },
  "hulkenberg": {
   "seasons": 15,
-  "starts": 270,
+  "starts": 271,
   "wins": 0,
   "podiums": 1,
   "poles": 1,
   "titles": 0,
   "first": "2010"
  },
+ "bortoleto": {
+  "seasons": 2,
+  "starts": 41,
+  "wins": 0,
+  "podiums": 0,
+  "poles": 0,
+  "titles": 0,
+  "first": "2025"
+ },
  "ocon": {
   "seasons": 10,
-  "starts": 196,
+  "starts": 197,
   "wins": 1,
   "podiums": 4,
   "poles": 0,
@@ -145,7 +145,7 @@
  },
  "alonso": {
   "seasons": 23,
-  "starts": 444,
+  "starts": 445,
   "wins": 32,
   "podiums": 106,
   "poles": 23,
@@ -154,7 +154,7 @@
  },
  "sainz": {
   "seasons": 12,
-  "starts": 248,
+  "starts": 249,
   "wins": 4,
   "podiums": 29,
   "poles": 11,
@@ -163,7 +163,7 @@
  },
  "albon": {
   "seasons": 7,
-  "starts": 145,
+  "starts": 146,
   "wins": 0,
   "podiums": 2,
   "poles": 1,
@@ -181,7 +181,7 @@
  },
  "stroll": {
   "seasons": 10,
-  "starts": 207,
+  "starts": 208,
   "wins": 0,
   "podiums": 3,
   "poles": 1,
@@ -190,7 +190,7 @@
  },
  "bottas": {
   "seasons": 13,
-  "starts": 263,
+  "starts": 264,
   "wins": 10,
   "podiums": 67,
   "poles": 19,
@@ -199,7 +199,7 @@
  },
  "perez": {
   "seasons": 15,
-  "starts": 299,
+  "starts": 300,
   "wins": 6,
   "podiums": 39,
   "poles": 4,
