@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T04:19:22.100Z",
+ "updatedAt": "2026-10-12T04:38:02.520Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,10 +10,28 @@
  },
  "items": [
   {
+   "title": "Wer letzte Nacht am besten geschlafen hat: Max Verstappen",
+   "summary": "Mercedes schien 2026 uneinholbar, doch die Siege von Max Verstappen werfen eine Frage auf: War die Überlegenheit der Silberpfeile nur eine Momentaufnahme?",
+   "url": "https://www.formel1.de/nc/149337",
+   "date": "2026-10-12T04:28:40.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-12T04:38:02.499Z"
+  },
+  {
    "title": "Wer letzte Nacht am schlechtesten geschlafen hat: Nikola Tsolov",
    "summary": "Während Nikola Tsolov aktuell frei hat, fährt sein grösster F1-Konkurrent in der Form seines Lebens - Lando Norris hat derweil schon am Samstag schlecht geschlafen",
    "url": "https://www.formel1.de/nc/149336",
-   "date": "2026-10-12T03:30:04.000Z",
+   "date": "2026-10-12T03:30:00.000Z",
    "source": "Formel1.de",
    "sourceId": "formel1de",
    "lang": "de",
@@ -1008,25 +1026,6 @@
     "red_bull"
    ],
    "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T12:38:22.071Z"
-  },
-  {
-   "title": "Verstappen wins Sprint as Russell crashes and McLarens collide",
-   "summary": "Max Verstappen followed up his victory at the Bahrain Grand Prix in Malaysia by winning Saturday’s Sprint race around the streets of Singapore – mastering the mixed weather conditions while George Russell crashed out early on and the McLaren drivers clashed in the closing stages.",
-   "url": "https://www.formula1.com/en/latest/article/verstappen-wins-dramatic-rain-hit-singapore-sprint-as-russell-crashes-and-mclarens-collide.4r90mH2skljBa5sinFAsyp",
-   "date": "2026-10-10T12:34:22.071Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen",
-    "russell"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "red_bull",
    "category": "Rennen",
    "firstSeen": "2026-10-10T12:38:22.071Z"
   }
