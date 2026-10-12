@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T14:42:43.308Z",
+ "updatedAt": "2026-10-12T16:36:15.645Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,58 @@
   }
  },
  "items": [
+  {
+   "title": "How Hulkenberg secured his best weekend of the season yet",
+   "summary": "After taking P7 in the Sprint, Nico Hulkenberg battled to finish P8 at the Singapore Grand Prix and celebrate his highest-scoring round of the season so far.",
+   "url": "https://www.formula1.com/en/latest/article/how-hulkenberg-secured-his-best-weekend-of-the-season-in-singapore.32ws4MpzmxyQXtGLqjt8rf",
+   "date": "2026-10-12T16:36:15.626Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hulkenberg"
+   ],
+   "teams": [],
+   "team": "audi",
+   "category": "Rennen",
+   "firstSeen": "2026-10-12T16:36:15.626Z"
+  },
+  {
+   "title": "Mekies hails ‘outstanding’ Verstappen in Red Bull resurgence",
+   "summary": "Laurent Mekies has identified the important role Max Verstappen has played in Red Bull's 2026 turnaround.",
+   "url": "https://www.formula1.com/en/latest/article/its-a-massive-boost-mekies-hails-outstanding-verstappen-in-red-bull-resurgence.1SJ9jPPGYuqQ8X7ASQo2KY",
+   "date": "2026-10-12T16:35:15.626Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-12T16:36:15.626Z"
+  },
+  {
+   "title": "How Norris' radio offer supported Stella's team-first ethos",
+   "summary": "After clashing with his team mate in the Singapore Sprint, Lando Norris put effort into proving that he could prioritise McLaren's interests.",
+   "url": "https://www.formula1.com/en/latest/article/how-norris-radio-offer-confirmed-that-stellas-team-interest-message-has-worked.7hsFO5Pn6GVkid4c8BYMYN",
+   "date": "2026-10-12T16:34:15.626Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-12T16:36:15.626Z"
+  },
   {
    "title": "Vote for Your Heineken® F1 Season Ticket Winner",
    "summary": "",
@@ -84,7 +136,7 @@
    "firstSeen": "2026-10-12T12:59:45.879Z"
   },
   {
-   "title": "Fahrernoten Singapur: Nur Max Verstappen ist noch vor Nico Hülkenberg!",
+   "title": "Fahrernoten Singapur: Audi-Pilot Nico Hülkenberg auf Platz zwei",
    "summary": "Nur Achter im Rennen, aber Zweiter in den Fahrernoten: Nico Hülkenberg überzeugt in Singapur, doch für Mercedes-Fahrer George Russell sieht es ganz anders aus",
    "url": "https://www.formel1.de/nc/149345",
    "date": "2026-10-12T10:59:46.000Z",
@@ -92,14 +144,14 @@
    "sourceId": "formel1de",
    "lang": "de",
    "drivers": [
-    "max_verstappen",
     "hulkenberg",
     "russell"
    ],
    "teams": [
-    "mercedes"
+    "mercedes",
+    "audi"
    ],
-   "team": "red_bull",
+   "team": "audi",
    "category": "Rennen",
    "firstSeen": "2026-10-12T12:59:45.879Z"
   },
@@ -954,58 +1006,6 @@
    "drivers": [],
    "teams": [],
    "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T18:36:07.501Z"
-  },
-  {
-   "title": "The F1 drivers Verstappen joins with 50 poles or more",
-   "summary": "After securing his 50th F1 pole position at the Singapore Grand Prix, Max Verstappen has joined an exclusive group of drivers who have achieved this feat.",
-   "url": "https://www.formula1.com/en/latest/article/the-f1-drivers-with-50-pole-positions-or-more-as-verstappen-joins-the-club.7yYHrMHRlBIX609WQwlJ8g",
-   "date": "2026-10-10T18:32:07.501Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T18:36:07.501Z"
-  },
-  {
-   "title": "Nichts läuft bei Isack Hadjar: Red Bull entschuldigt sich",
-   "summary": "Auch am Samstag vor dem Grand Prix von Singapur hatte Isack Hadjar in seinem Red Bull mit technischen Problemen zu kämpfen",
-   "url": "https://www.formel1.de/nc/149322",
-   "date": "2026-10-10T18:31:43.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hadjar"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T18:36:07.501Z"
-  },
-  {
-   "title": "Russell trying to understand why Mercedes 'didn't feel the same'",
-   "summary": "George Russell believes that his Mercedes in Qualifying for the Singapore Grand Prix \"didn't feel the same\" following his crash in Saturday's earlier Sprint.",
-   "url": "https://www.formula1.com/en/latest/article/didnt-feel-the-same-russell-trying-to-understand-lack-of-pace-in-singapore-gp-qualifying.1sLY17kQLqTBgyoTRUQOHo",
-   "date": "2026-10-10T18:31:07.501Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
    "category": "Rennen",
    "firstSeen": "2026-10-10T18:36:07.501Z"
   }
