@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T12:59:45.892Z",
+ "updatedAt": "2026-10-12T14:42:43.308Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,34 @@
   }
  },
  "items": [
+  {
+   "title": "Vote for Your Heineken® F1 Season Ticket Winner",
+   "summary": "",
+   "url": "https://www.formula1.com/en/latest/article/vote-for-your-heineken-r-f1-season-ticket-winner.6pVzBqxOb38IOC4E71ZQLl",
+   "date": "2026-10-12T14:42:42.863Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Business",
+   "firstSeen": "2026-10-12T14:42:42.863Z"
+  },
+  {
+   "title": "TV-Quoten Singapur 2026: Formel-1-Grand-Prix schlägt DTM-Finale",
+   "summary": "Die Formel 1 legt bei Sky gegenüber 2025 um fast zwölf Prozent zu, auch RTL und ORF melden interessante Zahlen: Der Quotenvergleich aus Singapur",
+   "url": "https://www.formel1.de/nc/149348",
+   "date": "2026-10-12T14:02:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Business",
+   "firstSeen": "2026-10-12T14:42:42.863Z"
+  },
   {
    "title": "5 Winners and 5 Losers from Singapore",
    "summary": "Lawrence Barretto selects his winners and losers from the Singapore Grand Prix weekend.",
@@ -978,43 +1006,6 @@
     "mercedes"
    ],
    "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T18:36:07.501Z"
-  },
-  {
-   "title": "Toto Wolff: \"Max Verstappen ist jetzt eindeutig dominierend\"",
-   "summary": "Toto Wolff sieht Verstappen aktuell klar vorn, doch der Singapur Streckencharakter könnte das Kräfteverhältnis verzerren und Mercedes' Situation relativieren",
-   "url": "https://www.formel1.de/nc/149321",
-   "date": "2026-10-10T18:23:43.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-10T18:36:07.501Z"
-  },
-  {
-   "title": "McLaren-Kollision in Singapur: \"Nicht akzeptabel\" für Teamchef Stella",
-   "summary": "Nach der Kollision zwischen Oscar Piastri und Lando Norris im Sprint von Singapur zeigt sich McLaren-Teamchef Andrea Stella keineswegs begeistert",
-   "url": "https://www.formel1.de/nc/149320",
-   "date": "2026-10-10T17:50:37.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "piastri",
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
    "category": "Rennen",
    "firstSeen": "2026-10-10T18:36:07.501Z"
   }
