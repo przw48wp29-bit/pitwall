@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T06:48:01.097Z",
+ "updatedAt": "2026-10-12T08:41:19.949Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,79 @@
  },
  "items": [
   {
-   "title": "Nach Funk-Chaos: Bei Verstappen ändert sich schon in Austin etwas",
+   "title": "Norris concedes he 'let down' McLaren with Piastri clash",
+   "summary": "Lando Norris admits that \"I let down the team\" and has apologised to McLaren for his clash with team mate Oscar Piastri during the Singapore Sprint last weekend.",
+   "url": "https://www.formula1.com/en/latest/article/i-let-down-the-team-norris-apologises-to-mclaren-for-singapore-sprint-intra-team-clash.4ZzwKsV0z0lmQWXrlwAbV2",
+   "date": "2026-10-12T08:41:19.929Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris",
+    "piastri"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-12T08:41:19.929Z"
+  },
+  {
+   "title": "How Hamilton's call helped put Antonelli in reach of the title",
+   "summary": "Lewis Hamilton apologised following the Singapore Grand Prix after his strategy call ultimately led to his own race unravelling late on.",
+   "url": "https://www.formula1.com/en/latest/article/how-hamiltons-singapore-strategy-call-helped-put-antonelli-in-reach-of-the-title.2NeqeR8lkz3zom8MtJ2EE0",
+   "date": "2026-10-12T08:40:19.929Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton",
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-12T08:41:19.929Z"
+  },
+  {
+   "title": "Erklärt: Warum Kimi Antonelli keine Tracklimits-Strafe erhielt",
+   "summary": "Viermal verliess Kimi Antonelli in Singapur die Strecke, doch eine Zeitstrafe blieb aus: Die FIA erklärt, weshalb der Mercedes-Fahrer straffrei davonkam",
+   "url": "https://www.formel1.de/nc/149341",
+   "date": "2026-10-12T08:19:23.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Regeln",
+   "firstSeen": "2026-10-12T08:41:19.929Z"
+  },
+  {
+   "title": "Scharmützel ausgenutzt: So clever holte sich Antonelli das Podium in Singapur",
+   "summary": "Kimi Antonelli holte sich beim Singapur-GP Platz drei, als Lando Norris und Lewis Hamilton vor ihm nicht über die Vorfahrt einig wurden",
+   "url": "https://www.formel1.de/nc/149340",
+   "date": "2026-10-12T08:09:27.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli",
+    "norris",
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-12T08:41:19.929Z"
+  },
+  {
+   "title": "Verstappen überrascht von Lambiase-Geste: \"Damit hatte ich nicht gerechnet\"",
    "summary": "Funkprobleme zwangen Verstappen und Lambiase in Singapur zu ungewöhnlichen Methoden, gleichzeitig steht bei Red Bull ein Personalwechsel bevor",
    "url": "https://www.formel1.de/nc/149339",
    "date": "2026-10-12T06:47:19.000Z",
@@ -953,75 +1025,6 @@
    "team": "cadillac",
    "category": "Rennen",
    "firstSeen": "2026-10-10T14:31:32.577Z"
-  },
-  {
-   "title": "AS IT HAPPENED: Verstappen secures Singapore GP pole",
-   "summary": "Live coverage of the Formula 1 Qualifying session for the 2026 Singapore Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-singapore-2026.17cYORHG0DLsHyQxOhzimh",
-   "date": "2026-10-10T14:29:32.577Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T14:31:32.577Z"
-  },
-  {
-   "title": "Ralf Schumacher rechnet mit Russell ab: \"Fast ein Anfängerfehler\"",
-   "summary": "Ralf Schumacher kritisiert George Russell nach dessen Sprint-Crash in Singapur scharf - Der Mercedes-Pilot erklärt, wie es zum Unfall kam",
-   "url": "https://www.formel1.de/nc/149315",
-   "date": "2026-10-10T13:26:09.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T14:31:32.577Z"
-  },
-  {
-   "title": "Hamilton delighted with ‘mega start’ in Singapore Sprint",
-   "summary": "Lewis Hamilton improved from P6 to P3 on the opening lap of the Sprint in Singapore, which became P2 following George Russell’s early retirement.",
-   "url": "https://www.formula1.com/en/latest/article/this-is-a-great-day-hamilton-delighted-with-mega-start-that-earned-him-p2-in-singapore-sprint.2wLysf0JmbM1YLtPwOauab",
-   "date": "2026-10-10T12:38:22.071Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton",
-    "russell"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T12:38:22.071Z"
-  },
-  {
-   "title": "Verstappen admits concern over ‘horrendous’ Sprint start",
-   "summary": "Red Bull's Max Verstappen overcame a difficult start and challenging conditions to take victory in the Sprint at the Singapore Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/verstappen-reacts-to-first-singapore-sprint-win-as-he-admits-concern-over-horrendous-start.5Os9a1WXb1b5d0LJteX9QX",
-   "date": "2026-10-10T12:37:22.071Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T12:38:22.071Z"
   }
  ]
 }
