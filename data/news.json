@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T10:38:15.072Z",
+ "updatedAt": "2026-10-12T12:59:45.892Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,90 @@
   }
  },
  "items": [
+  {
+   "title": "5 Winners and 5 Losers from Singapore",
+   "summary": "Lawrence Barretto selects his winners and losers from the Singapore Grand Prix weekend.",
+   "url": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-2026-singapore-grand-prix.enbIERgZde8AWdlwQbKCg",
+   "date": "2026-10-12T12:59:45.879Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-12T12:59:45.879Z"
+  },
+  {
+   "title": "Abgeschossen und ausgerollt: \"Grauenvolles\" Wochenende für Bortoleto",
+   "summary": "Gabriel Bortoleto erlebt in Singapur das laut ihm mit Abstand frustrierendste Wochenende des Jahres: \"Wir hatten einfach so viele Probleme\"",
+   "url": "https://www.formel1.de/nc/149347",
+   "date": "2026-10-12T11:38:39.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bortoleto"
+   ],
+   "teams": [],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-10-12T12:59:45.879Z"
+  },
+  {
+   "title": "\"Unheimlich schmales Band\": Mercedes zieht Bilanz über Malaysia-Update",
+   "summary": "Mercedes war in Singapur schnell, doch Toto Wolff sieht ein enges Set-up-Fenster: In Austin soll das Update erneut Antworten liefern",
+   "url": "https://www.formel1.de/nc/149346",
+   "date": "2026-10-12T11:22:28.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Technik",
+   "firstSeen": "2026-10-12T12:59:45.879Z"
+  },
+  {
+   "title": "Fahrernoten Singapur: Nur Max Verstappen ist noch vor Nico Hülkenberg!",
+   "summary": "Nur Achter im Rennen, aber Zweiter in den Fahrernoten: Nico Hülkenberg überzeugt in Singapur, doch für Mercedes-Fahrer George Russell sieht es ganz anders aus",
+   "url": "https://www.formel1.de/nc/149345",
+   "date": "2026-10-12T10:59:46.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "hulkenberg",
+    "russell"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-12T12:59:45.879Z"
+  },
+  {
+   "title": "Haas am Sonntag ohne Ertrag: Punkte im Sprint \"nicht durch Pace verdient\"",
+   "summary": "Haas konnte aus Singapur ein paar Punkte mitnehmen, auch wenn diese laut Oliver Bearman nicht verdient waren - Sonntagsrennen bleibt ohne Belohnung",
+   "url": "https://www.formel1.de/nc/149344",
+   "date": "2026-10-12T10:45:27.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bearman"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Rennen",
+   "firstSeen": "2026-10-12T12:59:45.879Z"
+  },
   {
    "title": "Wolff wary of Red Bull's growing threat to Mercedes",
    "summary": "Toto Wolff admits he is wary of the growing threat that Red Bull could pose to Mercedes, after Max Verstappen claimed a dominant victory in the Singapore Grand Prix.",
@@ -933,96 +1017,6 @@
    "team": "mclaren",
    "category": "Rennen",
    "firstSeen": "2026-10-10T18:36:07.501Z"
-  },
-  {
-   "title": "Mercedes schöpft neue Hoffnung: Neues Paket hat \"einigermassen funktioniert\"",
-   "summary": "Kimi Antonelli konnte mit dem neuen Paket im Qualifying von Singapur vor Teamkollege George Russell landen: Der erste richtige Schritt für Mercedes?",
-   "url": "https://www.formel1.de/nc/149319",
-   "date": "2026-10-10T17:26:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T18:36:07.501Z"
-  },
-  {
-   "title": "Ferrari verschenkt Singapur-Pole: Hamilton bereut Set-Up-Änderung für Q3",
-   "summary": "Ferrari verpasst in Singapur die Pole nur knapp: Hamilton schiebt die Balance mit einer Set-up-Änderung über das Limit, Leclerc macht Fehler",
-   "url": "https://www.formel1.de/nc/149318",
-   "date": "2026-10-10T16:47:30.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T18:36:07.501Z"
-  },
-  {
-   "title": "Hadjar ‘really p****d’ to miss out on Singapore Qualifying",
-   "summary": "Isack Hadjar qualified in last place at the Marina Bay Circuit after a gearbox fault prevented him from completing a timed lap.",
-   "url": "https://www.formula1.com/en/latest/article/hadjar-really-p-d-to-miss-out-on-singapore-qualifying-as-reliability-woes-continue.4kqEILdQ3b5m391JE11XXy",
-   "date": "2026-10-10T16:31:59.201Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hadjar"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Technik",
-   "firstSeen": "2026-10-10T16:31:59.201Z"
-  },
-  {
-   "title": "Antonelli now ‘seeing the potential’ in Mercedes’ upgrades",
-   "summary": "Kimi Antonelli declared that he and Mercedes are now “starting to see the potential” in the upgrades they recently introduced, after enjoying a “better day” around Singapore’s Marina Bay Street Circuit.",
-   "url": "https://www.formula1.com/en/latest/article/antonelli-now-seeing-the-potential-in-mercedes-upgrades-after-better-day-in-singapore.1BdEq0Y4u9ZIr3eSyJWhes",
-   "date": "2026-10-10T16:30:59.201Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Technik",
-   "firstSeen": "2026-10-10T16:31:59.201Z"
-  },
-  {
-   "title": "Leclerc reveals ‘misjudgement’ that cost him Singapore pole",
-   "summary": "Charles Leclerc believed that there was more potential in his Ferrari after he narrowly missed out on pole position for the Singapore Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/i-had-a-lot-of-struggles-leclerc-reveals-misjudgement-that-cost-him-singapore-pole.10ZX0dKhEvCzFcqEfu3M0m",
-   "date": "2026-10-10T16:29:59.201Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T16:31:59.201Z"
   }
  ]
 }
