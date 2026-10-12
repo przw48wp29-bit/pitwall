@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T08:41:19.949Z",
+ "updatedAt": "2026-10-12T10:38:15.072Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,126 @@
   }
  },
  "items": [
+  {
+   "title": "Wolff wary of Red Bull's growing threat to Mercedes",
+   "summary": "Toto Wolff admits he is wary of the growing threat that Red Bull could pose to Mercedes, after Max Verstappen claimed a dominant victory in the Singapore Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/its-full-on-wolff-wary-of-growing-red-bull-threat-to-mercedes.6maHMRSn0IJZPbu3GkUVzX",
+   "date": "2026-10-12T10:38:14.923Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "mercedes",
+    "red_bull"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-12T10:38:14.923Z"
+  },
+  {
+   "title": "Lawson assesses odds of keeping his Racing Bulls seat",
+   "summary": "Liam Lawson scored valuable points for Racing Bulls in both the Sprint and Grand Prix at the Marina Bay Street Circuit.",
+   "url": "https://www.formula1.com/en/latest/article/you-tell-me-lawson-assesses-odds-of-keeping-his-racing-bulls-seat-after-mighty-singapore-showing.BaSVOgDL3bgtO4WT94pl2",
+   "date": "2026-10-12T10:37:14.923Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "lawson"
+   ],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "Transfer",
+   "firstSeen": "2026-10-12T10:38:14.923Z"
+  },
+  {
+   "title": "Hadjar 'happy' with Singapore GP recovery drive from pits",
+   "summary": "Isack Hadjar admits he was \"happy with the overall pace\" during last weekend's Singapore Grand Prix, as the Red Bull driver recovered to P10 from the pit lane.",
+   "url": "https://www.formula1.com/en/latest/article/happy-with-the-overall-pace-hadjar-reflects-on-singapore-grand-prix-recovery-drive-from-the-back.7ol9hiQ2qfWaLNMUXJyDsZ",
+   "date": "2026-10-12T10:36:14.923Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hadjar"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-12T10:38:14.923Z"
+  },
+  {
+   "title": "5 betting lessons after Verstappen wins Singapore GP",
+   "summary": "The four-time World Champion was dominant again across the Singapore Grand Prix weekend, including two poles and both Sprint and Grand Prix victories.",
+   "url": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-learnt-after-max-verstappen-wins-the-singapore-grand-prix.47zBFhP59tE7pkyPZxt9Tb",
+   "date": "2026-10-12T10:35:14.923Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-12T10:38:14.923Z"
+  },
+  {
+   "title": "The 2026 Qualifying and race head-to-heads so far",
+   "summary": "This is how each team mate pairing has stacked up against each other so far during the 2026 F1 season.",
+   "url": "https://www.formula1.com/en/latest/article/in-numbers-the-qualifying-and-race-head-to-heads-between-team-mates-so-far-in-2026.D8AYcVEPGOs8OjIiVisZw",
+   "date": "2026-10-12T10:34:14.923Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-12T10:38:14.923Z"
+  },
+  {
+   "title": "George Russell schreibt WM-Titel ab: Warum Mercedes jetzt andere Sorgen hat",
+   "summary": "George Russell sieht keine Chance mehr auf den Titel: Warum der Mercedes-Fahrer jetzt lieber über technische Probleme als über WM-Platz zwei spricht",
+   "url": "https://www.formel1.de/nc/149343",
+   "date": "2026-10-12T09:41:02.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-12T10:38:14.923Z"
+  },
+  {
+   "title": "Späte Einsicht bei Lando Norris: \"Hätte es gar nicht erst versuchen dürfen!\"",
+   "summary": "Unmittelbar nach dem Sprint hatte Lando Norris sein missglücktes Manöver gegen Oscar Piastri noch verteidigt, doch jetzt schlägt er reumütigere Töne an",
+   "url": "https://www.formel1.de/nc/149342",
+   "date": "2026-10-12T08:54:27.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris",
+    "piastri"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-12T10:38:14.923Z"
+  },
   {
    "title": "Norris concedes he 'let down' McLaren with Piastri clash",
    "summary": "Lando Norris admits that \"I let down the team\" and has apologised to McLaren for his clash with team mate Oscar Piastri during the Singapore Sprint last weekend.",
@@ -903,128 +1023,6 @@
    "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-10-10T16:31:59.201Z"
-  },
-  {
-   "title": "'We are where we should be' – Norris on Singapore Qualifying",
-   "summary": "Lando Norris believes that fifth on the grid for the Singapore Grand Prix is \"where we should be\", as McLaren continue to struggle to match the pace of the leading runners this weekend.",
-   "url": "https://www.formula1.com/en/latest/article/we-are-where-we-should-be-norris-and-piastri-reflect-on-mclarens-singapore-gp-qualifying.4c0lo9EiE9BYYL5iqIHNim",
-   "date": "2026-10-10T16:28:59.201Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T16:31:59.201Z"
-  },
-  {
-   "title": "Verstappen boosted by ‘very special’ pole for Singapore GP",
-   "summary": "Max Verstappen was suitably delighted after securing pole position for the Singapore Grand Prix, declaring that “this is the one I wanted” as he chases a maiden triumph at the event.",
-   "url": "https://www.formula1.com/en/latest/article/this-is-the-one-i-wanted-verstappen-boosted-by-very-special-pole-for-singapore-grand-prix.4GlVhEjfx7X640aHrg3A4z",
-   "date": "2026-10-10T16:27:59.201Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T16:31:59.201Z"
-  },
-  {
-   "title": "Verstappen beats Leclerc to pole position for Singapore GP",
-   "summary": "Max Verstappen denied Charles Leclerc pole position at Singapore's Marina Bay Circuit.",
-   "url": "https://www.formula1.com/en/latest/article/verstappen-beats-leclerc-to-pole-position-for-the-singapore-gp.7yum1V3S9aSTyj3Zzzs0Y9",
-   "date": "2026-10-10T16:26:59.201Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen",
-    "leclerc"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T16:31:59.201Z"
-  },
-  {
-   "title": "Formel-1-Motorenstrafen 2026: Die Übersicht",
-   "summary": "Die verwendeten Motorenteile während der Saison 2026 in der Übersicht: Wann welchem Formel-1-Fahrer eine Strafe droht",
-   "url": "https://www.formel1.de/nc/146406",
-   "date": "2026-10-10T15:33:08.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Qualifying: Max Verstappen mit erster \"echter\" Singapur-Pole",
-   "summary": "Max Verstappen holte sich zum ersten Mal eine Poleposition für den Singapur-Grand-Prix vor den beiden Ferraris von Charles Leclerc und Lewis Hamilton",
-   "url": "https://www.formel1.de/nc/149316",
-   "date": "2026-10-10T14:38:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "leclerc",
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T16:31:59.201Z"
-  },
-  {
-   "title": "Stewards decision on McLaren Singapore Sprint clash revealed",
-   "summary": "Lando Norris and Oscar Piastri have both escaped punishment after the McLaren team mates collided on the final lap of the Singapore Grand Prix Sprint.",
-   "url": "https://www.formula1.com/en/latest/article/stewards-reach-verdict-after-mclaren-intra-team-collision-in-singapore-gp-sprint.2LEoxWh3e7IEg674uCdLQ5",
-   "date": "2026-10-10T14:31:32.577Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris",
-    "piastri"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Regeln",
-   "firstSeen": "2026-10-10T14:31:32.577Z"
-  },
-  {
-   "title": "Perez and Stroll reflect on Singapore Sprint clash",
-   "summary": "Cadillac's Sergio Perez and Aston Martin's Lance Stroll both suffered an early exit from the Sprint at the Singapore Grand Prix, with the pair colliding less than one lap into the event.",
-   "url": "https://www.formula1.com/en/latest/article/perez-and-stroll-react-to-singapore-sprint-clash-as-outcome-of-stewards-investigation-announced.7ezizVQPLUUVJw3UX70ZK0",
-   "date": "2026-10-10T14:30:32.577Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "perez",
-    "stroll"
-   ],
-   "teams": [
-    "aston_martin",
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T14:31:32.577Z"
   }
  ]
 }
