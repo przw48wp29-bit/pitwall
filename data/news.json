@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T04:19:35.680Z",
+ "updatedAt": "2026-10-13T06:46:46.211Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Der versteckte Faktor, der Max Verstappen Hoffnung für 2027 gibt",
+   "summary": "Auch wenn Max Verstappen noch Verbesserungspotenzial sieht, ist wichtig, dass alle grossen Upgrades, die in dieser Saison eingeführt wurden, funktioniert haben",
+   "url": "https://www.formel1.de/nc/149350",
+   "date": "2026-10-13T05:51:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Technik",
+   "firstSeen": "2026-10-13T06:46:46.117Z"
+  },
   {
    "title": "Hockenheim-Vision mit Formel-1-Autos: Das steckt dahinter",
    "summary": "Neue Tribüne, Motorworld und Formel-1-Autos auf den Fotomontagen: In Hockenheim gibt es grosse Pläne - doch wie realistisch ist ein Grand-Prix-Comeback?",
@@ -992,20 +1008,6 @@
     "mclaren"
    ],
    "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T18:36:07.501Z"
-  },
-  {
-   "title": "What To Watch For in the Singapore Grand Prix",
-   "summary": "Chris Medland picks out five key things to keep an eye on when the lights go out on race day at the Marina Bay Street Circuit.",
-   "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-singapore-grand-prix.3sJXqpx3NdOWrrjnXZ7h0d",
-   "date": "2026-10-10T18:34:07.501Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
    "category": "Rennen",
    "firstSeen": "2026-10-10T18:36:07.501Z"
   }
