@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T18:40:23.513Z",
+ "updatedAt": "2026-10-13T04:19:35.680Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,20 @@
   }
  },
  "items": [
+  {
+   "title": "Hockenheim-Vision mit Formel-1-Autos: Das steckt dahinter",
+   "summary": "Neue Tribüne, Motorworld und Formel-1-Autos auf den Fotomontagen: In Hockenheim gibt es grosse Pläne - doch wie realistisch ist ein Grand-Prix-Comeback?",
+   "url": "https://www.formel1.de/nc/149349",
+   "date": "2026-10-13T04:17:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-13T04:19:35.679Z"
+  },
   {
    "title": "How Hulkenberg secured his best weekend of the season yet",
    "summary": "After taking P7 in the Sprint, Nico Hulkenberg battled to finish P8 at the Singapore Grand Prix and celebrate his highest-scoring round of the season so far.",
@@ -986,20 +1000,6 @@
    "summary": "Chris Medland picks out five key things to keep an eye on when the lights go out on race day at the Marina Bay Street Circuit.",
    "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-singapore-grand-prix.3sJXqpx3NdOWrrjnXZ7h0d",
    "date": "2026-10-10T18:34:07.501Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T18:36:07.501Z"
-  },
-  {
-   "title": "What the teams said – Sprint day and Qualifying in Singapore",
-   "summary": "The drivers and teams report back on all the action from the Sprint and Qualifying at the Marina Bay Street Circuit, ahead of the 2026 Singapore Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-sprint-day-and-qualifying-in-singapore-2026.5FELDvSCjmTcjvCtfedWaU",
-   "date": "2026-10-10T18:33:07.501Z",
    "source": "Formula1.com",
    "sourceId": "f1com",
    "lang": "en",
