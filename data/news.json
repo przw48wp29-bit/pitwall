@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T06:46:46.211Z",
+ "updatedAt": "2026-10-13T08:40:33.115Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,41 @@
  },
  "items": [
   {
-   "title": "Der versteckte Faktor, der Max Verstappen Hoffnung für 2027 gibt",
+   "title": "Singapur-Debakel von Lewis Hamilton: \"Senior Moment\" oder Vertrauensbruch?",
+   "summary": "Der \"verpasste\" Boxenstopp von Lewis Hamilton in Singapur: War es ein Blackout oder gezielte Tretmühle gegen Ferrari? Gedanken von Redakteur Stuart Codling",
+   "url": "https://www.formel1.de/nc/149352",
+   "date": "2026-10-13T08:17:23.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-13T08:40:33.098Z"
+  },
+  {
+   "title": "Toto Wolff: Kontroverse in Abu Dhabi 2016 \"war meine Schuld\"",
+   "summary": "Toto Wolff blickt auf das Duell zwischen Nico Rosberg und Lewis Hamilton zurück und erklärt, dass er mit seiner heutigen Erfahrung manches \"anders gehandhabt hätte\"",
+   "url": "https://www.formel1.de/nc/149351",
+   "date": "2026-10-13T06:52:06.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-13T08:40:33.098Z"
+  },
+  {
+   "title": "Was Max Verstappen und Red Bull Hoffnung für 2027 macht",
    "summary": "Auch wenn Max Verstappen noch Verbesserungspotenzial sieht, ist wichtig, dass alle grossen Upgrades, die in dieser Saison eingeführt wurden, funktioniert haben",
    "url": "https://www.formel1.de/nc/149350",
    "date": "2026-10-13T05:51:05.000Z",
@@ -20,7 +54,9 @@
    "drivers": [
     "max_verstappen"
    ],
-   "teams": [],
+   "teams": [
+    "red_bull"
+   ],
    "team": "red_bull",
    "category": "Technik",
    "firstSeen": "2026-10-13T06:46:46.117Z"
@@ -977,39 +1013,6 @@
    "team": "cadillac",
    "category": "Regeln",
    "firstSeen": "2026-10-10T20:31:41.227Z"
-  },
-  {
-   "title": "Why F1 fans should keep emotions out of Singapore GP",
-   "summary": "Safer gambling is important, so we’ve flagged some key areas to avoid letting your emotions run wild during Sunday's race at Marina Bay.",
-   "url": "https://www.formula1.com/en/latest/article/why-f1-fans-should-keep-emotions-out-of-their-bets-during-the-singapore-grand-prix.6A2tjupHGD063ttuHg3OLM",
-   "date": "2026-10-10T18:36:07.501Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T18:36:07.501Z"
-  },
-  {
-   "title": "'It is serious' – Stella addresses Norris and Piastri's clash",
-   "summary": "McLaren Team Principal Andrea Stella has shared his reaction to the collision that occurred between Lando Norris and Oscar Piastri on the final lap of the Singapore Sprint.",
-   "url": "https://www.formula1.com/en/latest/article/it-is-serious-stella-disappointed-by-norris-and-piastris-clash-in-singapore-sprint.7hW2cxQgohHZfu4wgvtfRQ",
-   "date": "2026-10-10T18:35:07.501Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris",
-    "piastri"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-10T18:36:07.501Z"
   }
  ]
 }
