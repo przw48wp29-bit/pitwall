@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T10:38:30.043Z",
+ "updatedAt": "2026-10-13T12:47:02.906Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,40 @@
   }
  },
  "items": [
+  {
+   "title": "\"Fühle mich sehr gut\": Lawson sammelt Argumente für seine Formel-1-Zukunft",
+   "summary": "Liam Lawson sammelt in Singapur neue Argumente für seine weitere Zukunft in der Formel 1: Cockpit für 2027 ist nicht sicher, aber der Racing-Bulls-Pilot \"fühlt sich gut\"",
+   "url": "https://www.formel1.de/nc/149357",
+   "date": "2026-10-13T12:44:36.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "lawson"
+   ],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "Transfer",
+   "firstSeen": "2026-10-13T12:47:02.818Z"
+  },
+  {
+   "title": "Fernando Alonso: Topteams wollen langweilige Sprintrennen haben",
+   "summary": "Fernando Alonso glaubt nicht an grössere Änderungen am Sprintformat, weil vor allem die Topteams daran seiner Meinung nach überhaupt kein Interesse haben",
+   "url": "https://www.formel1.de/nc/149356",
+   "date": "2026-10-13T11:47:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-10-13T12:47:02.818Z"
+  },
   {
    "title": "Everything we know about F1’s all-new race in Rwanda",
    "summary": "Formula 1 is heading back to Africa after agreeing a 10-year deal to race in Rwanda in the early 2030s. To get you up to speed, here’s what we know …",
@@ -974,38 +1008,6 @@
    "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-10-11T08:34:06.931Z"
-  },
-  {
-   "title": "Max Verstappen in Singapur: Grösster Stolperstein ist der Start",
-   "summary": "Max Verstappen könnte am Sonntag den nächsten Sieg feiern, doch zwischen ihm und dem Erfolg steht noch der Start, der am Samstag wieder schwach war",
-   "url": "https://www.formel1.de/nc/149326",
-   "date": "2026-10-11T07:15:16.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-11T08:34:06.931Z"
-  },
-  {
-   "title": "Racing Bulls to make driver decision 'in the coming weeks'",
-   "summary": "Team Principal Alan Permane confirmed that Racing Bulls are yet to decide which drivers will represent them in 2027.",
-   "url": "https://www.formula1.com/en/latest/article/permane-states-racing-bulls-will-select-their-2027-driver-line-up-in-the-coming-weeks.39Cso2HINAEU5KViOulOZb",
-   "date": "2026-10-11T06:40:03.802Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "rb"
-   ],
-   "team": "rb",
-   "category": "News",
-   "firstSeen": "2026-10-11T06:40:03.802Z"
   }
  ]
 }
