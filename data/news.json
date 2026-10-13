@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T14:41:30.884Z",
+ "updatedAt": "2026-10-13T16:38:21.515Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,92 @@
   }
  },
  "items": [
+  {
+   "title": "Inside Rwanda’s plan for the African Grand Prix",
+   "summary": "Formula 1 will return to Africa in the early 2030s after Rwanda agreed a 10-year deal to host an African Grand Prix. President Paul Kagame, the country’s officials and the circuit’s designers explain what they are building – and why.",
+   "url": "https://www.formula1.com/en/latest/article/hills-a-lake-and-a-roller-coaster-inside-rwandas-plan-for-the-african-grand-prix.76LEZDItQYH362QElcHoY1",
+   "date": "2026-10-13T16:38:21.492Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-13T16:38:21.492Z"
+  },
+  {
+   "title": "PALMER: What really cost Hamilton a podium in Singapore?",
+   "summary": "Former Renault F1 driver and F1 TV's expert analyst Jolyon Palmer delves into the detail of Hamilton's race under the Singapore lights.",
+   "url": "https://www.formula1.com/en/latest/article/what-really-cost-lewis-hamilton-a-podium-in-singapore.4OsGotxiP08t92cvjeXO4y",
+   "date": "2026-10-13T16:37:21.492Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-13T16:38:21.492Z"
+  },
+  {
+   "title": "Reifenschaden in Singapur hat Oscar Piastri \"wahrscheinlich sogar geholfen\"",
+   "summary": "Oscar Piastri glaubt, dass ihm der Reifenschaden in Singapur \"wahrscheinlich sogar geholfen\" hat: Der McLaren-Pilot konnte am Ende noch Lewis Hamilton überholen",
+   "url": "https://www.formel1.de/nc/149360",
+   "date": "2026-10-13T16:22:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "piastri",
+    "hamilton"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-10-13T16:38:21.492Z"
+  },
+  {
+   "title": "\"Ständig quergestanden\": Pierre Gasly schlägt Alarm nach Singapur-Debakel",
+   "summary": "Pierre Gasly bleibt in Singapur trotz gutem Startplatz ohne Punkte: Der Alpine-Pilot schlägt Alarm, weil er schon nach drei Runden mit Problemen zu kämpfen hatte",
+   "url": "https://www.formel1.de/nc/149359",
+   "date": "2026-10-13T15:33:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "gasly"
+   ],
+   "teams": [
+    "alpine"
+   ],
+   "team": "alpine",
+   "category": "Rennen",
+   "firstSeen": "2026-10-13T16:38:21.492Z"
+  },
+  {
+   "title": "Bottas klagt über Cadillac: Problem mit den Bremsen \"schon ab Runde zwei\"",
+   "summary": "Valtteri Bottas wird in Singapur fast von Teamkollege Sergio Perez überrundet: Der Cadillac-Pilot hatte zwar Bremsprobleme, allerdings war das nicht der einzige Grund",
+   "url": "https://www.formel1.de/nc/149358",
+   "date": "2026-10-13T14:44:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bottas",
+    "perez"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "News",
+   "firstSeen": "2026-10-13T16:38:21.492Z"
+  },
   {
    "title": "Who impressed our Power Rankings judges in Singapore?",
    "summary": "Max Verstappen was in a class of his own in Singapore last weekend, as he finally claimed victory at the Marina Bay Street Circuit. But who else impressed our Power Rankings judges? Check out the latest scores and overall leaderboard below …",
@@ -106,7 +192,7 @@
    "firstSeen": "2026-10-13T10:38:29.913Z"
   },
   {
-   "title": "Sticheln gegen Horner? Red Bull musste \"wieder eine Einheit werden\"",
+   "title": "Oliver Mintzlaff: Warum Laurent Mekies der richtige Mann für Red Bull ist",
    "summary": "Red-Bull-CEO Oliver Mintzlaff ist zufrieden mit der Arbeit von Laurent Mekies und verrät, was man sich nach der Trennung von Christian Horner gewünscht hatte",
    "url": "https://www.formel1.de/nc/149355",
    "date": "2026-10-13T10:32:05.000Z",
@@ -928,84 +1014,6 @@
    "team": "red_bull",
    "category": "Rennen",
    "firstSeen": "2026-10-11T14:32:41.325Z"
-  },
-  {
-   "title": "Jetzt fehlt nur noch Madrid: Max Verstappen siegt erstmals in Singapur!",
-   "summary": "Max Verstappen hat zum ersten Mal den Grossen Preis von Singapur gewonnen - Charles Leclerc und Kimi Antonelli auf dem Podium",
-   "url": "https://www.formel1.de/nc/149330",
-   "date": "2026-10-11T14:02:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "leclerc",
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-11T14:32:41.325Z"
-  },
-  {
-   "title": "OFFICIAL GRID: Who starts where for the Singapore Grand Prix",
-   "summary": "The full official starting order for Sunday's 2026 Singapore Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-for-the-2026-singapore-grand-prix.4JVD7MzJPal9kXzVlrEXXo",
-   "date": "2026-10-11T12:39:39.508Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-11T12:39:39.508Z"
-  },
-  {
-   "title": "AS IT HAPPENED: Verstappen wins Singapore Grand Prix",
-   "summary": "Live coverage of the Formula 1 Singapore Airlines Singapore Grand Prix 2026.",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-singapore-airlines-singapore-grand-prix-2026.64UBFhKsSsN0V9RoD8JQqx",
-   "date": "2026-10-11T12:38:39.508Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-11T12:39:39.508Z"
-  },
-  {
-   "title": "F1-Eklat um Überholmodus: FIA gibt Fehler zu, Sainz ist fassungslos",
-   "summary": "Die FIA räumt einen Fehler beim Sprint-Qualifying in Singapur ein: Trotz ungleicher Bedingungen blieb das Ergebnis bestehen - Sainz übt Kritik",
-   "url": "https://www.formel1.de/nc/149329",
-   "date": "2026-10-11T08:54:25.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "sainz"
-   ],
-   "teams": [],
-   "team": "williams",
-   "category": "Regeln",
-   "firstSeen": "2026-10-11T10:32:38.078Z"
-  },
-  {
-   "title": "Our final predictions and latest Singapore GP odds",
-   "summary": "Our expert betting writers bring you their final predictions and latest odds before the Singapore Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/our-final-singapore-grand-prix-betting-predictions-before-lights-out-at-marina-bay.ExmwSnuuAUr9ysMNv8BhZ",
-   "date": "2026-10-11T08:34:06.931Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-11T08:34:06.931Z"
   }
  ]
 }
