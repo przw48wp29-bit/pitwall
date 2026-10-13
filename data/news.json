@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T16:38:21.515Z",
+ "updatedAt": "2026-10-13T18:44:50.474Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,40 @@
   }
  },
  "items": [
+  {
+   "title": "\"Schmerzhafte Lektion\": Lewis Hamilton nimmt Schuld an Strategiefehler auf sich",
+   "summary": "Lewis Hamilton nimmt den Strategie-Patzer in Singapur auf die eigene Kappe: Der Ferrari-Pilot entschuldigt sich am Montag in den sozialen Netzwerken bei seinen Fans",
+   "url": "https://www.formel1.de/nc/149362",
+   "date": "2026-10-13T17:34:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-13T18:44:50.353Z"
+  },
+  {
+   "title": "Brandbrief an die Politik: So soll der Motorsport überleben",
+   "summary": "Der DMSB fordert beim Branchengipfel SPORT MARKE MEDIEN in München bessere Bedingungen für den Rennsport. Auch Audi und BMW debattieren über die Zukunft",
+   "url": "https://www.formel1.de/nc/149361",
+   "date": "2026-10-13T17:00:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-10-13T18:44:50.353Z"
+  },
   {
    "title": "Inside Rwanda’s plan for the African Grand Prix",
    "summary": "Formula 1 will return to Africa in the early 2030s after Rwanda agreed a 10-year deal to host an African Grand Prix. President Paul Kagame, the country’s officials and the circuit’s designers explain what they are building – and why.",
@@ -976,44 +1010,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-10-09T19:55:05.085Z"
-  },
-  {
-   "title": "Verstappen your Singapore Driver of the Day after dominant win",
-   "summary": "His first-ever Grand Prix win in Singapore, but his fifth consecutive Driver of the Day triumph - Max Verstappen was simply untouchable around Marina Bay as he and a resurgent Red Bull powered to glory over Ferrari and Mercedes",
-   "url": "https://www.formula1.com/en/latest/article/driver-of-the-day-first-time-singapore-gp-winner-verstappen-gets-your-vote.6KaQbrOz89gdBDMMW9bjqM",
-   "date": "2026-10-11T14:32:41.325Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "mercedes",
-    "red_bull",
-    "ferrari"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-11T14:32:41.325Z"
-  },
-  {
-   "title": "Verstappen seals commanding Singapore victory",
-   "summary": "Red Bull's Max Verstappen continued his winning form by triumphing in the Singapore Grand Prix on his 250th Grand Prix start.",
-   "url": "https://www.formula1.com/en/latest/article/verstappen-seals-commanding-singapore-grand-prix-victory-from-leclerc-and-antonelli.49wDzysiVqi5cloGjle40A",
-   "date": "2026-10-11T14:31:41.325Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-11T14:32:41.325Z"
   }
  ]
 }
