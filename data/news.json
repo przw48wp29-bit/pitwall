@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T12:47:02.906Z",
+ "updatedAt": "2026-10-13T14:41:30.884Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Who impressed our Power Rankings judges in Singapore?",
+   "summary": "Max Verstappen was in a class of his own in Singapore last weekend, as he finally claimed victory at the Marina Bay Street Circuit. But who else impressed our Power Rankings judges? Check out the latest scores and overall leaderboard below …",
+   "url": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-singapore-grand-prix.5QlX11s0CnF9CNnoa0H2O2",
+   "date": "2026-10-13T14:41:30.872Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-13T14:41:30.872Z"
+  },
   {
    "title": "\"Fühle mich sehr gut\": Lawson sammelt Argumente für seine Formel-1-Zukunft",
    "summary": "Liam Lawson sammelt in Singapur neue Argumente für seine weitere Zukunft in der Formel 1: Cockpit für 2027 ist nicht sicher, aber der Racing-Bulls-Pilot \"fühlt sich gut\"",
@@ -28,7 +44,7 @@
    "firstSeen": "2026-10-13T12:47:02.818Z"
   },
   {
-   "title": "Fernando Alonso: Topteams wollen langweilige Sprintrennen haben",
+   "title": "Fernando Alonso: Teams haben zu viel Macht in der Formel 1",
    "summary": "Fernando Alonso glaubt nicht an grössere Änderungen am Sprintformat, weil vor allem die Topteams daran seiner Meinung nach überhaupt kein Interesse haben",
    "url": "https://www.formel1.de/nc/149356",
    "date": "2026-10-13T11:47:04.000Z",
@@ -988,24 +1004,6 @@
    "drivers": [],
    "teams": [],
    "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-11T08:34:06.931Z"
-  },
-  {
-   "title": "Hamilton fordert Änderungen in Singapur: Sprint wäre ohne Regen langweilig",
-   "summary": "Lewis Hamilton würde die Strecke in Singapur verändern, um mehr Überholmanöver zu ermöglichen, während Verstappen und Leclerc an Stadtsprints zweifeln",
-   "url": "https://www.formel1.de/nc/149328",
-   "date": "2026-10-11T07:58:40.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "max_verstappen",
-    "leclerc"
-   ],
-   "teams": [],
-   "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-10-11T08:34:06.931Z"
   }
