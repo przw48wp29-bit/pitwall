@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T08:51:40.391Z",
+ "updatedAt": "2026-10-14T10:49:53.569Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,36 @@
   }
  },
  "items": [
+  {
+   "title": "Vor Ruanda: Auf diesen Strecken in Afrika fuhr die Formel 1 bereits",
+   "summary": "Der neue Formel-1-Kurs in Ruanda wird der vierte sein, auf dem die Königsklasse im Rahmen der Weltmeisterschaft gastieren wird: Ein Überblick über bisherige Kurse",
+   "url": "https://www.formel1.de/nc/149368",
+   "date": "2026-10-14T10:41:45.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-14T10:49:53.462Z"
+  },
+  {
+   "title": "Erklärt: Der psychologische Vorteil, der Max Verstappen so gefährlich macht",
+   "summary": "Max Verstappen ist bekannt für seine Härte im Zweikampf, doch seine grösste Stärke liegt womöglich ganz woanders - mit einem Vorteil, den keine Stoppuhr messen kann",
+   "url": "https://www.formel1.de/nc/149367",
+   "date": "2026-10-14T09:57:41.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-14T10:49:53.462Z"
+  },
   {
    "title": "\"Wirklich clever\": Audi-Rennleiter lobt Singapur-Leistung von Nico Hülkenberg",
    "summary": "Nico Hülkenberg fährt in Singapur sein bislang bestes Wochenende für Audi: Allan NcNish lobt den Deutschen und betont, dass er sich \"wirklich clever\" angestellt hat",
@@ -979,40 +1009,6 @@
     "mercedes"
    ],
    "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-11T16:33:10.803Z"
-  },
-  {
-   "title": "Antonelli reacts as Singapore P3 puts him on brink of title",
-   "summary": "Kimi Antonelli amusingly appeared to be taken by surprise when informed that his podium finish in the Singapore Grand Prix has put him on the brink of clinching this year’s World Championship title.",
-   "url": "https://www.formula1.com/en/latest/article/can-i-really-antonelli-reacts-as-he-gives-himself-first-chance-of-sealing-world-title-after-singapore-podium.2BhiC6Exd2Jtm9uT3xZ2Rb",
-   "date": "2026-10-11T16:31:10.803Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-11T16:33:10.803Z"
-  },
-  {
-   "title": "Norris 'not happy with a P4' finish in Singapore GP",
-   "summary": "Lando Norris admits that he is \"not happy with a P4\" finish in the Singapore Grand Prix, with the reigning World Champion demanding more from McLaren as they \"want to fight for wins\".",
-   "url": "https://www.formula1.com/en/latest/article/we-want-to-fight-for-wins-norris-not-happy-with-a-p4-finish-in-singapore-gp.7KagAh8STy3D0lYmIV5fOx",
-   "date": "2026-10-11T16:30:10.803Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
    "category": "Rennen",
    "firstSeen": "2026-10-11T16:33:10.803Z"
   }
