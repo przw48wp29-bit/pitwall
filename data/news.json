@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T07:02:36.868Z",
+ "updatedAt": "2026-10-14T08:51:40.391Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,25 @@
  },
  "items": [
   {
-   "title": "5 Fragen zum neuen Formel-1-Rennen in Ruanda",
+   "title": "\"Wirklich clever\": Audi-Rennleiter lobt Singapur-Leistung von Nico Hülkenberg",
+   "summary": "Nico Hülkenberg fährt in Singapur sein bislang bestes Wochenende für Audi: Allan NcNish lobt den Deutschen und betont, dass er sich \"wirklich clever\" angestellt hat",
+   "url": "https://www.formel1.de/nc/149366",
+   "date": "2026-10-14T08:15:11.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hulkenberg"
+   ],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-10-14T08:51:40.376Z"
+  },
+  {
+   "title": "Formel 1 in Ruanda: Wie wird die Strecke? Und was will man dort überhaupt?",
    "summary": "Die Formel 1 wird in naher Zukunft ein Rennen in Ruanda austragen: Hier sind die fünf wichtigsten Fragen zum neuen Grand Prix",
    "url": "https://www.formel1.de/nc/149365",
    "date": "2026-10-14T06:55:38.000Z",
@@ -995,22 +1013,6 @@
     "mclaren"
    ],
    "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-11T16:33:10.803Z"
-  },
-  {
-   "title": "Leclerc ‘gave it all’ to secure P2 in Singapore",
-   "summary": "Charles Leclerc has reflected on his return to the podium at the Singapore Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/i-dont-regret-anything-leclerc-gave-it-all-to-secure-p2-in-singapore.4TemKhORmVtudPgWO2Uiw4",
-   "date": "2026-10-11T16:29:10.803Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [],
-   "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-10-11T16:33:10.803Z"
   }
