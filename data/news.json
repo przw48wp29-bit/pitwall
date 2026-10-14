@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T14:49:52.089Z",
+ "updatedAt": "2026-10-14T16:52:08.303Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,116 @@
   }
  },
  "items": [
+  {
+   "title": "Mekies signs long-term contract extension with Red Bull",
+   "summary": "Red Bull have confirmed that Laurent Mekies will continue his role as Team Principal through 2031.",
+   "url": "https://www.formula1.com/en/latest/article/mekies-commits-to-long-term-contract-extension-as-red-bull-team-principal.1NfCP1Zas2IAzVa3sNa3yf",
+   "date": "2026-10-14T16:52:08.151Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Transfer",
+   "firstSeen": "2026-10-14T16:52:08.151Z"
+  },
+  {
+   "title": "Freddie Hunt on father James’ legacy 50 years after his title",
+   "summary": "Freddie Hunt has been speaking to Beyond The Grid about his father James Hunt, reflecting on his racing talent, friendship with Niki Lauda and lasting impact on Formula 1.",
+   "url": "https://www.formula1.com/en/latest/article/he-glamorised-the-sport-freddie-hunt-on-father-james-legacy-50-years-after-his-world-championship-triumph.UAidcqvfpEBQjBwmemKdP",
+   "date": "2026-10-14T16:51:08.151Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-14T16:52:08.151Z"
+  },
+  {
+   "title": "The 27 tracks Verstappen has won at after Singapore triumph",
+   "summary": "Max Verstappen triumphed in Singapore with Red Bull at the weekend, to take his maiden Grand Prix win at the Marina Bay Street Circuit. The Dutchman won at his 10th attempt under the lights of F1’s original night race at the end of an incredible weekend for the four-time World Champion that included the win in the Spri",
+   "url": "https://www.formula1.com/en/latest/article/the-27-circuits-verstappen-has-won-at-after-he-finally-triumphs-in-singapore.4BEyXdB3iqKR3unfWTWgAj",
+   "date": "2026-10-14T16:50:08.151Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-14T16:52:08.151Z"
+  },
+  {
+   "title": "Inside the making of Netflix’s Schumacher ’94",
+   "summary": "Director Christin Freitag reveals how 1,300 hours of archive footage, interviews and music helped recreate Michael Schumacher's 1994 Formula 1 season.",
+   "url": "https://www.formula1.com/en/latest/article/bringing-schumacher-94-to-life-the-story-behind-the-new-netflix-documentary.39iir7vodRPo6aXOtNkMrx",
+   "date": "2026-10-14T16:49:08.151Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-14T16:52:08.151Z"
+  },
+  {
+   "title": "Red-Bull-Zukunft in der F1: Mekies verlängert um fünf Jahre als Teamchef",
+   "summary": "Laurent Mekies bleibt bis Ende 2031 Teamchef beim Formel-1-Rennstall von Red Bull - Wie er selber und Red-Bull-CEO Oliver Mintzlaff den Schritt erklären",
+   "url": "https://www.formel1.de/nc/149374",
+   "date": "2026-10-14T16:43:19.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-14T16:52:08.151Z"
+  },
+  {
+   "title": "F1-Weltmeister Lando Norris: Millionen-Investment in Hospitality-Plattform",
+   "summary": "Der amtierende Formel-1-Weltmeister Lando Norris beteiligt sich an einer 20-Millionen-Pfund-Finanzierungsrunde der britischen Hospitality-Plattform Seat Unique",
+   "url": "https://www.formel1.de/nc/149373",
+   "date": "2026-10-14T15:59:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "Transfer",
+   "firstSeen": "2026-10-14T16:52:08.151Z"
+  },
+  {
+   "title": "Carlos Sainz schlägt Alarm: Formel 1 ist zur Dreiklassengesellschaft geworden",
+   "summary": "Carlos Sainz kritisiert das neue Reglement und sieht die Formel 1 mittlerweile als Dreiklassengesellschaft: Warum der Spanier trotzdem auch positive Seiten erkennt",
+   "url": "https://www.formel1.de/nc/149372",
+   "date": "2026-10-14T14:58:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "sainz"
+   ],
+   "teams": [],
+   "team": "williams",
+   "category": "Regeln",
+   "firstSeen": "2026-10-14T16:52:08.151Z"
+  },
   {
    "title": "'We owe him one' – Mekies on Hadjar's Singapore issues",
    "summary": "Laurent Mekies apologised to Isack Hadjar after reliability struggles limited his performance at the Singapore Grand Prix.",
@@ -26,7 +136,7 @@
    "firstSeen": "2026-10-14T14:49:52.069Z"
   },
   {
-   "title": "\"Zu viel Einfluss\": Christian Horner über mögliche Gründe für sein Red-Bull-Aus",
+   "title": "Nach Tod von Mateschitz \"ganz anders\": Horner spricht über sein Red-Bull-Aus",
    "summary": "Ex-Teamchef Christian Horner äussert sich dazu, warum sich Red Bull im vergangenen Jahr von ihm getrennt hat und vermutet, dass er\"zu viel Einfluss\" auf das Team hatte",
    "url": "https://www.formel1.de/nc/149371",
    "date": "2026-10-14T14:01:47.000Z",
@@ -889,120 +999,6 @@
    "team": "red_bull",
    "category": "News",
    "firstSeen": "2026-10-12T06:48:01.081Z"
-  },
-  {
-   "title": "Formel-1-Zuschauer: So viele kamen zum Grand Prix von Singapur",
-   "summary": "Kein Rekord, aber: So viele Formel-1-Zuschauer verfolgten den Grand Prix von Singapur 2026 vor Ort am Marina Bay Circuit",
-   "url": "https://www.formel1.de/nc/146482",
-   "date": "2026-10-12T05:52:26.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-12T06:48:01.081Z"
-  },
-  {
-   "title": "Wer letzte Nacht am besten geschlafen hat: Max Verstappen",
-   "summary": "Mercedes schien 2026 uneinholbar, doch die Siege von Max Verstappen werfen eine Frage auf: War die Überlegenheit der Silberpfeile nur eine Momentaufnahme?",
-   "url": "https://www.formel1.de/nc/149337",
-   "date": "2026-10-12T04:28:40.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-12T04:38:02.499Z"
-  },
-  {
-   "title": "Wer letzte Nacht am schlechtesten geschlafen hat: Nikola Tsolov",
-   "summary": "Während Nikola Tsolov aktuell frei hat, fährt sein grösster F1-Konkurrent in der Form seines Lebens - Lando Norris hat derweil schon am Samstag schlecht geschlafen",
-   "url": "https://www.formel1.de/nc/149336",
-   "date": "2026-10-12T03:30:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-10-12T04:19:22.099Z"
-  },
-  {
-   "title": "\"Gerade gut genug\": So bewertet Max Verstappen seinen ersten Singapur-Sieg",
-   "summary": "Max Verstappen gewinnt erstmals in Singapur: Während Laurent Mekies sein Tempo lobt, räumt Red Bull bei der Startperformance weiteren Verbesserungsbedarf ein",
-   "url": "https://www.formel1.de/nc/149335",
-   "date": "2026-10-11T19:50:07.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-11T20:32:55.062Z"
-  },
-  {
-   "title": "What the teams said – Race day in Singapore",
-   "summary": "The drivers and teams report back on all the action from the 2026 Singapore Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-singapore-2026.3lLHolVW3aIRAl7Ohxlxf6",
-   "date": "2026-10-11T18:36:59.043Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-11T18:36:59.043Z"
-  },
-  {
-   "title": "All the key moments from the 2026 Singapore Grand Prix",
-   "summary": "Max Verstappen continued his 2026 resurgence in Singapore, beating Charles Leclerc and Kimi Antonelli to a long-awaited Grand Prix victory around Marina Bay.",
-   "url": "https://www.formula1.com/en/latest/article/singapore-lowdown-all-the-key-moments-as-verstappen-dominates-and-ferrari-face-strategy-turmoil.08P4aNzUgbtUZ7GnJ9njb",
-   "date": "2026-10-11T18:35:59.043Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen",
-    "leclerc",
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-11T18:36:59.043Z"
-  },
-  {
-   "title": "Hamilton apologises after ‘painful lesson’ in Singapore",
-   "summary": "Lewis Hamilton has conceded that the decision to stay out on track rather than pit under the Virtual Safety Car during the Singapore Grand Prix was his, labelling it as a \"painful lesson\".",
-   "url": "https://www.formula1.com/en/latest/article/a-painful-lesson-hamilton-apologises-as-he-takes-responsibility-for-strategy-gamble-in-singapore.6NUbQvdet1DQa5ElDtonw1",
-   "date": "2026-10-11T18:34:59.043Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-11T18:36:59.043Z"
   }
  ]
 }
