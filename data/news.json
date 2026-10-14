@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T04:29:46.637Z",
+ "updatedAt": "2026-10-14T07:02:36.868Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,37 @@
  },
  "items": [
   {
-   "title": "Lawson: Wenn man den Red Bull und den Racing Bulls kombinieren würde …",
+   "title": "5 Fragen zum neuen Formel-1-Rennen in Ruanda",
+   "summary": "Die Formel 1 wird in naher Zukunft ein Rennen in Ruanda austragen: Hier sind die fünf wichtigsten Fragen zum neuen Grand Prix",
+   "url": "https://www.formel1.de/nc/149365",
+   "date": "2026-10-14T06:55:38.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-14T07:02:36.698Z"
+  },
+  {
+   "title": "Max Verstappen: FAQ zu seinem Start in der GTWC Europe",
+   "summary": "Max Verstappen wagt sich an diesem Wochenende beim Saisonfinale der GT-World-Challenge Europe erstmals in Europas Vorzeige-GT-Serie - 16 Fragen und Antworten",
+   "url": "https://www.formel1.de/nc/149364",
+   "date": "2026-10-14T05:50:46.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-14T07:02:36.698Z"
+  },
+  {
+   "title": "Liam Lawson kennt beide Red-Bull-Autos: Was er jetzt darüber verrät",
    "summary": "Ein Formel-1-Auto aus den Stärken von Red Bull und Racing Bulls? Liam Lawson hält das für eine interessante Idee, doch das Reglement setzt klare Grenzen",
    "url": "https://www.formel1.de/nc/149363",
    "date": "2026-10-14T04:23:05.000Z",
@@ -982,38 +1012,6 @@
    "teams": [],
    "team": "ferrari",
    "category": "Rennen",
-   "firstSeen": "2026-10-11T16:33:10.803Z"
-  },
-  {
-   "title": "Verstappen thrilled with first Singapore win at 10th attempt",
-   "summary": "Max Verstappen expressed his pride and satisfaction after claiming a long-awaited Singapore Grand Prix win – the result coming in the Dutchman’s 10th attempt.",
-   "url": "https://www.formula1.com/en/latest/article/its-taken-a-while-verstappen-thrilled-with-maiden-singapore-win-at-10th-attempt.7A6wicGmDmoONtJzg1TdLl",
-   "date": "2026-10-11T16:28:10.803Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-11T16:33:10.803Z"
-  },
-  {
-   "title": "So kann Kimi Antonelli schon in Austin Formel-1-Weltmeister werden",
-   "summary": "Kim Antonelli steht nach seinem Podestplatz in Singapur vor dem Gewinn seines ersten WM-Titels: Die Entscheidung kann nun bereits in Austin fallen",
-   "url": "https://www.formel1.de/nc/149331",
-   "date": "2026-10-11T16:08:37.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
    "firstSeen": "2026-10-11T16:33:10.803Z"
   }
  ]
