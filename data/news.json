@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T18:44:50.474Z",
+ "updatedAt": "2026-10-14T04:29:46.637Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,25 @@
   }
  },
  "items": [
+  {
+   "title": "Lawson: Wenn man den Red Bull und den Racing Bulls kombinieren würde …",
+   "summary": "Ein Formel-1-Auto aus den Stärken von Red Bull und Racing Bulls? Liam Lawson hält das für eine interessante Idee, doch das Reglement setzt klare Grenzen",
+   "url": "https://www.formel1.de/nc/149363",
+   "date": "2026-10-14T04:23:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "lawson"
+   ],
+   "teams": [
+    "rb",
+    "red_bull"
+   ],
+   "team": "rb",
+   "category": "Regeln",
+   "firstSeen": "2026-10-14T04:29:46.636Z"
+  },
   {
    "title": "\"Schmerzhafte Lektion\": Lewis Hamilton nimmt Schuld an Strategiefehler auf sich",
    "summary": "Lewis Hamilton nimmt den Strategie-Patzer in Singapur auf die eigene Kappe: Der Ferrari-Pilot entschuldigt sich am Montag in den sozialen Netzwerken bei seinen Fans",
@@ -996,20 +1015,6 @@
    "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-10-11T16:33:10.803Z"
-  },
-  {
-   "title": "Die Qualifying-, Sprint- und Rennduelle der Formel-1-Saison 2026",
-   "summary": "Der aktuelle Zwischenstand bei den Qualifying- und Rennduellen der Teamkollegen in der Formel-1-Saison 2026",
-   "url": "https://www.formel1.de/nc/146557",
-   "date": "2026-10-11T15:00:35.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-09T19:55:05.085Z"
   }
  ]
 }
