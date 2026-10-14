@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T10:49:53.569Z",
+ "updatedAt": "2026-10-14T12:59:48.422Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,56 @@
   }
  },
  "items": [
+  {
+   "title": "The upgrades behind Red Bull’s breakthrough in Singapore",
+   "summary": "Mark Hughes and Giorgio Piola identify how Red Bull's recent upgrades helped Max Verstappen clinch back-to-back wins in Malaysia and Singapore.",
+   "url": "https://www.formula1.com/en/latest/article/the-fruitful-upgrades-behind-red-bulls-breakthrough-in-malaysia-and-singapore.LXbRuqocItGbDGABOI9JG",
+   "date": "2026-10-14T12:59:48.401Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Technik",
+   "firstSeen": "2026-10-14T12:59:48.401Z"
+  },
+  {
+   "title": "Ralf Schumacher: Frank Williams war bei teaminternem Ärger \"stinksauer\"",
+   "summary": "Ralf Schumacher erinnert an teaminterne Streitigkeiten mit Juan Pablo Montoya und daran, wie sauer Teamchef Frank Williams dann war",
+   "url": "https://www.formel1.de/nc/149370",
+   "date": "2026-10-14T12:55:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "News",
+   "firstSeen": "2026-10-14T12:59:48.401Z"
+  },
+  {
+   "title": "Kim Kardashian & Kimi Antonelli: Das kuriose Handtuch-Drama",
+   "summary": "Kim Kardashian und Kimi Antonelli liessen in Singapur einen Running-Gag wieder aufleben, der in Monaco mit einem verschwundenen Handtuch begann",
+   "url": "https://www.formel1.de/nc/149369",
+   "date": "2026-10-14T11:50:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-14T12:59:48.401Z"
+  },
   {
    "title": "Vor Ruanda: Auf diesen Strecken in Afrika fuhr die Formel 1 bereits",
    "summary": "Der neue Formel-1-Kurs in Ruanda wird der vierte sein, auf dem die Königsklasse im Rahmen der Weltmeisterschaft gastieren wird: Ein Überblick über bisherige Kurse",
@@ -958,59 +1008,6 @@
    "team": "ferrari",
    "category": "News",
    "firstSeen": "2026-10-11T18:36:59.043Z"
-  },
-  {
-   "title": "War Charles Leclerc am Start nicht aggressiv genug gegen Max Verstappen?",
-   "summary": "Am Start hatte Charles Leclerc die Chance, Max Verstappen die Führung abzunehmen und um den Sieg zu kämpfen: Hätte er aggressiver sein müssen?",
-   "url": "https://www.formel1.de/nc/149332",
-   "date": "2026-10-11T16:47:56.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc",
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-11T18:36:59.043Z"
-  },
-  {
-   "title": "‘It was a mistake’ – Vasseur on Hamilton’s strategy call",
-   "summary": "Ferrari Team Principal Fred Vasseur has explained how a podium finish slipped out of Lewis Hamilton’s hands at the Singapore Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/it-was-a-mistake-vasseur-reacts-to-hamiltons-strategy-call-that-lost-a-podium-in-singapore.7FetC3ZueATDEKBKuuy4V",
-   "date": "2026-10-11T16:33:10.803Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-11T16:33:10.803Z"
-  },
-  {
-   "title": "Russell rues ‘difficult’ Singapore GP as ‘story of season’",
-   "summary": "Mercedes' George Russell faced a challenging drive at the Singapore Grand Prix, having climbed through the order from P19 to P9.",
-   "url": "https://www.formula1.com/en/latest/article/the-story-of-the-season-russell-assesses-very-difficult-recovery-drive-in-singapore-grand-prix.bdIuyUxGaD3yWI4SpS7zZ",
-   "date": "2026-10-11T16:32:10.803Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-11T16:33:10.803Z"
   }
  ]
 }
