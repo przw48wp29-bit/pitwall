@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T16:52:08.303Z",
+ "updatedAt": "2026-10-14T18:58:17.285Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,23 @@
   }
  },
  "items": [
+  {
+   "title": "Christian Horner verrät: So schnappte er Mercedes die besten Mitarbeiter weg",
+   "summary": "Christian Horner gewährt exklusive Einblicke in das Motorenprojekt von Red Bull und verrät, wie aggressiv er damals um die besten Mitarbeiter von Mercedes kämpfte",
+   "url": "https://www.formel1.de/nc/149375",
+   "date": "2026-10-14T18:00:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes",
+    "red_bull"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-14T18:58:17.268Z"
+  },
   {
    "title": "Mekies signs long-term contract extension with Red Bull",
    "summary": "Red Bull have confirmed that Laurent Mekies will continue his role as Team Principal through 2031.",
@@ -981,24 +998,6 @@
    "team": "mercedes",
    "category": "Rennen",
    "firstSeen": "2026-10-12T08:41:19.929Z"
-  },
-  {
-   "title": "Verstappen überrascht von Lambiase-Geste: \"Damit hatte ich nicht gerechnet\"",
-   "summary": "Funkprobleme zwangen Verstappen und Lambiase in Singapur zu ungewöhnlichen Methoden, gleichzeitig steht bei Red Bull ein Personalwechsel bevor",
-   "url": "https://www.formel1.de/nc/149339",
-   "date": "2026-10-12T06:47:19.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-12T06:48:01.081Z"
   }
  ]
 }
