@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T08:53:15.564Z",
+ "updatedAt": "2026-10-15T10:50:53.987Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,57 @@
  },
  "items": [
   {
-   "title": "Drei Siege in Folge: Ist Red Bull jetzt die neue Nummer 1 der Formel 1?",
+   "title": "How a chat with Prost inspired Wolff's F1 driver management",
+   "summary": "Toto Wolff has revealed that a conversation with Alain Prost early in his own Formula 1 career inspired the Mercedes Team Principal in how to deal with fractious relationships between his drivers.",
+   "url": "https://www.formula1.com/en/latest/article/how-a-conversation-with-alain-prost-inspired-toto-wolff-in-managing-mercedes-drivers.4qT8o2fJt8rsZJT7BmAQ6Z",
+   "date": "2026-10-15T10:50:53.967Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-15T10:50:53.967Z"
+  },
+  {
+   "title": "Ausufernder Online-Hass: Colapinto zieht sich aus Social Media zurück",
+   "summary": "In einem Appell hat sich Alpine-Fahrer Franco an seine Fans gewandt, die wegen Hass im Netz in der Kritik stehen: Er selbst hat sich daher zu einem Schritt entschieden",
+   "url": "https://www.formel1.de/nc/149381",
+   "date": "2026-10-15T10:48:01.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "colapinto"
+   ],
+   "teams": [
+    "alpine"
+   ],
+   "team": "alpine",
+   "category": "News",
+   "firstSeen": "2026-10-15T10:50:53.967Z"
+  },
+  {
+   "title": "Austin: Das muss jeder Titelkandidat tun, um im WM-Rennen zu bleiben",
+   "summary": "Kimi Antonelli kann in Austin bereits vorzeitig Weltmeister werden, doch fünf Fahrer kämpfen darum, beim nächsten Rennen rechnerisch in der Verlosung zu bleiben",
+   "url": "https://www.formel1.de/nc/149380",
+   "date": "2026-10-15T09:22:47.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-15T10:50:53.967Z"
+  },
+  {
+   "title": "Red Bull dominiert: Warum Ferrari nicht an eine Wachablösung glaubt",
    "summary": "Max Verstappen konnte in Malaysia und zweimal in Singapur gewinnen und scheint das Mass der Dinge zu sein: Doch bei der Aussage ist auch die Konkurrenz vorsichtig",
    "url": "https://www.formel1.de/nc/149379",
    "date": "2026-10-15T07:52:28.000Z",
@@ -21,7 +71,8 @@
     "max_verstappen"
    ],
    "teams": [
-    "red_bull"
+    "red_bull",
+    "ferrari"
    ],
    "team": "red_bull",
    "category": "News",
@@ -44,7 +95,7 @@
    "firstSeen": "2026-10-15T07:03:48.295Z"
   },
   {
-   "title": "Keine schnelle Rettung: McLaren braucht \"fundamentale Änderungen\" am MCL40",
+   "title": "\"Extrem zermürbend\": Warum Lando Norris am aktuellen McLaren verzweifelt",
    "summary": "Sowohl Lando Norris als auch Oscar Piastri empfinden den aktuellen McLaren MCL40 als widerspenstig: Warum das Team die Kernursache dafür erst 2027 beseitigen kann",
    "url": "https://www.formel1.de/nc/149377",
    "date": "2026-10-15T06:02:04.000Z",
@@ -944,55 +995,6 @@
    ],
    "teams": [],
    "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-12T10:38:14.923Z"
-  },
-  {
-   "title": "The 2026 Qualifying and race head-to-heads so far",
-   "summary": "This is how each team mate pairing has stacked up against each other so far during the 2026 F1 season.",
-   "url": "https://www.formula1.com/en/latest/article/in-numbers-the-qualifying-and-race-head-to-heads-between-team-mates-so-far-in-2026.D8AYcVEPGOs8OjIiVisZw",
-   "date": "2026-10-12T10:34:14.923Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-12T10:38:14.923Z"
-  },
-  {
-   "title": "George Russell schreibt WM-Titel ab: Warum Mercedes jetzt andere Sorgen hat",
-   "summary": "George Russell sieht keine Chance mehr auf den Titel: Warum der Mercedes-Fahrer jetzt lieber über technische Probleme als über WM-Platz zwei spricht",
-   "url": "https://www.formel1.de/nc/149343",
-   "date": "2026-10-12T09:41:02.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-12T10:38:14.923Z"
-  },
-  {
-   "title": "Späte Einsicht bei Lando Norris: \"Hätte es gar nicht erst versuchen dürfen!\"",
-   "summary": "Unmittelbar nach dem Sprint hatte Lando Norris sein missglücktes Manöver gegen Oscar Piastri noch verteidigt, doch jetzt schlägt er reumütigere Töne an",
-   "url": "https://www.formel1.de/nc/149342",
-   "date": "2026-10-12T08:54:27.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris",
-    "piastri"
-   ],
-   "teams": [],
-   "team": "mclaren",
    "category": "Rennen",
    "firstSeen": "2026-10-12T10:38:14.923Z"
   }
