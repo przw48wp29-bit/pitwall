@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T16:51:34.531Z",
+ "updatedAt": "2026-10-15T18:58:15.117Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,39 @@
   }
  },
  "items": [
+  {
+   "title": "Camara on the ‘crazy’ achievement of joining Haas in 2027",
+   "summary": "New Haas recruit Rafael Camara tells Lawrence Barretto about finding out he would join Haas in 2027 and the shoot-out test that he participated in to secure the seat.",
+   "url": "https://www.formula1.com/en/latest/article/exclusive-its-really-crazy-to-achieve-this-camara-on-joining-haas-in-2027-and-the-intense-shoot-out-test-he-faced.Sx8HzUOO7WsUm0afvDcP4",
+   "date": "2026-10-15T18:58:14.884Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Transfer",
+   "firstSeen": "2026-10-15T18:58:14.884Z"
+  },
+  {
+   "title": "Horner witzelt über Steiner: Hat nie ein Formel-1-Podium erreicht!",
+   "summary": "Christian Horner und Günther Steiner waren einst Kollegen - Während Horner mit Red Bull später Titel holte, hatte Steiner bei Haas eine deutlich schwerere Aufgabe",
+   "url": "https://www.formel1.de/nc/149387",
+   "date": "2026-10-15T17:13:48.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "red_bull",
+    "haas"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-15T18:58:14.884Z"
+  },
   {
    "title": "Experte: Hamilton und Leclerc bringen Ferrari um wichtige Punkte",
    "summary": "Experte Jolyon Palmer hat die Vermutung, dass die Ferrari-Piloten Lewis Hamilton und Charles Leclerc ihre eigenen Interessen manchmal über die des Teams stellen",
@@ -966,38 +999,6 @@
    "team": "red_bull",
    "category": "News",
    "firstSeen": "2026-10-12T16:36:15.626Z"
-  },
-  {
-   "title": "How Norris' radio offer supported Stella's team-first ethos",
-   "summary": "After clashing with his team mate in the Singapore Sprint, Lando Norris put effort into proving that he could prioritise McLaren's interests.",
-   "url": "https://www.formula1.com/en/latest/article/how-norris-radio-offer-confirmed-that-stellas-team-interest-message-has-worked.7hsFO5Pn6GVkid4c8BYMYN",
-   "date": "2026-10-12T16:34:15.626Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-12T16:36:15.626Z"
-  },
-  {
-   "title": "Vote for Your Heineken® F1 Season Ticket Winner",
-   "summary": "",
-   "url": "https://www.formula1.com/en/latest/article/vote-for-your-heineken-r-f1-season-ticket-winner.6pVzBqxOb38IOC4E71ZQLl",
-   "date": "2026-10-12T14:42:42.863Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Business",
-   "firstSeen": "2026-10-12T14:42:42.863Z"
   }
  ]
 }
