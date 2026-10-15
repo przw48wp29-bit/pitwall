@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T14:50:24.605Z",
+ "updatedAt": "2026-10-15T16:51:34.531Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,42 @@
   }
  },
  "items": [
+  {
+   "title": "Experte: Hamilton und Leclerc bringen Ferrari um wichtige Punkte",
+   "summary": "Experte Jolyon Palmer hat die Vermutung, dass die Ferrari-Piloten Lewis Hamilton und Charles Leclerc ihre eigenen Interessen manchmal über die des Teams stellen",
+   "url": "https://www.formel1.de/nc/149386",
+   "date": "2026-10-15T16:08:26.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-15T16:51:34.517Z"
+  },
+  {
+   "title": "Nico Rosberg: Kimi Antonelli in diesem Jahr auf \"Michael-Schumacher-Level\"",
+   "summary": "Nico Rosberg lobt Kimi Antonelli für seine starke Formel-1-Saison 2026, stellt aber auch klar, dass Max Verstappen \"nach wie vor der beste Fahrer im Sport\" ist",
+   "url": "https://www.formel1.de/nc/149385",
+   "date": "2026-10-15T15:05:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli",
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-15T16:51:34.517Z"
+  },
   {
    "title": "Williams outline plans for 50th anniversary year in 2027",
    "summary": "Williams have outlined plans for their 50th anniversary year in 2027, with a milestone chassis designation, an immersive experience in London and a fan-picked Silverstone car livery all set to feature throughout a calendar of special events.",
@@ -90,7 +126,7 @@
    "firstSeen": "2026-10-15T14:50:24.580Z"
   },
   {
-   "title": "Neuer Fahrer für die Formel 1: Haas ersetzt Ocon 2027 durch Rafael Camara",
+   "title": "Nachfolger von Esteban Ocon: Haas verpflichtet Rafael Camara",
    "summary": "Formel-2-Spitzenreiter Rafael Camara wird der Nachfolger von Esteban Ocon bei Haas in der Formel-1-Saison 2027: Der Brasilianer ist der nächste aus der Ferrari-Akademie",
    "url": "https://www.formel1.de/nc/149384",
    "date": "2026-10-15T14:00:30.000Z",
@@ -962,34 +998,6 @@
    "team": null,
    "category": "Business",
    "firstSeen": "2026-10-12T14:42:42.863Z"
-  },
-  {
-   "title": "TV-Quoten Singapur 2026: Formel-1-Grand-Prix schlägt DTM-Finale",
-   "summary": "Die Formel 1 legt bei Sky gegenüber 2025 um fast zwölf Prozent zu, auch RTL und ORF melden interessante Zahlen: Der Quotenvergleich aus Singapur",
-   "url": "https://www.formel1.de/nc/149348",
-   "date": "2026-10-12T14:02:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Business",
-   "firstSeen": "2026-10-12T14:42:42.863Z"
-  },
-  {
-   "title": "5 Winners and 5 Losers from Singapore",
-   "summary": "Lawrence Barretto selects his winners and losers from the Singapore Grand Prix weekend.",
-   "url": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-2026-singapore-grand-prix.enbIERgZde8AWdlwQbKCg",
-   "date": "2026-10-12T12:59:45.879Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-12T12:59:45.879Z"
   }
  ]
 }
