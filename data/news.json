@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T10:50:53.987Z",
+ "updatedAt": "2026-10-15T13:02:44.894Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,41 @@
   }
  },
  "items": [
+  {
+   "title": "\"Keine zwei Meinungen\": Sollte Cadillac Bottas durch Ocon ersetzen?",
+   "summary": "Ralf Schumacher traut Valtteri Bottas in der Formel 1 keine grossen Erfolge mehr zu - Der Experte rät Cadillac deshalb dazu, stattdessen Esteban Ocon zu verpflichten",
+   "url": "https://www.formel1.de/nc/149383",
+   "date": "2026-10-15T12:55:41.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bottas",
+    "ocon"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "News",
+   "firstSeen": "2026-10-15T13:02:44.877Z"
+  },
+  {
+   "title": "Christian Horner: Rivalität mit Toto Wolff wurde zum \"Theater\"",
+   "summary": "Christian Horner spricht über seine langjährige Rivalität mit Mercedes-Teamchef Toto Wolff in der Formel 1 - Warum diese für den Sport seiner Meinung nach gut war",
+   "url": "https://www.formel1.de/nc/149382",
+   "date": "2026-10-15T11:41:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-15T13:02:44.877Z"
+  },
   {
    "title": "How a chat with Prost inspired Wolff's F1 driver management",
    "summary": "Toto Wolff has revealed that a conversation with Alain Prost early in his own Formula 1 career inspired the Mercedes Team Principal in how to deal with fractious relationships between his drivers.",
@@ -404,7 +439,7 @@
    "title": "Max Verstappen: FAQ zu seinem Start in der GTWC Europe",
    "summary": "Max Verstappen wagt sich an diesem Wochenende beim Saisonfinale der GT-World-Challenge Europe erstmals in Europas Vorzeige-GT-Serie - 16 Fragen und Antworten",
    "url": "https://www.formel1.de/nc/149364",
-   "date": "2026-10-14T05:50:46.000Z",
+   "date": "2026-10-14T05:50:00.000Z",
    "source": "Formel1.de",
    "sourceId": "formel1de",
    "lang": "de",
@@ -962,40 +997,6 @@
    ],
    "team": "rb",
    "category": "Transfer",
-   "firstSeen": "2026-10-12T10:38:14.923Z"
-  },
-  {
-   "title": "Hadjar 'happy' with Singapore GP recovery drive from pits",
-   "summary": "Isack Hadjar admits he was \"happy with the overall pace\" during last weekend's Singapore Grand Prix, as the Red Bull driver recovered to P10 from the pit lane.",
-   "url": "https://www.formula1.com/en/latest/article/happy-with-the-overall-pace-hadjar-reflects-on-singapore-grand-prix-recovery-drive-from-the-back.7ol9hiQ2qfWaLNMUXJyDsZ",
-   "date": "2026-10-12T10:36:14.923Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hadjar"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-12T10:38:14.923Z"
-  },
-  {
-   "title": "5 betting lessons after Verstappen wins Singapore GP",
-   "summary": "The four-time World Champion was dominant again across the Singapore Grand Prix weekend, including two poles and both Sprint and Grand Prix victories.",
-   "url": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-learnt-after-max-verstappen-wins-the-singapore-grand-prix.47zBFhP59tE7pkyPZxt9Tb",
-   "date": "2026-10-12T10:35:14.923Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
    "firstSeen": "2026-10-12T10:38:14.923Z"
   }
  ]
