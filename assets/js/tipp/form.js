@@ -199,29 +199,50 @@ export async function tipForm(evId) {
     document.body.appendChild(sheet);
     document.body.classList.add('no-scroll');
     const pen = d => d.pen.length ? `<span class="tp-pen" title="${esc(d.pen.map(p => `${p.penalty}: ${p.reason || ''}`).join('; '))}">${esc(d.pen[0].penalty)}</span>` : '';
+    let query = '';
+    const matches = d => {
+      const q = query.trim().toLowerCase();
+      if (!q) return true;
+      return [d.first, d.last, d.code, team(d.team).short, String(d.number || '')].some(v => v.toLowerCase().includes(q));
+    };
+    const gridHtml = (k, used, current) => field.filter(matches).map(d => {
+      const u = used.get(d.id);
+      return `<button type="button" class="tp-drv ${u != null ? 'used' : ''} ${current === d.id ? 'cur' : ''}" data-id="${d.id}" style="--team:${team(d.team).color}">
+        <span class="ava">${img('drivers', d.id, null, { width: 120, alt: '' })}</span>
+        <span class="tp-drv-n"><b>${esc(d.last)}</b><small>${esc(team(d.team).short)}</small></span>
+        <span class="tp-drv-m">P${d.wm < 99 ? d.wm : '–'} WM${d.form.length ? ` · ${d.form.join('-')}` : ''}</span>
+        ${u != null ? `<span class="tp-used">${slotLabel(k, u)}</span>` : ''}${pen(d)}
+      </button>`;
+    }).join('') || '<p class="muted small" style="grid-column:1/-1;padding:16px 0">Kein Fahrer gefunden.</p>';
+    const bindGrid = () => sheet.querySelectorAll('[data-id]').forEach(x => x.onclick = () => choose(x.dataset.id));
+    const renderGrid = () => {
+      const k = target.kind;
+      const used = k ? new Map(draft[k].map((id, i) => [id, i]).filter(([id]) => id)) : new Map();
+      const current = k ? draft[k][target.i] : draft.extras[target.extra];
+      const grid = sheet.querySelector('#tpDrvGrid');
+      grid.innerHTML = gridHtml(k, used, current);
+      hydrateImages(grid);
+      bindGrid();
+    };
     const paint = () => {
       const k = target.kind;
       const used = k ? new Map(draft[k].map((id, i) => [id, i]).filter(([id]) => id)) : new Map();
       const current = k ? draft[k][target.i] : draft.extras[target.extra];
       const title = k ? `${slotLabel(k, target.i)} · ${KIND_LABEL[k]}` : EXTRAS[target.extra].label;
+      query = '';
       sheet.innerHTML = `<div class="tp-sheet-bg" data-close></div><div class="tp-sheet-in">
         <div class="tp-sheet-head"><div><b>${esc(title)}</b><div class="muted small">${k ? 'Gewählte Fahrer tauschen beim Antippen den Platz.' : 'Fahrer antippen'}</div></div><button class="icon-x" data-close aria-label="Schliessen">×</button></div>
-        <div class="tp-grid">${field.map(d => {
-          const u = used.get(d.id);
-          return `<button type="button" class="tp-drv ${u != null ? 'used' : ''} ${current === d.id ? 'cur' : ''}" data-id="${d.id}" style="--team:${team(d.team).color}">
-            <span class="ava">${img('drivers', d.id, null, { width: 120, alt: '' })}</span>
-            <span class="tp-drv-n"><b>${esc(d.last)}</b><small>${esc(team(d.team).short)}</small></span>
-            <span class="tp-drv-m">P${d.wm < 99 ? d.wm : '–'} WM${d.form.length ? ` · ${d.form.join('-')}` : ''}</span>
-            ${u != null ? `<span class="tp-used">${slotLabel(k, u)}</span>` : ''}${pen(d)}
-          </button>`;
-        }).join('')}</div>
+        ${field.length > 8 ? `<div class="tp-sheet-search"><input class="input" id="tpDrvSearch" type="search" inputmode="search" autocomplete="off" autocapitalize="off" placeholder="Fahrer oder Team suchen…"></div>` : ''}
+        <div class="tp-grid" id="tpDrvGrid">${gridHtml(k, used, current)}</div>
         ${current ? '<button type="button" class="btn ghost small" data-clear>Auswahl entfernen</button>' : ''}
       </div>`;
       hydrateImages(sheet);
       sheet.querySelectorAll('[data-close]').forEach(x => x.onclick = closePicker);
       const clr = sheet.querySelector('[data-clear]');
       if (clr) clr.onclick = () => { if (k) draft[k][target.i] = null; else draft.extras[target.extra] = null; changed(); closePicker(); };
-      sheet.querySelectorAll('[data-id]').forEach(x => x.onclick = () => choose(x.dataset.id));
+      const search = sheet.querySelector('#tpDrvSearch');
+      if (search) search.oninput = () => { query = search.value; renderGrid(); };
+      bindGrid();
     };
     const choose = id => {
       if (!target.kind) {
@@ -315,7 +336,12 @@ export async function tipForm(evId) {
       const err = picks && validatePicks(k, picks, allowed);
       if (err) errors[k] = err;
     }
-    if (Object.keys(errors).length) { render(); document.getElementById('sec-' + Object.keys(errors)[0])?.scrollIntoView({ behavior: 'smooth', block: 'center' }); return; }
+    if (Object.keys(errors).length) {
+      render();
+      document.getElementById('sec-' + Object.keys(errors)[0])?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      toast('Bitte prüfe deine Eingaben – nicht alles ist gültig.', 'bad');
+      return;
+    }
     const report = [];
     for (const k of todo) {
       const groups = selected().filter(g => g.open[k]).map(g => g.id);
@@ -338,13 +364,29 @@ export async function tipForm(evId) {
   // ---------- Infos zum Wochenende (Spickzettel) ----------
   then(async () => {
     render();
+    const briefBox = document.getElementById('tpBrief');
     const box = document.getElementById('tpInfo');
-    if (!box) return;
     const ed = await loadEditorial();
     const pens = (ed?.penalties?.grid || []).filter(p => +p.round === +ev.round);
-    const [wx, hist] = await Promise.all([race ? weatherBlock(race, { bare: true }) : '', race ? circuitHistory(race.Circuit.circuitId).catch(() => []) : []]);
+    const [wx, wxShort, hist] = await Promise.all([
+      race ? weatherBlock(race, { bare: true }) : '',
+      race ? weatherBlock(race, { short: true }) : '',
+      race ? circuitHistory(race.Circuit.circuitId).catch(() => []) : [],
+    ]);
     const winners = (hist || []).slice(-5).reverse();
     const top = field.slice(0, 6);
+    const favorite = field[0];
+
+    // Kompakte, sofort sichtbare Kernfakten – ohne Tap, für den schnellen Überblick vor dem Tipp.
+    if (briefBox) {
+      const chips = [];
+      if (wxShort) chips.push(`<span class="tp-brief-chip">${wxShort}</span>`);
+      if (favorite) chips.push(`<span class="tp-brief-chip">Favorit <b>${esc(favorite.last)}</b>${favorite.form.length ? ` · ${favorite.form.join('-')}` : ''}</span>`);
+      if (pens.length) chips.push(`<span class="tp-brief-chip warn">⚠ ${pens.length} Startplatzstrafe${pens.length > 1 ? 'n' : ''}</span>`);
+      briefBox.innerHTML = chips.length ? chips.join('') : '<span class="muted small">Noch keine Infos zum Wochenende.</span>';
+    }
+
+    if (!box) return;
     const parts = [];
     if (pens.length) parts.push(`<div><div class="tp-label">Rückversetzungen</div>${pens.map(p => { const d = byId.get(p.driverId); return `<div class="tp-info-row"><b>${esc(d ? d.last : p.driverId)}</b><span>${esc(p.penalty)}</span><span class="muted small">${esc(p.reason || '')}</span></div>`; }).join('')}</div>`);
     parts.push(`<div><div class="tp-label">Form (letzte 3 Rennen)</div>${top.map(d => `<div class="tp-info-row" style="--team:${team(d.team).color}"><span class="tp-bar"></span><b>${esc(d.last)}</b><span class="muted small">WM P${d.wm}</span><span class="tp-form">${d.form.map(f => `<i class="${f === 1 || f === '1' ? 'win' : +f <= 3 ? 'pod' : f === 'DNF' ? 'dnf' : ''}">${f}</i>`).join('')}</span></div>`).join('')}</div>`);
@@ -354,6 +396,7 @@ export async function tipForm(evId) {
   });
 
   return `${demoBar()}${head}
-    <details class="card tp-info"><summary>${cardHead('Spickzettel: Form, Strafen, Wetter', '<span class="muted small">aufklappen</span>')}</summary><div class="card-pad tp-info-grid" id="tpInfo"><div class="spin"></div></div></details>
+    <div class="card card-pad tp-brief" id="tpBrief"><div class="spin"></div></div>
+    <details class="card tp-info"><summary>${cardHead('Mehr Details: Form, Strafen, Wetter, Streckenhistorie', '<span class="muted small">aufklappen</span>')}</summary><div class="card-pad tp-info-grid" id="tpInfo"><div class="spin"></div></div></details>
     <div id="tpForm" class="tp-form"></div>`;
 }

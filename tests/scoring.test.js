@@ -6,7 +6,7 @@
 import { suite, assert } from './harness.js';
 import { rpcCall, asUser, upsertSchedule } from '../assets/js/tipp/pg.js';
 import { resultsFromSources } from '../assets/js/tipp/sync.js';
-import { rankTable, months, progression, monthKey } from '../assets/js/tipp/ranking.js';
+import { rankTable, months, progression, rankProgression, overtakes, monthKey } from '../assets/js/tipp/ranking.js';
 
 export default async function scoringTests({ PGlite, readText }) {
   const t = suite('Auswertung: Punkte und Ranglisten');
@@ -145,6 +145,24 @@ export default async function scoringTests({ PGlite, readText }) {
     assert.deepEqual(progression(data).find(p => p.user_id === 'D').points, [0, 3]);
   });
 
+  t('Positionskampf: Rangverlauf und Überholungen', () => {
+    const ev = (id, round) => ({ id, round, scored: true, name: `GP ${round}`, race_start: '2026-10-25T20:00:00Z' });
+    const data = {
+      events: [ev('e1', 1), ev('e2', 2), ev('e3', 3)],
+      members: ['A', 'B'].map(n => ({ user_id: n, name: n })),
+      scores: [
+        { user_id: 'A', event_id: 'e1', points: 10, exact: 0 }, { user_id: 'A', event_id: 'e2', points: 0, exact: 0 }, { user_id: 'A', event_id: 'e3', points: 5, exact: 0 },
+        { user_id: 'B', event_id: 'e1', points: 5, exact: 0 }, { user_id: 'B', event_id: 'e2', points: 10, exact: 0 }, { user_id: 'B', event_id: 'e3', points: 0, exact: 0 },
+      ],
+    };
+    const rp = rankProgression(data);
+    assert.deepEqual(rp.find(r => r.user_id === 'A').ranks, [1, 2, 1]);
+    assert.deepEqual(rp.find(r => r.user_id === 'B').ranks, [2, 1, 1], 'Gleichstand = geteilter Platz');
+    const ots = overtakes(data);
+    assert.equal(ots.length, 1, 'nur der echte Wechsel an e2, der Gleichstand an e3 zählt nicht');
+    assert.equal(`${ots[0].by}>${ots[0].past}@${ots[0].event.id}`, 'B>A@e2');
+  });
+
   // --- Ablauf in der Datenbank -----------------------------------------------
   t('Resultat eintragen → Punkte für alle (inkl. Aussenseiter-Bonus)', async () => {
     G = (await call('anna', 'create_group', { p_name: 'Testliga' })).id;
@@ -258,6 +276,68 @@ export default async function scoringTests({ PGlite, readText }) {
     await call('anna', 'remove_member', { p_group: G, p_user: U.dave });
     const n = (await db.query('select count(*)::int n from public.scores where group_id = $1 and user_id = $2', [G, U.dave])).rows[0].n;
     assert.equal(n, 0);
+  });
+
+  // --- Weltmeistertitel -------------------------------------------------------
+  t('Saison abschliessen: nur Admin, nur wenn alles gewertet ist', async () => {
+    await assert.rejects(() => call('ben', 'close_season', { p_group: G }), /Nur Admins/);
+    await assert.rejects(() => call('anna', 'close_season', { p_group: G }), /läuft noch/);
+    const st = await call('anna', 'group_standings', { p_group: G });
+    assert.equal(st.can_close, false, 'noch offene Wochenenden');
+    assert.deepEqual(st.titles, [], 'noch kein Titel');
+  });
+
+  t('Weltmeistertitel: Erster der Saison, endgültig und für alle sichtbar', async () => {
+    // Restliche Wochenenden gelten als gefahren und ausgewertet.
+    await db.query(`update public.events set quali_start = $1, race_start = $2 where id = '2026-17'`, [at(-12), at(-10)]);
+    await db.query(`update public.events set results = $1 where season = 2026 and results is null`, [JSON.stringify(RES)]);
+
+    let st = await call('anna', 'group_standings', { p_group: G });
+    assert.equal(st.can_close, true, 'alle Wochenenden gewertet');
+    assert.equal((await call('ben', 'group_standings', { p_group: G })).can_close, false, 'nur der Admin sieht den Knopf');
+    const tab = rankTable(st);
+    const second = tab.find(r => r.rank > 1);
+
+    const titles = await call('anna', 'close_season', { p_group: G });
+    assert.equal(titles.length, 1, 'genau ein Weltmeister');
+    assert.equal(titles[0].user_id, tab[0].user_id);
+    assert.equal(titles[0].season, 2026);
+    assert.equal(titles[0].points, tab[0].points);
+    assert.equal(titles[0].exact, tab[0].exact);
+    assert.equal(titles[0].lead, tab[0].points - second.points, 'Vorsprung auf Platz 2');
+    assert.equal(titles[0].members, st.members.length);
+
+    await assert.rejects(() => call('anna', 'close_season', { p_group: G }), /bereits abgeschlossen/);
+    st = await call('anna', 'group_standings', { p_group: G });
+    assert.equal(st.can_close, false, 'kein zweiter Titel');
+    assert.equal(st.titles.length, 1);
+    assert.equal((await call('cleo', 'group_detail', { p_group: G })).titles.length, 1, 'alle Mitglieder sehen ihn');
+    await assert.rejects(() => asUser(db, U.anna, 'update public.group_titles set points = 999'), /permission denied/);
+    await assert.rejects(() => call('anna', 'season_ranking', { p_group: G, p_season: 2026 }), /permission denied/);
+  });
+
+  t('Titel bleibt, auch wenn der Weltmeister die Gruppe verlässt', async () => {
+    const champ = (await call('anna', 'group_detail', { p_group: G })).titles[0];
+    const who = Object.keys(U).find(k => U[k] === champ.user_id);
+    await call(who, 'leave_group', { p_group: G });
+    const left = (await call('ben', 'group_detail', { p_group: G })).titles;
+    assert.equal(left.length, 1, 'Titel bleibt in der Gruppe');
+    assert.equal(left[0].name, champ.name, 'Name bleibt als Momentaufnahme stehen');
+  });
+
+  t('Vollkommener Gleichstand: der Titel wird geteilt', async () => {
+    const G2 = (await call('cleo', 'create_group', { p_name: 'Zwillinge' })).id;
+    await call('eve', 'join_group', { p_code: (await call('cleo', 'group_detail', { p_group: G2 })).invite_code });
+    for (const u of ['cleo', 'eve']) {
+      await db.query(`insert into public.tips (group_id, user_id, event_id, kind, picks) values ($1, $2, '2026-16', 'race', $3)`,
+        [G2, U[u], JSON.stringify({ order: ['d1', 'd2', 'd3'] })]);
+    }
+    await db.query(`update public.events set results = results || '{"z":1}' where id = '2026-16'`);
+    const titles = await call('cleo', 'close_season', { p_group: G2 });
+    assert.equal(titles.length, 2, 'beide teilen sich den Titel');
+    assert.equal(titles[0].points, titles[1].points);
+    assert.equal(titles[0].lead, 0, 'kein Vorsprung');
+    assert.equal(titles[0].members, 2);
   });
 
   return t;

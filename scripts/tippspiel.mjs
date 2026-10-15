@@ -44,46 +44,61 @@ async function rest(path, { method = 'GET', body, prefer } = {}) {
 }
 
 // ---------------------------------------------------------------------------
-const sched = await jolpica('current.json?limit=100');
-const season = sched.RaceTable.season;
-const races = sched.RaceTable.Races;
-if (races.length < 5) throw new Error(`Kalender ${season} unvollständig (${races.length} Rennen) – Abbruch, um nichts zu löschen.`);
-const events = eventsFromSchedule(races).map(e => ({ ...e, status: 'scheduled', updated_at: new Date().toISOString() }));
+// Läuft alle 10 Minuten (siehe tippspiel.yml). Kalender und Fahrerfeld ändern
+// sich fast nie – das reicht stündlich (volle Stunde). Resultate sollen aber
+// möglichst schnell nach einer Session da sein: die Prüfung dafür läuft daher
+// jedes Mal, wenn gerade eine Session (Quali/Sprint/Rennen) höchstens 3 Stunden
+// zurückliegt ("heisses Fenster"); ausserhalb bleibt es beim Stundentakt.
+const now = new Date();
+const isHourly = now.getUTCMinutes() === 0;
+let season;
 
-// Fahrer: aktuelles Team und "aktiv" aus den letzten drei Rennen.
-const ds = await jolpica('current/driverStandings.json');
-const standings = ds.StandingsTable.StandingsLists[0]?.DriverStandings || [];
-const done = races.filter(r => Date.parse(`${r.date}T${r.time || '12:00:00Z'}`) + 3 * 3600e3 < Date.now());
-const teamOf = new Map();
-const active = new Set();
-for (const r of done.slice(-3).reverse()) {
-  const res = (await jolpica(`${season}/${r.round}/results.json`)).RaceTable.Races[0]?.Results || [];
-  for (const x of res) {
-    active.add(x.Driver.driverId);
-    if (!teamOf.has(x.Driver.driverId)) teamOf.set(x.Driver.driverId, x.Constructor.constructorId);
+if (isHourly) {
+  const sched = await jolpica('current.json?limit=100');
+  season = sched.RaceTable.season;
+  const races = sched.RaceTable.Races;
+  if (races.length < 5) throw new Error(`Kalender ${season} unvollständig (${races.length} Rennen) – Abbruch, um nichts zu löschen.`);
+  const events = eventsFromSchedule(races).map(e => ({ ...e, status: 'scheduled', updated_at: new Date().toISOString() }));
+
+  // Fahrer: aktuelles Team und "aktiv" aus den letzten drei Rennen.
+  const ds = await jolpica('current/driverStandings.json');
+  const standings = ds.StandingsTable.StandingsLists[0]?.DriverStandings || [];
+  const done = races.filter(r => Date.parse(`${r.date}T${r.time || '12:00:00Z'}`) + 3 * 3600e3 < Date.now());
+  const teamOf = new Map();
+  const active = new Set();
+  for (const r of done.slice(-3).reverse()) {
+    const res = (await jolpica(`${season}/${r.round}/results.json`)).RaceTable.Races[0]?.Results || [];
+    for (const x of res) {
+      active.add(x.Driver.driverId);
+      if (!teamOf.has(x.Driver.driverId)) teamOf.set(x.Driver.driverId, x.Constructor.constructorId);
+    }
   }
-}
-let drivers = driversFromStandings(season, standings, active.size ? active : null)
-  .map(d => ({ ...d, team_id: teamOf.get(d.driver_id) || d.team_id }));
+  let drivers = driversFromStandings(season, standings, active.size ? active : null)
+    .map(d => ({ ...d, team_id: teamOf.get(d.driver_id) || d.team_id }));
 
-// Saisonstart: noch keine Wertung → Fahrer der Vorsaison übernehmen, bis das
-// erste Rennen gefahren ist (dann kommen die echten Daten von Jolpica).
-if (!drivers.length) {
-  const prev = await rest(`season_drivers?season=eq.${+season - 1}&active=is.true&select=*`);
-  drivers = (prev || []).map(d => ({ ...d, season: +season }));
-  log(`Noch keine Wertung ${season}: ${drivers.length} Fahrer der Vorsaison übernommen.`);
-}
+  // Saisonstart: noch keine Wertung → Fahrer der Vorsaison übernehmen, bis das
+  // erste Rennen gefahren ist (dann kommen die echten Daten von Jolpica).
+  if (!drivers.length) {
+    const prev = await rest(`season_drivers?season=eq.${+season - 1}&active=is.true&select=*`);
+    drivers = (prev || []).map(d => ({ ...d, season: +season }));
+    log(`Noch keine Wertung ${season}: ${drivers.length} Fahrer der Vorsaison übernommen.`);
+  }
 
-await rest('events?on_conflict=id', { method: 'POST', body: events, prefer: 'resolution=merge-duplicates,return=minimal' });
-log(`Kalender ${season}: ${events.length} Rennwochenenden übertragen.`);
-if (drivers.length) {
-  await rest('season_drivers?on_conflict=season,driver_id', { method: 'POST', body: drivers, prefer: 'resolution=merge-duplicates,return=minimal' });
-  log(`Fahrerfeld ${season}: ${drivers.length} Fahrer (${drivers.filter(d => d.active).length} aktiv).`);
-}
+  await rest('events?on_conflict=id', { method: 'POST', body: events, prefer: 'resolution=merge-duplicates,return=minimal' });
+  log(`Kalender ${season}: ${events.length} Rennwochenenden übertragen.`);
+  if (drivers.length) {
+    await rest('season_drivers?on_conflict=season,driver_id', { method: 'POST', body: drivers, prefer: 'resolution=merge-duplicates,return=minimal' });
+    log(`Fahrerfeld ${season}: ${drivers.length} Fahrer (${drivers.filter(d => d.active).length} aktiv).`);
+  }
 
-// Aus dem Kalender gestrichene Rennen als abgesagt markieren.
-const ids = events.map(e => `"${e.id}"`).join(',');
-await rest(`events?season=eq.${season}&status=eq.scheduled&id=not.in.(${ids})`, { method: 'PATCH', body: { status: 'cancelled' }, prefer: 'return=minimal' });
+  // Aus dem Kalender gestrichene Rennen als abgesagt markieren.
+  const ids = events.map(e => `"${e.id}"`).join(',');
+  await rest(`events?season=eq.${season}&status=eq.scheduled&id=not.in.(${ids})`, { method: 'PATCH', body: { status: 'cancelled' }, prefer: 'return=minimal' });
+} else {
+  const latest = await rest('events?select=season&order=season.desc&limit=1');
+  season = latest?.[0]?.season;
+  if (!season) { log('Noch kein Kalender vorhanden – warte auf den stündlichen Lauf.'); process.exit(0); }
+}
 
 // ---------------------------------------------------------------------------
 // Resultate: Qualifying, Sprint, Rennen (Jolpica) und Safety-Car-Phasen (OpenF1)
@@ -109,7 +124,14 @@ const canon = v => Array.isArray(v) ? `[${v.map(canon).join(',')}]`
 // Laufendes Wochenende (Rennen in den nächsten 3 Tagen, Sprint kommt vor der Quali)
 // und die letzten 14 Tage (nachträgliche Strafen).
 const iso = ms => new Date(ms).toISOString();
-const recent = await rest(`events?season=eq.${season}&status=eq.scheduled&and=(race_start.gt.${iso(Date.now() - 14 * 86400e3)},race_start.lt.${iso(Date.now() + 3 * 86400e3)})&select=id,round,race_start,results&order=round`);
+const recent = await rest(`events?season=eq.${season}&status=eq.scheduled&and=(race_start.gt.${iso(Date.now() - 14 * 86400e3)},race_start.lt.${iso(Date.now() + 3 * 86400e3)})&select=id,round,race_start,quali_start,sprint_quali_start,sprint_start,results&order=round`);
+
+// "Heisses Fenster": lief in den letzten 3 Stunden eine Session (Quali, Sprint
+// oder Rennen), wird jetzt alle 10 Minuten geprüft statt nur stündlich.
+const SESSION_KEYS = ['quali_start', 'sprint_quali_start', 'sprint_start', 'race_start'];
+const hot = (recent || []).some(ev => SESSION_KEYS.some(k => ev[k] && Date.parse(ev[k]) <= Date.now() && Date.now() - Date.parse(ev[k]) < 3 * 3600e3));
+if (!hot && !isHourly) { log('Kein Rennwochenende gerade im Gang – nächste Resultat-Prüfung zur vollen Stunde.'); process.exit(0); }
+
 for (const ev of recent || []) {
   const get = async kind => (await jolpica(`${season}/${ev.round}/${kind}.json`)).RaceTable.Races[0] || null;
   const raceDone = Date.now() > Date.parse(ev.race_start) + 2 * 3600e3;

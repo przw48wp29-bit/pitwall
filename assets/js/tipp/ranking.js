@@ -79,3 +79,41 @@ export function progression(data) {
     return { user_id: m.user_id, name: m.name, avatar: m.avatar, points };
   });
 }
+
+// Rangverlauf: Platz jedes Spielers nach jedem ausgewerteten Wochenende.
+// Gleich viele Punkte = gleicher Platz (1, 2, 2, 4) – anders als in rankTable
+// entscheiden hier keine Feinheiten wie exakte Treffer, der Verlauf zeigt nur
+// den Punktestand.
+export function rankProgression(data) {
+  const series = progression(data);
+  const len = series[0]?.points.length || 0;
+  const out = series.map(s => ({ user_id: s.user_id, name: s.name, avatar: s.avatar, ranks: [] }));
+  const byId = new Map(out.map(o => [o.user_id, o]));
+  for (let i = 0; i < len; i++) {
+    const sorted = [...series].sort((a, b) => b.points[i] - a.points[i]);
+    let rank = 1;
+    sorted.forEach((s, idx) => {
+      if (idx && s.points[i] !== sorted[idx - 1].points[i]) rank = idx + 1;
+      byId.get(s.user_id).ranks[i] = rank;
+    });
+  }
+  return out;
+}
+
+// Überholungen: wer ist zwischen zwei Wochenenden an wem vorbeigezogen?
+// Nur echte Wechsel zählen (vorher dahinter, nachher davor); Gleichstand ist
+// weder davor noch dahinter. Älteste zuerst.
+export function overtakes(data) {
+  const series = progression(data);
+  const evs = scoredEvents(data);
+  const out = [];
+  for (let i = 1; i < evs.length; i++) {
+    for (const a of series) for (const b of series) {
+      if (a.user_id === b.user_id) continue;
+      if (a.points[i - 1] < b.points[i - 1] && a.points[i] > b.points[i]) {
+        out.push({ index: i, event: evs[i], by: a.user_id, byName: a.name, past: b.user_id, pastName: b.name });
+      }
+    }
+  }
+  return out;
+}

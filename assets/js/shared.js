@@ -9,7 +9,15 @@ let queue = [];
 export const then = fn => { queue.push(fn); };
 export const takeAfterRender = () => { const q = queue; queue = []; return q; };
 export const timers = [];
-export const clearTimers = () => { timers.forEach(clearInterval); timers.length = 0; };
+// Aufräumen beim Seitenwechsel – für alles, was kein Intervall ist
+// (z. B. eine Realtime-Verbindung abmelden oder einen Dialog schliessen).
+const leavers = [];
+export const onLeave = fn => { leavers.push(fn); };
+export const clearTimers = () => {
+  timers.forEach(clearInterval); timers.length = 0;
+  leavers.forEach(fn => { try { fn(); } catch (e) { console.error(e); } });
+  leavers.length = 0;
+};
 
 // ---------- Zeit & Kalender ----------
 export const now = () => new Date();
@@ -88,7 +96,7 @@ export function sessionTable(race) {
 
 // Wetterprognose fürs Rennwochenende (Open-Meteo, nur bis 15 Tage voraus).
 const WX = { 0: ['☀️', 'Sonnig'], 1: ['🌤️', 'Heiter'], 2: ['⛅', 'Wolkig'], 3: ['☁️', 'Bedeckt'], 45: ['🌫️', 'Nebel'], 48: ['🌫️', 'Nebel'], 51: ['🌦️', 'Niesel'], 53: ['🌦️', 'Niesel'], 55: ['🌦️', 'Niesel'], 61: ['🌧️', 'Regen'], 63: ['🌧️', 'Regen'], 65: ['🌧️', 'Starkregen'], 80: ['🌦️', 'Schauer'], 81: ['🌧️', 'Schauer'], 82: ['⛈️', 'Starke Schauer'], 95: ['⛈️', 'Gewitter'], 96: ['⛈️', 'Gewitter'], 99: ['⛈️', 'Gewitter'] };
-export async function weatherBlock(race, { bare = false } = {}) {
+export async function weatherBlock(race, { bare = false, short = false } = {}) {
   const s = sessionsOf(race);
   const start = s[0].start, end = s.at(-1).start;
   if ((start - Date.now()) / 86400e3 > 15 || end < Date.now() - 86400e3) return '';
@@ -96,6 +104,11 @@ export async function weatherBlock(race, { bare = false } = {}) {
     const iso = d => d.toISOString().slice(0, 10);
     const w = await weather(race.Circuit.Location.lat, race.Circuit.Location.long, iso(start), iso(end));
     const D = w.daily;
+    if (short) {
+      const i = D.time.length - 1;   // Renntag = letzter Tag der Vorhersage
+      const [ico] = WX[D.weather_code[i]] || ['🌡️', ''];
+      return `${ico} ${Math.round(D.temperature_2m_max[i])}°/${Math.round(D.temperature_2m_min[i])}° · 💧${D.precipitation_probability_max[i] ?? '–'}%`;
+    }
     const body = `<div class="weather">${D.time.map((t, i) => {
       const [ico, txt] = WX[D.weather_code[i]] || ['🌡️', ''];
       return `<div class="wx"><div class="d">${fmtDay(new Date(t))}</div><div class="i" title="${txt}">${ico}</div><div class="t">${Math.round(D.temperature_2m_max[i])}° / ${Math.round(D.temperature_2m_min[i])}°</div><div class="p">💧 ${D.precipitation_probability_max[i] ?? '–'}%</div><div class="dim" style="font-size:12px">${Math.round(D.wind_speed_10m_max[i])} km/h</div></div>`;
@@ -105,6 +118,12 @@ export async function weatherBlock(race, { bare = false } = {}) {
 }
 
 export const loadingBox = (h = 240) =>`<div class="skeleton" style="height:${h}px"></div>`;
+// Platzhalter in Seitenform (Titel + Zeilen). Wirkt beim Laden ruhiger als ein
+// Spinner, weil die Seite schon ihre spätere Struktur andeutet.
+export const pageSkeleton = (rows = 7) => `<div class="sk-page" aria-busy="true" aria-label="Seite wird geladen">
+  <div class="skeleton sk-title"></div><div class="skeleton sk-sub"></div>
+  <div class="sk-rows">${'<div class="skeleton sk-row"></div>'.repeat(rows)}</div>
+</div>`;
 export const contractTag = c => {
   if (!c) return '';
   const map = { bestätigt: 'ok', erwartet: 'info', offen: 'warn', 'Gerücht': 'warn', weg: '' };

@@ -5,18 +5,19 @@ import { esc, raceShort } from '../ui.js';
 import { then, pageHead, cardHead } from '../shared.js';
 import { rpc, backend } from './api.js';
 import { ITEM_LABEL, KIND_LABEL } from './rules.js';
-import { rankTable, months, progression, scoredEvents } from './ranking.js';
+import { rankTable, months, progression, rankProgression, overtakes, scoredEvents } from './ranking.js';
 import { go, query, avatar, needLogin, demoBar } from './common.js';
+import { starsOf, championBanner, closeSeasonCard } from './titles.js';
 
 const fmtPts = n => `${n > 0 ? '+' : ''}${n}`;
 const placeLabel = r => `${r.rank}.`;
 
-// Eine Zeile der Rangliste.
-function row(r, me, extra = '') {
+// Eine Zeile der Rangliste. star(user_id) hängt die Weltmeistersterne an.
+function row(r, me, extra = '', star = () => '') {
   return `<div class="tp-rk ${r.user_id === me ? 'me' : ''} ${r.rank <= 3 ? 'top' + r.rank : ''}">
     <span class="tp-rk-pos">${placeLabel(r)}</span>
     ${avatar(r, 30)}
-    <span class="tp-rk-name"><span>${esc(r.name)}${r.user_id === me ? ' <span class="muted small">(du)</span>' : ''}</span>
+    <span class="tp-rk-name"><span>${esc(r.name)}${star(r.user_id)}${r.user_id === me ? ' <span class="muted small">(du)</span>' : ''}</span>
       <small class="muted">${r.exact} exakt · ${r.wins} ${r.wins === 1 ? 'Sieg' : 'Siege'}${r.adjust ? ` · Korrektur ${fmtPts(r.adjust)}` : ''}</small></span>
     ${extra}
     <span class="tp-rk-pts">${r.points}<small>Pkt.</small></span>
@@ -31,14 +32,19 @@ export function standingsCard(groupId, data, me) {
     return `<div class="card">${cardHead('Rangliste')}<div class="card-pad"><p class="muted" style="margin:0">Die Punkte werden automatisch berechnet, sobald das offizielle Resultat vorliegt (meist wenige Stunden nach der Session). Die Rangliste erscheint nach dem ersten gewerteten Wochenende.</p></div></div>`;
   }
   const tab = rankTable(data);
+  const star = starsOf(data.titles);
   const last = evs.at(-1);
   const lastPts = new Map((data.scores || []).filter(s => s.event_id === last.id).map(s => [s.user_id, s.points]));
   let shown = tab.slice(0, 5);
   const mine = tab.find(r => r.user_id === me);
   if (mine && !shown.includes(mine)) shown = [...shown, mine];
   const delta = r => `<span class="tp-rk-last muted small" title="Punkte ${esc(raceShort(last.name))}">${lastPts.has(r.user_id) ? fmtPts(lastPts.get(r.user_id)) : '–'}</span>`;
-  return `<div class="card">${cardHead(`Rangliste nach ${evs.length} ${evs.length === 1 ? 'Wochenende' : 'Wochenenden'}`, link)}
-    <div class="tp-rks">${shown.map((r, i) => (i === 5 ? '<div class="tp-rk-gap">…</div>' : '') + row(r, me, delta(r))).join('')}</div>
+  // Überholungen am letzten Wochenende, die mich betreffen.
+  const mineOt = overtakes(data).filter(o => o.event.id === last.id && (o.by === me || o.past === me));
+  const flash = mineOt.length ? `<div class="tp-ot-flash">↕ ${mineOt.slice(0, 2).map(o => o.by === me
+    ? `Du hast <b>${esc(o.pastName)}</b> überholt.` : `<b>${esc(o.byName)}</b> hat dich überholt.`).join(' ')}</div>` : '';
+  return `<div class="card">${cardHead(`Rangliste nach ${evs.length} ${evs.length === 1 ? 'Wochenende' : 'Wochenenden'}`, link)}${flash}
+    <div class="tp-rks">${shown.map((r, i) => (i === 5 ? '<div class="tp-rk-gap">…</div>' : '') + row(r, me, delta(r), star)).join('')}</div>
     <p class="muted small card-pad" style="margin:0;padding-top:8px">Rechts: Punkte am letzten Wochenende (${esc(raceShort(last.name))}).</p>
   </div>`;
 }
@@ -101,6 +107,71 @@ export function progressChart(data, me) {
     </div></div>`;
 }
 
+// Positionskampf: Rangverlauf (Platz 1 oben) plus die Überholungen als Liste.
+export function positionChart(data, me) {
+  const evs = scoredEvents(data);
+  const series = rankProgression(data);
+  if (evs.length < 2 || series.length < 2) return '';
+  const tab = rankTable(data);
+  const leader = tab[0]?.user_id;
+  const W = 640, H = 240, L = 36, R = 92, T = 16, B = 26;
+  const low = Math.max(...series.flatMap(s => s.ranks));   // schlechtester vorkommender Platz
+  const x = i => L + (i * (W - L - R)) / (evs.length - 1);
+  const y = r => T + (H - T - B) * (low > 1 ? (r - 1) / (low - 1) : 0.5);
+  const grid = [];
+  for (let r = 1; r <= low; r++) grid.push(`<line x1="${L}" x2="${W - R}" y1="${y(r)}" y2="${y(r)}" class="g"/><text x="${L - 6}" y="${y(r) + 4}" class="ax" text-anchor="end">${r}.</text>`);
+  const xl = evs.map((e, i) => `<text x="${x(i)}" y="${H - 6}" class="ax" text-anchor="middle">R${e.round}</text>`).join('');
+  const role = s => (s.user_id === me ? 'me' : s.user_id === leader ? 'lead' : 'rest');
+  const order = [...series].sort((a, b) => ['rest', 'lead', 'me'].indexOf(role(a)) - ['rest', 'lead', 'me'].indexOf(role(b)));
+  const lines = order.map(s => {
+    const d = s.ranks.map((v, i) => `${i ? 'L' : 'M'}${x(i).toFixed(1)},${y(v).toFixed(1)}`).join('');
+    const end = s.ranks.length - 1;
+    const label = role(s) !== 'rest' ? `<text x="${x(end) + 8}" y="${y(s.ranks[end]) + 4}" class="lbl">${esc(s.name.slice(0, 12))}</text>` : '';
+    return `<g class="ln ${role(s)}"><path d="${d}"/><circle cx="${x(end)}" cy="${y(s.ranks[end])}" r="4"/>${label}</g>`;
+  }).join('');
+  const hits = evs.map((e, i) => `<rect class="hit" data-i="${i}" x="${x(i) - (W - L - R) / (evs.length - 1) / 2}" y="${T}" width="${(W - L - R) / (evs.length - 1)}" height="${H - T - B}"/>`).join('');
+
+  then(() => {
+    const box = document.getElementById('tpRankChart');
+    if (!box) return;
+    const tip = box.querySelector('.tp-chart-tip');
+    const cross = box.querySelector('.cross');
+    box.querySelectorAll('.hit').forEach(h => {
+      const show = () => {
+        const i = +h.dataset.i;
+        const ranked = series.map(s => ({ name: s.name, v: s.ranks[i], me: s.user_id === me })).sort((a, b) => a.v - b.v);
+        cross.setAttribute('x1', x(i)); cross.setAttribute('x2', x(i)); cross.style.opacity = 1;
+        tip.innerHTML = `<b>R${evs[i].round} · ${esc(raceShort(evs[i].name))}</b>${ranked.slice(0, 6).map(r => `<div class="${r.me ? 'me' : ''}"><span>${esc(r.name)}</span><b>${r.v}.</b></div>`).join('')}${ranked.length > 6 ? `<div class="muted">+ ${ranked.length - 6} weitere</div>` : ''}`;
+        tip.hidden = false;
+        const pct = x(i) / W;
+        tip.style.left = pct > 0.6 ? '' : `${pct * 100 + 2}%`;
+        tip.style.right = pct > 0.6 ? `${(1 - pct) * 100 + 2}%` : '';
+      };
+      h.onpointerenter = show; h.onclick = show;
+    });
+    box.querySelector('svg').onpointerleave = () => { tip.hidden = true; cross.style.opacity = 0; };
+  });
+
+  const ots = overtakes(data);
+  const who = (uid, name, start) => uid === me ? (start ? 'Du' : 'dich') : `<b>${esc(name)}</b>`;
+  const feed = ots.length
+    ? `<div class="tp-ot">${[...ots].reverse().slice(0, 8).map(o => `<div class="tp-ot-row ${o.by === me || o.past === me ? 'me' : ''}">
+        <span class="r">R${o.event.round}</span>
+        <span>${who(o.by, o.byName, true)} ${o.by === me ? 'hast' : 'hat'} ${who(o.past, o.pastName, false)} überholt</span></div>`).join('')}</div>`
+    : '<p class="muted small card-pad" style="margin:0;padding-bottom:16px">Noch keine Überholungen – die Reihenfolge ist seit dem ersten Wochenende gleich geblieben.</p>';
+
+  return `<div class="card">${cardHead('Positionskampf', '<span class="muted" style="font-size:12px">Platz nach jedem Wochenende</span>')}
+    <div class="card-pad">
+      <div class="tp-legend"><span><i class="me"></i>Du</span><span><i class="lead"></i>Führung</span><span><i class="rest"></i>Übrige</span></div>
+      <div class="tp-chart" id="tpRankChart">
+        <svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Platz in der Gruppe pro Wochenende">${grid.join('')}${xl}
+          <line class="cross" x1="0" x2="0" y1="${T}" y2="${H - B}" style="opacity:0"/>${lines}${hits}</svg>
+        <div class="tp-chart-tip" hidden></div>
+      </div>
+    </div>
+    ${feed}</div>`;
+}
+
 // =============================================================================
 // Seite: Rangliste einer Gruppe
 // =============================================================================
@@ -134,14 +205,16 @@ export async function groupRanking(id) {
   const adj = data.adjustments || [];
   const evName = eid => { const e = data.events.find(x => x.id === eid); return e ? `R${e.round} ${raceShort(e.name)}` : ''; };
   const nameOf = uid => data.members.find(m => m.user_id === uid)?.name || 'Ehemaliges Mitglied';
+  const star = starsOf(data.titles);
 
   return `${demoBar()}
     ${pageHead('Rangliste', '', esc(g.name), `<a class="btn ghost small" href="#/gruppe/${id}">Zur Gruppe</a>`)}
+    ${view === 'saison' ? championBanner(data.titles, data.season, me) : ''}
     <div class="tp-seg">${seg('saison', 'Saison')}${seg('monat', 'Monat')}${seg('rennen', 'Rennen')}</div>
     ${!evs.length ? `<div class="notice mt">Noch keine Punkte. Sobald das erste Resultat da ist, wertet Pitwall automatisch aus.</div>` : `
-    <div class="card mt">${cardHead(title, picker)}<div class="tp-rks">${tab.map(r => row(r, me)).join('')}</div>
+    <div class="card mt">${cardHead(title, picker)}<div class="tp-rks">${tab.map(r => row(r, me, '', star)).join('')}</div>
       <p class="muted small card-pad" style="margin:0">Bei Punktgleichheit entscheiden die exakten Treffer, dann die Wochenendsiege. Sonst teilen sich die Spieler den Platz.</p></div>
-    ${view === 'saison' ? progressChart(data, me) : ''}
+    ${view === 'saison' ? closeSeasonCard(id, data) + progressChart(data, me) + positionChart(data, me) : ''}
     ${view === 'saison' && adj.length ? `<div class="card">${cardHead('Korrekturen')}<div class="tp-adjs">${adj.map(a => `<div class="tp-adj"><b class="${a.points > 0 ? 'pos' : 'neg'}">${fmtPts(a.points)}</b><span>${esc(nameOf(a.user_id))}${a.event_id ? ` <span class="muted small">· ${esc(evName(a.event_id))}</span>` : ''}<small class="muted">${esc(a.reason)} – ${esc(a.by || 'Admin')}</small></span></div>`).join('')}</div></div>` : ''}`}`;
 }
 

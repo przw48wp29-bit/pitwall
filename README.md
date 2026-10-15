@@ -26,14 +26,14 @@ Die Seite selbst wird nie neu gebaut. Es ändern sich nur die Dateien im Ordner 
 |---|---|---|
 | Tägliches Update | 06:00 Uhr Schweizer Zeit | Saisondaten, Archiv, Strategie, Bilder, Kalender-Abo, News |
 | News | alle 2 Stunden (06–23 Uhr) | RSS-Feeds abrufen → `data/news.json` |
-| Tippspiel-Sync | stündlich | Kalender, Fahrerfeld und Resultate (Jolpica, Safety Car von OpenF1) in die Tippspiel-Datenbank; die Datenbank rechnet dann die Punkte |
+| Tippspiel-Sync | alle 10 Min. (Kalender/Fahrer nur stündlich) | Kalender, Fahrerfeld und Resultate (Jolpica, Safety Car von OpenF1) in die Tippspiel-Datenbank; nach einer Session wird 3 Std. lang alle 10 Min. nach dem Resultat geschaut, sonst stündlich. Die Datenbank rechnet dann die Punkte |
 | Tests | bei jeder Änderung | Tippspiel-Regeln, Datenbank, News-Abruf prüfen |
 
 ## Kosten
 
 **Alles gratis:** GitHub (öffentliches Repository), GitHub Pages, GitHub Actions, Supabase (Gratis-Plan), Jolpica, OpenF1 (nach den Sessions), Open-Meteo, Wikimedia und die RSS-Feeds.
 
-- Ein Supabase-Gratisprojekt schläft nach einer Woche ohne Zugriffe ein. Der stündliche Tippspiel-Sync hält es wach.
+- Ein Supabase-Gratisprojekt schläft nach einer Woche ohne Zugriffe ein. Der Tippspiel-Sync hält es wach.
 - **Optional, kostet Geld:** Die KI-Recherche für Upgrades, Verträge und Strafen läuft nur, wenn du das Secret `ANTHROPIC_API_KEY` hinterlegst (etwa 1–3 USD pro Tag). Ohne den Key bleiben diese Bereiche beim letzten Stand stehen.
 
 ## Einrichtung auf GitHub (einmalig, ca. 10 Minuten)

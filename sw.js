@@ -4,7 +4,7 @@
 // - Daten (data/*.json, APIs): zuerst Netz, bei Offline der letzte Stand
 // - Bilder: Cache, sobald einmal geladen
 
-const VERSION = 'pitwall-v4';
+const VERSION = 'pitwall-v5';
 const SHELL = [
   './', 'index.html', 'manifest.webmanifest',
   'assets/css/style.css', 'assets/css/tipp.css',

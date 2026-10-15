@@ -4,7 +4,7 @@
 
 // Datentypen der Funktions-Parameter (PGlite braucht sie für eindeutige Aufrufe).
 const TYPES = {
-  p_group: 'uuid', p_user: 'uuid', p_groups: 'uuid[]', p_season: 'int', p_points: 'int', p_id: 'bigint',
+  p_group: 'uuid', p_user: 'uuid', p_target: 'uuid', p_groups: 'uuid[]', p_season: 'int', p_points: 'int', p_id: 'bigint',
   p_settings: 'jsonb', p_avatar: 'jsonb', p_picks: 'jsonb',
 };
 

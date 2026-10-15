@@ -1,0 +1,8 @@
+# Abhängigkeiten: werden auf GitHub aus package-lock.json neu installiert
+node_modules/
+
+# macOS
+.DS_Store
+
+# Lokale Claude-Einstellungen (nur für diesen Rechner gültig)
+.claude/

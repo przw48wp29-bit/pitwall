@@ -31,6 +31,16 @@ export const auth = {
   updatePassword: async pw => (await backend()).updatePassword(pw),
 };
 
+// Änderungen anderer Spieler sofort mitbekommen (Supabase Realtime).
+// Meldet nur «hier hat sich etwas geändert» – die Inhalte holt der Aufrufer
+// danach selbst per RPC, damit die Zugriffsregeln der Datenbank zählen.
+// Gibt eine Funktion zum Abmelden zurück. Im Demo-Modus läuft die Datenbank nur
+// auf diesem Gerät, dort gibt es nichts zu übertragen.
+export const live = async (name, opts, cb) => {
+  try { return (await backend()).live?.(name, opts, cb) || (() => {}); }
+  catch { return () => {}; }
+};
+
 // Schnelle Prüfung ohne Server: ist hier jemand angemeldet? (für Navigation/Startseite)
 export function probablyLoggedIn() {
   try {
@@ -87,5 +97,9 @@ async function supabaseBackend() {
     async signOut() { await sb.auth.signOut(); },
     async updatePassword(pw) { const { error } = await sb.auth.updateUser({ password: pw }); fail(error); },
     async rpc(fn, args) { const { data, error } = await sb.rpc(fn, args); fail(error); return data; },
+    live(name, { table, filter }, cb) {
+      const ch = sb.channel(name).on('postgres_changes', { event: '*', schema: 'public', table, filter }, cb).subscribe();
+      return () => { try { sb.removeChannel(ch); } catch { /* egal */ } };
+    },
   };
 }

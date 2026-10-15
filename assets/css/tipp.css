@@ -41,6 +41,7 @@
   .tabbar svg { width: 24px; height: 24px; fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
   .tabbar a.active { color: #fff; }
   .tabbar a.active svg { stroke: var(--red); }
+  .tabbar a:focus-visible { outline: 2px solid var(--red); outline-offset: -2px; border-radius: 8px; }
   .tabbar .tab-main svg { background: var(--red); stroke: #fff !important; border-radius: 50%; padding: 6px; width: 38px; height: 38px; margin-top: -16px; box-shadow: 0 4px 16px rgba(225,6,0,.45); }
   .tabbar .tab-main.active span { color: #fff; }
   .acct-btn { display: none; }
@@ -194,6 +195,10 @@
 
 /* ---------- Tipp-Formular ---------- */
 .tp-form { display: grid; gap: 16px; max-width: 920px; }
+.tp-brief { max-width: 920px; margin-bottom: 12px; display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.tp-brief-chip { display: inline-flex; align-items: center; gap: 4px; padding: 7px 12px; border-radius: 999px; background: var(--carbon-3); border: 1px solid var(--line); font-size: 13px; font-weight: 600; color: var(--text-2); }
+.tp-brief-chip b { color: #fff; font-weight: 800; }
+.tp-brief-chip.warn { background: rgba(255,184,0,.1); border-color: rgba(255,184,0,.4); color: #ffcf4d; }
 .tp-info { max-width: 920px; margin-bottom: 16px; }
 .tp-for { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
 .tp-for .chip input { display: none; }
@@ -240,13 +245,14 @@
 .tp-x .tp-pick.is-empty { background: transparent; border: 1px dashed var(--line-strong); }
 @media (max-width: 640px) { .tp-x { grid-template-columns: 1fr; gap: 8px; } }
 .tp-seg { display: flex; background: var(--carbon-3); border-radius: 10px; padding: 3px; gap: 3px; flex-wrap: wrap; }
-.tp-seg button { flex: 1 1 0; min-width: 44px; min-height: 42px; border: 0; background: none; border-radius: 8px; font-weight: 700; cursor: pointer; color: var(--text-2); }
+.tp-seg button { flex: 1 1 0; min-width: 44px; min-height: 44px; border: 0; background: none; border-radius: 8px; font-weight: 700; cursor: pointer; color: var(--text-2); }
 .tp-seg button.on { background: #fff; color: var(--carbon); }
 .tp-seg button[disabled] { cursor: default; }
 .tp-reveal { display: flex; gap: 16px; flex-wrap: wrap; }
 .tp-savebar { position: sticky; bottom: 16px; z-index: 20; display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 12px 12px 12px 18px; border-radius: 999px; background: rgba(31,31,39,.95); backdrop-filter: blur(10px); border: 1px solid var(--line-strong); box-shadow: 0 10px 30px rgba(0,0,0,.5); font-size: 14px; font-weight: 600; }
 .tp-savebar.dirty { border-color: var(--red); }
-@media (max-width: 899px) { .tp-savebar { bottom: calc(76px + env(safe-area-inset-bottom)); } }
+.tp-savebar .btn { min-height: 44px; }
+@media (max-width: 899px) { .tp-savebar { bottom: calc(76px + env(safe-area-inset-bottom)); } .tp-savebar .btn { min-height: 46px; padding: 12px 22px; font-size: 15px; } }
 
 /* Spickzettel */
 .tp-info summary { list-style: none; cursor: pointer; }
@@ -270,18 +276,21 @@
 @media (min-width: 900px) { .tp-sheet { align-items: center; } .tp-sheet-in { border-radius: 18px; } }
 .tp-sheet-head { position: sticky; top: 0; z-index: 2; display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 14px 4px 10px; background: var(--carbon-2); border-bottom: 1px solid var(--line); }
 .tp-sheet-head b { font-size: 17px; }
+.tp-sheet-search { position: sticky; top: 52px; z-index: 2; background: var(--carbon-2); padding: 2px 4px 10px; margin-top: -4px; }
+.tp-sheet-search .input { width: 100%; }
 .tp-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
 @media (min-width: 600px) { .tp-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 @media (min-width: 900px) { .tp-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
 .tp-drv { --team: var(--dim); position: relative; display: grid; grid-template-columns: 40px minmax(0, 1fr); grid-template-rows: auto auto; column-gap: 10px; align-items: center; text-align: left; padding: 8px 10px; border-radius: 10px; background: var(--carbon-3); border: 1px solid var(--line); border-left: 4px solid var(--team); cursor: pointer; min-height: 58px; }
 .tp-drv:hover { border-color: var(--line-strong); border-left-color: var(--team); }
+.tp-drv:focus-visible { outline: 2px solid var(--red); outline-offset: 2px; }
 .tp-drv .ava { grid-row: 1 / 3; width: 40px; height: 40px; border-radius: 50%; overflow: hidden; background: var(--carbon-4); }
 .tp-drv .ava img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 15%; }
 .tp-drv-n { display: flex; flex-direction: column; min-width: 0; line-height: 1.15; }
 .tp-drv-n b { text-transform: uppercase; font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .tp-drv-n small { color: var(--muted); font-size: 11px; }
 .tp-drv-m { font-size: 11px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
-.tp-drv.used { opacity: .55; }
+.tp-drv.used { opacity: .55; padding-right: 34px; }
 .tp-drv.cur { opacity: 1; outline: 2px solid #fff; }
 .tp-used { position: absolute; top: 6px; right: 6px; font-size: 11px; font-weight: 900; font-style: italic; font-family: var(--font-display); background: #fff; color: var(--carbon); border-radius: 6px; padding: 1px 6px; }
 .tp-pen { position: absolute; bottom: 6px; right: 6px; font-size: 10px; font-weight: 700; background: rgba(225,6,0,.85); color: #fff; border-radius: 6px; padding: 1px 6px; max-width: 60%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
@@ -320,9 +329,56 @@
 .tp-slotchip.hit { box-shadow: 0 0 0 2px var(--ok); }
 .tp-slotchip.part { box-shadow: 0 0 0 2px rgba(255,184,0,.75); }
 .tp-x-hit { color: #8cf0b6; font-weight: 700; }
+.tp-x-sep { color: var(--dim); }
+
+/* Reaktionen auf einzelne Fahrer in fremden Tipps */
+.tp-rxp { display: inline-flex; align-items: center; gap: 4px; padding: 0; margin: 0; border: 0; background: none; color: inherit; font: inherit; border-radius: 7px; opacity: 1; }
+.tp-rxp[disabled] { cursor: default; }
+/* Eigener Tipp mit Reaktionen: anklickbar, um zu sehen, von wem sie kommen. */
+.tp-rxp:not(.can).has { cursor: pointer; }
+.tp-rxp.can { cursor: pointer; -webkit-tap-highlight-color: transparent; }
+.tp-rxp.can::after {
+  content: '+'; font-family: var(--font-display); font-size: 11px; font-weight: 700; line-height: 1; color: var(--dim);
+  border: 1px dashed var(--line-strong); border-radius: 999px; padding: 2px 4px; opacity: 0; transition: opacity .15s;
+}
+.tp-rxp.can:hover::after, .tp-rxp.can:focus-visible::after { opacity: 1; }
+.tp-rxp.can.has::after { display: none; }
+/* Etwas Luft danach, damit klar bleibt, zu welchem Fahrer die Emojis gehören. */
+.tp-rxp.has { margin-right: 5px; }
+.tp-rxp.can:focus-visible { outline: 2px solid var(--red); outline-offset: 2px; }
+.tp-rx { display: inline-flex; gap: 3px; }
+.tp-rx-b { display: inline-flex; align-items: center; gap: 2px; padding: 1px 5px; border-radius: 999px; background: var(--carbon-4); border: 1px solid var(--line); font-size: 11px; line-height: 1.5; }
+.tp-rx-b.mine { border-color: var(--red); background: rgba(225,6,0,.16); }
+.tp-rx-b b { font-size: 10px; font-weight: 700; color: var(--text-2); }
+
+.tp-rx-pop {
+  position: absolute; z-index: 60; width: max-content; max-width: min(296px, calc(100vw - 16px));
+  padding: 6px; border-radius: 12px; background: var(--carbon-2); border: 1px solid var(--line-strong);
+  box-shadow: 0 14px 34px rgba(0,0,0,.55); animation: rxIn .12s ease-out;
+}
+@keyframes rxIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+.tp-rx-grid { display: flex; flex-wrap: wrap; gap: 2px; }
+/* Wer hat reagiert – auch bei den eigenen Tipps sichtbar. */
+.tp-rx-who { display: grid; gap: 2px; padding: 4px 6px 2px; font-size: 13px; color: var(--text-2); }
+.tp-rx-grid + .tp-rx-who { margin-top: 6px; padding-top: 7px; border-top: 1px solid var(--line); }
+.tp-rx-who div { display: flex; align-items: center; gap: 7px; white-space: nowrap; }
+.tp-rx-who span { font-size: 15px; }
+.tp-rx-pop .tp-rx-grid button {
+  min-width: 42px; min-height: 42px; display: grid; place-items: center; padding: 0;
+  border: 0; border-radius: 9px; background: none; font-size: 20px; line-height: 1; cursor: pointer;
+}
+.tp-rx-pop button:hover, .tp-rx-pop button:focus-visible { background: var(--carbon-4); outline: 0; }
+.tp-rx-pop button.mine { background: rgba(225,6,0,.22); box-shadow: inset 0 0 0 1px var(--red); }
+
+/* Touch: der «+»-Hinweis erscheint nicht bei Hover, darum immer leicht sichtbar. */
+@media (hover: none) {
+  .tp-rxp.can::after { opacity: .5; }
+}
+
 .tp-dotd { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; padding: 12px 16px; border-top: 1px dashed var(--line-strong); }
 .tp-dotd .input { flex: 1; min-width: 180px; }
 .tp-dotd [data-err] { flex-basis: 100%; }
+.tp-dotd.missing { background: rgba(255,184,0,.08); border-top-color: rgba(255,184,0,.4); }
 
 .tp-seg { display: inline-flex; background: var(--carbon-2); border: 1px solid var(--line); border-radius: 999px; padding: 4px; gap: 2px; }
 .tp-seg a { padding: 7px 16px; border-radius: 999px; font-weight: 700; font-size: 14px; color: var(--muted); }
@@ -354,6 +410,42 @@
 .tp-chart-tip div.me { color: #fff; font-weight: 700; }
 .tp-chart-tip div.me span::before { content: ""; display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--red); margin-right: 6px; }
 
+/* Positionskampf: Hinweis auf der Gruppenseite + Liste der Überholungen */
+.tp-ot-flash { margin: 0 16px 10px; padding: 9px 12px; border-radius: 8px; background: var(--carbon-3); border-left: 3px solid var(--red); font-size: 13px; color: var(--text-2); }
+.tp-ot-flash b { color: #fff; }
+.tp-ot { display: grid; }
+.tp-ot-row { display: flex; gap: 12px; align-items: center; padding: 10px 16px; border-top: 1px solid var(--line); font-size: 14px; color: var(--text-2); }
+.tp-ot-row b { color: #fff; }
+.tp-ot-row.me { background: rgba(225,6,0,.08); }
+.tp-ot-row .r { font-family: var(--font-display); font-style: italic; font-weight: 900; color: var(--muted); min-width: 34px; }
+
+/* ---------- Weltmeistertitel ---------- */
+/* Sterne beim Namen – überall, wo ein Spieler auftaucht. */
+.tp-wm { display: inline-block; margin-left: 5px; color: #ffd12e; font-size: .92em; line-height: 1; white-space: nowrap; text-shadow: 0 0 10px rgba(255,209,46,.45); cursor: help; }
+.tp-wm small { font-size: .75em; font-weight: 700; vertical-align: top; }
+
+/* Champion-Banner in der Rangliste */
+.tp-champ { display: flex; gap: 16px; align-items: center; margin-top: 16px; padding: 16px 18px; border-radius: 12px;
+  background: linear-gradient(100deg, rgba(255,209,46,.14), var(--carbon-2) 62%); border: 1px solid rgba(255,209,46,.38); }
+.tp-champ.me { border-color: rgba(255,209,46,.75); box-shadow: 0 0 0 1px rgba(255,209,46,.2), 0 10px 30px rgba(0,0,0,.4); }
+.tp-champ-cup { font-size: 38px; line-height: 1; filter: drop-shadow(0 3px 8px rgba(0,0,0,.5)); }
+.tp-champ h2 { margin: 2px 0 4px; font-size: 22px; }
+.tp-champ p { margin: 0; }
+
+/* Hall of Fame auf der Gruppenseite */
+.tp-hof-list { display: grid; }
+.tp-hof-row { display: flex; gap: 10px; align-items: center; padding: 10px 16px; border-top: 1px solid var(--line); }
+.tp-hof-row.me { background: rgba(255,209,46,.07); }
+.tp-hof-year { flex: none; font-family: var(--font-display); font-style: italic; font-weight: 900; color: #ffd12e; min-width: 42px; font-size: 15px; }
+.tp-hof-who { flex: 1; display: flex; flex-direction: column; min-width: 0; }
+.tp-hof-who b { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.tp-hof-cup { flex: none; font-size: 20px; }
+
+/* Saison abschliessen (Admin) */
+.tp-close { border-color: rgba(255,209,46,.3); }
+.tp-close .btn { background: #ffd12e; border-color: #ffd12e; color: #15151e; }
+.tp-close .btn:hover { background: #ffdf6b; border-color: #ffdf6b; }
+
 .tp-adjs { display: grid; }
 .tp-adj { display: flex; gap: 12px; align-items: center; padding: 8px 0; border-bottom: 1px solid var(--line); }
 .card > .tp-adjs .tp-adj { padding: 10px 16px; }
@@ -364,4 +456,14 @@
 .tp-adj > span { flex: 1; display: flex; flex-direction: column; min-width: 0; }
 .tp-ptab { width: 100%; border-collapse: collapse; margin: 8px 0; }
 .tp-ptab td { padding: 5px 0; border-bottom: 1px solid var(--line); vertical-align: top; }
+
+/* ---------- Touch-Feedback (Geräte ohne Hover: kurzes Antipp-Feedback statt :hover) ---------- */
+@media (hover: none) {
+  .btn.danger:active { background: var(--red); }
+  .icon-x:active { background: var(--carbon-3); }
+  .tp-cal-row:active { background: var(--carbon-3); }
+  .tp-pick:not([disabled]):active { background: rgba(255,255,255,.04); }
+  .tp-drv:active { border-color: var(--line-strong); border-left-color: var(--team); }
+  .tp-rkd > summary:active { background: var(--carbon-3); }
+}
 .tp-ptab td:last-child { text-align: right; font-weight: 700; white-space: nowrap; padding-left: 12px; }

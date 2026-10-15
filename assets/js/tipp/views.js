@@ -12,6 +12,8 @@ import {
 } from './common.js';
 import { rankTable } from './ranking.js';
 import { standingsCard, breakdown } from './standings.js';
+import { starsOf, hallOfFame } from './titles.js';
+import { pick as rxPick, wireReactions } from './reactions.js';
 
 export { tipForm } from './form.js';
 export { groupRanking } from './standings.js';
@@ -369,6 +371,7 @@ export async function groupPage(id) {
   const fresh = query().get('neu');
   const kinds = next ? kindsFor(next) : [];
   const tipped = (uid, k) => ge?.status.some(s => s.user_id === uid && s.kind === k);
+  const star = starsOf(g.titles);
 
   return `${demoBar()}
     <div class="tp-ghead">
@@ -377,6 +380,7 @@ export async function groupPage(id) {
       ${g.role === 'admin' ? `<a class="btn ghost small" href="#/gruppe/${id}/admin">Einstellungen</a>` : ''}
     </div>
     ${fresh ? `<div class="notice ok">Deine Gruppe ist bereit. Schick deinen Freunden den Einladungslink unten.</div>` : ''}
+    ${standings.can_close ? `<div class="notice">Die Saison ${esc(standings.season)} ist durch – alle Wochenenden sind gewertet. Als Admin kannst du sie jetzt <a href="#/gruppe/${id}/rangliste">abschliessen und den Weltmeistertitel vergeben</a>.</div>` : ''}
     <section class="grid g-main section">
       <div class="stack">
         ${next ? `<div class="card">${cardHead(`${flagOf(core, next)} ${esc(next.name)}`, `<a class="muted small" href="#/gruppe/${id}/rennen/${next.id}">Alle Tipps ›</a>`)}
@@ -388,7 +392,7 @@ export async function groupPage(id) {
             }).join('')}</div>
             <div class="tp-who">${ge.members.map(m => {
               const n = kinds.filter(k => tipped(m.user_id, k)).length;
-              return `<div class="tp-whorow">${avatar(m, 28)}<span>${esc(m.name)}</span><span class="tp-dots">${kinds.map(k => `<i class="${tipped(m.user_id, k) ? 'on' : ''}" title="${KIND_LABEL[k]}"></i>`).join('')}</span><span class="muted small">${n === kinds.length ? 'fertig' : n ? 'teilweise' : 'offen'}</span></div>`;
+              return `<div class="tp-whorow">${avatar(m, 28)}<span>${esc(m.name)}${star(m.user_id)}</span><span class="tp-dots">${kinds.map(k => `<i class="${tipped(m.user_id, k) ? 'on' : ''}" title="${KIND_LABEL[k]}"></i>`).join('')}</span><span class="muted small">${n === kinds.length ? 'fertig' : n ? 'teilweise' : 'offen'}</span></div>`;
             }).join('')}</div>
             <div class="tp-actions"><a class="btn" href="#/tipp/${next.id}">Mein Tipp</a><a class="btn ghost" href="#/gruppe/${id}/rennen/${next.id}">Tipps der Gruppe</a></div>
           </div></div>` : ''}
@@ -400,8 +404,9 @@ export async function groupPage(id) {
         }).join('')}</div></div>` : ''}
       </div>
       <div class="stack">
+        ${hallOfFame(g.titles, me)}
         ${inviteBox(g)}
-        <div class="card">${cardHead('Mitglieder')}<div class="tp-members">${g.members.map(m => `<div class="tp-mrow">${avatar(m, 34)}<span class="tp-mname">${esc(m.name)}</span>${m.role === 'admin' ? tag('Admin', 'red') : ''}</div>`).join('')}</div></div>
+        <div class="card">${cardHead('Mitglieder')}<div class="tp-members">${g.members.map(m => `<div class="tp-mrow">${avatar(m, 34)}<span class="tp-mname">${esc(m.name)}${star(m.user_id)}</span>${m.role === 'admin' ? tag('Admin', 'red') : ''}</div>`).join('')}</div></div>
         <details class="card card-pad tp-rules small"><summary><b>Regeln & Punkte dieser Gruppe</b></summary>
           <p class="muted">Punktesystem «${esc(PRESETS[g.settings.preset]?.label || 'Standard')}», Tippschluss ${g.settings.lock === 'late' ? 'spät' : 'früh'}, ${esc(MISSING_LABEL[g.settings.missing] || '')}.</p>
           ${pointsTable(g.points)}
@@ -430,26 +435,30 @@ export async function groupEvent(id, evId) {
   const res = ge.results || {};
   const isAdmin = g.role === 'admin';
   const raceOver = Date.parse(ev.race_start) <= Date.now() + skew || !!res.race;
+  const star = starsOf(ge.titles);
 
   // Treffer pro getipptem Platz markieren: exakt (grün) oder Teilpunkte (gelb).
   const hitClass = (uid, k, slot) => {
     const it = scoreOf(uid)?.detail?.[k]?.items?.find(i => i.s === slot && i.k !== 'outsider');
     return !it ? '' : it.x ? 'hit' : 'part';
   };
-  const show = (t, k, uid) => {
+  // Jeder einzelne Pick ist ein eigenes Element – darauf können Mitspieler
+  // nach dem Aufdecken mit einem Emoji reagieren (siehe reactions.js).
+  const show = (t, k, uid, can = false) => {
     if (!t) return '';
+    const P = (inner, slot) => rxPick(inner, { uid, kind: k, slot, can });
     if (k === 'extras') {
       const p = t.picks, out = [];
       const items = scoreOf(uid)?.detail?.extras?.items || [];
       const ok = key => (items.some(i => i.k === key) ? ' class="tp-x-hit"' : '');
-      if (p.fastest) out.push(`<span${ok('fastest')}>⏱ ${chip(p.fastest)}</span>`);
-      if (p.dotd) out.push(`<span${ok('dotd')}>⭐ ${chip(p.dotd)}</span>`);
-      if (p.sc != null) out.push(`<span${ok('sc') || ok('scYes')}>SC ${EXTRAS.sc.fmt(p.sc)}</span>`);
-      if (p.dnf != null) out.push(`<span${ok('dnf') || ok('dnfNear')}>Ausfälle ${EXTRAS.dnf.fmt(p.dnf)}</span>`);
-      if (p.firstDnf) out.push(`<span${ok('firstDnf')}>1. Ausfall ${chip(p.firstDnf)}</span>`);
-      return out.join(' · ');
+      if (p.fastest) out.push(P(`<span${ok('fastest')}>⏱ ${chip(p.fastest)}</span>`, 'fastest'));
+      if (p.dotd) out.push(P(`<span${ok('dotd')}>⭐ ${chip(p.dotd)}</span>`, 'dotd'));
+      if (p.sc != null) out.push(P(`<span${ok('sc') || ok('scYes')}>SC ${EXTRAS.sc.fmt(p.sc)}</span>`, 'sc'));
+      if (p.dnf != null) out.push(P(`<span${ok('dnf') || ok('dnfNear')}>Ausfälle ${EXTRAS.dnf.fmt(p.dnf)}</span>`, 'dnf'));
+      if (p.firstDnf) out.push(P(`<span${ok('firstDnf')}>1. Ausfall ${chip(p.firstDnf)}</span>`, 'firstDnf'));
+      return out.join(' <span class="tp-x-sep">·</span> ');
     }
-    return t.picks.order.map((d, i) => `<span class="tp-slotchip ${hitClass(uid, k, i + 1)}">${chip(d)}</span>`).join('');
+    return t.picks.order.map((d, i) => P(`<span class="tp-slotchip ${hitClass(uid, k, i + 1)}">${chip(d)}</span>`, `P${i + 1}`)).join('');
   };
   const resultLine = k => {
     if (k === 'extras') {
@@ -476,8 +485,9 @@ export async function groupEvent(id, evId) {
         }, f.querySelector('[data-err]'));
       };
     });
+    const missing = !!res.race && !ge.dotd;
     const opts = sd.drivers.filter(d => d.active).sort((a, b) => a.family_name.localeCompare(b.family_name));
-    return `<form class="tp-dotd" id="fDotd"><span class="small"><b>Admin:</b> Fahrer des Tages (Fan-Wahl auf F1.com)</span>
+    return `<form class="tp-dotd ${missing ? 'missing' : ''}" id="fDotd"><span class="small"><b>Admin:</b> Fahrer des Tages (Fan-Wahl auf F1.com)${missing ? ' <span class="tag warn">noch offen – bitte eintragen</span>' : ''}</span>
       <select class="input" name="drv"><option value="">– offen –</option>${opts.map(d => `<option value="${d.driver_id}" ${ge.dotd === d.driver_id ? 'selected' : ''}>${esc(d.given_name + ' ' + d.family_name)}</option>`).join('')}</select>
       <button class="btn small">Speichern</button><div data-err></div></form>`;
   };
@@ -490,8 +500,8 @@ export async function groupEvent(id, evId) {
       <div class="tp-tips">${ge.members.map(m => {
         const t = tipOf(m.user_id, k);
         const pts = scoreOf(m.user_id)?.detail?.[k];
-        const body = t ? show(t, k, m.user_id) : locked ? '<span class="muted small">kein Tipp</span>' : tipped(m.user_id, k) ? '<span class="tp-hidden">getippt · verdeckt</span>' : '<span class="muted small">noch kein Tipp</span>';
-        return `<div class="tp-tiprow ${m.user_id === me ? 'me' : ''}">${avatar(m, 28)}<span class="tp-tname">${esc(m.name)}${t?.source === 'auto' ? ' <span class="tag" title="Letzter Tipp übernommen">übernommen</span>' : ''}</span><span class="tp-tbody ${k === 'race' ? 'wrap' : ''}">${body}</span>${pts ? `<span class="tp-kpts">${pts.points}</span>` : ''}</div>`;
+        const body = t ? show(t, k, m.user_id, locked && m.user_id !== me) : locked ? '<span class="muted small">kein Tipp</span>' : tipped(m.user_id, k) ? '<span class="tp-hidden">getippt · verdeckt</span>' : '<span class="muted small">noch kein Tipp</span>';
+        return `<div class="tp-tiprow ${m.user_id === me ? 'me' : ''}">${avatar(m, 28)}<span class="tp-tname">${esc(m.name)}${star(m.user_id)}${t?.source === 'auto' ? ' <span class="tag" title="Letzter Tipp übernommen">übernommen</span>' : ''}</span><span class="tp-tbody ${k === 'race' ? 'wrap' : ''}">${body}</span>${pts ? `<span class="tp-kpts">${pts.points}</span>` : ''}</div>`;
       }).join('')}</div>
       ${k === 'extras' ? dotdForm() : ''}</div>`;
   }).join('');
@@ -499,14 +509,25 @@ export async function groupEvent(id, evId) {
   // Punkte des Wochenendes (sobald ausgewertet)
   const evTab = ge.scores.length ? rankTable({ members: ge.members, scores: ge.scores.map(s => ({ ...s, event_id: evId })), adjustments: ge.adjustments.map(a => ({ ...a, event_id: evId })) }, new Set([evId])) : [];
   const summary = ge.scores.length ? `<div class="card">${cardHead('Punkte dieses Wochenendes', `<span class="muted small">${ge.results_at ? 'Resultat vom ' + fmtWhen(new Date(ge.results_at)) : ''}</span>`)}
-      <div class="tp-rks">${evTab.map(r => `<details class="tp-rkd ${r.user_id === me ? 'me' : ''}"><summary class="tp-rk"><span class="tp-rk-pos">${r.rank}.</span>${avatar(r, 30)}<span class="tp-rk-name">${esc(r.name)}<small class="muted">${r.exact} exakt${r.adjust ? ` · Korrektur ${r.adjust > 0 ? '+' : ''}${r.adjust}` : ''} · Details</small></span><span class="tp-rk-pts">${r.points}<small>Pkt.</small></span></summary>
+      <div class="tp-rks">${evTab.map(r => `<details class="tp-rkd ${r.user_id === me ? 'me' : ''}"><summary class="tp-rk"><span class="tp-rk-pos">${r.rank}.</span>${avatar(r, 30)}<span class="tp-rk-name">${esc(r.name)}${star(r.user_id)}<small class="muted">${r.exact} exakt${r.adjust ? ` · Korrektur ${r.adjust > 0 ? '+' : ''}${r.adjust}` : ''} · Details</small></span><span class="tp-rk-pts">${r.points}<small>Pkt.</small></span></summary>
         <div class="tp-bds">${breakdown(scoreOf(r.user_id), drv)}${ge.adjustments.filter(a => a.user_id === r.user_id).map(a => `<div class="tp-bd"><div class="tp-bd-row"><span>Korrektur: ${esc(a.reason)}</span><span>${a.points > 0 ? '+' : ''}${a.points}</span></div></div>`).join('')}</div></details>`).join('')}</div>
       <p class="muted small card-pad" style="margin:0">Grün = exakt, gelb = Teilpunkte. Ändert sich das Resultat nachträglich (z. B. durch eine Strafe), wird automatisch neu gerechnet.</p></div>`
-    : raceOver || res.quali ? `<div class="notice">Die Punkte erscheinen automatisch, sobald das offizielle Resultat da ist (meist 1–3 Stunden nach der Session).</div>` : '';
+    : raceOver || res.quali ? `<div class="notice">Die Punkte erscheinen automatisch, sobald das offizielle Resultat da ist (meist innerhalb von 10–20 Minuten nach der Session).</div>` : '';
+
+  // Reaktionen: Zähler zeichnen, Emoji-Auswahl und Live-Aktualisierung.
+  const anyOpen = kinds.some(k => { const lt = ge.locks[k] ? Date.parse(ge.locks[k]) : null; return lt && lt > Date.now() + skew; });
+  const canReact = ge.members.length > 1 && !kinds.every(k => { const lt = ge.locks[k] ? Date.parse(ge.locks[k]) : null; return !lt || lt > Date.now() + skew; });
+  if (canReact) {
+    wireReactions({ root: '#tpTips', groupId: id, eventId: evId, me,
+      names: new Map(ge.members.map(m => [m.user_id, m.name])), list: ge.reactions || [] });
+  }
 
   return `${demoBar()}
-    ${pageHead(`${flagOf(core, ev)} ${esc(ev.name)}`, `Tipps in «${esc(g.name)}». Fremde Tipps werden erst nach dem Tippschluss aufgedeckt.`, `Runde ${ev.round}`, `<a class="btn small" href="#/tipp/${evId}">Mein Tipp</a>`)}
-    <div class="stack">${summary}${sections}</div>
+    ${pageHead(`${flagOf(core, ev)} ${esc(ev.name)}`, [`Tipps in «${esc(g.name)}».`,
+      anyOpen ? 'Fremde Tipps werden erst nach dem Tippschluss aufgedeckt.' : '',
+      canReact ? 'Tippe auf einen Fahrer im Tipp eines Mitspielers, um mit einem Emoji zu reagieren.' : ''].filter(Boolean).join(' '),
+      `Runde ${ev.round}`, `<a class="btn small" href="#/tipp/${evId}">Mein Tipp</a>`)}
+    <div class="stack" id="tpTips">${summary}${sections}</div>
     <p class="mt"><a class="link-arrow" href="#/gruppe/${id}">Zurück zur Gruppe</a> &nbsp; <a class="link-arrow" href="#/gruppe/${id}/rangliste">Rangliste</a> &nbsp; <a class="link-arrow" href="#/race/${ev.round}">Infos zum Rennwochenende</a></p>`;
 }
 

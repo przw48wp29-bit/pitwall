@@ -161,6 +161,41 @@ export default async function dbTests({ PGlite, readText }) {
     assert.equal((await asUser(db, U.anna, `select * from public.tips where event_id = '2026-17'`)).length, 1);
   });
 
+  t('Reaktionen: nur auf fremde, aufgedeckte Tipps – und als Umschalter', async () => {
+    const react = (who, emoji, slot = 'P1', target = 'cleo', ev = '2026-17', kind = 'quali') =>
+      call(who, 'react', { p_group: G.main, p_event: ev, p_target: U[target], p_kind: kind, p_slot: slot, p_emoji: emoji });
+
+    let list = await react('anna', '🔥');
+    assert.equal(list.length, 1);
+    assert.equal(list[0].emoji, '🔥');
+    assert.equal(list[0].slot, 'P1');
+    list = await react('anna', '🤯');
+    assert.equal(list.length, 1, 'anderes Emoji ersetzt die eigene Reaktion');
+    assert.equal(list[0].emoji, '🤯');
+    list = await react('anna', '🤯');
+    assert.equal(list.length, 0, 'dasselbe Emoji nochmal nimmt die Reaktion weg');
+    list = await react('anna', '👍');
+    list = await react('ben', '👍', 'P2');
+    assert.equal(list.length, 2, 'mehrere Personen, mehrere Picks');
+
+    await assert.rejects(() => react('cleo', '🔥'), /eigene Tipps/);
+    await assert.rejects(() => react('dave', '🔥'), /nicht Mitglied/);
+    await assert.rejects(() => react('anna', '🔥', 'P1', 'ben', '2026-18', 'race'), /Tippschluss/);
+    await assert.rejects(() => react('anna', '🍕'), /emoji|constraint/i);
+    await assert.rejects(() => react('anna', '🔥', 'P11'), /slot|constraint/i);
+
+    // Am Frontend vorbei: nicht für andere, nicht auf sich selbst.
+    await assert.rejects(() => asUser(db, U.anna,
+      `insert into public.tip_reactions (group_id, event_id, target_user, kind, slot, user_id, emoji) values ($1, '2026-17', $2, 'quali', 'P3', $3, '🔥')`,
+      [G.main, U.cleo, U.ben]), /row-level security/);
+    assert.equal((await asUser(db, U.dave, 'select * from public.tip_reactions')).length, 0, 'Fremde sehen nichts');
+    assert.equal((await asUser(db, U.ben, 'select * from public.tip_reactions')).length, 2, 'Mitglieder sehen alle');
+
+    const ge = await call('ben', 'group_event', { p_group: G.main, p_event: '2026-17' });
+    assert.equal(ge.reactions.length, 2, 'Reaktionen stecken in der Tippübersicht');
+    assert.ok(ge.reactions.every(r => r.kind === 'quali'));
+  });
+
   t('Tippschluss «spät»: Renn-Tipp bis zum Rennstart', async () => {
     await assert.rejects(() => call('ben', 'update_group', { p_group: G.main, p_settings: { lock: 'late' } }), /Nur Admins/);
     const g = await call('anna', 'update_group', { p_group: G.main, p_settings: { lock: 'late' } });

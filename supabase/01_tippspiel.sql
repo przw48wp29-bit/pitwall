@@ -146,6 +146,48 @@ create table if not exists public.adjustments (
 );
 create index if not exists adjustments_group_idx on public.adjustments(group_id, season);
 
+-- Reaktionen auf einzelne Fahrer in fremden Tipps («🔥 auf Platz 1 von Lena»).
+-- Pro Reaktion ein Zeile; eine Person darf pro Pick genau ein Emoji setzen
+-- (nochmal dasselbe = wieder weg, siehe public.react). Sichtbar – wie die
+-- Tipps selbst – erst nach dem Tippschluss.
+--   slot: 'P1'…'P10' bei Quali/Sprint/Rennen, sonst der Name des Zusatztipps.
+create table if not exists public.tip_reactions (
+  group_id    uuid not null,
+  event_id    text not null references public.events(id) on delete cascade,
+  target_user uuid not null,
+  kind        text not null check (kind in ('quali', 'sprint', 'race', 'extras')),
+  slot        text not null check (slot ~ '^(P([1-9]|10)|fastest|dotd|sc|dnf|firstDnf)$'),
+  user_id     uuid not null,
+  emoji       text not null check (emoji in ('👍', '🔥', '😂', '😮', '🤯', '💀', '🤡', '🫡', '🤞', '❤️')),
+  created_at  timestamptz not null default now(),
+  primary key (group_id, event_id, target_user, kind, slot, user_id),
+  foreign key (group_id, target_user) references public.memberships(group_id, user_id) on delete cascade,
+  foreign key (group_id, user_id) references public.memberships(group_id, user_id) on delete cascade,
+  check (target_user <> user_id)
+);
+create index if not exists tip_reactions_event_idx on public.tip_reactions(group_id, event_id);
+
+-- Weltmeistertitel einer Gruppe: wer hat eine Saison gewonnen.
+-- Der Admin schliesst die Saison ab (public.close_season), danach bleibt der
+-- Eintrag für immer stehen – es gibt bewusst keine Funktion zum Ändern.
+-- Der Name wird mitgespeichert, damit die Bestenliste auch dann stimmt, wenn
+-- jemand die Gruppe verlässt oder sein Konto löscht.
+create table if not exists public.group_titles (
+  group_id   uuid not null references public.groups(id) on delete cascade,
+  season     int  not null,
+  user_id    uuid references auth.users(id) on delete set null,
+  name       text not null,
+  points     int  not null,
+  exact      int  not null,
+  wins       int  not null,
+  lead       int  not null,          -- Vorsprung auf Platz 2
+  members    int  not null,          -- Gruppengrösse beim Abschluss
+  decided_by uuid references auth.users(id) on delete set null,
+  decided_at timestamptz not null default now(),
+  primary key (group_id, season, name)
+);
+create index if not exists group_titles_user_idx on public.group_titles(group_id, user_id);
+
 -- -----------------------------------------------------------------------------
 -- Hilfsfunktionen
 -- -----------------------------------------------------------------------------
@@ -380,6 +422,8 @@ alter table public.tips           enable row level security;
 alter table public.scores         enable row level security;
 alter table public.group_events   enable row level security;
 alter table public.adjustments    enable row level security;
+alter table public.tip_reactions  enable row level security;
+alter table public.group_titles   enable row level security;
 
 -- Tabellenrechte: so knapp wie möglich. Nicht angemeldete Besucher sehen nur
 -- Kalender und Fahrer. Gruppen, Mitgliedschaften und Einstellungen ändern
@@ -394,11 +438,19 @@ grant select, insert, update, delete on public.tips to authenticated;
 -- ausschliesslich über die Funktionen unten.
 revoke all on public.scores, public.group_events, public.adjustments from anon, authenticated;
 grant select on public.scores, public.group_events, public.adjustments to authenticated;
+-- Reaktionen: eigene selbst setzen und wieder wegnehmen (die Regeln stehen in
+-- den Policies unten), fremde nur lesen.
+revoke all on public.tip_reactions from anon, authenticated;
+grant select, insert, update, delete on public.tip_reactions to authenticated;
+-- Titel: nur lesen. Vergeben wird ausschliesslich über public.close_season,
+-- und auch dort gibt es kein Zurück – ein Titel bleibt.
+revoke all on public.group_titles from anon, authenticated;
+grant select on public.group_titles to authenticated;
 -- Sync-Job (Service-Key) schreibt Kalender, Fahrer und Resultate. Explizit, damit
 -- es auch ohne «Automatically expose new tables» funktioniert.
 grant all on public.profiles, public.groups, public.memberships, public.group_seasons,
   public.tips, public.events, public.season_drivers, public.scores, public.group_events,
-  public.adjustments to service_role;
+  public.adjustments, public.tip_reactions, public.group_titles to service_role;
 
 drop policy if exists events_read on public.events;
 create policy events_read on public.events for select using (true);
@@ -444,6 +496,27 @@ drop policy if exists group_events_read on public.group_events;
 create policy group_events_read on public.group_events for select to authenticated using (public.is_member(group_id));
 drop policy if exists adjustments_read on public.adjustments;
 create policy adjustments_read on public.adjustments for select to authenticated using (public.is_member(group_id));
+
+-- Reaktionen folgen den Tipps: sichtbar erst nach dem Tippschluss, und reagieren
+-- kann man nur auf fremde Picks (die eigenen sieht ja nur man selbst).
+drop policy if exists reactions_read on public.tip_reactions;
+create policy reactions_read on public.tip_reactions for select to authenticated
+  using (public.is_member(group_id) and not public.tip_open(group_id, event_id, kind));
+drop policy if exists reactions_insert on public.tip_reactions;
+create policy reactions_insert on public.tip_reactions for insert to authenticated
+  with check (user_id = auth.uid() and target_user <> auth.uid()
+    and public.is_member(group_id) and not public.tip_open(group_id, event_id, kind));
+drop policy if exists reactions_update on public.tip_reactions;
+create policy reactions_update on public.tip_reactions for update to authenticated
+  using (user_id = auth.uid() and public.is_member(group_id))
+  with check (user_id = auth.uid() and target_user <> auth.uid()
+    and public.is_member(group_id) and not public.tip_open(group_id, event_id, kind));
+drop policy if exists reactions_delete on public.tip_reactions;
+create policy reactions_delete on public.tip_reactions for delete to authenticated
+  using (user_id = auth.uid() and public.is_member(group_id));
+
+drop policy if exists titles_read on public.group_titles;
+create policy titles_read on public.group_titles for select to authenticated using (public.is_member(group_id));
 
 -- -----------------------------------------------------------------------------
 -- Funktionen für die Seite (RPC). Alle geben JSON zurück.
@@ -552,6 +625,7 @@ begin
     'season', public.current_season(),
     'settings', public.group_settings(g.id, public.current_season()),
     'points', public.points_preset(public.group_settings(g.id, public.current_season())->>'preset'),
+    'titles', public.group_titles_of(g.id),
     'members', (select jsonb_agg(jsonb_build_object('user_id', m.user_id, 'name', p.display_name, 'avatar', p.avatar,
         'role', m.role, 'joined_at', m.joined_at) order by m.joined_at)
       from public.memberships m join public.profiles p on p.id = m.user_id where m.group_id = g.id))
@@ -757,8 +831,54 @@ begin
       'scores', coalesce((select jsonb_agg(jsonb_build_object('user_id', sc.user_id, 'points', sc.points, 'exact', sc.exact, 'detail', sc.detail))
         from public.scores sc where sc.group_id = p_group and sc.event_id = ev.id), '[]'::jsonb),
       'adjustments', coalesce((select jsonb_agg(jsonb_build_object('id', a.id, 'user_id', a.user_id, 'points', a.points, 'reason', a.reason, 'created_at', a.created_at))
-        from public.adjustments a where a.group_id = p_group and a.event_id = ev.id), '[]'::jsonb))
+        from public.adjustments a where a.group_id = p_group and a.event_id = ev.id), '[]'::jsonb),
+      'titles', public.group_titles_of(p_group),
+      'reactions', coalesce((select jsonb_agg(jsonb_build_object('target_user', r.target_user, 'kind', r.kind,
+          'slot', r.slot, 'user_id', r.user_id, 'emoji', r.emoji) order by r.created_at)
+        from public.tip_reactions r where r.group_id = p_group and r.event_id = ev.id
+          and r.kind in (select k from locked)), '[]'::jsonb))
   );
+end $$;
+
+-- Reaktionen eines Wochenendes, für das Nachladen nach einer Änderung.
+-- Gleiche Regel wie oben: nur Arten, deren Tippschluss durch ist.
+create or replace function public.event_reactions(p_group uuid, p_event text) returns jsonb
+language sql stable security definer set search_path = '' as $$
+  select coalesce(jsonb_agg(jsonb_build_object('target_user', r.target_user, 'kind', r.kind,
+    'slot', r.slot, 'user_id', r.user_id, 'emoji', r.emoji) order by r.created_at), '[]'::jsonb)
+  from public.tip_reactions r
+  where r.group_id = p_group and r.event_id = p_event and public.is_member(p_group)
+    and not public.tip_open(p_group, p_event, r.kind)
+$$;
+
+-- Reaktion setzen, wechseln oder wieder wegnehmen (dasselbe Emoji nochmal = weg).
+-- Pro Person und Pick genau eine Reaktion. Gibt die neue Liste zurück.
+create or replace function public.react(p_group uuid, p_event text, p_target uuid,
+  p_kind text, p_slot text, p_emoji text) returns jsonb
+language plpgsql security invoker set search_path = '' as $$
+declare v_uid uuid := public.require_user(); v_old text;
+begin
+  if not public.is_member(p_group) then raise exception 'Du bist nicht Mitglied dieser Gruppe.'; end if;
+  if p_target = v_uid then raise exception 'Auf eigene Tipps kann man nicht reagieren.'; end if;
+  if public.tip_open(p_group, p_event, p_kind) then
+    raise exception 'Reaktionen gibt es erst nach dem Tippschluss.';
+  end if;
+  select emoji into v_old from public.tip_reactions
+   where group_id = p_group and event_id = p_event and target_user = p_target
+     and kind = p_kind and slot = p_slot and user_id = v_uid;
+  if v_old = p_emoji then
+    delete from public.tip_reactions
+     where group_id = p_group and event_id = p_event and target_user = p_target
+       and kind = p_kind and slot = p_slot and user_id = v_uid;
+  elsif v_old is not null then
+    update public.tip_reactions set emoji = p_emoji, created_at = now()
+     where group_id = p_group and event_id = p_event and target_user = p_target
+       and kind = p_kind and slot = p_slot and user_id = v_uid;
+  else
+    insert into public.tip_reactions (group_id, event_id, target_user, kind, slot, user_id, emoji)
+      values (p_group, p_event, p_target, p_kind, p_slot, v_uid, p_emoji);
+  end if;
+  return public.event_reactions(p_group, p_event);
 end $$;
 
 -- -----------------------------------------------------------------------------
@@ -1031,7 +1151,110 @@ begin
       from public.scores sc join public.events e on e.id = sc.event_id where sc.group_id = p_group and e.season = v_season), '[]'::jsonb),
     'adjustments', coalesce((select jsonb_agg(jsonb_build_object('id', a.id, 'user_id', a.user_id, 'event_id', a.event_id, 'points', a.points,
         'reason', a.reason, 'created_at', a.created_at, 'by', (select display_name from public.profiles where id = a.created_by)) order by a.created_at)
-      from public.adjustments a where a.group_id = p_group and a.season = v_season), '[]'::jsonb));
+      from public.adjustments a where a.group_id = p_group and a.season = v_season), '[]'::jsonb),
+    'titles', public.group_titles_of(p_group),
+    -- Darf diese Saison jetzt abgeschlossen werden? (nur Admin, kein Titel vergeben,
+    -- alle Wochenenden gefahren und ausgewertet) – gleiche Bedingungen wie close_season.
+    'can_close', public.is_admin(p_group)
+      and not exists (select 1 from public.group_titles t where t.group_id = p_group and t.season = v_season)
+      and public.season_open_events(p_group, v_season) = 0
+      and exists (select 1 from public.scores sc join public.events e on e.id = sc.event_id
+        where sc.group_id = p_group and e.season = v_season));
+end $$;
+
+-- -----------------------------------------------------------------------------
+-- Weltmeistertitel
+-- -----------------------------------------------------------------------------
+-- Saison-Rangliste einer Gruppe, mit denselben Regeln wie in der Anzeige
+-- (assets/js/tipp/ranking.js): mehr Punkte → mehr exakte Treffer → mehr
+-- Wochenendsiege. Wer dann immer noch gleichauf ist, teilt sich den Platz.
+create or replace function public.season_ranking(p_group uuid, p_season int)
+returns table (user_id uuid, name text, points int, exact int, wins int, rank int)
+language sql stable security definer set search_path = '' as $$
+  with ev as (
+    select e.id from public.events e where e.season = p_season
+  ), best as (
+    select sc.event_id, max(sc.points) as top from public.scores sc
+     where sc.group_id = p_group and sc.event_id in (select id from ev)
+     group by sc.event_id
+  ), agg as (
+    select m.user_id, p.display_name as name,
+      coalesce((select sum(sc.points) from public.scores sc
+         where sc.group_id = p_group and sc.user_id = m.user_id and sc.event_id in (select id from ev)), 0)
+      + coalesce((select sum(a.points) from public.adjustments a
+         where a.group_id = p_group and a.user_id = m.user_id and a.season = p_season), 0) as points,
+      coalesce((select sum(sc.exact) from public.scores sc
+         where sc.group_id = p_group and sc.user_id = m.user_id and sc.event_id in (select id from ev)), 0) as exact,
+      (select count(*) from public.scores sc join best b on b.event_id = sc.event_id
+         where sc.group_id = p_group and sc.user_id = m.user_id and sc.points > 0 and sc.points = b.top) as wins
+    from public.memberships m join public.profiles p on p.id = m.user_id
+    where m.group_id = p_group
+  )
+  select user_id, name, points::int, exact::int, wins::int,
+    rank() over (order by points desc, exact desc, wins desc)::int
+  from agg order by 6, name
+$$;
+
+-- Alle Titel einer Gruppe, neueste Saison zuerst.
+create or replace function public.group_titles_of(p_group uuid) returns jsonb
+language sql stable security definer set search_path = '' as $$
+  select coalesce(jsonb_agg(jsonb_build_object('season', t.season, 'user_id', t.user_id, 'name', t.name,
+    'points', t.points, 'exact', t.exact, 'wins', t.wins, 'lead', t.lead, 'members', t.members,
+    'avatar', (select avatar from public.profiles p where p.id = t.user_id),
+    'decided_at', t.decided_at) order by t.season desc, t.name), '[]'::jsonb)
+  from public.group_titles t where t.group_id = p_group and public.is_member(p_group)
+$$;
+
+-- Wie viele Rennwochenenden sind für diese Gruppe noch offen? 0 = Saison durch.
+-- Offen heisst: ein Wochenende der Saison steht noch an, oder jemand in der
+-- Gruppe hat getippt und das Resultat fehlt noch. Rennen, die vor der Gruppe
+-- stattgefunden haben (niemand hat getippt), zählen bewusst nicht mit – sonst
+-- liesse sich eine Saison, in der erst ab Rennen 18 gespielt wurde, nie
+-- abschliessen.
+create or replace function public.season_open_events(p_group uuid, p_season int) returns int
+language sql stable security definer set search_path = '' as $$
+  select (select count(*) from public.events e
+            where e.season = p_season and e.status <> 'cancelled' and e.race_start > now())
+       + (select count(distinct e.id) from public.events e join public.tips t on t.event_id = e.id
+            where e.season = p_season and e.status <> 'cancelled' and e.results is null
+              and t.group_id = p_group)::int
+$$;
+
+-- Saison abschliessen und den Weltmeistertitel vergeben (nur Admin).
+-- Das ist endgültig: einmal vergeben, bleibt der Titel in der Gruppe stehen.
+-- Voraussetzung: kein offenes Wochenende mehr (siehe oben) und es gibt Punkte.
+-- Bei vollkommenem Gleichstand (auch exakte Treffer und Wochenendsiege) teilen
+-- sich die Betroffenen den Titel.
+create or replace function public.close_season(p_group uuid, p_season int default null) returns jsonb
+language plpgsql security definer set search_path = '' as $$
+declare
+  v_uid uuid := public.require_user();
+  v_season int := coalesce(p_season, public.current_season());
+  v_open int; v_scored int; v_members int; v_second int;
+begin
+  if not public.is_admin(p_group) then raise exception 'Nur Admins können die Saison abschliessen.'; end if;
+  if exists (select 1 from public.group_titles where group_id = p_group and season = v_season) then
+    raise exception 'Die Saison % ist bereits abgeschlossen.', v_season;
+  end if;
+
+  v_open := public.season_open_events(p_group, v_season);
+  if v_open > 0 then
+    raise exception 'Die Saison läuft noch: % Rennwochenende(n) offen.', v_open;
+  end if;
+
+  select count(*) into v_scored from public.scores sc join public.events e on e.id = sc.event_id
+   where sc.group_id = p_group and e.season = v_season;
+  if v_scored = 0 then raise exception 'In dieser Saison gibt es in dieser Gruppe keine Punkte.'; end if;
+
+  select count(*) into v_members from public.memberships where group_id = p_group;
+  select max(points) into v_second from public.season_ranking(p_group, v_season) where rank > 1;
+
+  insert into public.group_titles (group_id, season, user_id, name, points, exact, wins, lead, members, decided_by)
+  select p_group, v_season, r.user_id, r.name, r.points, r.exact, r.wins,
+    r.points - coalesce(v_second, r.points), v_members, v_uid
+  from public.season_ranking(p_group, v_season) r where r.rank = 1;
+
+  return public.group_titles_of(p_group);
 end $$;
 
 -- Konto mit allen Daten löschen. Admin-Rollen werden vorher übergeben.
@@ -1055,4 +1278,17 @@ grant execute on all functions in schema public to authenticated, service_role;
 -- Tipps zeigen, die score_*-Funktionen laufen nur über Trigger und RPCs oben).
 revoke execute on function public.effective_tips(uuid, text), public.score_group_event(uuid, text),
   public.score_event(text), public.score_group_season(uuid, int), public.events_rescore(),
-  public.events_results_stamp(), public.tips_validate(), public.handle_new_user() from authenticated;
+  public.events_results_stamp(), public.tips_validate(), public.handle_new_user(),
+  public.season_ranking(uuid, int), public.season_open_events(uuid, int) from authenticated;
+
+-- Reaktionen sollen sofort bei allen erscheinen. Dafür muss die Tabelle in der
+-- Realtime-Publikation von Supabase sein. Im Demo-Modus (PGlite) gibt es diese
+-- Publikation nicht – darum geschützt, damit das Skript überall durchläuft.
+do $$
+begin
+  if exists (select 1 from pg_publication where pubname = 'supabase_realtime')
+     and not exists (select 1 from pg_publication_tables
+       where pubname = 'supabase_realtime' and schemaname = 'public' and tablename = 'tip_reactions') then
+    alter publication supabase_realtime add table public.tip_reactions;
+  end if;
+end $$;

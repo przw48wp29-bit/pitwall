@@ -1,12 +1,14 @@
-name: Tippspiel-Sync (stündlich)
+name: Tippspiel-Sync
 
-# Überträgt Kalender und Fahrerfeld nach Supabase. Daraus berechnet die
-# Datenbank den Tippschluss. Ohne die Secrets SUPABASE_URL und
+# Überträgt Kalender und Fahrerfeld nach Supabase (stündlich) und prüft
+# Resultate alle 10 Minuten – innerhalb von 3 Stunden nach einer Session
+# (Quali/Sprint/Rennen) wertet das Skript sie dann auch wirklich aus, sonst
+# bleibt es beim Stundentakt. Ohne die Secrets SUPABASE_URL und
 # SUPABASE_SERVICE_KEY beendet sich der Job einfach.
 
 on:
   schedule:
-    - cron: '7 * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch: {}
 
 permissions:

@@ -9,7 +9,7 @@ import {
 import { seasonStats, headToHead, pointsProgression, titleMath, titleOdds, classified } from './stats.js';
 import {
   then, takeAfterRender, timers, clearTimers, now, nextRace, lastRaceRound, liveSession, pageHead, sectionHead,
-  tableOf, cardHead, tabs, standingRow, constructorRow, countdown, sessionTable, loadingBox, contractTag, weatherBlock,
+  tableOf, cardHead, tabs, standingRow, constructorRow, countdown, sessionTable, loadingBox, pageSkeleton, contractTag, weatherBlock,
 } from './shared.js';
 import { lineChart, barChart } from './charts.js';
 import {
@@ -18,6 +18,7 @@ import {
 } from './features.js';
 import * as T from './tipp/views.js';
 import { onAuthChange, probablyLoggedIn, isDemo } from './tipp/api.js';
+import { toast } from './tipp/common.js';
 
 const app = document.getElementById('app');
 
@@ -81,7 +82,7 @@ async function router() {
   document.querySelector('.more-btn')?.classList.toggle('active', !!document.querySelector('.more-menu a.active'));
   document.title = (TITLES[navKey] && navKey !== '/' ? TITLES[navKey] + ' · ' : '') + 'Pitwall – F1 Hub';
   closeMenus();
-  app.innerHTML = '<div class="loader"><span></span></div>';
+  app.innerHTML = pageSkeleton();
   try {
     const html = await view(...args);
     if (seq !== renderSeq) return;   // inzwischen weiternavigiert
@@ -917,6 +918,22 @@ async function boot() {
     const tickLive = () => document.querySelector('.nav-live').classList.toggle('is-live', !!liveSession(core));
     tickLive(); setInterval(tickLive, 60e3);
   } catch (e) { console.warn(e); }
-  if ('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js').catch(() => {});
+  if ('serviceWorker' in navigator && location.protocol === 'https:') {
+    const hadController = !!navigator.serviceWorker.controller;
+    navigator.serviceWorker.register('sw.js').catch(() => {});
+    navigator.serviceWorker.addEventListener('controllerchange', () => {
+      // Nur bei einem echten Update (nicht beim allerersten Besuch) Hinweis zeigen.
+      if (hadController) toast('Neue Version verfügbar. <a href="" onclick="location.reload();return false" style="color:#fff;text-decoration:underline">Jetzt neu laden</a>', 'info', 10000);
+    });
+  }
 }
 boot();
+
+// ---------- Offline-Hinweis ----------
+(function initOfflineBadge() {
+  const badge = document.getElementById('offlineBadge');
+  const update = () => badge.hidden = navigator.onLine;
+  window.addEventListener('online', update);
+  window.addEventListener('offline', update);
+  update();
+})();
