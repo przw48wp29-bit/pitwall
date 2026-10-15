@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T04:28:19.642Z",
+ "updatedAt": "2026-10-15T07:03:48.340Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,10 +10,45 @@
  },
  "items": [
   {
+   "title": "Gesichtet: Toto Wolff im 10-Millionen-Mercedes in Monaco",
+   "summary": "Toto Wolff wurde gesichtet, wie er einen extrem seltenen, zehn Millionen Dollar teuren Mercedes-Benz CLK GTR durch die Strassen von Monaco steuerte",
+   "url": "https://www.formel1.de/nc/149378",
+   "date": "2026-10-15T06:56:12.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-15T07:03:48.295Z"
+  },
+  {
+   "title": "Keine schnelle Rettung: McLaren braucht \"fundamentale Änderungen\" am MCL40",
+   "summary": "Sowohl Lando Norris als auch Oscar Piastri empfinden den aktuellen McLaren MCL40 als widerspenstig: Warum das Team die Kernursache dafür erst 2027 beseitigen kann",
+   "url": "https://www.formel1.de/nc/149377",
+   "date": "2026-10-15T06:02:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris",
+    "piastri"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-10-15T07:03:48.295Z"
+  },
+  {
    "title": "Der kühle Kopf bei Red Bull: Günther Steiner lobt Teamchef Laurent Mekies",
    "summary": "Günther Steiner lobt im Podcast \"The Red Flag\" die Arbeit des Red-Bull-Teamchefs Laurent Mekies und betont, welche Stärken der Ingenieur eigentlich mitbringt",
    "url": "https://www.formel1.de/nc/149376",
-   "date": "2026-10-15T04:27:04.000Z",
+   "date": "2026-10-15T04:27:00.000Z",
    "source": "Formel1.de",
    "sourceId": "formel1de",
    "lang": "de",
@@ -960,41 +995,6 @@
    ],
    "team": "mclaren",
    "category": "Rennen",
-   "firstSeen": "2026-10-12T08:41:19.929Z"
-  },
-  {
-   "title": "How Hamilton's call helped put Antonelli in reach of the title",
-   "summary": "Lewis Hamilton apologised following the Singapore Grand Prix after his strategy call ultimately led to his own race unravelling late on.",
-   "url": "https://www.formula1.com/en/latest/article/how-hamiltons-singapore-strategy-call-helped-put-antonelli-in-reach-of-the-title.2NeqeR8lkz3zom8MtJ2EE0",
-   "date": "2026-10-12T08:40:19.929Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton",
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-12T08:41:19.929Z"
-  },
-  {
-   "title": "Viermal Tracklimits bei Kimi Antonelli? Warum es keine Strafe gab",
-   "summary": "Viermal verliess Kimi Antonelli in Singapur die Strecke, doch eine Zeitstrafe blieb aus: Die FIA erklärt, weshalb der Mercedes-Fahrer straffrei davonkam",
-   "url": "https://www.formel1.de/nc/149341",
-   "date": "2026-10-12T08:19:23.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Regeln",
    "firstSeen": "2026-10-12T08:41:19.929Z"
   }
  ]
