@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T07:03:48.340Z",
+ "updatedAt": "2026-10-15T08:53:15.564Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,24 @@
   }
  },
  "items": [
+  {
+   "title": "Drei Siege in Folge: Ist Red Bull jetzt die neue Nummer 1 der Formel 1?",
+   "summary": "Max Verstappen konnte in Malaysia und zweimal in Singapur gewinnen und scheint das Mass der Dinge zu sein: Doch bei der Aussage ist auch die Konkurrenz vorsichtig",
+   "url": "https://www.formel1.de/nc/149379",
+   "date": "2026-10-15T07:52:28.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-15T08:53:15.550Z"
+  },
   {
    "title": "Gesichtet: Toto Wolff im 10-Millionen-Mercedes in Monaco",
    "summary": "Toto Wolff wurde gesichtet, wie er einen extrem seltenen, zehn Millionen Dollar teuren Mercedes-Benz CLK GTR durch die Strassen von Monaco steuerte",
@@ -977,25 +995,6 @@
    "team": "mclaren",
    "category": "Rennen",
    "firstSeen": "2026-10-12T10:38:14.923Z"
-  },
-  {
-   "title": "Norris concedes he 'let down' McLaren with Piastri clash",
-   "summary": "Lando Norris admits that \"I let down the team\" and has apologised to McLaren for his clash with team mate Oscar Piastri during the Singapore Sprint last weekend.",
-   "url": "https://www.formula1.com/en/latest/article/i-let-down-the-team-norris-apologises-to-mclaren-for-singapore-sprint-intra-team-clash.4ZzwKsV0z0lmQWXrlwAbV2",
-   "date": "2026-10-12T08:41:19.929Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris",
-    "piastri"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-12T08:41:19.929Z"
   }
  ]
 }
