@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T18:58:17.285Z",
+ "updatedAt": "2026-10-15T04:28:19.642Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Der kühle Kopf bei Red Bull: Günther Steiner lobt Teamchef Laurent Mekies",
+   "summary": "Günther Steiner lobt im Podcast \"The Red Flag\" die Arbeit des Red-Bull-Teamchefs Laurent Mekies und betont, welche Stärken der Ingenieur eigentlich mitbringt",
+   "url": "https://www.formel1.de/nc/149376",
+   "date": "2026-10-15T04:27:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-15T04:28:19.640Z"
+  },
   {
    "title": "Christian Horner verrät: So schnappte er Mercedes die besten Mitarbeiter weg",
    "summary": "Christian Horner gewährt exklusive Einblicke in das Motorenprojekt von Red Bull und verrät, wie aggressiv er damals um die besten Mitarbeiter von Mercedes kämpfte",
@@ -979,24 +995,6 @@
    ],
    "team": "mercedes",
    "category": "Regeln",
-   "firstSeen": "2026-10-12T08:41:19.929Z"
-  },
-  {
-   "title": "Scharmützel ausgenutzt: So clever holte sich Antonelli das Podium in Singapur",
-   "summary": "Kimi Antonelli holte sich beim Singapur-GP Platz drei, als Lando Norris und Lewis Hamilton vor ihm nicht über die Vorfahrt einig wurden",
-   "url": "https://www.formel1.de/nc/149340",
-   "date": "2026-10-12T08:09:27.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "norris",
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
    "firstSeen": "2026-10-12T08:41:19.929Z"
   }
  ]
