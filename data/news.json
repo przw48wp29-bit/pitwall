@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T13:02:44.894Z",
+ "updatedAt": "2026-10-15T14:50:24.605Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,106 @@
  },
  "items": [
   {
-   "title": "\"Keine zwei Meinungen\": Sollte Cadillac Bottas durch Ocon ersetzen?",
+   "title": "Williams outline plans for 50th anniversary year in 2027",
+   "summary": "Williams have outlined plans for their 50th anniversary year in 2027, with a milestone chassis designation, an immersive experience in London and a fan-picked Silverstone car livery all set to feature throughout a calendar of special events.",
+   "url": "https://www.formula1.com/en/latest/article/williams-outline-plans-for-50th-anniversary-year-with-calendar-of-special-events.wxPd7X2kbw2bUHstwFeZB",
+   "date": "2026-10-15T14:50:24.580Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "Technik",
+   "firstSeen": "2026-10-15T14:50:24.580Z"
+  },
+  {
+   "title": "The next Ferrari protege Haas couldn’t turn down",
+   "summary": "F1.com looks at the qualities Rafael Camara has displayed so far that appear to make him the ideal candidate for Haas following news that he will join the team in 2027.",
+   "url": "https://www.formula1.com/en/latest/article/rafael-camara-the-next-ferrari-protege-haas-couldnt-turn-down.24Vz3MR6I5GVOywy1z8C39",
+   "date": "2026-10-15T14:49:24.580Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "ferrari",
+    "haas"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-15T14:50:24.580Z"
+  },
+  {
+   "title": "Why Haas decided to risk promoting rookie Camara",
+   "summary": "Lawrence Barretto assesses the reasons behind Haas' decision to sign rookie Rafael Camara to the team for the 2027 season.",
+   "url": "https://www.formula1.com/en/latest/article/analysis-why-haas-decided-to-risk-promoting-rookie-camara-for-their-2027-line-up.4Q2AGJtixidwJ2EXtdsydz",
+   "date": "2026-10-15T14:48:24.580Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Transfer",
+   "firstSeen": "2026-10-15T14:50:24.580Z"
+  },
+  {
+   "title": "Haas sign Ferrari junior Rafael Camara for 2027",
+   "summary": "Rafael Camara has secured a full-time seat in Formula 1 with Haas.",
+   "url": "https://www.formula1.com/en/latest/article/ferrari-junior-rafael-camara-promoted-to-f1-with-haas-for-2027.1RSxvnFaLu8Hd3JD2ppFsz",
+   "date": "2026-10-15T14:47:24.580Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "ferrari",
+    "haas"
+   ],
+   "team": "ferrari",
+   "category": "Transfer",
+   "firstSeen": "2026-10-15T14:50:24.580Z"
+  },
+  {
+   "title": "Übersicht: Die Fahrer und Teams der Formel-1-Saison 2027",
+   "summary": "Der aktuelle Ausblick auf die Formel-1-Saison 2027 mit allen bisher bestätigten Fahrern und Teams sowie allen Fahrerwechseln",
+   "url": "https://www.formel1.de/nc/148077",
+   "date": "2026-10-15T14:10:28.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-15T14:50:24.580Z"
+  },
+  {
+   "title": "Neuer Fahrer für die Formel 1: Haas ersetzt Ocon 2027 durch Rafael Camara",
+   "summary": "Formel-2-Spitzenreiter Rafael Camara wird der Nachfolger von Esteban Ocon bei Haas in der Formel-1-Saison 2027: Der Brasilianer ist der nächste aus der Ferrari-Akademie",
+   "url": "https://www.formel1.de/nc/149384",
+   "date": "2026-10-15T14:00:30.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "ocon"
+   ],
+   "teams": [
+    "ferrari",
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Transfer",
+   "firstSeen": "2026-10-15T14:50:24.580Z"
+  },
+  {
+   "title": "Formel-1-Experte: Cadillac sollte \"auf jeden Fall\" Esteban Ocon holen",
    "summary": "Ralf Schumacher traut Valtteri Bottas in der Formel 1 keine grossen Erfolge mehr zu - Der Experte rät Cadillac deshalb dazu, stattdessen Esteban Ocon zu verpflichten",
    "url": "https://www.formel1.de/nc/149383",
    "date": "2026-10-15T12:55:41.000Z",
@@ -18,8 +117,8 @@
    "sourceId": "formel1de",
    "lang": "de",
    "drivers": [
-    "bottas",
-    "ocon"
+    "ocon",
+    "bottas"
    ],
    "teams": [
     "cadillac"
@@ -891,113 +990,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-10-12T12:59:45.879Z"
-  },
-  {
-   "title": "Abgeschossen und ausgerollt: \"Grauenvolles\" Wochenende für Bortoleto",
-   "summary": "Gabriel Bortoleto erlebt in Singapur das laut ihm mit Abstand frustrierendste Wochenende des Jahres: \"Wir hatten einfach so viele Probleme\"",
-   "url": "https://www.formel1.de/nc/149347",
-   "date": "2026-10-12T11:38:39.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bortoleto"
-   ],
-   "teams": [],
-   "team": "audi",
-   "category": "News",
-   "firstSeen": "2026-10-12T12:59:45.879Z"
-  },
-  {
-   "title": "\"Unheimlich schmales Band\": Mercedes zieht Bilanz über Malaysia-Update",
-   "summary": "Mercedes war in Singapur schnell, doch Toto Wolff sieht ein enges Set-up-Fenster: In Austin soll das Update erneut Antworten liefern",
-   "url": "https://www.formel1.de/nc/149346",
-   "date": "2026-10-12T11:22:28.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Technik",
-   "firstSeen": "2026-10-12T12:59:45.879Z"
-  },
-  {
-   "title": "Fahrernoten Singapur: Audi-Pilot Nico Hülkenberg auf Platz zwei",
-   "summary": "Nur Achter im Rennen, aber Zweiter in den Fahrernoten: Nico Hülkenberg überzeugt in Singapur, doch für Mercedes-Fahrer George Russell sieht es ganz anders aus",
-   "url": "https://www.formel1.de/nc/149345",
-   "date": "2026-10-12T10:59:46.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hulkenberg",
-    "russell"
-   ],
-   "teams": [
-    "mercedes",
-    "audi"
-   ],
-   "team": "audi",
-   "category": "Rennen",
-   "firstSeen": "2026-10-12T12:59:45.879Z"
-  },
-  {
-   "title": "Haas am Sonntag ohne Ertrag: Punkte im Sprint \"nicht durch Pace verdient\"",
-   "summary": "Haas konnte aus Singapur ein paar Punkte mitnehmen, auch wenn diese laut Oliver Bearman nicht verdient waren - Sonntagsrennen bleibt ohne Belohnung",
-   "url": "https://www.formel1.de/nc/149344",
-   "date": "2026-10-12T10:45:27.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bearman"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Rennen",
-   "firstSeen": "2026-10-12T12:59:45.879Z"
-  },
-  {
-   "title": "Wolff wary of Red Bull's growing threat to Mercedes",
-   "summary": "Toto Wolff admits he is wary of the growing threat that Red Bull could pose to Mercedes, after Max Verstappen claimed a dominant victory in the Singapore Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/its-full-on-wolff-wary-of-growing-red-bull-threat-to-mercedes.6maHMRSn0IJZPbu3GkUVzX",
-   "date": "2026-10-12T10:38:14.923Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "mercedes",
-    "red_bull"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-12T10:38:14.923Z"
-  },
-  {
-   "title": "Lawson assesses odds of keeping his Racing Bulls seat",
-   "summary": "Liam Lawson scored valuable points for Racing Bulls in both the Sprint and Grand Prix at the Marina Bay Street Circuit.",
-   "url": "https://www.formula1.com/en/latest/article/you-tell-me-lawson-assesses-odds-of-keeping-his-racing-bulls-seat-after-mighty-singapore-showing.BaSVOgDL3bgtO4WT94pl2",
-   "date": "2026-10-12T10:37:14.923Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "lawson"
-   ],
-   "teams": [
-    "rb"
-   ],
-   "team": "rb",
-   "category": "Transfer",
-   "firstSeen": "2026-10-12T10:38:14.923Z"
   }
  ]
 }
