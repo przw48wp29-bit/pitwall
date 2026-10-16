@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T07:02:54.631Z",
+ "updatedAt": "2026-10-16T08:52:02.810Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,23 @@
  },
  "items": [
   {
-   "title": "Haas-Teamchef betont: Rafael Camara \"war der Schnellste, ganz einfach!\"",
+   "title": "Zum Jubiläum: Williams für die Saison 2027 bekommt einen neuen Namen",
+   "summary": "Williams hat bekanntgegeben, dass das Formel-1-Auto für die Saison 2027 den Namen FW50 tragen wird - Damit \"überspringt\" das Traditionsteam aus Grove den FW49",
+   "url": "https://www.formel1.de/nc/149390",
+   "date": "2026-10-16T08:05:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "News",
+   "firstSeen": "2026-10-16T08:52:02.795Z"
+  },
+  {
+   "title": "Haas: Portimao-Shootout spielte wichtige Rolle bei Wahl für Rafael Camara",
    "summary": "Rafael Camara hat das Cockpit bei Haas nicht aufgrund seiner Verbindung zu Ferrari bekommen, sondern weil er beim Portimao-Shootout schlicht der Schnellste war",
    "url": "https://www.formel1.de/nc/149389",
    "date": "2026-10-16T06:50:05.000Z",
@@ -987,24 +1003,6 @@
    "team": "ferrari",
    "category": "News",
    "firstSeen": "2026-10-13T08:40:33.098Z"
-  },
-  {
-   "title": "Was Max Verstappen und Red Bull Hoffnung für 2027 macht",
-   "summary": "Auch wenn Max Verstappen noch Verbesserungspotenzial sieht, ist wichtig, dass alle grossen Upgrades, die in dieser Saison eingeführt wurden, funktioniert haben",
-   "url": "https://www.formel1.de/nc/149350",
-   "date": "2026-10-13T05:51:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Technik",
-   "firstSeen": "2026-10-13T06:46:46.117Z"
   }
  ]
 }
