@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T14:50:36.055Z",
+ "updatedAt": "2026-10-16T16:49:36.039Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,36 @@
   }
  },
  "items": [
+  {
+   "title": "How the pecking order has changed since the season opener",
+   "summary": "F1.com takes a look at the data to determine which teams have moved forwards – and which have fallen behind – over the course of the 2026 season so far.",
+   "url": "https://www.formula1.com/en/latest/article/in-numbers-how-the-pecking-order-has-changed-since-the-2026-season-opener.5audfzy7TXq7Jzl92vs6Pd",
+   "date": "2026-10-16T16:49:36.015Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-16T16:49:36.015Z"
+  },
+  {
+   "title": "Lando Norris: So sieht sein Business-Imperium abseits der Formel 1 aus",
+   "summary": "Neben seiner Karriere als Formel-1-Fahrer hat sich Weltmeister Lando Norris noch anderen Projekten verschrieben: Hier ist eine Übersicht über seine Aktivitäten",
+   "url": "https://www.formel1.de/nc/149398",
+   "date": "2026-10-16T15:32:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "Business",
+   "firstSeen": "2026-10-16T16:49:36.015Z"
+  },
   {
    "title": "Why Brown thinks Piastri is 'back to the driver I know'",
    "summary": "McLaren CEO Zak Brown believes Oscar Piastri is returning to form after a difficult spell, praising his growing confidence behind the wheel of the MCL40.",
@@ -965,43 +995,6 @@
    ],
    "teams": [],
    "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-13T16:38:21.492Z"
-  },
-  {
-   "title": "Reifenschaden in Singapur hat Oscar Piastri \"wahrscheinlich sogar geholfen\"",
-   "summary": "Oscar Piastri glaubt, dass ihm der Reifenschaden in Singapur \"wahrscheinlich sogar geholfen\" hat: Der McLaren-Pilot konnte am Ende noch Lewis Hamilton überholen",
-   "url": "https://www.formel1.de/nc/149360",
-   "date": "2026-10-13T16:22:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "piastri",
-    "hamilton"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-10-13T16:38:21.492Z"
-  },
-  {
-   "title": "\"Ständig quergestanden\": Pierre Gasly schlägt Alarm nach Singapur-Debakel",
-   "summary": "Pierre Gasly bleibt in Singapur trotz gutem Startplatz ohne Punkte: Der Alpine-Pilot schlägt Alarm, weil er schon nach drei Runden mit Problemen zu kämpfen hatte",
-   "url": "https://www.formel1.de/nc/149359",
-   "date": "2026-10-13T15:33:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "gasly"
-   ],
-   "teams": [
-    "alpine"
-   ],
-   "team": "alpine",
    "category": "Rennen",
    "firstSeen": "2026-10-13T16:38:21.492Z"
   }
