@@ -1,8 +1,9 @@
 // Gemeinsame Bausteine aller Seiten: Render-Hooks, Timer, Layout-Teile.
 
-import { team } from './config.js';
+import { team, TEAMS } from './config.js';
 import { weather } from './data.js';
-import { esc, teamStyle, driverName, fmtNum, fmtDay, fmtDate, fmtTime, sessionsOf, sessionEnd, tag, img } from './ui.js';
+import { esc, teamStyle, driverName, fmtNum, fmtDay, fmtDate, fmtTime, sessionsOf, sessionEnd, tag, img, relTime, hostOf } from './ui.js';
+import { relatedNews, ageInDays } from './news-feed.js';
 
 // ---------- Render-Lebenszyklus ----------
 let queue = [];
@@ -129,3 +130,44 @@ export const contractTag = c => {
   const map = { bestätigt: 'ok', erwartet: 'info', offen: 'warn', 'Gerücht': 'warn', weg: '' };
   return tag(c.status === 'bestätigt' ? `2027 ✓ ${team(c.team2027).short}` : `2027: ${c.status}`, map[c.status] || '');
 };
+
+// ---------- News ----------
+// News-Karte. Bebildert mit unseren eigenen Fotos: Auto des erstgenannten
+// Fahrers, sonst das Auto des Teams. Pressefotos der Quelle werden nicht übernommen.
+export function newsCard(n, lead = false, { image = true } = {}) {
+  const tid = n.team && TEAMS[n.team] ? n.team : null;
+  const did = n.drivers?.[0];
+  const pic = image && (did || tid) ? `<div class="nc-img">${did ? img('driverCars', did, null, { width: lead ? 1200 : 800, fallback: tid ? 'cars:' + tid : '' }) : img('cars', tid, null, { width: lead ? 1200 : 800 })}</div>` : '';
+  const d = n.date ? new Date(n.date) : null;
+  const when = d ? (Date.now() - d < 20 * 3600e3 ? relTime(d) : fmtDate(d, { day: 'numeric', month: 'short' })) : '';
+  return `<a class="news-card ${lead ? 'news-lead' : ''} ${pic ? 'has-img' : ''}" data-cat="${esc(n.category || '')}" href="${esc(n.url || '#/news')}" ${n.url ? 'target="_blank" rel="noopener"' : ''} ${tid ? teamStyle(tid) : 'style="--team:var(--red)"'}>
+    ${pic}<div class="nc-top"></div><div class="nc-body">
+      <div class="nc-tags">${tag(n.category || 'News')}${n.lang === 'en' ? '<span class="tag ghost" title="Artikel auf Englisch">EN</span>' : ''}</div>
+      <h3>${esc(n.title)}</h3>${n.summary ? `<p>${esc(n.summary)}</p>` : ''}
+      <div class="nc-meta"><span>${esc(n.source || hostOf(n.url || ''))} ↗</span><span>${esc(when)}</span></div>
+    </div></a>`;
+}
+
+export function newsStamp(nw) {
+  if (!nw?.updatedAt) return '';
+  const d = new Date(nw.updatedAt);
+  return `<div class="src">${nw.rss ? 'Schlagzeilen und Kurztexte von Formel1.de und Formula1.com, automatisch alle 2 Stunden abgerufen. Der ganze Artikel öffnet sich auf der Seite der Quelle.' : 'Redaktionelle Zusammenfassung'} · Stand ${fmtDate(d, { day: 'numeric', month: 'long' })}, ${fmtTime(d)}</div>`;
+}
+
+// Frische Meldungen zum Thema einer Fachseite. Die redaktionellen Daten in
+// editorial.json altern (die KI-Recherche kostet Geld und ist darum aus),
+// die RSS-News kommen aber gratis alle zwei Stunden – so bleibt die Seite aktuell.
+export function newsSection(nw, title, opts) {
+  const list = relatedNews(nw?.items || [], opts);
+  if (!list.length) return '';
+  return `<section class="section">${sectionHead(title, '#/news', 'Alle News')}
+    <div class="grid g3 news-grid">${list.map(n => newsCard(n)).join('')}</div>${newsStamp(nw)}</section>`;
+}
+
+// Hinweis, wenn die recherchierten Daten alt sind – lieber ehrlich sagen,
+// seit wann nichts mehr dazugekommen ist, als stillschweigend veralten.
+export function staleNote(ed, what, { warnAfter = 10 } = {}) {
+  const age = ageInDays(ed?.generatedAt);
+  if (age == null || age < warnAfter) return '';
+  return `<div class="notice">${esc(what)} ${age === 1 ? 'wurde gestern' : `wurde zuletzt vor ${age} Tagen`} recherchiert. Neuere Entwicklungen stehen in den <a href="#/news">News</a>, die alle zwei Stunden automatisch aktualisiert werden.</div>`;
+}
