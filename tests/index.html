@@ -29,7 +29,7 @@
   const esc = s => String(s).replace(/[&<>]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
   const { PGlite } = await import('https://cdn.jsdelivr.net/npm/@electric-sql/pglite@0.5.8/dist/index.js');
   const ctx = { PGlite, readText: p => fetch('../' + p, { cache: 'no-store' }).then(r => r.text()) };
-  const mods = await Promise.all(['./rules.test.js', './news.test.js', './stats.test.js', './db.test.js', './scoring.test.js'].map(m => import(m)));
+  const mods = await Promise.all(['./rules.test.js', './news.test.js', './wiki-grid.test.js', './stats.test.js', './db.test.js', './scoring.test.js'].map(m => import(m)));
   const results = await runAll(mods.map(m => m.default), ctx, r => {
     if (r.suite !== lastSuite) { out.insertAdjacentHTML('beforeend', `<h2>${esc(r.suite)}</h2>`); lastSuite = r.suite; }
     out.insertAdjacentHTML('beforeend', `<div class="t ${r.ok ? 'ok' : 'bad'}"><span class="s">${r.ok ? '✓' : '✗'}</span><div>${esc(r.title)}${r.error ? `<div class="e">${esc(r.error)}</div>` : ''}</div><span class="ms">${r.ms} ms</span></div>`);
