@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T08:52:02.810Z",
+ "updatedAt": "2026-10-16T10:50:12.655Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,84 @@
   }
  },
  "items": [
+  {
+   "title": "'We see huge potential' – Komatsu on choosing Camara for Haas",
+   "summary": "Haas Team Principal Ayao Komatsu tells Lawrence Barretto about the factors that encouraged the squad to sign Rafael Camara for 2027.",
+   "url": "https://www.formula1.com/en/latest/article/exclusive-we-see-huge-potential-komatsu-explains-haas-camara-signing-and-whos-likely-to-partner-him.1UnMir55PpgFWVwqGsny4k",
+   "date": "2026-10-16T10:50:12.529Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Transfer",
+   "firstSeen": "2026-10-16T10:50:12.529Z"
+  },
+  {
+   "title": "How long do the drivers’ current contracts last?",
+   "summary": "One of the hottest topics during every Formula 1 season is that of drivers’ futures, with some close to their contract expiry date, some signed up for the short-term and others boasting longer deals. So, who will be driving where in 2027 and beyond as things stand?",
+   "url": "https://www.formula1.com/en/latest/article/f1-driver-contracts-from-max-verstappen-to-lewis-hamilton-how-long-do-the-drivers-current-deals-last.4ub4xFggoaKgzMCTZhdSXw",
+   "date": "2026-10-16T10:49:12.529Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-10-16T10:50:12.529Z"
+  },
+  {
+   "title": "Pirelli-Test in Magny-Cours: Mercedes testet Intermediates und Slicks",
+   "summary": "Mercedes hat für Pirelli einen zweitägigen Test in Magny-Cours absolviert - Ersatzpilot Frederik Vesti hat unter anderem neue Intermediate-Varianten getestet",
+   "url": "https://www.formel1.de/nc/149393",
+   "date": "2026-10-16T10:47:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-16T10:50:12.529Z"
+  },
+  {
+   "title": "Ferrari verkündet Programm: Das sind die Scuderia-Junioren für 2027",
+   "summary": "Ferrari hat drei Neuzugänge für seine Fahrerakademie verpflichtet, während Dino Beganovic 2027 aus der Formel 2 zum Ersatzfahrer aufsteigen wird",
+   "url": "https://www.formel1.de/nc/149392",
+   "date": "2026-10-16T09:58:32.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-16T10:50:12.529Z"
+  },
+  {
+   "title": "Wie unterscheidet sich Mekies' Führung bei Red Bull von jener Horners?",
+   "summary": "Red Bull setzt an der Spitze auf Kontinuität und verlängert den Vertrag von Teamchef Laurent Mekies: Doch wie gross ist sein Anteil an der jüngsten Kehrtwende wirklich?",
+   "url": "https://www.formel1.de/nc/149391",
+   "date": "2026-10-16T09:06:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Transfer",
+   "firstSeen": "2026-10-16T10:50:12.529Z"
+  },
   {
    "title": "Zum Jubiläum: Williams für die Saison 2027 bekommt einen neuen Namen",
    "summary": "Williams hat bekanntgegeben, dass das Formel-1-Auto für die Saison 2027 den Namen FW50 tragen wird - Damit \"überspringt\" das Traditionsteam aus Grove den FW49",
@@ -923,86 +1001,6 @@
    "team": "mercedes",
    "category": "Rennen",
    "firstSeen": "2026-10-13T10:38:29.913Z"
-  },
-  {
-   "title": "Oliver Mintzlaff: Warum Laurent Mekies der richtige Mann für Red Bull ist",
-   "summary": "Red-Bull-CEO Oliver Mintzlaff ist zufrieden mit der Arbeit von Laurent Mekies und verrät, was man sich nach der Trennung von Christian Horner gewünscht hatte",
-   "url": "https://www.formel1.de/nc/149355",
-   "date": "2026-10-13T10:32:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-13T10:38:29.913Z"
-  },
-  {
-   "title": "Offiziell: Formel 1 verkündet Ruanda-Deal - aber ohne konkreten Zeitpunkt",
-   "summary": "Die Rückkehr der Formel 1 nach Afrika ist offiziell beschlossen - Die Königsklasse wird in den kommenden Jahren in Ruanda fahren, sobald es dort eine Strecke gibt",
-   "url": "https://www.formel1.de/nc/149354",
-   "date": "2026-10-13T09:48:22.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-13T10:38:29.913Z"
-  },
-  {
-   "title": "Mattia Binotto: Die grösste Audi-Leistung ist gar nicht sichtbar",
-   "summary": "Mattia Binotto spricht über die Fortschritte bei Audi im Laufe des Jahres und hebt vor allem die Entwicklung an den beiden Standorten in Hinwil und Neuburg hervor",
-   "url": "https://www.formel1.de/nc/149353",
-   "date": "2026-10-13T09:07:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "News",
-   "firstSeen": "2026-10-13T10:38:29.913Z"
-  },
-  {
-   "title": "Singapur-Debakel von Lewis Hamilton: \"Senior Moment\" oder Vertrauensbruch?",
-   "summary": "Der \"verpasste\" Boxenstopp von Lewis Hamilton in Singapur: War es ein Blackout oder gezielte Tretmühle gegen Ferrari? Gedanken von Redakteur Stuart Codling",
-   "url": "https://www.formel1.de/nc/149352",
-   "date": "2026-10-13T08:17:23.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-13T08:40:33.098Z"
-  },
-  {
-   "title": "Toto Wolff: Kontroverse in Abu Dhabi 2016 \"war meine Schuld\"",
-   "summary": "Toto Wolff blickt auf das Duell zwischen Nico Rosberg und Lewis Hamilton zurück und erklärt, dass er mit seiner heutigen Erfahrung manches \"anders gehandhabt hätte\"",
-   "url": "https://www.formel1.de/nc/149351",
-   "date": "2026-10-13T06:52:06.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-13T08:40:33.098Z"
   }
  ]
 }
