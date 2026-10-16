@@ -196,6 +196,27 @@ export default async function dbTests({ PGlite, readText }) {
     assert.ok(ge.reactions.every(r => r.kind === 'quali'));
   });
 
+  // Am 16.10.2026 liess die Datenbank Emojis nicht zu, die die Seite anbot.
+  // Jedes Emoji aus der Auswahl muss die Datenbank auch wirklich annehmen.
+  t('Jedes angebotene Emoji wird von der Datenbank akzeptiert', async () => {
+    const js = await readText('assets/js/tipp/reactions.js');
+    const sql = await readText('supabase/01_tippspiel.sql');
+    const list = s => [...s.matchAll(/'([^']+)'/g)].map(m => m[1]);
+    const EMOJI = list(js.match(/export const EMOJI = \[([^\]]+)\]/)[1]);
+    assert.equal(EMOJI.length, 10);
+    assert.deepEqual(list(sql.match(/constraint tip_reactions_emoji_check\s*check \(emoji in \(([^)]+)\)/)[1]), EMOJI,
+      'Liste im SQL muss zu EMOJI in reactions.js passen');
+
+    for (const emoji of EMOJI) {
+      const got = await call('anna', 'react', { p_group: G.main, p_event: '2026-17',
+        p_target: U.cleo, p_kind: 'quali', p_slot: 'P4', p_emoji: emoji });
+      assert.equal(got.find(r => r.slot === 'P4')?.emoji, emoji, `Emoji ${emoji} abgelehnt`);
+    }
+    // Aufräumen: letzte Reaktion wieder wegnehmen (gleiches Emoji nochmal).
+    await call('anna', 'react', { p_group: G.main, p_event: '2026-17',
+      p_target: U.cleo, p_kind: 'quali', p_slot: 'P4', p_emoji: EMOJI.at(-1) });
+  });
+
   t('Tippschluss «spät»: Renn-Tipp bis zum Rennstart', async () => {
     await assert.rejects(() => call('ben', 'update_group', { p_group: G.main, p_settings: { lock: 'late' } }), /Nur Admins/);
     const g = await call('anna', 'update_group', { p_group: G.main, p_settings: { lock: 'late' } });
