@@ -170,14 +170,27 @@ create index if not exists tip_reactions_event_idx on public.tip_reactions(group
 -- Die erlaubten Emojis stehen bewusst hier unten und nicht oben in der Tabelle:
 -- «create table if not exists» lässt eine bestehende Tabelle unangetastet, ein
 -- Constraint in der Tabelle würde beim erneuten Einspielen also nie nachgezogen.
--- Genau das ist am 16.10.2026 passiert – die Datenbank lehnte Emojis ab, die die
--- Seite anbot («violates check constraint tip_reactions_emoji_check»).
--- Die Liste muss zu EMOJI in assets/js/tipp/reactions.js passen.
+--
+-- Und sie stehen als Unicode-Escapes da (U&'\+01F44D' = 👍), nicht als echte
+-- Zeichen. Grund: Am 16.10.2026 landeten die Emojis beim Einspielen ins Supabase-
+-- Dashboard verstümmelt in der Datenbank – die UTF-8-Bytes wurden unterwegs als
+-- MacRoman gelesen, aus '👍' wurde 'üëç'. Die Datenbank lehnte darum genau die
+-- Emojis ab, die die Seite anbot («violates check constraint
+-- tip_reactions_emoji_check»). Escapes sind reines ASCII und überleben jeden
+-- Kopierweg; Postgres macht daraus beim Einlesen wieder die richtigen Zeichen.
+-- Die Liste muss zu EMOJI in assets/js/tipp/reactions.js passen – geprüft vom
+-- Test «Jedes angebotene Emoji wird von der Datenbank akzeptiert».
+--   👍 1F44D  🔥 1F525  😂 1F602  😮 1F62E  🤯 1F92F
+--   💀 1F480  🤡 1F921  🫡 1FAE1  🤞 1F91E  ❤️ 2764+FE0F
 delete from public.tip_reactions
-  where emoji not in ('👍', '🔥', '😂', '😮', '🤯', '💀', '🤡', '🫡', '🤞', '❤️');
+  where emoji not in (
+    U&'\+01F44D', U&'\+01F525', U&'\+01F602', U&'\+01F62E', U&'\+01F92F',
+    U&'\+01F480', U&'\+01F921', U&'\+01FAE1', U&'\+01F91E', U&'\2764\FE0F');
 alter table public.tip_reactions drop constraint if exists tip_reactions_emoji_check;
 alter table public.tip_reactions add constraint tip_reactions_emoji_check
-  check (emoji in ('👍', '🔥', '😂', '😮', '🤯', '💀', '🤡', '🫡', '🤞', '❤️'));
+  check (emoji in (
+    U&'\+01F44D', U&'\+01F525', U&'\+01F602', U&'\+01F62E', U&'\+01F92F',
+    U&'\+01F480', U&'\+01F921', U&'\+01FAE1', U&'\+01F91E', U&'\2764\FE0F'));
 
 -- Weltmeistertitel einer Gruppe: wer hat eine Saison gewonnen.
 -- Der Admin schliesst die Saison ab (public.close_season), danach bleibt der
