@@ -201,11 +201,16 @@ export default async function dbTests({ PGlite, readText }) {
   t('Jedes angebotene Emoji wird von der Datenbank akzeptiert', async () => {
     const js = await readText('assets/js/tipp/reactions.js');
     const sql = await readText('supabase/01_tippspiel.sql');
-    const list = s => [...s.matchAll(/'([^']+)'/g)].map(m => m[1]);
-    const EMOJI = list(js.match(/export const EMOJI = \[([^\]]+)\]/)[1]);
+    const EMOJI = [...js.match(/export const EMOJI = \[([^\]]+)\]/)[1].matchAll(/'([^']+)'/g)].map(m => m[1]);
     assert.equal(EMOJI.length, 10);
-    assert.deepEqual(list(sql.match(/constraint tip_reactions_emoji_check\s*check \(emoji in \(([^)]+)\)/)[1]), EMOJI,
-      'Liste im SQL muss zu EMOJI in reactions.js passen');
+
+    // Im SQL stehen Unicode-Escapes (U&'\+01F44D'), damit kein Kopierweg die
+    // Emojis verstümmeln kann – hier zurückübersetzt und verglichen.
+    const sqlList = sql.match(/constraint tip_reactions_emoji_check\s*check \(emoji in \(([^)]+)\)/)[1];
+    assert.ok(!/[^\x00-\x7F]/.test(sqlList), 'Emoji-Liste im SQL muss reines ASCII sein');
+    const fromSql = [...sqlList.matchAll(/U&'([^']+)'/g)]
+      .map(m => [...m[1].matchAll(/\\\+?([0-9A-F]{4,6})/g)].map(h => String.fromCodePoint(parseInt(h[1], 16))).join(''));
+    assert.deepEqual(fromSql, EMOJI, 'Liste im SQL muss zu EMOJI in reactions.js passen');
 
     for (const emoji of EMOJI) {
       const got = await call('anna', 'react', { p_group: G.main, p_event: '2026-17',
