@@ -1,15 +1,16 @@
 // Pitwall – Router und Hauptseiten.
 
-import { team, TEAMS, NEWS_SOURCES } from './config.js';
+import { team, NEWS_SOURCES } from './config.js';
 import { loadCore, loadResults, loadLastRace, loadEditorial, loadNews, loadMeta, driverCareer, openf1, weather } from './data.js';
 import {
   esc, teamStyle, natFlag, countryFlag, fmtDate, fmtTime, fmtDay, fmtNum, toDate, sessionsOf, sessionEnd,
-  weekendRange, raceShort, driverName, img, hydrateImages, tag, sourceLinks, relTime, empty, hostOf,
+  weekendRange, raceShort, driverName, img, hydrateImages, tag, sourceLinks, relTime, empty,
 } from './ui.js';
 import { seasonStats, headToHead, pointsProgression, titleMath, titleOdds, classified } from './stats.js';
 import {
   then, takeAfterRender, timers, clearTimers, now, nextRace, lastRaceRound, liveSession, pageHead, sectionHead,
   tableOf, cardHead, tabs, standingRow, constructorRow, countdown, sessionTable, loadingBox, pageSkeleton, contractTag, weatherBlock,
+  newsCard, newsStamp, newsSection, staleNote,
 } from './shared.js';
 import { lineChart, barChart } from './charts.js';
 import {
@@ -123,28 +124,6 @@ function upgradeCard(u, { showRace = false } = {}) {
     ${u.notes ? `<div class="upg-note">${esc(u.notes)}</div>` : ''}
     ${sourceLinks(u.sources || u.url)}
   </div></article>`;
-}
-
-// News-Karte. Bebildert mit unseren eigenen Fotos: Auto des erstgenannten
-// Fahrers, sonst das Auto des Teams. Pressefotos der Quelle werden nicht übernommen.
-function newsCard(n, lead = false, { image = true } = {}) {
-  const tid = n.team && TEAMS[n.team] ? n.team : null;
-  const did = n.drivers?.[0];
-  const pic = image && (did || tid) ? `<div class="nc-img">${did ? img('driverCars', did, null, { width: lead ? 1200 : 800, fallback: tid ? 'cars:' + tid : '' }) : img('cars', tid, null, { width: lead ? 1200 : 800 })}</div>` : '';
-  const d = n.date ? new Date(n.date) : null;
-  const when = d ? (Date.now() - d < 20 * 3600e3 ? relTime(d) : fmtDate(d, { day: 'numeric', month: 'short' })) : '';
-  return `<a class="news-card ${lead ? 'news-lead' : ''} ${pic ? 'has-img' : ''}" data-cat="${esc(n.category || '')}" href="${esc(n.url || '#/news')}" ${n.url ? 'target="_blank" rel="noopener"' : ''} ${tid ? teamStyle(tid) : 'style="--team:var(--red)"'}>
-    ${pic}<div class="nc-top"></div><div class="nc-body">
-      <div class="nc-tags">${tag(n.category || 'News')}${n.lang === 'en' ? '<span class="tag ghost" title="Artikel auf Englisch">EN</span>' : ''}</div>
-      <h3>${esc(n.title)}</h3>${n.summary ? `<p>${esc(n.summary)}</p>` : ''}
-      <div class="nc-meta"><span>${esc(n.source || hostOf(n.url || ''))} ↗</span><span>${esc(when)}</span></div>
-    </div></a>`;
-}
-
-function newsStamp(nw) {
-  if (!nw?.updatedAt) return '';
-  const d = new Date(nw.updatedAt);
-  return `<div class="src">${nw.rss ? 'Schlagzeilen und Kurztexte von Formel1.de und Formula1.com, automatisch alle 2 Stunden abgerufen. Der ganze Artikel öffnet sich auf der Seite der Quelle.' : 'Redaktionelle Zusammenfassung'} · Stand ${fmtDate(d, { day: 'numeric', month: 'long' })}, ${fmtTime(d)}</div>`;
 }
 
 function editorialStamp(ed) {
@@ -618,9 +597,10 @@ async function teamDetail(id) {
 // Upgrades
 // ======================================================================
 async function upgrades() {
-  const [core, ed] = await Promise.all([loadCore(), loadEditorial()]);
+  const [core, ed, nw] = await Promise.all([loadCore(), loadEditorial(), loadNews()]);
   const ups = ed?.upgrades || [];
-  if (!ups.length) return pageHead('Upgrades') + empty('Noch keine Upgrade-Daten vorhanden.');
+  const techNews = newsSection(nw, 'Technik-News', { categories: ['Technik'], max: 6 });
+  if (!ups.length) return pageHead('Upgrades') + empty('Noch keine Upgrade-Daten vorhanden.') + techNews;
   const teamIds = core.constructors.map(c => c.Constructor.constructorId);
   const counts = teamIds.map(t => ({ t, n: ups.filter(u => u.team === t).reduce((a, u) => a + (u.items?.length || 0), 0) })).sort((a, b) => b.n - a.n);
   const maxN = Math.max(1, ...counts.map(c => c.n));
@@ -642,8 +622,14 @@ async function upgrades() {
     document.getElementById('onlyNew').onchange = e => { onlyNew = e.target.checked; apply(); };
   });
 
+  // Ehrlich zeigen, welche Wochenenden fehlen: die Teilelisten stammen aus den
+  // FIA-Dokumenten und lassen sich nicht gratis automatisch abrufen.
+  const driven = core.schedule.filter(r => sessionEnd(sessionsOf(r).at(-1)) < now()).map(r => +r.round);
+  const missing = driven.filter(r => !rounds.includes(r));
+
   return `${pageHead('Upgrades & Technik', 'Jedes Teil, das die Teams bei der FIA als neu angemeldet haben, mit Bereich und Zweck. Dazu technische Änderungen wie Motorwechsel oder aufgeteilte Spezifikationen.')}
-    <div class="card">${cardHead('Neue Teile pro Team', `<span class="muted" style="font-size:12px">${rounds.length} Rennwochenenden erfasst</span>`)}<div class="card-pad">
+    ${missing.length ? `<div class="notice">Erfasst sind die Runden ${rounds.slice().sort((a, b) => a - b).join(', ')}. Für ${missing.length === 1 ? `Runde ${missing[0]}` : `${missing.length} weitere Wochenenden`} liegt noch keine Teileliste vor – die FIA-Dokumente lassen sich nicht automatisch auslesen. Aktuelle technische Entwicklungen stehen unten in den Technik-News.</div>` : ''}
+    <div class="card">${cardHead('Neue Teile pro Team', `<span class="muted" style="font-size:12px">${rounds.length} von ${driven.length} gefahrenen Wochenenden</span>`)}<div class="card-pad">
       ${counts.map(c => `<div class="prob-row" ${teamStyle(c.t)}><a href="#/team/${c.t}" style="font-weight:700">${esc(team(c.t).short)}</a><div class="bar"><i style="width:${(c.n / maxN) * 100}%"></i></div><span class="pct">${c.n}</span></div>`).join('')}
     </div></div>
     <div class="toolbar mt-l"><select class="input" id="areaF"><option value="">Alle Bereiche</option>${areas.map(a => `<option>${esc(a)}</option>`).join('')}</select><label class="check"><input type="checkbox" id="onlyNew"> Nur Teams mit neuen Teilen</label></div>
@@ -654,6 +640,7 @@ async function upgrades() {
       return `<div class="tl-race"><div class="tl-when"><div class="r">R${rd}</div><div class="n">${esc(raceShort(list[0].race || race?.raceName || ''))}</div><div class="d">${race ? weekendRange(race) : ''}</div></div>
         <div class="tl-items">${list.map(u => upgradeCard(u)).join('')}</div></div>`;
     }).join('')}</div>
+    ${techNews}
     ${editorialStamp(ed)}`;
 }
 
@@ -661,7 +648,7 @@ async function upgrades() {
 // Transfers / Verträge
 // ======================================================================
 async function transfers() {
-  const [core, ed] = await Promise.all([loadCore(), loadEditorial()]);
+  const [core, ed, nw] = await Promise.all([loadCore(), loadEditorial(), loadNews()]);
   const contracts = ed?.contracts || [];
   const next = (+core.season || new Date().getFullYear()) + 1;
   const teamIds = core.constructors.map(c => c.Constructor.constructorId);
@@ -675,6 +662,7 @@ async function transfers() {
   const filled = contracts.filter(c => c.team2027 && ['bestätigt', 'erwartet'].includes(c.status)).length;
 
   return `${pageHead(`Transfers & Verträge ${next}`, 'Wer fährt nächstes Jahr wo? Status pro Cockpit, Vertragslaufzeiten und die aktuellen Gerüchte.')}
+    ${staleNote(ed, 'Die Vertragsübersicht')}
     <div class="grid g4">
       <div class="stat"><span class="k">Cockpits ${next}</span><span class="v">${seats}</span></div>
       <div class="stat"><span class="k">Bestätigt</span><span class="v" style="color:#5fe39a">${confirmed}</span></div>
@@ -690,6 +678,7 @@ async function transfers() {
     </section>
     ${contracts.some(c => c.note) ? `<section class="section">${sectionHead('Details & Gerüchte')}<div class="grid g3">${contracts.filter(c => c.note).map(c => `<div class="card card-pad" ${teamStyle(c.team2027 || c.currentTeam)}><div class="split">${nameOf(c)}${contractTag(c)}</div><p class="muted" style="font-size:14px;margin:10px 0 0">${esc(c.note)}</p>${sourceLinks(c.sources)}</div>`).join('')}</div></section>` : ''}
     ${(ed?.rumours || []).length ? `<section class="section">${sectionHead('Gerüchteküche')}<div class="stack">${ed.rumours.map(r => `<div class="card card-pad"><div class="split"><h3>${esc(r.title)}</h3>${tag(r.likelihood ? 'Wahrscheinlichkeit: ' + r.likelihood : 'Gerücht', 'warn')}</div><p class="muted" style="margin:8px 0 0;font-size:14px">${esc(r.text)}</p>${sourceLinks(r.sources)}</div>`).join('')}</div></section>` : ''}
+    ${newsSection(nw, 'Transfer-News', { categories: ['Transfer'], max: 6 })}
     ${editorialStamp(ed)}`;
 }
 
@@ -774,11 +763,13 @@ async function statsPage() {
 // Regeln
 // ======================================================================
 async function rules() {
-  const ed = await loadEditorial();
+  const [ed, nw] = await Promise.all([loadEditorial(), loadNews()]);
   const list = ed?.rules || [];
   const years = [...new Set(list.map(r => r.year))].sort();
   return `${pageHead('Regeln & Reglement', 'Was gilt aktuell, was ändert sich, mit den Fachbegriffen erklärt.')}
+    ${staleNote(ed, 'Die Regel-Übersicht')}
     ${years.map(y => `<section class="section">${sectionHead(esc(String(y)))}<div class="grid g2">${list.filter(r => r.year === y).map(r => `<div class="card card-pad"><div class="split"><h3>${esc(r.title)}</h3>${r.tag ? tag(r.tag, r.tag === 'Neu' ? 'red' : r.tag === 'Beschlossen' ? 'info' : '') : ''}</div><p class="muted" style="margin:8px 0 0;font-size:15px">${esc(r.text)}</p>${sourceLinks(r.sources)}</div>`).join('')}</div></section>`).join('') || empty('Noch keine Regel-Infos.')}
+    ${newsSection(nw, 'Regel-News', { categories: ['Regeln'], max: 6 })}
     ${editorialStamp(ed)}`;
 }
 
