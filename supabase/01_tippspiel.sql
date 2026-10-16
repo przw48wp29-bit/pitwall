@@ -158,7 +158,7 @@ create table if not exists public.tip_reactions (
   kind        text not null check (kind in ('quali', 'sprint', 'race', 'extras')),
   slot        text not null check (slot ~ '^(P([1-9]|10)|fastest|dotd|sc|dnf|firstDnf)$'),
   user_id     uuid not null,
-  emoji       text not null check (emoji in ('👍', '🔥', '😂', '😮', '🤯', '💀', '🤡', '🫡', '🤞', '❤️')),
+  emoji       text not null,
   created_at  timestamptz not null default now(),
   primary key (group_id, event_id, target_user, kind, slot, user_id),
   foreign key (group_id, target_user) references public.memberships(group_id, user_id) on delete cascade,
@@ -166,6 +166,18 @@ create table if not exists public.tip_reactions (
   check (target_user <> user_id)
 );
 create index if not exists tip_reactions_event_idx on public.tip_reactions(group_id, event_id);
+
+-- Die erlaubten Emojis stehen bewusst hier unten und nicht oben in der Tabelle:
+-- «create table if not exists» lässt eine bestehende Tabelle unangetastet, ein
+-- Constraint in der Tabelle würde beim erneuten Einspielen also nie nachgezogen.
+-- Genau das ist am 16.10.2026 passiert – die Datenbank lehnte Emojis ab, die die
+-- Seite anbot («violates check constraint tip_reactions_emoji_check»).
+-- Die Liste muss zu EMOJI in assets/js/tipp/reactions.js passen.
+delete from public.tip_reactions
+  where emoji not in ('👍', '🔥', '😂', '😮', '🤯', '💀', '🤡', '🫡', '🤞', '❤️');
+alter table public.tip_reactions drop constraint if exists tip_reactions_emoji_check;
+alter table public.tip_reactions add constraint tip_reactions_emoji_check
+  check (emoji in ('👍', '🔥', '😂', '😮', '🤯', '💀', '🤡', '🫡', '🤞', '❤️'));
 
 -- Weltmeistertitel einer Gruppe: wer hat eine Saison gewonnen.
 -- Der Admin schliesst die Saison ab (public.close_season), danach bleibt der
