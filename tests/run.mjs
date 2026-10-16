@@ -6,6 +6,7 @@ import { PGlite } from '@electric-sql/pglite';
 import { runAll } from './harness.js';
 import rules from './rules.test.js';
 import news from './news.test.js';
+import wikiGrid from './wiki-grid.test.js';
 import stats from './stats.test.js';
 import db from './db.test.js';
 import scoring from './scoring.test.js';
@@ -14,7 +15,7 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const ctx = { PGlite, readText: p => fs.readFile(path.join(ROOT, p), 'utf8') };
 
 let last = '';
-const results = await runAll([rules, news, stats, db, scoring], ctx, r => {
+const results = await runAll([rules, news, wikiGrid, stats, db, scoring], ctx, r => {
   if (r.suite !== last) { console.log(`\n${r.suite}`); last = r.suite; }
   console.log(`  ${r.ok ? '✓' : '✗'} ${r.title}${r.ok ? '' : `\n      ${r.error}`}`);
 });
