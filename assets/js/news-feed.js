@@ -135,5 +135,40 @@ export function mergeNews(prev = [], fresh = [], { now = new Date().toISOString(
   return [...byUrl.values()].sort((a, b) => String(b.date).localeCompare(String(a.date))).slice(0, max);
 }
 
+// ---------------------------------------------------------------------------
+// Passende Meldungen zu einem Thema (für die Fachseiten)
+// ---------------------------------------------------------------------------
+// Die redaktionellen Daten in editorial.json werden nur erneuert, wenn die
+// KI-Recherche läuft (kostet Geld, darum standardmässig aus). Die RSS-News
+// kommen dagegen gratis alle zwei Stunden. Damit Seiten wie Upgrades oder
+// Transfers trotzdem aktuell wirken, zeigen wir dort die passenden Meldungen.
+//
+// categories: z. B. ['Technik'] – leer heisst: alle Kategorien.
+// teams/drivers: schränken zusätzlich ein (eine Übereinstimmung genügt).
+// days: nur Meldungen aus diesem Zeitfenster.
+export function relatedNews(items = [], { categories = [], teams = [], drivers = [], days = 21, max = 6, now = Date.now() } = {}) {
+  const cats = new Set(categories), tms = new Set(teams), drv = new Set(drivers);
+  const since = now - days * 86400e3;
+  // Ohne Datum (kommt in news.json nicht vor) nach hinten statt nach vorn.
+  const at = n => { const t = Date.parse(n.date); return isNaN(t) ? -Infinity : t; };
+  return items
+    .filter(n => {
+      const t = Date.parse(n.date);
+      if (!isNaN(t) && t < since) return false;
+      if (cats.size && !cats.has(n.category)) return false;
+      if (tms.size && !(n.teams || []).some(x => tms.has(x))) return false;
+      if (drv.size && !(n.drivers || []).some(x => drv.has(x))) return false;
+      return true;
+    })
+    .sort((a, b) => at(b) - at(a))
+    .slice(0, max);
+}
+
+// Wie alt sind die redaktionellen Daten? Gibt Tage zurück (null = unbekannt).
+export function ageInDays(iso, now = Date.now()) {
+  const t = Date.parse(iso);
+  return isNaN(t) ? null : Math.floor((now - t) / 86400e3);
+}
+
 // Schweizer Rechtschreibung für deutschsprachige Schlagzeilen.
 export const swiss = s => String(s ?? '').replace(/ß/g, 'ss');
