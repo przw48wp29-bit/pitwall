@@ -3,13 +3,13 @@
 
 import { team, TEAMS, TV_CH } from './config.js';
 import {
-  loadCore, loadResults, loadEditorial, driverCareer, raceStrategy, champions, seasonArchive, circuitHistory,
+  loadCore, loadResults, loadEditorial, loadNews, driverCareer, raceStrategy, champions, seasonArchive, circuitHistory,
 } from './data.js';
 import {
   esc, teamStyle, natFlag, countryFlag, fmtDate, fmtTime, fmtDay, fmtNum, toDate, sessionsOf, sessionEnd,
   weekendRange, raceShort, driverName, img, hydrateImages, tag, sourceLinks, empty,
 } from './ui.js';
-import { then, pageHead, sectionHead, tableOf, cardHead, tabs, now, nextRace, loadingBox } from './shared.js';
+import { then, pageHead, sectionHead, tableOf, cardHead, tabs, now, nextRace, loadingBox, newsSection, staleNote } from './shared.js';
 import { lineChart, stintChart, COMPOUND } from './charts.js';
 import { seasonStats, headToHead, pointsProgression, classified } from './stats.js';
 
@@ -316,7 +316,7 @@ function cmpRow(label, x, y, ca, cb, inverse = false) {
 // Strafen & Motorenkontingent
 // ======================================================================
 export async function penalties() {
-  const [core, ed] = await Promise.all([loadCore(), loadEditorial()]);
+  const [core, ed, nw] = await Promise.all([loadCore(), loadEditorial(), loadNews()]);
   const p = ed?.penalties || {};
   const byId = id => core.drivers.find(s => s.Driver.driverId === id);
   const name = id => { const s = byId(id); return s ? driverName(s.Driver) : `<b>${esc(id)}</b>`; };
@@ -328,6 +328,7 @@ export async function penalties() {
   const usage = p.pu?.usage || {};
 
   return `${pageHead('Strafen & Motoren', 'Strafpunkte auf der Superlizenz, Startplatzstrafen und wie viele Power-Unit-Teile jeder Fahrer schon verbraucht hat.')}
+    ${staleNote(ed, 'Die Strafen- und Motorenliste')}
     <div class="grid g-main">
       <div class="card">${cardHead('Superlizenz-Strafpunkte', '<span class="muted" style="font-size:12px">12 Punkte in 12 Monaten = 1 Rennen Sperre</span>')}
         ${sl.length ? tableOf(sl.map(x => `<tr ${teamStyle(tid(x.driverId))}><td><span class="who"><span class="team-bar"></span>${name(x.driverId)}</span></td><td style="width:45%"><div class="bar sl-bar"><i style="width:${Math.min(100, x.points / 12 * 100)}%;background:${x.points >= 10 ? 'var(--red)' : x.points >= 7 ? 'var(--warn)' : 'var(--team)'}"></i></div></td><td class="pts">${x.points}</td></tr>${x.note ? `<tr class="sub-row"><td colspan="3" class="muted">${esc(x.note)}</td></tr>` : ''}`).join('')) : empty('Wird beim nächsten Tagesupdate ergänzt.')}
@@ -348,6 +349,7 @@ export async function penalties() {
       <p>Wer mehr Power-Unit-Teile braucht als erlaubt, rückt in der Startaufstellung nach hinten: beim ersten Überschreiten pro Element 10 Plätze, bei jedem weiteren 5 Plätze. Mehrere Strafen am selben Wochenende werden addiert. Ab 15 Plätzen startet der Fahrer vom Ende des Feldes.</p>
       <p>Strafpunkte auf der Superlizenz verfallen nach 12 Monaten. Wer 12 Punkte erreicht, wird für ein Rennen gesperrt.</p>
     </div></section>
+    ${newsSection(nw, 'Strafen & Regeln in den News', { categories: ['Regeln'], max: 6 })}
     ${ed?.generatedAt ? `<div class="src">Stand: ${fmtDate(new Date(ed.generatedAt), { day: 'numeric', month: 'long' })}</div>` : ''}`;
 }
 
