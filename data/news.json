@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T10:50:12.655Z",
+ "updatedAt": "2026-10-16T13:01:28.498Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,39 @@
   }
  },
  "items": [
+  {
+   "title": "The top 10 driver/team combination wins in F1 history",
+   "summary": "Max Verstappen's victory in the Singapore Grand Prix last weekend was not only his first win at the venue, but also ensured the four-time World Champion moved a step closer to another record.",
+   "url": "https://www.formula1.com/en/latest/article/the-top-10-driver-team-combination-wins-in-f1-history.6H3YLvCRZN9e3kGTEQWGGx",
+   "date": "2026-10-16T13:01:28.483Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-16T13:01:28.483Z"
+  },
+  {
+   "title": "George Russell: Nächste Motorenstrafe \"vielleicht\" in Las Vegas",
+   "summary": "George Russell und Kimi Antonelli werden 2026 noch eine weitere Motorenstrafe nehmen - Der Brite verrät, welche Strecke man dafür unter anderem im Blick hat",
+   "url": "https://www.formel1.de/nc/149394",
+   "date": "2026-10-16T11:56:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell",
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-16T13:01:28.483Z"
+  },
   {
    "title": "'We see huge potential' – Komatsu on choosing Camara for Haas",
    "summary": "Haas Team Principal Ayao Komatsu tells Lawrence Barretto about the factors that encouraged the squad to sign Rafael Camara for 2027.",
@@ -56,7 +89,7 @@
    "firstSeen": "2026-10-16T10:50:12.529Z"
   },
   {
-   "title": "Ferrari verkündet Programm: Das sind die Scuderia-Junioren für 2027",
+   "title": "Ferrari-Akademie: Zwei Ab- und drei Neuzugänge bei den Junioren",
    "summary": "Ferrari hat drei Neuzugänge für seine Fahrerakademie verpflichtet, während Dino Beganovic 2027 aus der Formel 2 zum Ersatzfahrer aufsteigen wird",
    "url": "https://www.formel1.de/nc/149392",
    "date": "2026-10-16T09:58:32.000Z",
@@ -967,38 +1000,6 @@
    "drivers": [],
    "teams": [],
    "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-13T10:38:29.913Z"
-  },
-  {
-   "title": "F1 returns to Africa with 10-year deal to race in Rwanda",
-   "summary": "Formula 1 has announced a landmark 10-year agreement to bring the sport back to the African continent, with the Formula 1 African Grand Prix, presented by Visit Rwanda, set to join the calendar in the early 2030s.",
-   "url": "https://www.formula1.com/en/latest/article/formula-1-returns-to-africa-with-10-year-agreement-to-race-in-rwanda.13xs9VMK7cGFiBd2IplyES",
-   "date": "2026-10-13T10:37:29.913Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-13T10:38:29.913Z"
-  },
-  {
-   "title": "When is the earliest Antonelli could win the title?",
-   "summary": "As Kimi Antonelli continues to lead the standings, F1.com looks at the permutations for when the Mercedes driver could mathematically win the World Championship.",
-   "url": "https://www.formula1.com/en/latest/article/points-permutations-when-is-the-earliest-antonelli-could-win-the-world-championship.24UKT2fsQl4GmC5DMrmYUy",
-   "date": "2026-10-13T10:36:29.913Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
    "category": "Rennen",
    "firstSeen": "2026-10-13T10:38:29.913Z"
   }
