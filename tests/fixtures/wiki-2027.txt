@@ -1,0 +1,125 @@
+== Entries ==
+The following constructors and drivers are under contract to compete in the 2027 World Championship. All teams are due to compete with tyres supplied by [[Pirelli]]. Each team is required to enter at least two drivers, one for each of the two mandatory cars.
+
+{|class="wikitable sortable" style="font-size:85%"
+|+ Teams and drivers that are contracted to compete in the 2027 World Championship
+! scope="col" rowspan="2"|Entrant
+! scope="col" rowspan="2"|[[List of Formula One constructors|Constructor]]
+! rowspan="2" class="unsortable" |Chassis
+! scope="col" rowspan="2" nowrap|[[Formula One engines|Power unit]]
+! scope="col" colspan="2" class="unsortable" |Race drivers
+|-
+! scope="col" class="unsortable"|[[List of Formula One driver numbers|No.]]
+! scope="col" class="unsortable"|[[List of Formula One drivers|Driver name]]
+|-
+| rowspan="2" |<span data-sort-value="Alpine">{{flagg|cnxa|France}}[[Gucci|Gucci Racing]] Alpine F1 Team</span>
+! rowspan="2" | [[Alpine F1 Team|Alpine]]-[[Mercedes AMG High Performance Powertrains|Mercedes]]
+| rowspan="2" | TBA
+| rowspan="2"|Mercedes
+|style="text-align:center"|10
+|{{flagg|cnxa|France}}[[Pierre Gasly]]<ref name="gasly" />
+|-
+|style="text-align:center"|43
+|{{flagg|cnxa|Argentina}}[[Franco Colapinto]]
+|-
+| rowspan="2" |<span data-sort-value="Aston Martin">{{flagg|cnxa|United Kingdom}}Aston Martin [[Saudi Aramco|Aramco]] F1 Team</span>
+! rowspan="2" | [[Aston Martin in Formula One|Aston Martin Aramco]]-[[Honda in Formula One|Honda]]
+| rowspan="2" | TBA
+| rowspan="2" | Honda
+|style="text-align:center"|14
+|{{flagg|cnxa|Spain}}[[Fernando Alonso]]
+|-
+|style="text-align:center"|18
+|{{flagg|cnxa|Canada}}[[Lance Stroll]]
+|-
+| rowspan="2" |<span data-sort-value="Williams">{{flagg|cnxa|United Kingdom}}[[Atlassian]] Williams F1 Team</span>
+!rowspan="2"|[[Williams Racing|Atlassian Williams]]-[[Mercedes AMG High Performance Powertrains|Mercedes]]
+| rowspan="2" | FW50
+|rowspan="2"| Mercedes
+|style="text-align:center"|23
+|{{nowrap|{{flagg|cnxa|Thailand}}[[Alexander Albon]]}}
+|-
+|style="text-align:center"|55
+|{{flagicon image|Flag of Spain.svg}} [[Carlos Sainz Jr.]]
+|-
+| rowspan="2" |<span data-sort-value="Audi">{{flagg|cnxa|Germany}}Audi [[Revolut]] F1 Team</span>
+! rowspan="2" | [[Audi in Formula One|Audi]]
+| rowspan="2" | TBA
+| rowspan="2"|Audi
+|style="text-align:center"|5
+|{{nowrap|{{flagicon image|Flag of Brazil.svg}} [[Gabriel Bortoleto]]}}
+|-
+|style="text-align:center"|27
+|{{flagicon image|Flag of Germany.svg}} [[Nico Hülkenberg]]
+|-
+| rowspan="2" |<span data-sort-value="Cadillac">{{flagg|cnxa|United States}}</span>Cadillac Formula 1 Team
+! rowspan="2" |[[Cadillac in Formula One|Cadillac]]-[[Scuderia Ferrari|Ferrari]]
+| rowspan="2" | TBA
+| rowspan="2" |Ferrari
+|style="text-align:center"|11
+|{{flagicon image|Flag of Mexico.svg}} [[Sergio Pérez]]
+|-
+|style="text-align:center"|77
+|{{flagicon image|Flag of Finland.svg}} [[Valtteri Bottas]]
+|-
+| rowspan=2|<span data-sort-value="Ferrari">{{flagg|cnxa|Italy}}Scuderia Ferrari [[HP Inc.|HP]]</span>
+! rowspan="2" | [[Scuderia Ferrari|Ferrari]]
+| rowspan="2" | TBA
+| rowspan="2" | Ferrari
+|style="text-align:center"|16
+|{{flagg|cnxa|Monaco}}[[Charles Leclerc]]
+|-
+|style="text-align:center"|44
+|{{flagicon image|Flag of United Kingdom.svg}} [[Lewis Hamilton]]
+|-
+| rowspan="2" |<span data-sort-value="Haas">{{flagg|cnxa|United States}}[[Toyota Gazoo Racing|TGR]] Haas F1 Team</span>
+! rowspan="2" |[[Haas F1 Team|Haas]]-[[Scuderia Ferrari|Ferrari]]
+| rowspan="2" | TBA
+| rowspan="2"|Ferrari
+|style="text-align:center"|50
+|nowrap|{{flagicon image|Flag of Brazil.svg}} [[Rafael Câmara]]<ref name="haas" /><ref>{{cite web|url=https://example.org/haas
+|title=Haas verpflichtet Camara}}</ref>
+|-
+|style="text-align:center"|TBC
+|{{flagicon image|Flag of None.svg}} TBA
+|-
+| rowspan="2" nowrap |<span data-sort-value="McLaren">{{flagg|cnxa|United Kingdom}}McLaren [[Mastercard]] F1 Team</span>
+! rowspan="2" scope="row" nowrap | [[McLaren]]-[[Mercedes AMG High Performance Powertrains|Mercedes]]
+| rowspan="2" | MCL41
+|rowspan="2"|Mercedes
+|style="text-align:center"|4
+|{{flagg|cnxa|United Kingdom}}[[Lando Norris]]
+|-
+|style="text-align:center"|81
+|{{flagg|cnxa|Australia}}[[Oscar Piastri]]
+|-
+| rowspan=2|<span data-sort-value="Mercedes">{{nowrap|{{flagg|cnxa|Germany}}Mercedes-AMG [[Petronas]] F1 Team}}</span>
+! rowspan="2" | [[Mercedes-Benz in Formula One|Mercedes]]
+| rowspan="2" | TBA
+|rowspan="2"| Mercedes
+|style="text-align:center"|12
+|{{flagicon image|Flag of Italy.svg}} [[Kimi Antonelli]]
+|-
+|style="text-align:center"|63
+|{{flagicon image|Flag of United Kingdom.svg}} [[George Russell (racing driver)|George Russell]]
+|-
+| rowspan="2" |<span data-sort-value="Racing Bulls">{{nowrap|{{flagg|cnxa|Italy}}[[Visa Inc.|Visa]] [[Cash App]] Racing Bulls F1 Team}}</span>
+!rowspan=2|[[Racing Bulls]]-[[Red Bull Powertrains|Red Bull Ford]]
+| rowspan="2" | TBA
+|rowspan="2"|Red Bull Ford
+|style="text-align:center"|TBC
+|{{flagicon image|Flag of None.svg}} TBA
+|-
+|style="text-align:center"|TBC
+|{{flagicon image|Flag of None.svg}} TBA
+|-
+| rowspan="2" |<span data-sort-value="Red Bull Racing">{{flagg|cnxa|Austria}}[[Oracle Corporation|Oracle]] Red Bull Racing</span>
+!rowspan="2"|{{nowrap|[[Red Bull Racing]]-[[Red Bull Powertrains|Red Bull Ford]]}}
+| rowspan="2" | TBA
+|rowspan="2"|{{nowrap|Red Bull Ford}}
+|style="text-align:center"|3
+|{{nowrap|{{flagg|cnxa|Netherlands}}[[Max Verstappen]]<ref>{{cite web|url=https://example.org/rbr|title=Verstappen bleibt}}</ref>
+|-
+|style="text-align:center"|6
+|{{flagg|cnxa|France}}[[Isack Hadjar]]
+|}
