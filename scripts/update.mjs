@@ -7,6 +7,8 @@
 //  5. OPTIONAL, nur mit ANTHROPIC_API_KEY (kostet Geld): KI-Recherche zu
 //     Upgrades, Verträgen, Strafen, Motorenkontingent, Prognosen, Regeln,
 //     Streckeninfos -> data/editorial.json. Ohne Key bleibt editorial.json, wie es ist.
+//  5b. Fahrerfeld der nächsten Saison aus Wikipedia (gratis, läuft immer)
+//                                              -> data/editorial.json (nur "contracts")
 //  6. Fotos + Bildnachweise von Wikimedia      -> data/media.json (Kuratiertes bleibt)
 //  7. Kalender-Abo + Zeitstempel               -> data/calendar.ics, data/meta.json
 //
@@ -22,6 +24,7 @@ import { fileURLToPath } from 'node:url';
 import { TEAMS } from '../assets/js/config.js';
 import { compactStrategy } from '../assets/js/data.js';
 import { buildICS } from '../assets/js/features.js';
+import { parseEntryTable, mergeContracts } from '../assets/js/wiki-grid.js';
 import { updateNews } from './news.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -447,12 +450,43 @@ Erstelle Hintergrund-Infos:
 }
 
 // ---------------------------------------------------------------------------
+// 5b. Fahrerfeld der nächsten Saison aus Wikipedia (gratis, läuft immer)
+// ---------------------------------------------------------------------------
+// Die Verträge in editorial.json sind sonst nur so frisch wie die letzte
+// KI-Recherche – und die ist standardmässig aus. Der Wikipedia-Artikel zur
+// nächsten Saison führt jede Bestätigung innert Stunden nach und belegt sie.
+async function wikiGrid(core, ed) {
+  const season = +core.season + 1;
+  const title = `${season} Formula One World Championship`;
+  try {
+    const url = `https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&formatversion=2&titles=${encodeURIComponent(title)}`;
+    const page = (await getJSON(url)).query?.pages?.[0];
+    if (!page || page.missing) throw new Error(`Artikel "${title}" gibt es noch nicht`);
+    const entries = parseEntryTable(page.revisions[0].slots.main.content);
+    // Zu wenige Cockpits heisst: die Tabelle sieht anders aus als erwartet.
+    // Dann lieber nichts anfassen, als gute Daten kaputtzumachen.
+    if (entries.length < 16) throw new Error(`nur ${entries.length} Cockpits gelesen – Tabelle verändert?`);
+    const roster = core.drivers.map(s => ({ driverId: s.Driver.driverId, familyName: s.Driver.familyName, team: s.Constructors.at(-1).constructorId }));
+    const contracts = mergeContracts(ed.contracts || [], entries, roster, { season });
+    const named = entries.filter(e => e.driver).length;
+    log(`Wikipedia: ${named} von ${entries.length} Cockpits für ${season} besetzt.`);
+    if (JSON.stringify(contracts) === JSON.stringify(ed.contracts)) return ed;
+    const next = { ...ed, contracts, contractsUpdatedAt: new Date().toISOString() };
+    await writeJSON('editorial.json', next);
+    return next;
+  } catch (e) {
+    log('Wikipedia-Fahrerfeld fehlgeschlagen:', e.message);
+    return ed;
+  }
+}
+
+// ---------------------------------------------------------------------------
 await fs.mkdir(DATA, { recursive: true });
 const { core } = await snapshot();
 await history(core);
 await strategies(core);
 try { await updateNews(); } catch (e) { log('News fehlgeschlagen:', e.message); }
-const ed = await editorial(core);
+const ed = await wikiGrid(core, await editorial(core));
 await media(core, ed);
 await fs.writeFile(path.join(DATA, 'calendar.ics'), buildICS(core));
 log('geschrieben: calendar.ics');
