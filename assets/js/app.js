@@ -662,7 +662,7 @@ async function transfers() {
   const filled = contracts.filter(c => c.team2027 && ['bestätigt', 'erwartet'].includes(c.status)).length;
 
   return `${pageHead(`Transfers & Verträge ${next}`, 'Wer fährt nächstes Jahr wo? Status pro Cockpit, Vertragslaufzeiten und die aktuellen Gerüchte.')}
-    ${staleNote(ed, 'Die Vertragsübersicht')}
+    ${staleNote({ generatedAt: ed?.contractsUpdatedAt || ed?.generatedAt }, 'Die Vertragsübersicht')}
     <div class="grid g4">
       <div class="stat"><span class="k">Cockpits ${next}</span><span class="v">${seats}</span></div>
       <div class="stat"><span class="k">Bestätigt</span><span class="v" style="color:#5fe39a">${confirmed}</span></div>
@@ -675,6 +675,7 @@ async function transfers() {
         const seat = i => list[i] ? `<div class="seat">${nameOf(list[i])}<div class="seat-meta">${contractTag(list[i])}${list[i].until ? `<span class="muted">bis ${esc(list[i].until)}</span>` : ''}</div></div>` : `<div class="seat open"><span class="tag warn">Cockpit offen</span></div>`;
         return `<div class="seat-card" ${teamStyle(id)}><div class="seat-team"><span class="team-bar"></span><a href="#/team/${id}"><b>${esc(team(id).short)}</b></a></div>${seat(0)}${seat(1)}</div>`;
       }).join('')}</div>
+      ${ed?.contractsUpdatedAt ? `<div class="src">Besetzung täglich abgeglichen mit der Startliste im <a href="https://en.wikipedia.org/wiki/${next}_Formula_One_World_Championship" target="_blank" rel="noopener">Wikipedia-Artikel zur Saison ${next}</a> · Stand ${fmtDate(new Date(ed.contractsUpdatedAt), { day: 'numeric', month: 'long' })}</div>` : ''}
     </section>
     ${contracts.some(c => c.note) ? `<section class="section">${sectionHead('Details & Gerüchte')}<div class="grid g3">${contracts.filter(c => c.note).map(c => `<div class="card card-pad" ${teamStyle(c.team2027 || c.currentTeam)}><div class="split">${nameOf(c)}${contractTag(c)}</div><p class="muted" style="font-size:14px;margin:10px 0 0">${esc(c.note)}</p>${sourceLinks(c.sources)}</div>`).join('')}</div></section>` : ''}
     ${(ed?.rumours || []).length ? `<section class="section">${sectionHead('Gerüchteküche')}<div class="stack">${ed.rumours.map(r => `<div class="card card-pad"><div class="split"><h3>${esc(r.title)}</h3>${tag(r.likelihood ? 'Wahrscheinlichkeit: ' + r.likelihood : 'Gerücht', 'warn')}</div><p class="muted" style="margin:8px 0 0;font-size:14px">${esc(r.text)}</p>${sourceLinks(r.sources)}</div>`).join('')}</div></section>` : ''}
