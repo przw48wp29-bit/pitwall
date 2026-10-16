@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T04:28:20.883Z",
+ "updatedAt": "2026-10-16T07:02:54.631Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,39 @@
   }
  },
  "items": [
+  {
+   "title": "Haas-Teamchef betont: Rafael Camara \"war der Schnellste, ganz einfach!\"",
+   "summary": "Rafael Camara hat das Cockpit bei Haas nicht aufgrund seiner Verbindung zu Ferrari bekommen, sondern weil er beim Portimao-Shootout schlicht der Schnellste war",
+   "url": "https://www.formel1.de/nc/149389",
+   "date": "2026-10-16T06:50:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "ferrari",
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Transfer",
+   "firstSeen": "2026-10-16T07:02:54.598Z"
+  },
+  {
+   "title": "Katar- und Abu-Dhabi-Absage? Jetzt droht der Formel 1 der Super-GAU",
+   "summary": "Die Situation im Nahen Osten ist weiterhin mehr als fragil - Im schlimmsten Fall für die Formel 1 gewinnt Kimi Antonelli den WM-Titel 2026 auf der heimischen Couch",
+   "url": "https://www.formel1.de/nc/149388",
+   "date": "2026-10-16T05:40:32.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-16T07:02:54.598Z"
+  },
   {
    "title": "Live im TV und Stream: Alle Infos zur Übertragung der Formel 1 in Austin",
    "summary": "Alle Informationen zur Formel 1 2026 im TV und Livestream: Wie Du die Saison mit Audi, Ferrari, McLaren, Mercedes, Red Bull und Cadillac live verfolgen kannst!",
@@ -972,36 +1005,6 @@
    "team": "red_bull",
    "category": "Technik",
    "firstSeen": "2026-10-13T06:46:46.117Z"
-  },
-  {
-   "title": "Hockenheim-Vision mit Formel-1-Autos: Das steckt dahinter",
-   "summary": "Neue Tribüne, Motorworld und Formel-1-Autos auf den Fotomontagen: In Hockenheim gibt es grosse Pläne - doch wie realistisch ist ein Grand-Prix-Comeback?",
-   "url": "https://www.formel1.de/nc/149349",
-   "date": "2026-10-13T04:17:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-13T04:19:35.679Z"
-  },
-  {
-   "title": "How Hulkenberg secured his best weekend of the season yet",
-   "summary": "After taking P7 in the Sprint, Nico Hulkenberg battled to finish P8 at the Singapore Grand Prix and celebrate his highest-scoring round of the season so far.",
-   "url": "https://www.formula1.com/en/latest/article/how-hulkenberg-secured-his-best-weekend-of-the-season-in-singapore.32ws4MpzmxyQXtGLqjt8rf",
-   "date": "2026-10-12T16:36:15.626Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hulkenberg"
-   ],
-   "teams": [],
-   "team": "audi",
-   "category": "Rennen",
-   "firstSeen": "2026-10-12T16:36:15.626Z"
   }
  ]
 }
