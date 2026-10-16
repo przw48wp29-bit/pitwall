@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T16:49:36.039Z",
+ "updatedAt": "2026-10-16T18:54:33.757Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,25 @@
   }
  },
  "items": [
+  {
+   "title": "Ralf Schumacher: Warum Audi langfristig einen anderen Fahrer braucht",
+   "summary": "Nico Hülkenberg und Gabriel Bortoleto leisten bei Audi Aufbauarbeit, doch für den letzten Schritt an die Spitze hat Ralf Schumacher eine andere Vorstellung",
+   "url": "https://www.formel1.de/nc/149399",
+   "date": "2026-10-16T17:03:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hulkenberg",
+    "bortoleto"
+   ],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-10-16T18:54:33.734Z"
+  },
   {
    "title": "How the pecking order has changed since the season opener",
    "summary": "F1.com takes a look at the data to determine which teams have moved forwards – and which have fallen behind – over the course of the 2026 season so far.",
@@ -236,7 +255,7 @@
    "firstSeen": "2026-10-16T10:50:12.529Z"
   },
   {
-   "title": "Zum Jubiläum: Williams für die Saison 2027 bekommt einen neuen Namen",
+   "title": "FW50: Warum der 2027er-Williams einen besonderen Namen bekommt",
    "summary": "Williams hat bekanntgegeben, dass das Formel-1-Auto für die Saison 2027 den Namen FW50 tragen wird - Damit \"überspringt\" das Traditionsteam aus Grove den FW49",
    "url": "https://www.formel1.de/nc/149390",
    "date": "2026-10-16T08:05:04.000Z",
@@ -979,22 +998,6 @@
    "drivers": [],
    "teams": [],
    "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-13T16:38:21.492Z"
-  },
-  {
-   "title": "PALMER: What really cost Hamilton a podium in Singapore?",
-   "summary": "Former Renault F1 driver and F1 TV's expert analyst Jolyon Palmer delves into the detail of Hamilton's race under the Singapore lights.",
-   "url": "https://www.formula1.com/en/latest/article/what-really-cost-lewis-hamilton-a-podium-in-singapore.4OsGotxiP08t92cvjeXO4y",
-   "date": "2026-10-13T16:37:21.492Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-10-13T16:38:21.492Z"
   }
