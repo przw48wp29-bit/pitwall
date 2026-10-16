@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T22:45:47.844Z",
+ "updatedAt": "2026-10-16T04:28:20.883Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,27 @@
   }
  },
  "items": [
+  {
+   "title": "Live im TV und Stream: Alle Infos zur Übertragung der Formel 1 in Austin",
+   "summary": "Alle Informationen zur Formel 1 2026 im TV und Livestream: Wie Du die Saison mit Audi, Ferrari, McLaren, Mercedes, Red Bull und Cadillac live verfolgen kannst!",
+   "url": "https://www.formel1.de/nc/123413",
+   "date": "2026-10-16T04:16:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes",
+    "red_bull",
+    "cadillac",
+    "ferrari",
+    "mclaren",
+    "audi"
+   ],
+   "team": "mercedes",
+   "category": "Business",
+   "firstSeen": "2026-10-16T04:28:20.882Z"
+  },
   {
    "title": "Camara on the ‘crazy’ achievement of joining Haas in 2027",
    "summary": "New Haas recruit Rafael Camara tells Lawrence Barretto about finding out he would join Haas in 2027 and the shoot-out test that he participated in to secure the seat.",
@@ -980,24 +1001,6 @@
    "teams": [],
    "team": "audi",
    "category": "Rennen",
-   "firstSeen": "2026-10-12T16:36:15.626Z"
-  },
-  {
-   "title": "Mekies hails ‘outstanding’ Verstappen in Red Bull resurgence",
-   "summary": "Laurent Mekies has identified the important role Max Verstappen has played in Red Bull's 2026 turnaround.",
-   "url": "https://www.formula1.com/en/latest/article/its-a-massive-boost-mekies-hails-outstanding-verstappen-in-red-bull-resurgence.1SJ9jPPGYuqQ8X7ASQo2KY",
-   "date": "2026-10-12T16:35:15.626Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
    "firstSeen": "2026-10-12T16:36:15.626Z"
   }
  ]
