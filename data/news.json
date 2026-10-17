@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T08:46:16.040Z",
+ "updatedAt": "2026-10-17T12:52:42.598Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Lewis Hamilton lobt F1-Entscheidung für Afrika: \"Der wichtigste Kontinent\"",
+   "summary": "Die Formel 1 plant ihre Afrika-Rückkehr in Ruanda: Lewis Hamilton ist begeistert, doch ein entscheidender Punkt könnte seinen persönlichen Traum gefährden",
+   "url": "https://www.formel1.de/nc/149401",
+   "date": "2026-10-17T11:49:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-17T12:52:42.577Z"
+  },
   {
    "title": "Rwanda will write a new chapter in Africa’s rich F1 heritage",
    "summary": "The bold new Rwanda agreement has finally opened the way for a crucial continent to write a completely new chapter in its great F1 history, writes F1 Hall of Fame journalist David Tremayne.",
@@ -978,22 +994,6 @@
    "teams": [],
    "team": null,
    "category": "Rennen",
-   "firstSeen": "2026-10-14T07:02:36.698Z"
-  },
-  {
-   "title": "Max Verstappen: FAQ zu seinem Start in der GTWC Europe",
-   "summary": "Max Verstappen wagt sich an diesem Wochenende beim Saisonfinale der GT-World-Challenge Europe erstmals in Europas Vorzeige-GT-Serie - 16 Fragen und Antworten",
-   "url": "https://www.formel1.de/nc/149364",
-   "date": "2026-10-14T05:50:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
    "firstSeen": "2026-10-14T07:02:36.698Z"
   }
  ]
