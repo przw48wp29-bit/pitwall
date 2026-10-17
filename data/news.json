@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T12:52:42.598Z",
+ "updatedAt": "2026-10-17T14:43:22.426Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,24 @@
   }
  },
  "items": [
+  {
+   "title": "Leclerc erklärt: Warum die 2026er-Regeln seinen Fahrstil ausbremsen",
+   "summary": "Charles Leclerc erklärt, warum ihn sein Fahrstil in der Formel 1 2026 Zeit kostet und weshalb die komplexe Ferrari-Technik gerade im Qualifying Probleme macht",
+   "url": "https://www.formel1.de/nc/149402",
+   "date": "2026-10-17T14:33:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Regeln",
+   "firstSeen": "2026-10-17T14:43:22.410Z"
+  },
   {
    "title": "Lewis Hamilton lobt F1-Entscheidung für Afrika: \"Der wichtigste Kontinent\"",
    "summary": "Die Formel 1 plant ihre Afrika-Rückkehr in Ruanda: Lewis Hamilton ist begeistert, doch ein entscheidender Punkt könnte seinen persönlichen Traum gefährden",
@@ -981,20 +999,6 @@
    "team": "audi",
    "category": "News",
    "firstSeen": "2026-10-14T08:51:40.376Z"
-  },
-  {
-   "title": "Formel 1 in Ruanda: Wie wird die Strecke? Und was will man dort überhaupt?",
-   "summary": "Die Formel 1 wird in naher Zukunft ein Rennen in Ruanda austragen: Hier sind die fünf wichtigsten Fragen zum neuen Grand Prix",
-   "url": "https://www.formel1.de/nc/149365",
-   "date": "2026-10-14T06:55:38.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-14T07:02:36.698Z"
   }
  ]
 }
