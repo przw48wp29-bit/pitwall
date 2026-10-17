@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T18:54:33.757Z",
+ "updatedAt": "2026-10-17T06:57:16.516Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,20 @@
   }
  },
  "items": [
+  {
+   "title": "Übersicht: Die Rennleiter der Formel 1",
+   "summary": "Die Vorgänger von Rui Marques als Rennleiter der Formel 1: Welche Motorsport-Funktionäre seit 1988 den Rennbetrieb der \"Königsklasse\" verantwortet haben",
+   "url": "https://www.formel1.de/nc/140991",
+   "date": "2026-10-17T06:13:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-17T06:57:16.494Z"
+  },
   {
    "title": "Ralf Schumacher: Warum Audi langfristig einen anderen Fahrer braucht",
    "summary": "Nico Hülkenberg und Gabriel Bortoleto leisten bei Audi Aufbauarbeit, doch für den letzten Schritt an die Spitze hat Ralf Schumacher eine andere Vorstellung",
@@ -986,20 +1000,6 @@
    "team": "audi",
    "category": "News",
    "firstSeen": "2026-10-13T18:44:50.353Z"
-  },
-  {
-   "title": "Inside Rwanda’s plan for the African Grand Prix",
-   "summary": "Formula 1 will return to Africa in the early 2030s after Rwanda agreed a 10-year deal to host an African Grand Prix. President Paul Kagame, the country’s officials and the circuit’s designers explain what they are building – and why.",
-   "url": "https://www.formula1.com/en/latest/article/hills-a-lake-and-a-roller-coaster-inside-rwandas-plan-for-the-african-grand-prix.76LEZDItQYH362QElcHoY1",
-   "date": "2026-10-13T16:38:21.492Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-13T16:38:21.492Z"
   }
  ]
 }
