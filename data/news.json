@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T10:44:51.588Z",
+ "updatedAt": "2026-10-18T12:52:42.044Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,34 @@
   }
  },
  "items": [
+  {
+   "title": "Formel 2 schliesst sich F1 an: \"Katar und Abu Dhabi werden nicht abgesagt!\"",
+   "summary": "Auch bei der Formel 2 schliesst man sich der Ansicht der Formel 1 an und beharrt auf der Austragung der beiden Rennen in Katar und Abu Dhabi - Meister schon fix?",
+   "url": "https://www.formel1.de/nc/149405",
+   "date": "2026-10-18T11:58:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-18T12:52:42.030Z"
+  },
+  {
+   "title": "Keine Chance gegen die Topteams: So würde eine Formel-1B-WM 2026 laufen!",
+   "summary": "Hypothetisches Gedankenspiel: So würde die Formel-1-WM 2026 im Mittelfeld ablaufen, wenn die kleinen Teams ihre eigene Meisterschaft austragen würden",
+   "url": "https://www.formel1.de/nc/149404",
+   "date": "2026-10-18T11:01:54.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-18T12:52:42.030Z"
+  },
   {
    "title": "6 times drivers improvised after losing radio during a race",
    "summary": "After Max Verstappen's radio difficulties at the Singapore Grand Prix, F1.com looks back at other occasions where drivers have lost communication with the pit wall.",
@@ -965,36 +993,6 @@
    "team": "williams",
    "category": "News",
    "firstSeen": "2026-10-14T12:59:48.401Z"
-  },
-  {
-   "title": "Kim Kardashian & Kimi Antonelli: Das kuriose Handtuch-Drama",
-   "summary": "Kim Kardashian und Kimi Antonelli liessen in Singapur einen Running-Gag wieder aufleben, der in Monaco mit einem verschwundenen Handtuch begann",
-   "url": "https://www.formel1.de/nc/149369",
-   "date": "2026-10-14T11:50:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-14T12:59:48.401Z"
-  },
-  {
-   "title": "Vor Ruanda: Auf diesen Strecken in Afrika fuhr die Formel 1 bereits",
-   "summary": "Der neue Formel-1-Kurs in Ruanda wird der vierte sein, auf dem die Königsklasse im Rahmen der Weltmeisterschaft gastieren wird: Ein Überblick über bisherige Kurse",
-   "url": "https://www.formel1.de/nc/149368",
-   "date": "2026-10-14T10:41:45.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-14T10:49:53.462Z"
   }
  ]
 }
