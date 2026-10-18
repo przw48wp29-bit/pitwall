@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-17T14:43:22.426Z",
+ "updatedAt": "2026-10-18T06:56:13.314Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,20 @@
   }
  },
  "items": [
+  {
+   "title": "Neue F1-Antriebe schon 2030? Was der FIA-Präsident jetzt verraten hat",
+   "summary": "Kommt der V8-Antrieb schneller zurück als gedacht? Der FIA-Präsident kündigt für 2030 eine neue Antriebsgeneration an, aber ein Nebensatz sorgt für Zweifel",
+   "url": "https://www.formel1.de/nc/149403",
+   "date": "2026-10-18T06:12:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-10-18T06:56:13.288Z"
+  },
   {
    "title": "Leclerc erklärt: Warum die 2026er-Regeln seinen Fahrstil ausbremsen",
    "summary": "Charles Leclerc erklärt, warum ihn sein Fahrstil in der Formel 1 2026 Zeit kostet und weshalb die komplexe Ferrari-Technik gerade im Qualifying Probleme macht",
@@ -981,24 +995,6 @@
    "team": "red_bull",
    "category": "News",
    "firstSeen": "2026-10-14T10:49:53.462Z"
-  },
-  {
-   "title": "\"Wirklich clever\": Audi-Rennleiter lobt Singapur-Leistung von Nico Hülkenberg",
-   "summary": "Nico Hülkenberg fährt in Singapur sein bislang bestes Wochenende für Audi: Allan NcNish lobt den Deutschen und betont, dass er sich \"wirklich clever\" angestellt hat",
-   "url": "https://www.formel1.de/nc/149366",
-   "date": "2026-10-14T08:15:11.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hulkenberg"
-   ],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "News",
-   "firstSeen": "2026-10-14T08:51:40.376Z"
   }
  ]
 }
