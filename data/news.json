@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T12:52:42.044Z",
+ "updatedAt": "2026-10-18T14:44:01.009Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,36 @@
   }
  },
  "items": [
+  {
+   "title": "Formel-1-Strafpunkte 2026: Die aktuelle Übersicht der Strafen",
+   "summary": "In unserer Übersicht der Formel-1-Strafpunkte zeigen wir dir den aktuellen Stand und wer eine Weisse Weste hat oder kurz vor einer Rennsperre steht",
+   "url": "https://www.formel1.de/nc/146577",
+   "date": "2026-10-18T14:24:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-10-18T14:44:00.991Z"
+  },
+  {
+   "title": "Max Verstappen im GT3: 15 Positionen in 45 Minuten gutgemacht",
+   "summary": "Max Verstappen macht nach einer Strafe gegen seinen Teamkollegen Chris Lulham in der Schlussphase 15 Plätze gut - Video dokumentiert Aufholjagd",
+   "url": "https://www.formel1.de/nc/149406",
+   "date": "2026-10-18T14:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Regeln",
+   "firstSeen": "2026-10-18T14:44:00.991Z"
+  },
   {
    "title": "Formel 2 schliesst sich F1 an: \"Katar und Abu Dhabi werden nicht abgesagt!\"",
    "summary": "Auch bei der Formel 2 schliesst man sich der Ansicht der Formel 1 an und beharrt auf der Austragung der beiden Rennen in Katar und Abu Dhabi - Meister schon fix?",
@@ -959,40 +989,6 @@
    "team": "red_bull",
    "category": "News",
    "firstSeen": "2026-10-14T14:49:52.069Z"
-  },
-  {
-   "title": "The upgrades behind Red Bull’s breakthrough in Singapore",
-   "summary": "Mark Hughes and Giorgio Piola identify how Red Bull's recent upgrades helped Max Verstappen clinch back-to-back wins in Malaysia and Singapore.",
-   "url": "https://www.formula1.com/en/latest/article/the-fruitful-upgrades-behind-red-bulls-breakthrough-in-malaysia-and-singapore.LXbRuqocItGbDGABOI9JG",
-   "date": "2026-10-14T12:59:48.401Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Technik",
-   "firstSeen": "2026-10-14T12:59:48.401Z"
-  },
-  {
-   "title": "Ralf Schumacher: Frank Williams war bei teaminternem Ärger \"stinksauer\"",
-   "summary": "Ralf Schumacher erinnert an teaminterne Streitigkeiten mit Juan Pablo Montoya und daran, wie sauer Teamchef Frank Williams dann war",
-   "url": "https://www.formel1.de/nc/149370",
-   "date": "2026-10-14T12:55:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "williams"
-   ],
-   "team": "williams",
-   "category": "News",
-   "firstSeen": "2026-10-14T12:59:48.401Z"
   }
  ]
 }
