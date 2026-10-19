@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-18T14:44:01.009Z",
+ "updatedAt": "2026-10-19T04:32:02.755Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,20 @@
   }
  },
  "items": [
+  {
+   "title": "Toto Wolff warnt: F1-Gehaltslimit treibt Talente an die Börse",
+   "summary": "Die Budgetobergrenze macht die Formel 1 gerechter, doch Toto Wolff sieht einen entscheidenden Nachteil, der den Rennställen langfristig schaden könnte",
+   "url": "https://www.formel1.de/nc/149407",
+   "date": "2026-10-19T04:13:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-19T04:32:02.753Z"
+  },
   {
    "title": "Formel-1-Strafpunkte 2026: Die aktuelle Übersicht der Strafen",
    "summary": "In unserer Übersicht der Formel-1-Strafpunkte zeigen wir dir den aktuellen Stand und wer eine Weisse Weste hat oder kurz vor einer Rennsperre steht",
@@ -972,22 +986,6 @@
    "teams": [],
    "team": "red_bull",
    "category": "Rennen",
-   "firstSeen": "2026-10-14T14:49:52.069Z"
-  },
-  {
-   "title": "Nach Tod von Mateschitz \"ganz anders\": Horner spricht über sein Red-Bull-Aus",
-   "summary": "Ex-Teamchef Christian Horner äussert sich dazu, warum sich Red Bull im vergangenen Jahr von ihm getrennt hat und vermutet, dass er\"zu viel Einfluss\" auf das Team hatte",
-   "url": "https://www.formel1.de/nc/149371",
-   "date": "2026-10-14T14:01:47.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
    "firstSeen": "2026-10-14T14:49:52.069Z"
   }
  ]
