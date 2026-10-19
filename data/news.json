@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T13:02:13.490Z",
+ "updatedAt": "2026-10-19T14:54:00.921Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,53 @@
   }
  },
  "items": [
+  {
+   "title": "Think you're Fan1? Win a VIP trip to Las Vegas",
+   "summary": "Think You're Fan1? Win a VIP Trip to the Las Vegas Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/think-youre-fan1-win-a-vip-trip-to-las-vegas-quiz-4.1B2bvDeyatLSiZkD5fzr4B",
+   "date": "2026-10-19T14:54:00.901Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-19T14:54:00.901Z"
+  },
+  {
+   "title": "Haas reveal striking Godzilla-themed livery for Austin",
+   "summary": "Haas have presented a striking Godzilla-themed livery that will adorn the VF-26 cars of Ollie Bearman and Esteban Ocon at this weekend’s United States Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/gallery-haas-reveal-striking-godzilla-themed-livery-for-united-states-grand-prix-in-austin.37aecsdQPx4DOh7q1qrYTX",
+   "date": "2026-10-19T14:53:00.901Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "bearman",
+    "ocon"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Rennen",
+   "firstSeen": "2026-10-19T14:54:00.901Z"
+  },
+  {
+   "title": "Horner fordert Umdenken: \"Teams geben 500 oder 600 Millionen Dollar aus\"",
+   "summary": "Die Formel 1 setzt seit 2021 auf eine Budgetobergrenze, die derzeit bei 215 Millionen US-Dollar (rund 192 Millionen Euro) zuzüglich weiterer Ausgaben angesetzt ist",
+   "url": "https://www.formel1.de/nc/149415",
+   "date": "2026-10-19T14:03:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-19T14:54:00.901Z"
+  },
   {
    "title": "Fornaroli set for McLaren FP1 runs after latest F1 test",
    "summary": "Leonardo Fornaroli will return to the wheel of McLaren’s MCL40 over the coming weeks, with his next practice outings being planned at the Mexico City and Sao Paulo Grands Prix.",
@@ -938,57 +985,6 @@
    "team": "alpine",
    "category": "News",
    "firstSeen": "2026-10-15T10:50:53.967Z"
-  },
-  {
-   "title": "Austin: Das muss jeder Titelkandidat tun, um im WM-Rennen zu bleiben",
-   "summary": "Kimi Antonelli kann in Austin bereits vorzeitig Weltmeister werden, doch fünf Fahrer kämpfen darum, beim nächsten Rennen rechnerisch in der Verlosung zu bleiben",
-   "url": "https://www.formel1.de/nc/149380",
-   "date": "2026-10-15T09:22:47.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-15T10:50:53.967Z"
-  },
-  {
-   "title": "Red Bull dominiert: Warum Ferrari nicht an eine Wachablösung glaubt",
-   "summary": "Max Verstappen konnte in Malaysia und zweimal in Singapur gewinnen und scheint das Mass der Dinge zu sein: Doch bei der Aussage ist auch die Konkurrenz vorsichtig",
-   "url": "https://www.formel1.de/nc/149379",
-   "date": "2026-10-15T07:52:28.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull",
-    "ferrari"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-15T08:53:15.550Z"
-  },
-  {
-   "title": "Gesichtet: Toto Wolff im 10-Millionen-Mercedes in Monaco",
-   "summary": "Toto Wolff wurde gesichtet, wie er einen extrem seltenen, zehn Millionen Dollar teuren Mercedes-Benz CLK GTR durch die Strassen von Monaco steuerte",
-   "url": "https://www.formel1.de/nc/149378",
-   "date": "2026-10-15T06:56:12.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-15T07:03:48.295Z"
   }
  ]
 }
