@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T16:52:20.024Z",
+ "updatedAt": "2026-10-19T18:59:17.791Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,37 @@
   }
  },
  "items": [
+  {
+   "title": "Warum die Formel 1 beim Thema MINT-Bildung die Kurve kriegt",
+   "summary": "Hunderte Schüler aus aller Welt traten in Singapur beim Finale von STEM Racing an: Das zeigt die höhere Relevanz des Nachwuchswettbewerbs für die Formel 1",
+   "url": "https://www.formel1.de/nc/149420",
+   "date": "2026-10-19T18:06:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-19T18:59:17.770Z"
+  },
+  {
+   "title": "Mercedes mit starker Bilanz: Umsatzanstieg und Millionen-Dividende",
+   "summary": "Höherer Gewinn und mehr Dividenden für Aktionäre: Mercedes blickt auf ein starkes Geschäftsjahr 2026 zurück - McLaren trotz WM-Titel mit Verlust",
+   "url": "https://www.formel1.de/nc/149419",
+   "date": "2026-10-19T17:01:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes",
+    "mclaren"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-19T18:59:17.770Z"
+  },
   {
    "title": "INSIGHT: How F1 teams create special one-off liveries",
    "summary": "Ahead of Haas running a Godzilla collaboration scheme at the Circuit of The Americas, we caught up with the team to take a look at how a one-off livery on a Formula 1 car comes to life.",
@@ -950,39 +981,6 @@
     "haas"
    ],
    "team": "ferrari",
-   "category": "Transfer",
-   "firstSeen": "2026-10-15T14:50:24.580Z"
-  },
-  {
-   "title": "Übersicht: Die Fahrer und Teams der Formel-1-Saison 2027",
-   "summary": "Der aktuelle Ausblick auf die Formel-1-Saison 2027 mit allen bisher bestätigten Fahrern und Teams sowie allen Fahrerwechseln",
-   "url": "https://www.formel1.de/nc/148077",
-   "date": "2026-10-15T14:10:28.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-15T14:50:24.580Z"
-  },
-  {
-   "title": "Nachfolger von Esteban Ocon: Haas verpflichtet Rafael Camara",
-   "summary": "Formel-2-Spitzenreiter Rafael Camara wird der Nachfolger von Esteban Ocon bei Haas in der Formel-1-Saison 2027: Der Brasilianer ist der nächste aus der Ferrari-Akademie",
-   "url": "https://www.formel1.de/nc/149384",
-   "date": "2026-10-15T14:00:30.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "ocon"
-   ],
-   "teams": [
-    "ferrari",
-    "haas"
-   ],
-   "team": "haas",
    "category": "Transfer",
    "firstSeen": "2026-10-15T14:50:24.580Z"
   }
