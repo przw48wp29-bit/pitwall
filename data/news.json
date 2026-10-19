@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T04:32:02.755Z",
+ "updatedAt": "2026-10-19T07:08:16.309Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,24 @@
   }
  },
  "items": [
+  {
+   "title": "Max Verstappen: Bei Unterschrift schon von Red-Bull-Siegupdate gewusst?",
+   "summary": "Red Bull hat seit Baku einen gewaltigen Schritt nach vorne gemacht, doch die Verlängerung von Max Verstappen hatte laut ihm und dem Team andere Gründe",
+   "url": "https://www.formel1.de/nc/149408",
+   "date": "2026-10-19T05:53:48.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-19T07:08:16.144Z"
+  },
   {
    "title": "Toto Wolff warnt: F1-Gehaltslimit treibt Talente an die Börse",
    "summary": "Die Budgetobergrenze macht die Formel 1 gerechter, doch Toto Wolff sieht einen entscheidenden Nachteil, der den Rennställen langfristig schaden könnte",
@@ -971,22 +989,6 @@
    "team": "williams",
    "category": "Regeln",
    "firstSeen": "2026-10-14T16:52:08.151Z"
-  },
-  {
-   "title": "'We owe him one' – Mekies on Hadjar's Singapore issues",
-   "summary": "Laurent Mekies apologised to Isack Hadjar after reliability struggles limited his performance at the Singapore Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/mekies-admits-we-owe-him-one-after-red-bull-issues-ruin-hadjars-singapore-weekend.3SefuqCazWON4v6nv9gz6h",
-   "date": "2026-10-14T14:49:52.069Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hadjar"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-14T14:49:52.069Z"
   }
  ]
 }
