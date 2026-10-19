@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T07:08:16.309Z",
+ "updatedAt": "2026-10-19T08:56:24.248Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,40 @@
   }
  },
  "items": [
+  {
+   "title": "Eine Frage, Herr Watanabe: Was läuft bei Aston Martin und Honda falsch?",
+   "summary": "In einem exklusiven Interview hat HRC-Präsident Koji Watanbe einen Einblick gegeben, warum Honda so desaströs zurück in die Formel 1 gekommen ist",
+   "url": "https://www.formel1.de/nc/149410",
+   "date": "2026-10-19T08:29:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-10-19T08:56:24.226Z"
+  },
+  {
+   "title": "Gibt es ein Vertrauensproblem zwischen Lewis Hamilton und Ferrari?",
+   "summary": "Nachdem sich Lewis Hamilton bei der Strategie in Singapur erneut gegen sein Team stellte, sehen mehrere Experten interne Schwierigkeiten bei der Scuderia",
+   "url": "https://www.formel1.de/nc/149409",
+   "date": "2026-10-19T07:19:49.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-19T08:56:24.226Z"
+  },
   {
    "title": "Max Verstappen: Bei Unterschrift schon von Red-Bull-Siegupdate gewusst?",
    "summary": "Red Bull hat seit Baku einen gewaltigen Schritt nach vorne gemacht, doch die Verlängerung von Max Verstappen hatte laut ihm und dem Team andere Gründe",
@@ -28,7 +62,7 @@
    "firstSeen": "2026-10-19T07:08:16.144Z"
   },
   {
-   "title": "Toto Wolff warnt: F1-Gehaltslimit treibt Talente an die Börse",
+   "title": "Nicht Ferrari oder Red Bull: Diese Konkurrenz macht Toto Wolff Sorgen",
    "summary": "Die Budgetobergrenze macht die Formel 1 gerechter, doch Toto Wolff sieht einen entscheidenden Nachteil, der den Rennställen langfristig schaden könnte",
    "url": "https://www.formel1.de/nc/149407",
    "date": "2026-10-19T04:13:04.000Z",
@@ -36,8 +70,11 @@
    "sourceId": "formel1de",
    "lang": "de",
    "drivers": [],
-   "teams": [],
-   "team": null,
+   "teams": [
+    "red_bull",
+    "ferrari"
+   ],
+   "team": "red_bull",
    "category": "News",
    "firstSeen": "2026-10-19T04:32:02.753Z"
   },
@@ -956,38 +993,6 @@
    ],
    "team": "red_bull",
    "category": "News",
-   "firstSeen": "2026-10-14T16:52:08.151Z"
-  },
-  {
-   "title": "F1-Weltmeister Lando Norris: Millionen-Investment in Hospitality-Plattform",
-   "summary": "Der amtierende Formel-1-Weltmeister Lando Norris beteiligt sich an einer 20-Millionen-Pfund-Finanzierungsrunde der britischen Hospitality-Plattform Seat Unique",
-   "url": "https://www.formel1.de/nc/149373",
-   "date": "2026-10-14T15:59:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "Transfer",
-   "firstSeen": "2026-10-14T16:52:08.151Z"
-  },
-  {
-   "title": "Carlos Sainz schlägt Alarm: Formel 1 ist zur Dreiklassengesellschaft geworden",
-   "summary": "Carlos Sainz kritisiert das neue Reglement und sieht die Formel 1 mittlerweile als Dreiklassengesellschaft: Warum der Spanier trotzdem auch positive Seiten erkennt",
-   "url": "https://www.formel1.de/nc/149372",
-   "date": "2026-10-14T14:58:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "sainz"
-   ],
-   "teams": [],
-   "team": "williams",
-   "category": "Regeln",
    "firstSeen": "2026-10-14T16:52:08.151Z"
   }
  ]
