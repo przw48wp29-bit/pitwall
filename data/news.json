@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T18:59:17.791Z",
+ "updatedAt": "2026-10-19T20:49:29.440Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,20 @@
   }
  },
  "items": [
+  {
+   "title": "United States Grand Prix betting guide and latest odds",
+   "summary": "Our experts bring you all the important betting information you need before making your predictions at the Circuit of the Americas.",
+   "url": "https://www.formula1.com/en/latest/article/united-states-grand-prix-race-betting-guide-and-what-the-markets-expect-to-happen.6yb8E2FEmrXYHRRfyE0RpE",
+   "date": "2026-10-19T20:49:29.428Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-19T20:49:29.428Z"
+  },
   {
    "title": "Warum die Formel 1 beim Thema MINT-Bildung die Kurve kriegt",
    "summary": "Hunderte Schüler aus aller Welt traten in Singapur beim Finale von STEM Racing an: Das zeigt die höhere Relevanz des Nachwuchswettbewerbs für die Formel 1",
@@ -141,6 +155,20 @@
    "team": "haas",
    "category": "Rennen",
    "firstSeen": "2026-10-19T14:54:00.901Z"
+  },
+  {
+   "title": "Formel-1-Strafpunkte 2026: Die aktuelle Übersicht der Strafen",
+   "summary": "In unserer Übersicht der Formel-1-Strafpunkte zeigen wir dir den aktuellen Stand und wer eine Weisse Weste hat oder kurz vor einer Rennsperre steht",
+   "url": "https://www.formel1.de/nc/146577",
+   "date": "2026-10-19T14:24:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-10-18T14:44:00.991Z"
   },
   {
    "title": "Horner fordert Umdenken: \"Teams geben 500 oder 600 Millionen Dollar aus\"",
@@ -349,20 +377,6 @@
    "team": "red_bull",
    "category": "News",
    "firstSeen": "2026-10-19T04:32:02.753Z"
-  },
-  {
-   "title": "Formel-1-Strafpunkte 2026: Die aktuelle Übersicht der Strafen",
-   "summary": "In unserer Übersicht der Formel-1-Strafpunkte zeigen wir dir den aktuellen Stand und wer eine Weisse Weste hat oder kurz vor einer Rennsperre steht",
-   "url": "https://www.formel1.de/nc/146577",
-   "date": "2026-10-18T14:24:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
-   "firstSeen": "2026-10-18T14:44:00.991Z"
   },
   {
    "title": "Max Verstappen im GT3: 15 Positionen in 45 Minuten gutgemacht",
@@ -964,23 +978,6 @@
     "haas"
    ],
    "team": "haas",
-   "category": "Transfer",
-   "firstSeen": "2026-10-15T14:50:24.580Z"
-  },
-  {
-   "title": "Haas sign Ferrari junior Rafael Camara for 2027",
-   "summary": "Rafael Camara has secured a full-time seat in Formula 1 with Haas.",
-   "url": "https://www.formula1.com/en/latest/article/ferrari-junior-rafael-camara-promoted-to-f1-with-haas-for-2027.1RSxvnFaLu8Hd3JD2ppFsz",
-   "date": "2026-10-15T14:47:24.580Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "ferrari",
-    "haas"
-   ],
-   "team": "ferrari",
    "category": "Transfer",
    "firstSeen": "2026-10-15T14:50:24.580Z"
   }
