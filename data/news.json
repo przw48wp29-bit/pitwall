@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T14:51:35.416Z",
+ "updatedAt": "2026-10-20T16:49:32.290Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,122 @@
   }
  },
  "items": [
+  {
+   "title": "How Williams entered the Marvel Universe",
+   "summary": "From a Doctor Doom-inspired Formula 1 livery to a comic book featuring Alex Albon and Carlos Sainz, discover how Williams joined forces with Marvel.",
+   "url": "https://www.formula1.com/en/latest/article/from-the-circuit-to-comic-con-how-williams-joined-the-marvel-universe.2CRyGcEiwfgZ67ouVodMxF",
+   "date": "2026-10-20T16:49:32.274Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "albon",
+    "sainz"
+   ],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "News",
+   "firstSeen": "2026-10-20T16:49:32.274Z"
+  },
+  {
+   "title": "The 5 drivers most like to qualify quickest in Austin",
+   "summary": "We have looked at the betting markets for Qualifying at the Circuit of the Americas to assess the leading contenders for pole.",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-qualify-quickest-for-the-united-states-grand-prix.3bsWMBT70xX9tDyfmCpKJQ",
+   "date": "2026-10-20T16:48:32.274Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-20T16:49:32.274Z"
+  },
+  {
+   "title": "HINCHCLIFFE: Why Lawson deserves to keep his seat at Racing Bulls",
+   "summary": "IndyCar winner and F1 TV analyst on the selection problem facing the Racing Bulls bosses ahead of next season.",
+   "url": "https://www.formula1.com/en/latest/article/why-lawson-deserves-to-keep-his-seat-at-racing-bulls.6kJytSbdHiVxSlxgaLbjjU",
+   "date": "2026-10-20T16:47:32.274Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "lawson"
+   ],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "Transfer",
+   "firstSeen": "2026-10-20T16:49:32.274Z"
+  },
+  {
+   "title": "Why Red Bull and Audi’s floor stay trick is banned for 2027",
+   "summary": "Mark Hughes explains how a floor stay exemption has allowed Red Bull and Audi to run sharper sidepod undercuts in 2026 – and how the FIA’s rule change will curb the benefit from 2027.",
+   "url": "https://www.formula1.com/en/latest/article/the-floor-stay-loophole-behind-red-bull-and-audis-sidepods-and-why-it-is-being-closed-for-2027.4rwr2rImgcIIHLCLed473w",
+   "date": "2026-10-20T16:46:32.274Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "red_bull",
+    "audi"
+   ],
+   "team": "red_bull",
+   "category": "Regeln",
+   "firstSeen": "2026-10-20T16:49:32.274Z"
+  },
+  {
+   "title": "Cadillac: Austin-Heimrennen mit Upgrades, Sonderlackierung und Herta",
+   "summary": "Cadillac plant für das Heimrennen in Austin einige Updates für den MAC-26 - Zudem gibt es ein Sonderdesign und Lokalmatador Colton Herta wird in FT1 fahren",
+   "url": "https://www.formel1.de/nc/149433",
+   "date": "2026-10-20T16:02:09.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "Technik",
+   "firstSeen": "2026-10-20T16:49:32.274Z"
+  },
+  {
+   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
+   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
+   "url": "https://www.formel1.de/nc/146408",
+   "date": "2026-10-20T16:00:02.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-10-20T16:49:32.274Z"
+  },
+  {
+   "title": "Max Verstappen: Red-Bull-Probleme in diesem Jahr ganz andere als 2025",
+   "summary": "Max Verstappen spricht über die Red-Bull-Probleme im vergangenen und in diesem Jahr und erklärt, warum man die beiden Saisons nicht miteinander vergleichen kann",
+   "url": "https://www.formel1.de/nc/149432",
+   "date": "2026-10-20T15:16:03.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-20T16:49:32.274Z"
+  },
   {
    "title": "The 5 drivers most likely to win the United States GP",
    "summary": "We look at the betting markets to predict the five most likely drivers to win at the Circuit of the Americas.",
@@ -848,124 +964,6 @@
    "team": "mclaren",
    "category": "Business",
    "firstSeen": "2026-10-16T16:49:36.015Z"
-  },
-  {
-   "title": "Why Brown thinks Piastri is 'back to the driver I know'",
-   "summary": "McLaren CEO Zak Brown believes Oscar Piastri is returning to form after a difficult spell, praising his growing confidence behind the wheel of the MCL40.",
-   "url": "https://www.formula1.com/en/latest/article/piastri-back-to-the-driver-i-know-brown-encouraged-by-mclaren-drivers-growing-confidence.5XI6KWGDCPVvoHn5sybz22",
-   "date": "2026-10-16T14:50:35.994Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "piastri"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-10-16T14:50:35.994Z"
-  },
-  {
-   "title": "Ferrari's Larsen to return for 2027 F1 ACADEMY campaign",
-   "summary": "Ferrari have announced that Alba Larsen will become the first driver to contest a third campaign in F1 ACADEMY, continuing as part of the Scuderia Ferrari Driver Academy next season.",
-   "url": "https://www.formula1.com/en/latest/article/ferraris-larsen-to-return-for-2027-f1-academy-campaign.5eeThwId7hnIzVMd8zkTPB",
-   "date": "2026-10-16T14:49:35.994Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-16T14:50:35.994Z"
-  },
-  {
-   "title": "Formel-1-Experte warnt: \"Dann kann man die Formel 2 gleich zumachen\"",
-   "summary": "Weil die Fahrer heutzutage eine immer längere Karriere in der Formel 1 haben können, bleiben laut Ralf Schumacher viele Nachwuchsfahrer auf der Strecke",
-   "url": "https://www.formel1.de/nc/149397",
-   "date": "2026-10-16T14:15:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-16T14:50:35.994Z"
-  },
-  {
-   "title": "Oliver Bearman im neuen Ferrari erwischt: Was steckt hinter dem Video?",
-   "summary": "1.050 PS, bis zu 330 km/h und ein Plug-in-Hybridantrieb: Oliver Bearman wurde in Monaco in einem Ferrari 849 Testarossa gefilmt",
-   "url": "https://www.formel1.de/nc/149396",
-   "date": "2026-10-16T13:42:10.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bearman"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-16T14:50:35.994Z"
-  },
-  {
-   "title": "Valtteri Bottas: Cadillac-Fabrik besser als die von Mercedes",
-   "summary": "Cadillac-Pilot Valtteri Bottas glaubt, dass die neuen Formel-1-Einrichtungen seines Teams die von Ex-Arbeitgebers Mercedes bereits übertroffen haben",
-   "url": "https://www.formel1.de/nc/149395",
-   "date": "2026-10-16T13:05:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bottas"
-   ],
-   "teams": [
-    "mercedes",
-    "cadillac"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-16T14:50:35.994Z"
-  },
-  {
-   "title": "The top 10 driver/team combination wins in F1 history",
-   "summary": "Max Verstappen's victory in the Singapore Grand Prix last weekend was not only his first win at the venue, but also ensured the four-time World Champion moved a step closer to another record.",
-   "url": "https://www.formula1.com/en/latest/article/the-top-10-driver-team-combination-wins-in-f1-history.6H3YLvCRZN9e3kGTEQWGGx",
-   "date": "2026-10-16T13:01:28.483Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-16T13:01:28.483Z"
-  },
-  {
-   "title": "George Russell: Nächste Motorenstrafe \"vielleicht\" in Las Vegas",
-   "summary": "George Russell und Kimi Antonelli werden 2026 noch eine weitere Motorenstrafe nehmen - Der Brite verrät, welche Strecke man dafür unter anderem im Blick hat",
-   "url": "https://www.formel1.de/nc/149394",
-   "date": "2026-10-16T11:56:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell",
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-16T13:01:28.483Z"
   }
  ]
 }
