@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T20:49:29.440Z",
+ "updatedAt": "2026-10-20T04:29:21.267Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Formel-1-Technik: Warum Mercedes noch keinen rotierenden Heckflügel hat",
+   "summary": "Anders als die restlichen Topteams verfügt Mercedes nicht über einen rotierenden Heckflügel - Für 2027 könnte das System aber eventuell ein Thema werden",
+   "url": "https://www.formel1.de/nc/149421",
+   "date": "2026-10-20T03:56:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Technik",
+   "firstSeen": "2026-10-20T04:29:21.266Z"
+  },
   {
    "title": "United States Grand Prix betting guide and latest odds",
    "summary": "Our experts bring you all the important betting information you need before making your predictions at the Circuit of the Americas.",
@@ -963,22 +979,6 @@
    ],
    "team": "ferrari",
    "category": "News",
-   "firstSeen": "2026-10-15T14:50:24.580Z"
-  },
-  {
-   "title": "Why Haas decided to risk promoting rookie Camara",
-   "summary": "Lawrence Barretto assesses the reasons behind Haas' decision to sign rookie Rafael Camara to the team for the 2027 season.",
-   "url": "https://www.formula1.com/en/latest/article/analysis-why-haas-decided-to-risk-promoting-rookie-camara-for-their-2027-line-up.4Q2AGJtixidwJ2EXtdsydz",
-   "date": "2026-10-15T14:48:24.580Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Transfer",
    "firstSeen": "2026-10-15T14:50:24.580Z"
   }
  ]
