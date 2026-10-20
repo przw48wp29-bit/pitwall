@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T04:29:21.267Z",
+ "updatedAt": "2026-10-20T07:02:05.721Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,40 @@
   }
  },
  "items": [
+  {
+   "title": "Ferrari-Update für Austin bereit: Der SF-26 sucht seine neue Seele",
+   "summary": "Bis auf ein Detail am Diffusor hat Ferrari das vierte und letzte Saison-Update fertiggestellt: Es soll beim Training in den USA erstmals zum Einsatz kommen",
+   "url": "https://www.formel1.de/nc/149423",
+   "date": "2026-10-20T06:05:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Technik",
+   "firstSeen": "2026-10-20T07:02:05.705Z"
+  },
+  {
+   "title": "Warum George Russell in Singapur eine ältere Mercedes-Spezifikation fuhr",
+   "summary": "George Russell erklärte sich bereit, in Singapur mit einer älteren Spezifikation des Mercedes W17 zu fahren: Bradley Lord und Simone Resta erklären die Hintergründe",
+   "url": "https://www.formel1.de/nc/149422",
+   "date": "2026-10-20T05:00:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-20T07:02:05.705Z"
+  },
   {
    "title": "Formel-1-Technik: Warum Mercedes noch keinen rotierenden Heckflügel hat",
    "summary": "Anders als die restlichen Topteams verfügt Mercedes nicht über einen rotierenden Heckflügel - Für 2027 könnte das System aber eventuell ein Thema werden",
@@ -947,39 +981,6 @@
    "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-10-15T16:51:34.517Z"
-  },
-  {
-   "title": "Williams outline plans for 50th anniversary year in 2027",
-   "summary": "Williams have outlined plans for their 50th anniversary year in 2027, with a milestone chassis designation, an immersive experience in London and a fan-picked Silverstone car livery all set to feature throughout a calendar of special events.",
-   "url": "https://www.formula1.com/en/latest/article/williams-outline-plans-for-50th-anniversary-year-with-calendar-of-special-events.wxPd7X2kbw2bUHstwFeZB",
-   "date": "2026-10-15T14:50:24.580Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "williams"
-   ],
-   "team": "williams",
-   "category": "Technik",
-   "firstSeen": "2026-10-15T14:50:24.580Z"
-  },
-  {
-   "title": "The next Ferrari protege Haas couldn’t turn down",
-   "summary": "F1.com looks at the qualities Rafael Camara has displayed so far that appear to make him the ideal candidate for Haas following news that he will join the team in 2027.",
-   "url": "https://www.formula1.com/en/latest/article/rafael-camara-the-next-ferrari-protege-haas-couldnt-turn-down.24Vz3MR6I5GVOywy1z8C39",
-   "date": "2026-10-15T14:49:24.580Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "ferrari",
-    "haas"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-15T14:50:24.580Z"
   }
  ]
 }
