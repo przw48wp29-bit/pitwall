@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T16:49:32.290Z",
+ "updatedAt": "2026-10-20T18:56:56.856Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,38 @@
   }
  },
  "items": [
+  {
+   "title": "Isack Hadjar: Sprintrennen haben nur etwas mit \"Glück\" zu tun",
+   "summary": "Isack Hadjar ist kein Fan von Sprintrennen (mehr) - Der Red-Bull-Pilot erklärt, warum er sich an Sprint-Wochenenden in diesem Jahr unglaublich schwergetan hat",
+   "url": "https://www.formel1.de/nc/149435",
+   "date": "2026-10-20T18:04:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hadjar"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-20T18:56:56.844Z"
+  },
+  {
+   "title": "Inklusive Weltrekord: Neue skurrile Attraktion steht an F1-Strecke in Austin",
+   "summary": "Während Miami seinen Fake-Hafen hat, hat Austin nun ebenfalls eine US-typische neue Attraktion, die sogar den Weg ins Guinness-Buch der Weltrekorde gefunden hat",
+   "url": "https://www.formel1.de/nc/149434",
+   "date": "2026-10-20T17:00:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-20T18:56:56.844Z"
+  },
   {
    "title": "How Williams entered the Marvel Universe",
    "summary": "From a Doctor Doom-inspired Formula 1 livery to a comic book featuring Alex Albon and Carlos Sainz, discover how Williams joined forces with Marvel.",
@@ -934,36 +966,6 @@
    "team": "audi",
    "category": "News",
    "firstSeen": "2026-10-16T18:54:33.734Z"
-  },
-  {
-   "title": "How the pecking order has changed since the season opener",
-   "summary": "F1.com takes a look at the data to determine which teams have moved forwards – and which have fallen behind – over the course of the 2026 season so far.",
-   "url": "https://www.formula1.com/en/latest/article/in-numbers-how-the-pecking-order-has-changed-since-the-2026-season-opener.5audfzy7TXq7Jzl92vs6Pd",
-   "date": "2026-10-16T16:49:36.015Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-16T16:49:36.015Z"
-  },
-  {
-   "title": "Lando Norris: So sieht sein Business-Imperium abseits der Formel 1 aus",
-   "summary": "Neben seiner Karriere als Formel-1-Fahrer hat sich Weltmeister Lando Norris noch anderen Projekten verschrieben: Hier ist eine Übersicht über seine Aktivitäten",
-   "url": "https://www.formel1.de/nc/149398",
-   "date": "2026-10-16T15:32:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "Business",
-   "firstSeen": "2026-10-16T16:49:36.015Z"
   }
  ]
 }
