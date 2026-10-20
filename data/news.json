@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T07:02:05.721Z",
+ "updatedAt": "2026-10-20T08:52:14.717Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,38 @@
   }
  },
  "items": [
+  {
+   "title": "Formel 1 zurück in Hockenheim? Die Streckenchefs im grossen Interview",
+   "summary": "Motorworld, neue Gebäude und die Hoffnung auf die Formel 1: Die Hockenheim-Chefs erklären, wie konkret ihre Pläne sind und welche Fragen noch offenbleiben",
+   "url": "https://www.formel1.de/nc/149425",
+   "date": "2026-10-20T08:03:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-20T08:52:14.603Z"
+  },
+  {
+   "title": "Sergio Perez betont: 2026 \"eines meiner besten Jahre\" in der Formel 1!",
+   "summary": "Sergio Perez sieht 2026 als eines seiner persönlich stärksten Jahre, auch wenn er mit Cadillac bislang keinen einzigen Punkt einfahren konnte",
+   "url": "https://www.formel1.de/nc/149424",
+   "date": "2026-10-20T07:09:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "perez"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "News",
+   "firstSeen": "2026-10-20T08:52:14.603Z"
+  },
   {
    "title": "Ferrari-Update für Austin bereit: Der SF-26 sucht seine neue Seele",
    "summary": "Bis auf ein Detail am Diffusor hat Ferrari das vierte und letzte Saison-Update fertiggestellt: Es soll beim Training in den USA erstmals zum Einsatz kommen",
@@ -26,7 +58,7 @@
    "firstSeen": "2026-10-20T07:02:05.705Z"
   },
   {
-   "title": "Warum George Russell in Singapur eine ältere Mercedes-Spezifikation fuhr",
+   "title": "Mercedes erklärt Hintergründe zum Auto-Vergleich in Singapur",
    "summary": "George Russell erklärte sich bereit, in Singapur mit einer älteren Spezifikation des Mercedes W17 zu fahren: Bradley Lord und Simone Resta erklären die Hintergründe",
    "url": "https://www.formel1.de/nc/149422",
    "date": "2026-10-20T05:00:05.000Z",
@@ -945,42 +977,6 @@
    "team": "red_bull",
    "category": "Rennen",
    "firstSeen": "2026-10-15T18:58:14.884Z"
-  },
-  {
-   "title": "Experte: Ferrari-Fahrer müssen aufhören, gegeneinander zu kämpfen",
-   "summary": "Experte Jolyon Palmer hat die Vermutung, dass die Ferrari-Piloten Lewis Hamilton und Charles Leclerc ihre eigenen Interessen manchmal über die des Teams stellen",
-   "url": "https://www.formel1.de/nc/149386",
-   "date": "2026-10-15T16:08:26.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-15T16:51:34.517Z"
-  },
-  {
-   "title": "Nico Rosberg: Kimi Antonelli in diesem Jahr auf \"Michael-Schumacher-Level\"",
-   "summary": "Nico Rosberg lobt Kimi Antonelli für seine starke Formel-1-Saison 2026, stellt aber auch klar, dass Max Verstappen \"nach wie vor der beste Fahrer im Sport\" ist",
-   "url": "https://www.formel1.de/nc/149385",
-   "date": "2026-10-15T15:05:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-15T16:51:34.517Z"
   }
  ]
 }
