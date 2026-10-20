@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T10:48:59.816Z",
+ "updatedAt": "2026-10-20T13:01:55.285Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,68 @@
   }
  },
  "items": [
+  {
+   "title": "What could ‘formidable’ Red Bull achieve after resurgence?",
+   "summary": "In the latest episode of official podcast, F1 Nation, Jolyon Palmer and Alex Jacques discuss how Red Bull can build on their impressive turnaround in the future.",
+   "url": "https://www.formula1.com/en/latest/article/i-dont-see-a-weakness-what-could-formidable-red-bull-achieve-after-massive-resurgence.5qNK8tS9Gi6aw3lCdaBGz3",
+   "date": "2026-10-20T13:01:55.265Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-20T13:01:55.265Z"
+  },
+  {
+   "title": "Budgetobergrenze: FIA trennt Formel-1-Teams von anderen Projekten",
+   "summary": "Die FIA geht gegen Teams vor, die den Kostendeckel untergraben - In Zukunft muss ein Formel-1-Projekt komplett von allen anderen eines Unternehmens getrennt sein",
+   "url": "https://www.formel1.de/nc/149431",
+   "date": "2026-10-20T12:45:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-10-20T13:01:55.265Z"
+  },
+  {
+   "title": "Auktion: Alpine-Formel-1-Auto von 2024 wird zum Sammlerstück",
+   "summary": "Ein in einem Formel-1-Rennen eingesetzter Getriebeträger aus einem Alpine-Auto wurde mit einem Heckflügel in Rennspezifikation in ein Sammlerstück verwandelt",
+   "url": "https://www.formel1.de/nc/149430",
+   "date": "2026-10-20T12:02:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "alpine"
+   ],
+   "team": "alpine",
+   "category": "Technik",
+   "firstSeen": "2026-10-20T13:01:55.265Z"
+  },
+  {
+   "title": "Expertin: Was der Funkausfall in Singapur über Max Verstappen verrät",
+   "summary": "Die ehemalige Formel-1-Strategin Bernie Collins lobt Max Verstappens Intelligenz, nachdem er den Grossen Preis von Singapur trotz eines Funkausfalls dominierte",
+   "url": "https://www.formel1.de/nc/149429",
+   "date": "2026-10-20T11:22:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-20T13:01:55.265Z"
+  },
   {
    "title": "How Marcin Budkowski is shaping Cadillac’s next chapter",
    "summary": "Marcin Budkowski took over from Graeme Lowdon as Cadillac Team Principal in the summer, and has plenty on the agenda as he looks to develop F1's newest outfit.",
@@ -906,70 +968,6 @@
    "team": null,
    "category": "Transfer",
    "firstSeen": "2026-10-16T10:50:12.529Z"
-  },
-  {
-   "title": "Pirelli-Test in Magny-Cours: Mercedes testet Intermediates und Slicks",
-   "summary": "Mercedes hat für Pirelli einen zweitägigen Test in Magny-Cours absolviert - Ersatzpilot Frederik Vesti hat unter anderem neue Intermediate-Varianten getestet",
-   "url": "https://www.formel1.de/nc/149393",
-   "date": "2026-10-16T10:47:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-16T10:50:12.529Z"
-  },
-  {
-   "title": "Ferrari-Akademie: Zwei Ab- und drei Neuzugänge bei den Junioren",
-   "summary": "Ferrari hat drei Neuzugänge für seine Fahrerakademie verpflichtet, während Dino Beganovic 2027 aus der Formel 2 zum Ersatzfahrer aufsteigen wird",
-   "url": "https://www.formel1.de/nc/149392",
-   "date": "2026-10-16T09:58:32.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-16T10:50:12.529Z"
-  },
-  {
-   "title": "Wie unterscheidet sich Mekies' Führung bei Red Bull von jener Horners?",
-   "summary": "Red Bull setzt an der Spitze auf Kontinuität und verlängert den Vertrag von Teamchef Laurent Mekies: Doch wie gross ist sein Anteil an der jüngsten Kehrtwende wirklich?",
-   "url": "https://www.formel1.de/nc/149391",
-   "date": "2026-10-16T09:06:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Transfer",
-   "firstSeen": "2026-10-16T10:50:12.529Z"
-  },
-  {
-   "title": "FW50: Warum der 2027er-Williams einen besonderen Namen bekommt",
-   "summary": "Williams hat bekanntgegeben, dass das Formel-1-Auto für die Saison 2027 den Namen FW50 tragen wird - Damit \"überspringt\" das Traditionsteam aus Grove den FW49",
-   "url": "https://www.formel1.de/nc/149390",
-   "date": "2026-10-16T08:05:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "williams"
-   ],
-   "team": "williams",
-   "category": "News",
-   "firstSeen": "2026-10-16T08:52:02.795Z"
   }
  ]
 }
