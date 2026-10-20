@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T08:52:14.717Z",
+ "updatedAt": "2026-10-20T10:48:59.816Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,86 @@
   }
  },
  "items": [
+  {
+   "title": "How Marcin Budkowski is shaping Cadillac’s next chapter",
+   "summary": "Marcin Budkowski took over from Graeme Lowdon as Cadillac Team Principal in the summer, and has plenty on the agenda as he looks to develop F1's newest outfit.",
+   "url": "https://www.formula1.com/en/latest/article/exclusive-marcin-budkowski-on-shaping-cadillacs-next-chapter-creating-a-winning-culture-and-being-in-action-mode.MgVub5whPnC4Rn1VU5T1i",
+   "date": "2026-10-20T10:48:59.804Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "News",
+   "firstSeen": "2026-10-20T10:48:59.804Z"
+  },
+  {
+   "title": "Camara indicates the driver number he'd like to use in 2027",
+   "summary": "Rafael Camara has decided which driver number he’d like to race with in his rookie season with Haas.",
+   "url": "https://www.formula1.com/en/latest/article/new-haas-signing-camara-indicates-the-driver-number-hed-like-to-use-in-2027.2gYYicm5lswBpzkn5Wh2v0",
+   "date": "2026-10-20T10:47:59.804Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Transfer",
+   "firstSeen": "2026-10-20T10:48:59.804Z"
+  },
+  {
+   "title": "Fernando Alonso versteigert exklusive Mitfahrt in Barcelona",
+   "summary": "Formel-1-Fahrer Fernando Alonso versteigert eine exklusive Mitfahrt auf dem Circuit de Barcelona-Catalunya - Erlös kommt auch eigener Stiftung zugute",
+   "url": "https://www.formel1.de/nc/149428",
+   "date": "2026-10-20T10:41:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-10-20T10:48:59.804Z"
+  },
+  {
+   "title": "Liam Lawson: Live-Konzert statt Renncockpit vor dem Austin-Wochenende",
+   "summary": "Liam Lawson wird vor dem Grand Prix in Texas am Wochenende auf der Bühne stehen und zusammen mit seinem Bruder und Freunden einen Live-Auftritt hinlegen",
+   "url": "https://www.formel1.de/nc/149427",
+   "date": "2026-10-20T10:02:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "lawson"
+   ],
+   "teams": [],
+   "team": "rb",
+   "category": "Rennen",
+   "firstSeen": "2026-10-20T10:48:59.804Z"
+  },
+  {
+   "title": "Mercedes: Neuer Hightech-Rennanzug feiert Premiere in Singapur",
+   "summary": "Mercedes setzte in Singapur auf neue Rennanzüge, die eine bessere Atmungsaktivität bieten sollen: Der Hersteller spricht vom atmungsaktivsten Anzug der Welt",
+   "url": "https://www.formel1.de/nc/149426",
+   "date": "2026-10-20T09:12:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-20T10:48:59.804Z"
+  },
   {
    "title": "Formel 1 zurück in Hockenheim? Die Streckenchefs im grossen Interview",
    "summary": "Motorworld, neue Gebäude und die Hoffnung auf die Formel 1: Die Hockenheim-Chefs erklären, wie konkret ihre Pläne sind und welche Fragen noch offenbleiben",
@@ -42,7 +122,7 @@
    "firstSeen": "2026-10-20T08:52:14.603Z"
   },
   {
-   "title": "Ferrari-Update für Austin bereit: Der SF-26 sucht seine neue Seele",
+   "title": "Update-Paket nach Sorgen doch bereit: Ferrari rüstet für Austin auf",
    "summary": "Bis auf ein Detail am Diffusor hat Ferrari das vierte und letzte Saison-Update fertiggestellt: Es soll beim Training in den USA erstmals zum Einsatz kommen",
    "url": "https://www.formel1.de/nc/149423",
    "date": "2026-10-20T06:05:05.000Z",
@@ -890,93 +970,6 @@
    "team": "williams",
    "category": "News",
    "firstSeen": "2026-10-16T08:52:02.795Z"
-  },
-  {
-   "title": "Haas: Portimao-Shootout spielte wichtige Rolle bei Wahl für Rafael Camara",
-   "summary": "Rafael Camara hat das Cockpit bei Haas nicht aufgrund seiner Verbindung zu Ferrari bekommen, sondern weil er beim Portimao-Shootout schlicht der Schnellste war",
-   "url": "https://www.formel1.de/nc/149389",
-   "date": "2026-10-16T06:50:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "ferrari",
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Transfer",
-   "firstSeen": "2026-10-16T07:02:54.598Z"
-  },
-  {
-   "title": "Katar- und Abu-Dhabi-Absage? Jetzt droht der Formel 1 der Super-GAU",
-   "summary": "Die Situation im Nahen Osten ist weiterhin mehr als fragil - Im schlimmsten Fall für die Formel 1 gewinnt Kimi Antonelli den WM-Titel 2026 auf der heimischen Couch",
-   "url": "https://www.formel1.de/nc/149388",
-   "date": "2026-10-16T05:40:32.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-16T07:02:54.598Z"
-  },
-  {
-   "title": "Live im TV und Stream: Alle Infos zur Übertragung der Formel 1 in Austin",
-   "summary": "Alle Informationen zur Formel 1 2026 im TV und Livestream: Wie Du die Saison mit Audi, Ferrari, McLaren, Mercedes, Red Bull und Cadillac live verfolgen kannst!",
-   "url": "https://www.formel1.de/nc/123413",
-   "date": "2026-10-16T04:16:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes",
-    "red_bull",
-    "cadillac",
-    "ferrari",
-    "mclaren",
-    "audi"
-   ],
-   "team": "mercedes",
-   "category": "Business",
-   "firstSeen": "2026-10-16T04:28:20.882Z"
-  },
-  {
-   "title": "Camara on the ‘crazy’ achievement of joining Haas in 2027",
-   "summary": "New Haas recruit Rafael Camara tells Lawrence Barretto about finding out he would join Haas in 2027 and the shoot-out test that he participated in to secure the seat.",
-   "url": "https://www.formula1.com/en/latest/article/exclusive-its-really-crazy-to-achieve-this-camara-on-joining-haas-in-2027-and-the-intense-shoot-out-test-he-faced.Sx8HzUOO7WsUm0afvDcP4",
-   "date": "2026-10-15T18:58:14.884Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Transfer",
-   "firstSeen": "2026-10-15T18:58:14.884Z"
-  },
-  {
-   "title": "Horner witzelt über Steiner: Hat nie ein Formel-1-Podium erreicht!",
-   "summary": "Christian Horner und Günther Steiner waren einst Kollegen - Während Horner mit Red Bull später Titel holte, hatte Steiner bei Haas eine deutlich schwerere Aufgabe",
-   "url": "https://www.formel1.de/nc/149387",
-   "date": "2026-10-15T17:13:48.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull",
-    "haas"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-15T18:58:14.884Z"
   }
  ]
 }
