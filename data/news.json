@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T13:01:55.285Z",
+ "updatedAt": "2026-10-20T14:51:35.416Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,34 @@
   }
  },
  "items": [
+  {
+   "title": "The 5 drivers most likely to win the United States GP",
+   "summary": "We look at the betting markets to predict the five most likely drivers to win at the Circuit of the Americas.",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-united-states-grand-prix-according-to-the-betting-markets.3OhZRS9hatUzoRjV2rDe4m",
+   "date": "2026-10-20T14:51:35.405Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-20T14:51:35.405Z"
+  },
+  {
+   "title": "So wird das Wetter beim Grand Prix der USA in Austin",
+   "summary": "Die aktuelle Wettervorschau für das 18. Rennwochenende der Formel-1-Saison 2026, den Grand Prix der USA auf dem Circuit of The Americas bei Austin",
+   "url": "https://www.formel1.de/nc/123255",
+   "date": "2026-10-20T13:55:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-20T14:51:35.405Z"
+  },
   {
    "title": "What could ‘formidable’ Red Bull achieve after resurgence?",
    "summary": "In the latest episode of official podcast, F1 Nation, Jolyon Palmer and Alex Jacques discuss how Red Bull can build on their impressive turnaround in the future.",
@@ -938,36 +966,6 @@
    "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-10-16T13:01:28.483Z"
-  },
-  {
-   "title": "'We see huge potential' – Komatsu on choosing Camara for Haas",
-   "summary": "Haas Team Principal Ayao Komatsu tells Lawrence Barretto about the factors that encouraged the squad to sign Rafael Camara for 2027.",
-   "url": "https://www.formula1.com/en/latest/article/exclusive-we-see-huge-potential-komatsu-explains-haas-camara-signing-and-whos-likely-to-partner-him.1UnMir55PpgFWVwqGsny4k",
-   "date": "2026-10-16T10:50:12.529Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Transfer",
-   "firstSeen": "2026-10-16T10:50:12.529Z"
-  },
-  {
-   "title": "How long do the drivers’ current contracts last?",
-   "summary": "One of the hottest topics during every Formula 1 season is that of drivers’ futures, with some close to their contract expiry date, some signed up for the short-term and others boasting longer deals. So, who will be driving where in 2027 and beyond as things stand?",
-   "url": "https://www.formula1.com/en/latest/article/f1-driver-contracts-from-max-verstappen-to-lewis-hamilton-how-long-do-the-drivers-current-deals-last.4ub4xFggoaKgzMCTZhdSXw",
-   "date": "2026-10-16T10:49:12.529Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Transfer",
-   "firstSeen": "2026-10-16T10:50:12.529Z"
   }
  ]
 }
