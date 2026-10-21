@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T07:04:14.016Z",
+ "updatedAt": "2026-10-21T08:53:15.976Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,37 @@
  },
  "items": [
   {
-   "title": "FIA-Präsident: Lage in Katar und Abu Dhabi ist völlig unbedenklich",
+   "title": "Horner stellt klar: Habe mich bei Ferrari nicht selbst ins Spiel gebracht",
+   "summary": "Christian Horner stellt klar, wie er seine Aussagen über Ferrari wirklich gemeint hat - Es sei nie sein Ziel gewesen, den Job von Frederic Vasseur zu übernehmen",
+   "url": "https://www.formel1.de/nc/149439",
+   "date": "2026-10-21T08:41:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-21T08:53:15.956Z"
+  },
+  {
+   "title": "FIA eröffnet neue F1-Kommandozentrale: Was sich jetzt ändern soll",
+   "summary": "Kann künstliche Intelligenz für einheitlichere Entscheidungen in der Formel 1 sorgen? Die FIA setzt auf ein neues Kontrollzentrum mit moderner Technik",
+   "url": "https://www.formel1.de/nc/149438",
+   "date": "2026-10-21T07:10:39.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-10-21T08:53:15.956Z"
+  },
+  {
+   "title": "Warum die Formel-1-Rennen in Katar und Abu Dhabi stattfinden sollen",
    "summary": "Laut FIA-Präsident Mohammed bin Sulayem kann die Formel 1 nach aktuellem Stand problemlos ihre letzten beiden Saisonrennen in Katar und Abu Dhabi fahren",
    "url": "https://www.formel1.de/nc/149437",
    "date": "2026-10-21T06:28:41.000Z",
@@ -928,40 +958,6 @@
    "teams": [],
    "team": null,
    "category": "News",
-   "firstSeen": "2026-10-17T08:46:16.017Z"
-  },
-  {
-   "title": "How Mekies has already made his mark at Red Bull",
-   "summary": "People. They were who Laurent Mekies considered the most important part of the Red Bull team he took charge of last summer, and they were the ones he listened to and the ones he prioritised getting in the right place over the last 12 months as he plotted their return to the top.",
-   "url": "https://www.formula1.com/en/latest/article/how-mekies-has-already-made-his-mark-at-red-bull-and-why-the-teams-future-looks-safe-in-his-hands.4Z7kqYHKxjyWTKVxQDFgfk",
-   "date": "2026-10-17T08:45:16.017Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-17T08:46:16.017Z"
-  },
-  {
-   "title": "Lando Norris warnt: McLaren ist aktuell \"das schlechteste der vier Topteams\"",
-   "summary": "Lando Norris sieht McLaren aktuell am Ende der Spitzengruppe - Teamchef Andrea Stella kündigt für den Saisonendspurt noch einmal einige Updates für den MCL40 an",
-   "url": "https://www.formel1.de/nc/149400",
-   "date": "2026-10-17T08:22:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Technik",
    "firstSeen": "2026-10-17T08:46:16.017Z"
   }
  ]
