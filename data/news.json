@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T13:02:41.434Z",
+ "updatedAt": "2026-10-21T14:50:49.309Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,50 @@
   }
  },
  "items": [
+  {
+   "title": "How F1 drivers and strategists tackle the Circuit of The Americas",
+   "summary": "In Formula 1, performance is decided in moments where conditions change instantly, and decisions carry consequence. The difference isn’t just speed – it’s perspective.",
+   "url": "https://www.formula1.com/en/latest/article/the-risk-perspective-how-f1-drivers-engineers-and-strategists-tackle-the-circuit-of-the-americas.741JHFwQ3tVxbddx0ndKXz",
+   "date": "2026-10-21T14:50:49.297Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-21T14:50:49.297Z"
+  },
+  {
+   "title": "Horner über Abu Dhabi 2021: Natürlich haben wir Masi unter Druck gesetzt",
+   "summary": "Christian Horner spricht über das kontroverse Saisonfinale 2021 in Abu Dhabi und erklärt, wie es dazu kam, dass Red Bull Rennleiter Michael Masi unter Druck setzte",
+   "url": "https://www.formel1.de/nc/149445",
+   "date": "2026-10-21T14:24:38.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-21T14:50:49.297Z"
+  },
+  {
+   "title": "Was der Hockenheimring für ein Formel-1-Comeback tun müsste",
+   "summary": "Ein Formel-1-Comeback in Hockenheim wäre kostspielig, doch unter bestimmten Umständen könnte die Rennstrecke schon kurzfristig wieder einspringen",
+   "url": "https://www.formel1.de/nc/149444",
+   "date": "2026-10-21T13:32:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-21T14:50:49.297Z"
+  },
   {
    "title": "Vesti on the unusual way he became a Mercedes Junior driver",
    "summary": "In the latest episode of official podcast F1 Beyond the Grid, Mercedes’ Third Driver Fred Vesti has opened up about his ‘very different’ approach to joining the team.",
@@ -86,7 +130,7 @@
    "firstSeen": "2026-10-21T13:02:41.305Z"
   },
   {
-   "title": "Mercedes unter Druck: Warum die Formel 1 plötzlich wieder völlig offen ist",
+   "title": "Mercedes warnt vor Red Bull und Ferrari: \"Ein echter Kampf\" steht bevor",
    "summary": "Mercedes führt die Formel-1-WM 2026 deutlich an, doch die Konkurrenz holt auf - und das jüngste Update des W17 sorgt intern für zusätzliche Fragezeichen",
    "url": "https://www.formel1.de/nc/149441",
    "date": "2026-10-21T10:54:56.000Z",
@@ -95,7 +139,9 @@
    "lang": "de",
    "drivers": [],
    "teams": [
-    "mercedes"
+    "mercedes",
+    "red_bull",
+    "ferrari"
    ],
    "team": "mercedes",
    "category": "Technik",
@@ -911,56 +957,6 @@
    "team": "mercedes",
    "category": "Technik",
    "firstSeen": "2026-10-19T10:49:27.268Z"
-  },
-  {
-   "title": "HRC-Präsident exklusiv: Darum läuft es bei Honda so schlecht!",
-   "summary": "In einem exklusiven Interview hat HRC-Präsident Koji Watanbe einen Einblick gegeben, warum Honda so desaströs zurück in die Formel 1 gekommen ist",
-   "url": "https://www.formel1.de/nc/149410",
-   "date": "2026-10-19T08:29:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-19T08:56:24.226Z"
-  },
-  {
-   "title": "Gibt es ein Vertrauensproblem zwischen Lewis Hamilton und Ferrari?",
-   "summary": "Nachdem sich Lewis Hamilton bei der Strategie in Singapur erneut gegen sein Team stellte, sehen mehrere Experten interne Schwierigkeiten bei der Scuderia",
-   "url": "https://www.formel1.de/nc/149409",
-   "date": "2026-10-19T07:19:49.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-19T08:56:24.226Z"
-  },
-  {
-   "title": "Max Verstappen: Bei Unterschrift schon von Red-Bull-Siegupdate gewusst?",
-   "summary": "Red Bull hat seit Baku einen gewaltigen Schritt nach vorne gemacht, doch die Verlängerung von Max Verstappen hatte laut ihm und dem Team andere Gründe",
-   "url": "https://www.formel1.de/nc/149408",
-   "date": "2026-10-19T05:53:48.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-19T07:08:16.144Z"
   }
  ]
 }
