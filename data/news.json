@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T04:49:28.842Z",
+ "updatedAt": "2026-10-21T07:04:14.016Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,20 @@
   }
  },
  "items": [
+  {
+   "title": "FIA-Präsident: Lage in Katar und Abu Dhabi ist völlig unbedenklich",
+   "summary": "Laut FIA-Präsident Mohammed bin Sulayem kann die Formel 1 nach aktuellem Stand problemlos ihre letzten beiden Saisonrennen in Katar und Abu Dhabi fahren",
+   "url": "https://www.formel1.de/nc/149437",
+   "date": "2026-10-21T06:28:41.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-10-21T07:04:13.992Z"
+  },
   {
    "title": "Mercedes: \"Leute, die seit 15 Jahren keinen Boxenstopp gemacht hatten\"",
    "summary": "Da der vollgepackte Formel-1-Kalender den Mitarbeitern aktuell zusetzt, musste Mercedes bei den Boxenstopps in Singapur auf einige Ersatzleute zurückgreifen",
@@ -949,20 +963,6 @@
    "team": "mclaren",
    "category": "Technik",
    "firstSeen": "2026-10-17T08:46:16.017Z"
-  },
-  {
-   "title": "Übersicht: Die Rennleiter der Formel 1",
-   "summary": "Die Vorgänger von Rui Marques als Rennleiter der Formel 1: Welche Motorsport-Funktionäre seit 1988 den Rennbetrieb der \"Königsklasse\" verantwortet haben",
-   "url": "https://www.formel1.de/nc/140991",
-   "date": "2026-10-17T06:13:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-17T06:57:16.494Z"
   }
  ]
 }
