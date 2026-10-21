@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T08:53:15.976Z",
+ "updatedAt": "2026-10-21T10:50:31.042Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,56 @@
  },
  "items": [
   {
-   "title": "Horner stellt klar: Habe mich bei Ferrari nicht selbst ins Spiel gebracht",
+   "title": "How to stream the 2026 United States Grand Prix on F1 TV Premium",
+   "summary": "Here is all the information you need to follow the United States Grand Prix weekend live on F1 TV.",
+   "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-united-states-grand-prix-on-f1-tv-premium.1znJHvmSyYCxSTBDenzXtC",
+   "date": "2026-10-21T10:50:30.754Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-21T10:50:30.754Z"
+  },
+  {
+   "title": "Mercedes show off special United States Grand Prix livery",
+   "summary": "Mercedes have become the latest team to present a revised, one-off livery for this weekend’s United States Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/gallery-mercedes-show-off-special-livery-for-united-states-grand-prix-weekend.56I955QMPnrmCAzO1hQdpu",
+   "date": "2026-10-21T10:49:30.754Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-21T10:50:30.754Z"
+  },
+  {
+   "title": "Max Verstappen über Isack Hadjar: Ist er für Red Bull der Mann für die Zukunft?",
+   "summary": "Verstappen fährt nicht ewig für Red Bull - seinem jungen Teamkollegen Isack Hadjar traut der Weltmeister zu, eines Tages seine Rolle im Team zu übernehmen",
+   "url": "https://www.formel1.de/nc/149440",
+   "date": "2026-10-21T10:29:32.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "hadjar"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-21T10:50:30.754Z"
+  },
+  {
+   "title": "Christian Horner: Habe mich bei Ferrari nicht selbst ins Spiel gebracht!",
    "summary": "Christian Horner stellt klar, wie er seine Aussagen über Ferrari wirklich gemeint hat - Es sei nie sein Ziel gewesen, den Job von Frederic Vasseur zu übernehmen",
    "url": "https://www.formel1.de/nc/149439",
    "date": "2026-10-21T08:41:04.000Z",
@@ -911,54 +960,6 @@
    "team": null,
    "category": "Regeln",
    "firstSeen": "2026-10-18T06:56:13.288Z"
-  },
-  {
-   "title": "Leclerc erklärt: Warum die 2026er-Regeln seinen Fahrstil ausbremsen",
-   "summary": "Charles Leclerc erklärt, warum ihn sein Fahrstil in der Formel 1 2026 Zeit kostet und weshalb die komplexe Ferrari-Technik gerade im Qualifying Probleme macht",
-   "url": "https://www.formel1.de/nc/149402",
-   "date": "2026-10-17T14:33:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Regeln",
-   "firstSeen": "2026-10-17T14:43:22.410Z"
-  },
-  {
-   "title": "Lewis Hamilton lobt F1-Entscheidung für Afrika: \"Der wichtigste Kontinent\"",
-   "summary": "Die Formel 1 plant ihre Afrika-Rückkehr in Ruanda: Lewis Hamilton ist begeistert, doch ein entscheidender Punkt könnte seinen persönlichen Traum gefährden",
-   "url": "https://www.formel1.de/nc/149401",
-   "date": "2026-10-17T11:49:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-17T12:52:42.577Z"
-  },
-  {
-   "title": "Rwanda will write a new chapter in Africa’s rich F1 heritage",
-   "summary": "The bold new Rwanda agreement has finally opened the way for a crucial continent to write a completely new chapter in its great F1 history, writes F1 Hall of Fame journalist David Tremayne.",
-   "url": "https://www.formula1.com/en/latest/article/rwanda-will-write-a-new-chapter-in-africas-rich-f1-heritage.7If5jA3uz9KtpTP3lzoCrk",
-   "date": "2026-10-17T08:46:16.017Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-17T08:46:16.017Z"
   }
  ]
 }
