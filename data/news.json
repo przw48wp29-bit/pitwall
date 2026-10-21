@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T20:50:40.146Z",
+ "updatedAt": "2026-10-21T04:49:28.842Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Mercedes: \"Leute, die seit 15 Jahren keinen Boxenstopp gemacht hatten\"",
+   "summary": "Da der vollgepackte Formel-1-Kalender den Mitarbeitern aktuell zusetzt, musste Mercedes bei den Boxenstopps in Singapur auf einige Ersatzleute zurückgreifen",
+   "url": "https://www.formel1.de/nc/149436",
+   "date": "2026-10-21T04:31:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Business",
+   "firstSeen": "2026-10-21T04:49:28.814Z"
+  },
   {
    "title": "Isack Hadjar: Sprintrennen haben nur etwas mit \"Glück\" zu tun",
    "summary": "Isack Hadjar ist kein Fan von Sprintrennen (mehr) - Der Red-Bull-Pilot erklärt, warum er sich an Sprint-Wochenenden in diesem Jahr unglaublich schwergetan hat",
@@ -947,25 +963,6 @@
    "team": null,
    "category": "News",
    "firstSeen": "2026-10-17T06:57:16.494Z"
-  },
-  {
-   "title": "Ralf Schumacher: Warum Audi langfristig einen anderen Fahrer braucht",
-   "summary": "Nico Hülkenberg und Gabriel Bortoleto leisten bei Audi Aufbauarbeit, doch für den letzten Schritt an die Spitze hat Ralf Schumacher eine andere Vorstellung",
-   "url": "https://www.formel1.de/nc/149399",
-   "date": "2026-10-16T17:03:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hulkenberg",
-    "bortoleto"
-   ],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "News",
-   "firstSeen": "2026-10-16T18:54:33.734Z"
   }
  ]
 }
