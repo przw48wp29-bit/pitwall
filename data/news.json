@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T18:58:31.603Z",
+ "updatedAt": "2026-10-21T20:50:33.922Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Ferrari latest team to unveil special livery for US GP",
+   "summary": "Ferrari have become the latest F1 team to unveil a special livery design for the United States Grand Prix weekend.",
+   "url": "https://www.formula1.com/en/latest/article/gallery-ferrari-become-latest-team-to-unveil-special-livery-for-united-states-grand-prix.4EbG3ECmHt6RxHQYeFPkvD",
+   "date": "2026-10-21T20:50:33.793Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-21T20:50:33.793Z"
+  },
   {
    "title": "Our early Bet Builder for the United States Grand Prix",
    "summary": "Our expert betting writers have picked a four-leg Bet Builder for the Circuit of the Americas, including a podium finish, two top-six hopefuls and a points bet.",
@@ -936,22 +952,6 @@
    "team": null,
    "category": "News",
    "firstSeen": "2026-10-19T14:54:00.901Z"
-  },
-  {
-   "title": "Fornaroli set for McLaren FP1 runs after latest F1 test",
-   "summary": "Leonardo Fornaroli will return to the wheel of McLaren’s MCL40 over the coming weeks, with his next practice outings being planned at the Mexico City and Sao Paulo Grands Prix.",
-   "url": "https://www.formula1.com/en/latest/article/fornaroli-set-for-mexico-and-brazil-fp1-outings-after-latest-f1-test-with-mclaren.6Dl7GZP5nn2RmmI0ZSeGlE",
-   "date": "2026-10-19T13:02:13.474Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-19T13:02:13.474Z"
   }
  ]
 }
