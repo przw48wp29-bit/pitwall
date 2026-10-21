@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T14:50:49.309Z",
+ "updatedAt": "2026-10-21T16:51:02.905Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,80 @@
   }
  },
  "items": [
+  {
+   "title": "Aston Martin reveal special livery for United States Grand Prix",
+   "summary": "The Aston Martin AMR26 will sport a different look at the United States Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/gallery-aston-martin-reveal-special-livery-for-united-states-grand-prix.54xJBwPZxuLxE2ON1Oh2bi",
+   "date": "2026-10-21T16:51:02.890Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "Rennen",
+   "firstSeen": "2026-10-21T16:51:02.890Z"
+  },
+  {
+   "title": "The F1 Fantasy Strategist on the US, Mexico and Brazil",
+   "summary": "From the high-speed sweeps of COTA to the thin air of Mexico City and the compact chaos of Interlagos, which drivers and teams deserve a place in your F1 Fantasy line-up?",
+   "url": "https://www.formula1.com/en/latest/article/f1-fantasy-strategist-preview-the-alpine-mini-league-and-what-you-need-to-know-for-the-us-mexico-and-brazil.5PalKAaeXaGqR6yYGvubuO",
+   "date": "2026-10-21T16:50:02.890Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-21T16:51:02.890Z"
+  },
+  {
+   "title": "Match the grid for your chance to win the ultimate F1 experience",
+   "summary": "Get race ready for your chance to win the ultimate F1 experience. Think you've got the speed, focus and memory to take on the grid?",
+   "url": "https://www.formula1.com/en/latest/article/match-the-grid-for-your-chance-to-win-the-ultimate-f1-experience-week5.2t2L2pj3NSCwiiwQiom4sv",
+   "date": "2026-10-21T16:49:02.890Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-21T16:51:02.890Z"
+  },
+  {
+   "title": "Kritik an Charles Leclerc: \"Macht irgendwelche sinnlosen Sachen\"",
+   "summary": "Laut Experte Ralf Schumacher ist die Fehlerquote bei Charles Leclerc zu hoch - Der Monegasse wolle \"mit Gewalt schnell sein\" und mache dadurch vermeidbare Fehler",
+   "url": "https://www.formel1.de/nc/149447",
+   "date": "2026-10-21T16:16:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-21T16:51:02.890Z"
+  },
+  {
+   "title": "Warum Honda seine Formel-1-Ingenieure immer wieder austauscht",
+   "summary": "Honda versetzt Formel-1-Ingenieure in andere Konzernbereiche: Warum der Hersteller trotz Schwierigkeiten an diesem ungewöhnlichen System festhält",
+   "url": "https://www.formel1.de/nc/149446",
+   "date": "2026-10-21T15:09:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-21T16:51:02.890Z"
+  },
   {
    "title": "How F1 drivers and strategists tackle the Circuit of The Americas",
    "summary": "In Formula 1, performance is decided in moments where conditions change instantly, and decisions carry consequence. The difference isn’t just speed – it’s perspective.",
@@ -874,89 +948,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-10-19T13:02:13.474Z"
-  },
-  {
-   "title": "So haben die Formel-1-Teams in ihrer Debütsaison abgeschnitten",
-   "summary": "Wir zeigen, wo Ferrari, Red Bull, McLaren und alle anderen aktuellen Formel-1-Rennställe am Ende ihrer jeweils ersten Saison in der Königsklasse gelandet sind",
-   "url": "https://www.formel1.de/nc/149414",
-   "date": "2026-10-19T12:53:38.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull",
-    "ferrari",
-    "mclaren"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-19T13:02:13.474Z"
-  },
-  {
-   "title": "Adrian Newey: Wiederholt sich die Geschichte bei Aston Martin?",
-   "summary": "Christian Horner erinnert sich, als Red Bull für einige von Adrian Neweys Ideen noch nicht bereit war - Bis zu einem gewissen Grad sieht er bei Aston Martin dasselbe",
-   "url": "https://www.formel1.de/nc/149413",
-   "date": "2026-10-19T11:58:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "aston_martin",
-    "red_bull"
-   ],
-   "team": "aston_martin",
-   "category": "News",
-   "firstSeen": "2026-10-19T13:02:13.474Z"
-  },
-  {
-   "title": "Mit Hypercar-Programm: Leonardo Fornaroli auch 2027 McLaren-Ersatzfahrer",
-   "summary": "Formel-2-Champion Leonardo Fornaroli bleibt auch 2027 Ersatzfahrer bei McLaren, bekommt aber zudem noch eine Rolle im neuen Hypercar-Programm spendiert",
-   "url": "https://www.formel1.de/nc/149412",
-   "date": "2026-10-19T11:04:49.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-10-19T13:02:13.474Z"
-  },
-  {
-   "title": "How Verstappen fared in his Portimão GT outing",
-   "summary": "Max Verstappen and Valentino Rossi were both in action as the 2026 GT World Challenge Europe season reached its conclusion at the Autodromo Internacional do Algarve (Portimão) in Portugal.",
-   "url": "https://www.formula1.com/en/latest/article/how-verstappen-fared-at-the-2026-gt-world-challenge-europe-finale-in-portimao.5O77rYx7pX1NyW2AgSRTqm",
-   "date": "2026-10-19T10:49:27.268Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-19T10:49:27.268Z"
-  },
-  {
-   "title": "Warum das Mercedes-Upgrade das Auto schwerer zu fahren macht",
-   "summary": "Die jüngsten Mercedes-Upgrades brachten den zusätzlichen Abtrieb, den das Team sich erhofft hatte - Das Paket ist jedoch nicht unter allen Bedingungen konstant",
-   "url": "https://www.formel1.de/nc/149411",
-   "date": "2026-10-19T09:41:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Technik",
-   "firstSeen": "2026-10-19T10:49:27.268Z"
   }
  ]
 }
