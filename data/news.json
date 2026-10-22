@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T04:30:31.602Z",
+ "updatedAt": "2026-10-22T07:05:31.836Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,24 @@
   }
  },
  "items": [
+  {
+   "title": "Michael Schumacher 2006: Eine letzte Aufholjagd, die in Erinnerung blieb",
+   "summary": "Fernando Alonso wurde 2006 in Brasilien Weltmeister, Michael Schumacher kämpfte bei seinem Ferrari-Abschied nach einem frühen Rückschlag um jeden Platz",
+   "url": "https://www.formel1.de/nc/149450",
+   "date": "2026-10-22T06:39:39.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-10-22T07:05:31.823Z"
+  },
   {
    "title": "Marcin Budkowski: So hilft ihm sein ehemaliger Job als TV-Experte",
    "summary": "Marcin Budkowski ist seit einigen Monaten Teamchef bei Cadillac - Der Pole verrät, wie ihm unter anderem seine vorherige Rolle als TV-Experte beim neuen Job hilft",
@@ -940,20 +958,6 @@
    "team": "haas",
    "category": "Rennen",
    "firstSeen": "2026-10-19T14:54:00.901Z"
-  },
-  {
-   "title": "Formel-1-Strafpunkte 2026: Die aktuelle Übersicht der Strafen",
-   "summary": "In unserer Übersicht der Formel-1-Strafpunkte zeigen wir dir den aktuellen Stand und wer eine Weisse Weste hat oder kurz vor einer Rennsperre steht",
-   "url": "https://www.formel1.de/nc/146577",
-   "date": "2026-10-19T14:24:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
-   "firstSeen": "2026-10-18T14:44:00.991Z"
   }
  ]
 }
