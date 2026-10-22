@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T08:55:09.438Z",
+ "updatedAt": "2026-10-22T10:50:00.944Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,24 @@
   }
  },
  "items": [
+  {
+   "title": "Kimi Antonelli vor Formel-1-Titel: Diese Angewohnheit überrascht",
+   "summary": "Kimi Antonelli kann in Austin Formel-1-Weltmeister werden - Abseits der Strecke überrascht der Mercedes-Pilot mit einer bodenständigen Angewohnheit",
+   "url": "https://www.formel1.de/nc/149452",
+   "date": "2026-10-22T09:45:21.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-22T10:50:00.929Z"
+  },
   {
    "title": "Facts, stats and trivia ahead of the 2026 United States GP",
    "summary": "As F1 heads to the Circuit of The Americas for the United States Grand Prix, Need to Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
@@ -54,7 +72,7 @@
    "firstSeen": "2026-10-22T08:55:09.416Z"
   },
   {
-   "title": "Ferrari überrascht mit Sonderdesign: Was hinter der neuen Folierung steckt",
+   "title": "Ferrari macht das Unsichtbare sichtbar: Neues Design für Hamilton und Leclerc",
    "summary": "Ferrari tritt beim Formel-1-Rennen in Austin mit einer Sonderlackierung an: Das Design der Autos von Hamilton und Leclerc hat einen ungewöhnlichen Hintergrund",
    "url": "https://www.formel1.de/nc/149451",
    "date": "2026-10-22T07:55:02.000Z",
@@ -73,7 +91,7 @@
    "firstSeen": "2026-10-22T08:55:09.416Z"
   },
   {
-   "title": "Michael Schumacher 2006: Eine letzte Aufholjagd, die in Erinnerung blieb",
+   "title": "Ferrari-Abschied 2006: Was im letzten Rennen von \"Schumi\" passierte",
    "summary": "Fernando Alonso wurde 2006 in Brasilien Weltmeister, Michael Schumacher kämpfte bei seinem Ferrari-Abschied nach einem frühen Rückschlag um jeden Platz",
    "url": "https://www.formel1.de/nc/149450",
    "date": "2026-10-22T06:39:39.000Z",
@@ -86,8 +104,8 @@
    "teams": [
     "ferrari"
    ],
-   "team": "aston_martin",
-   "category": "News",
+   "team": "ferrari",
+   "category": "Rennen",
    "firstSeen": "2026-10-22T07:05:31.823Z"
   },
   {
@@ -933,24 +951,6 @@
     "haas"
    ],
    "team": "haas",
-   "category": "News",
-   "firstSeen": "2026-10-19T16:52:20.012Z"
-  },
-  {
-   "title": "Gabriel Bortoleto exklusiv: Will mit Audi irgendwann WM-Titel gewinnen",
-   "summary": "Gabriel Bortoleto glaubt, dass Audi ein Siegerteam werden kann - Seine ehemaligen Rivalen aus der Nachwuchszeit feiern in der Formel 1 aktuell noch grössere Erfolge",
-   "url": "https://www.formel1.de/nc/149418",
-   "date": "2026-10-19T16:44:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bortoleto"
-   ],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
    "category": "News",
    "firstSeen": "2026-10-19T16:52:20.012Z"
   }
