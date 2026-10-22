@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T18:58:15.228Z",
+ "updatedAt": "2026-10-22T20:48:39.062Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,112 @@
   }
  },
  "items": [
+  {
+   "title": "Clinching maiden F1 title 'would be a dream' – Antonelli",
+   "summary": "Kimi Antonelli admits that claiming his maiden Formula 1 title this weekend in the United States Grand Prix \"would be a dream\", but that he will need a \"perfect weekend\" in order to achieve the feat.",
+   "url": "https://www.formula1.com/en/latest/article/it-would-be-a-dream-antonelli-targets-perfect-weekend-in-austin-to-claim-maiden-f1-title.39LQkTCcrGsLcfcPGgd4ud",
+   "date": "2026-10-22T20:48:39.044Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-22T20:48:39.044Z"
+  },
+  {
+   "title": "Hadjar insists Red Bull don’t have ‘the fastest car’",
+   "summary": "Isack Hadjar has downplayed Red Bull’s place in the pecking order after his team mate Max Verstappen won the last two races.",
+   "url": "https://www.formula1.com/en/latest/article/i-dont-think-we-have-the-fastest-car-hadjar-highlights-red-bulls-weaknesses-ahead-of-united-states-gp.2ttdHRoEEAi7hCQCc5mABd",
+   "date": "2026-10-22T20:47:39.044Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hadjar",
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-22T20:48:39.044Z"
+  },
+  {
+   "title": "Sainz skeptisch: Formel 1 kann Finale im Nahen Osten noch nicht garantieren",
+   "summary": "Die Formel 1 plant weiter mit einem Saisonfinale in Katar und Abu Dhabi, doch Carlos Sainz ist alles andere als überzeugt: Was den Williams-Piloten aktuell noch stört",
+   "url": "https://www.formel1.de/nc/149467",
+   "date": "2026-10-22T20:38:25.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "sainz"
+   ],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "News",
+   "firstSeen": "2026-10-22T20:48:39.044Z"
+  },
+  {
+   "title": "Weltmeister mit Audi? Bortoleto träumt vom Märchen mit den vier Ringen",
+   "summary": "Anstatt sich auf dem Markt nach anderen Optionen umzuschauen, zeigt sich Gabriel Bortoleto felsenfest vom Audi-Formel-1-Projekt überzeugt",
+   "url": "https://www.formel1.de/nc/149466",
+   "date": "2026-10-22T20:02:15.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bortoleto"
+   ],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-10-22T20:48:39.044Z"
+  },
+  {
+   "title": "Ocon: Camara verdient seine Chance, aber \"ich gehöre 2027 in die Formel 1\"",
+   "summary": "Esteban Ocon muss Haas nach der Saison 2026 verlassen, glaubt aber weiter an seine Zukunft in der Formel 1 und erklärt, warum er sein Aus nicht selbst verschuldet sieht",
+   "url": "https://www.formel1.de/nc/149465",
+   "date": "2026-10-22T19:39:47.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "ocon"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "News",
+   "firstSeen": "2026-10-22T20:48:39.044Z"
+  },
+  {
+   "title": "Keine Angst vor Max Verstappen? Isack Hadjar schätzt sich \"glücklich\"",
+   "summary": "Isack Hadjar erklärt im offiziellen Podcast der Formel 1, wo genau die Stärken seines Teamkollegen Max Verstappen liegen und weshalb er so schwer zu schlagen ist",
+   "url": "https://www.formel1.de/nc/149464",
+   "date": "2026-10-22T19:10:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "hadjar"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-22T20:48:39.044Z"
+  },
   {
    "title": "When Taylor Swift performed at the United States GP weekend",
    "summary": "Ten years have passed since Taylor Swift performed her only show of 2016 in front of 80,000 Formula 1 fans at the United States Grand Prix in Austin, Texas.",
@@ -852,101 +958,6 @@
    "team": "rb",
    "category": "Transfer",
    "firstSeen": "2026-10-20T16:49:32.274Z"
-  },
-  {
-   "title": "Why Red Bull and Audi’s floor stay trick is banned for 2027",
-   "summary": "Mark Hughes explains how a floor stay exemption has allowed Red Bull and Audi to run sharper sidepod undercuts in 2026 – and how the FIA’s rule change will curb the benefit from 2027.",
-   "url": "https://www.formula1.com/en/latest/article/the-floor-stay-loophole-behind-red-bull-and-audis-sidepods-and-why-it-is-being-closed-for-2027.4rwr2rImgcIIHLCLed473w",
-   "date": "2026-10-20T16:46:32.274Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "red_bull",
-    "audi"
-   ],
-   "team": "red_bull",
-   "category": "Regeln",
-   "firstSeen": "2026-10-20T16:49:32.274Z"
-  },
-  {
-   "title": "Cadillac fährt in Austin mit Upgrades, Sonderlackierung und Colton Herta",
-   "summary": "Cadillac plant für das Heimrennen in Austin einige Updates für den MAC-26 - Zudem gibt es ein Sonderdesign und Lokalmatador Colton Herta wird in FT1 fahren",
-   "url": "https://www.formel1.de/nc/149433",
-   "date": "2026-10-20T16:02:09.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "Technik",
-   "firstSeen": "2026-10-20T16:49:32.274Z"
-  },
-  {
-   "title": "Max Verstappen: Red-Bull-Probleme in diesem Jahr ganz andere als 2025",
-   "summary": "Max Verstappen spricht über die Red-Bull-Probleme im vergangenen und in diesem Jahr und erklärt, warum man die beiden Saisons nicht miteinander vergleichen kann",
-   "url": "https://www.formel1.de/nc/149432",
-   "date": "2026-10-20T15:16:03.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-20T16:49:32.274Z"
-  },
-  {
-   "title": "The 5 drivers most likely to win the United States GP",
-   "summary": "We look at the betting markets to predict the five most likely drivers to win at the Circuit of the Americas.",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-united-states-grand-prix-according-to-the-betting-markets.3OhZRS9hatUzoRjV2rDe4m",
-   "date": "2026-10-20T14:51:35.405Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-20T14:51:35.405Z"
-  },
-  {
-   "title": "So wird das Wetter beim Grand Prix der USA in Austin",
-   "summary": "Die aktuelle Wettervorschau für das 18. Rennwochenende der Formel-1-Saison 2026, den Grand Prix der USA auf dem Circuit of The Americas bei Austin",
-   "url": "https://www.formel1.de/nc/123255",
-   "date": "2026-10-20T13:55:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-20T14:51:35.405Z"
-  },
-  {
-   "title": "What could ‘formidable’ Red Bull achieve after resurgence?",
-   "summary": "In the latest episode of official podcast, F1 Nation, Jolyon Palmer and Alex Jacques discuss how Red Bull can build on their impressive turnaround in the future.",
-   "url": "https://www.formula1.com/en/latest/article/i-dont-see-a-weakness-what-could-formidable-red-bull-achieve-after-massive-resurgence.5qNK8tS9Gi6aw3lCdaBGz3",
-   "date": "2026-10-20T13:01:55.265Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-20T13:01:55.265Z"
   }
  ]
 }
