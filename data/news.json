@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T22:48:09.831Z",
+ "updatedAt": "2026-10-22T04:30:31.602Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Marcin Budkowski: So hilft ihm sein ehemaliger Job als TV-Experte",
+   "summary": "Marcin Budkowski ist seit einigen Monaten Teamchef bei Cadillac - Der Pole verrät, wie ihm unter anderem seine vorherige Rolle als TV-Experte beim neuen Job hilft",
+   "url": "https://www.formel1.de/nc/149449",
+   "date": "2026-10-22T04:21:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "Rennen",
+   "firstSeen": "2026-10-22T04:30:31.601Z"
+  },
   {
    "title": "Ferrari become latest team to unveil special livery for US GP",
    "summary": "Ferrari have become the latest F1 team to unveil a special livery design for the United States Grand Prix weekend.",
@@ -938,20 +954,6 @@
    "team": null,
    "category": "Regeln",
    "firstSeen": "2026-10-18T14:44:00.991Z"
-  },
-  {
-   "title": "Horner fordert Umdenken: \"Teams geben 500 oder 600 Millionen Dollar aus\"",
-   "summary": "Die Formel 1 setzt seit 2021 auf eine Budgetobergrenze, die derzeit bei 215 Millionen US-Dollar (rund 192 Millionen Euro) zuzüglich weiterer Ausgaben angesetzt ist",
-   "url": "https://www.formel1.de/nc/149415",
-   "date": "2026-10-19T14:03:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-19T14:54:00.901Z"
   }
  ]
 }
