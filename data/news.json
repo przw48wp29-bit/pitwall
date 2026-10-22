@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T14:51:30.433Z",
+ "updatedAt": "2026-10-22T16:51:04.016Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,86 @@
   }
  },
  "items": [
+  {
+   "title": "Slater to make FP1 debut with Audi in Mexico City and Sao Paulo",
+   "summary": "Freddie Slater will get behind the wheel of Audi's challenger for FP1 in Mexico City and Sao Paulo.",
+   "url": "https://www.formula1.com/en/latest/article/freddie-slater-to-make-f1-weekend-debut-with-fp1-outings-for-audi-in-mexico-city-and-sao-paulo.25wxy4YykefQKJRX5drRed",
+   "date": "2026-10-22T16:51:03.859Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "Rennen",
+   "firstSeen": "2026-10-22T16:51:03.859Z"
+  },
+  {
+   "title": "Christian Horner enthüllt: Lewis Hamilton wollte 2012 zu Red Bull wechseln",
+   "summary": "Lewis Hamilton bei Red Bull? Genau dieses Szenario hätte laut Christian Horner in der Saison 2013 eintreten können, wenn bestimmte Dinge anders gelaufen wären",
+   "url": "https://www.formel1.de/nc/149461",
+   "date": "2026-10-22T16:45:49.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-22T16:51:03.859Z"
+  },
+  {
+   "title": "Noch in diesem Jahr: Cadillac nennt Termin für Eröffnung der Motorenfabrik",
+   "summary": "General Motors macht beim eigenen Formel-1-Motor ernst und eröffnet im Dezember die neue Fabrik: Doch die Zukunft des Antriebs könnte kürzer ausfallen als gedacht",
+   "url": "https://www.formel1.de/nc/149460",
+   "date": "2026-10-22T16:37:54.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "News",
+   "firstSeen": "2026-10-22T16:51:03.859Z"
+  },
+  {
+   "title": "Formel-1-Technik: Wie OMP beim Anzug der Fahrer 600 Gramm Gewicht einspart",
+   "summary": "Ein moderner Formel-1-Rennanzug ist ein Hightech-Produkt: Hersteller OMP hat das Gewicht um 600 Gramm reduziert, ohne auf komplexe Designs verzichten zu müssen",
+   "url": "https://www.formel1.de/nc/149459",
+   "date": "2026-10-22T16:00:45.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Technik",
+   "firstSeen": "2026-10-22T16:51:03.859Z"
+  },
+  {
+   "title": "In Mexiko und Brasilien: Audi-Junior Freddie Slater feiert sein Formel-1-Debüt",
+   "summary": "Audi-Junior Freddie Slater feiert sein Formel-1-Debüt: Der Brite wird bei den Grands Prix von Mexiko und Sao Paulo jeweils im ersten Freien Training zum Einsatz kommen",
+   "url": "https://www.formel1.de/nc/149458",
+   "date": "2026-10-22T15:16:23.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "Rennen",
+   "firstSeen": "2026-10-22T16:51:03.859Z"
+  },
   {
    "title": "Think you're Fan1? Win a VIP trip to Las Vegas",
    "summary": "Think You're Fan1? Win a VIP Trip to the Las Vegas Grand Prix",
@@ -869,86 +949,6 @@
    "team": "haas",
    "category": "Transfer",
    "firstSeen": "2026-10-20T10:48:59.804Z"
-  },
-  {
-   "title": "Fernando Alonso versteigert exklusive Mitfahrt in Barcelona",
-   "summary": "Formel-1-Fahrer Fernando Alonso versteigert eine exklusive Mitfahrt auf dem Circuit de Barcelona-Catalunya - Erlös kommt auch eigener Stiftung zugute",
-   "url": "https://www.formel1.de/nc/149428",
-   "date": "2026-10-20T10:41:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "alonso"
-   ],
-   "teams": [],
-   "team": "aston_martin",
-   "category": "News",
-   "firstSeen": "2026-10-20T10:48:59.804Z"
-  },
-  {
-   "title": "Liam Lawson: Live-Konzert statt Renncockpit vor dem Austin-Wochenende",
-   "summary": "Liam Lawson wird vor dem Grand Prix in Texas am Wochenende auf der Bühne stehen und zusammen mit seinem Bruder und Freunden einen Live-Auftritt hinlegen",
-   "url": "https://www.formel1.de/nc/149427",
-   "date": "2026-10-20T10:02:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "lawson"
-   ],
-   "teams": [],
-   "team": "rb",
-   "category": "Rennen",
-   "firstSeen": "2026-10-20T10:48:59.804Z"
-  },
-  {
-   "title": "Mercedes: Neuer Hightech-Rennanzug feiert Premiere in Singapur",
-   "summary": "Mercedes setzte in Singapur auf neue Rennanzüge, die eine bessere Atmungsaktivität bieten sollen: Der Hersteller spricht vom atmungsaktivsten Anzug der Welt",
-   "url": "https://www.formel1.de/nc/149426",
-   "date": "2026-10-20T09:12:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-20T10:48:59.804Z"
-  },
-  {
-   "title": "Formel 1 zurück in Hockenheim? Die Streckenchefs im grossen Interview",
-   "summary": "Motorworld, neue Gebäude und die Hoffnung auf die Formel 1: Die Hockenheim-Chefs erklären, wie konkret ihre Pläne sind und welche Fragen noch offenbleiben",
-   "url": "https://www.formel1.de/nc/149425",
-   "date": "2026-10-20T08:03:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-20T08:52:14.603Z"
-  },
-  {
-   "title": "Sergio Perez betont: 2026 \"eines meiner besten Jahre\" in der Formel 1!",
-   "summary": "Sergio Perez sieht 2026 als eines seiner persönlich stärksten Jahre, auch wenn er mit Cadillac bislang keinen einzigen Punkt einfahren konnte",
-   "url": "https://www.formel1.de/nc/149424",
-   "date": "2026-10-20T07:09:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "perez"
-   ],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "News",
-   "firstSeen": "2026-10-20T08:52:14.603Z"
   }
  ]
 }
