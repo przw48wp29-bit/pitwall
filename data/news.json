@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T16:51:04.016Z",
+ "updatedAt": "2026-10-22T18:58:15.228Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,82 @@
   }
  },
  "items": [
+  {
+   "title": "When Taylor Swift performed at the United States GP weekend",
+   "summary": "Ten years have passed since Taylor Swift performed her only show of 2016 in front of 80,000 Formula 1 fans at the United States Grand Prix in Austin, Texas.",
+   "url": "https://www.formula1.com/en/latest/article/one-decade-later-when-taylor-swift-performed-her-only-show-of-2016-at-the-united-states-grand-prix.5H18UiePOW5yJGtH5VO2QA",
+   "date": "2026-10-22T18:58:15.211Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-22T18:58:15.211Z"
+  },
+  {
+   "title": "Best value early odds for the United States Grand Prix",
+   "summary": "We've assessed the latest betting markets and selected our pick of early bets offering the best value at the Circuit of the Americas.",
+   "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-united-states-grand-prix.ciFKUZjs5Sa2X1MAV5FNw",
+   "date": "2026-10-22T18:57:15.211Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-22T18:58:15.211Z"
+  },
+  {
+   "title": "LIVE COVERAGE: Build-up to the United States GP weekend",
+   "summary": "Live coverage of all the build-up ahead of the 2026 United States Grand Prix weekend in Austin.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-the-united-states-2026.6BoltSl8tjHdSh24FRtww5",
+   "date": "2026-10-22T18:56:15.211Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-22T18:58:15.211Z"
+  },
+  {
+   "title": "Sergio Perez: Meine Leistung als Fahrer ist \"wirklich erstklassig\", aber …",
+   "summary": "Die WM-Punkte fehlen Cadillac zwar noch, aber Sergio Perez sieht seine fahrerische Leistung als \"wirklich erstklassig\" an: Nur \"das Auto ist einfach noch zu weit weg\"",
+   "url": "https://www.formel1.de/nc/149463",
+   "date": "2026-10-22T18:42:56.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "perez"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "News",
+   "firstSeen": "2026-10-22T18:58:15.211Z"
+  },
+  {
+   "title": "Weltmeister Lando Norris droht die schlechteste Titelverteidigung seit 1997",
+   "summary": "Weltmeister Lando Norris droht in dieser Saison die schlechteste Titelverteidigung seit fast 30 Jahren, genauer gesagt seit 1997: Damals wurde Damon Hill nur Zwölfter",
+   "url": "https://www.formel1.de/nc/149462",
+   "date": "2026-10-22T17:42:28.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-10-22T18:58:15.211Z"
+  },
   {
    "title": "Slater to make FP1 debut with Audi in Mexico City and Sao Paulo",
    "summary": "Freddie Slater will get behind the wheel of Audi's challenger for FP1 in Mexico City and Sao Paulo.",
@@ -26,7 +102,7 @@
    "firstSeen": "2026-10-22T16:51:03.859Z"
   },
   {
-   "title": "Christian Horner enthüllt: Lewis Hamilton wollte 2012 zu Red Bull wechseln",
+   "title": "Christian Horner enthüllt: Lewis Hamilton wollte zu Red Bull wechseln",
    "summary": "Lewis Hamilton bei Red Bull? Genau dieses Szenario hätte laut Christian Horner in der Saison 2013 eintreten können, wenn bestimmte Dinge anders gelaufen wären",
    "url": "https://www.formel1.de/nc/149461",
    "date": "2026-10-22T16:45:49.000Z",
@@ -88,6 +164,20 @@
    "team": "audi",
    "category": "Rennen",
    "firstSeen": "2026-10-22T16:51:03.859Z"
+  },
+  {
+   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
+   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
+   "url": "https://www.formel1.de/nc/146408",
+   "date": "2026-10-22T15:15:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-10-20T16:49:32.274Z"
   },
   {
    "title": "Think you're Fan1? Win a VIP trip to Las Vegas",
@@ -797,20 +887,6 @@
    "firstSeen": "2026-10-20T16:49:32.274Z"
   },
   {
-   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
-   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
-   "url": "https://www.formel1.de/nc/146408",
-   "date": "2026-10-20T16:00:02.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Transfer",
-   "firstSeen": "2026-10-20T16:49:32.274Z"
-  },
-  {
    "title": "Max Verstappen: Red-Bull-Probleme in diesem Jahr ganz andere als 2025",
    "summary": "Max Verstappen spricht über die Red-Bull-Probleme im vergangenen und in diesem Jahr und erklärt, warum man die beiden Saisons nicht miteinander vergleichen kann",
    "url": "https://www.formel1.de/nc/149432",
@@ -871,84 +947,6 @@
    "team": "red_bull",
    "category": "News",
    "firstSeen": "2026-10-20T13:01:55.265Z"
-  },
-  {
-   "title": "Budgetobergrenze: FIA trennt Formel-1-Teams von anderen Projekten",
-   "summary": "Die FIA geht gegen Teams vor, die den Kostendeckel untergraben - In Zukunft muss ein Formel-1-Projekt komplett von allen anderen eines Unternehmens getrennt sein",
-   "url": "https://www.formel1.de/nc/149431",
-   "date": "2026-10-20T12:45:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
-   "firstSeen": "2026-10-20T13:01:55.265Z"
-  },
-  {
-   "title": "Auktion: Alpine-Formel-1-Auto von 2024 wird zum Sammlerstück",
-   "summary": "Ein in einem Formel-1-Rennen eingesetzter Getriebeträger aus einem Alpine-Auto wurde mit einem Heckflügel in Rennspezifikation in ein Sammlerstück verwandelt",
-   "url": "https://www.formel1.de/nc/149430",
-   "date": "2026-10-20T12:02:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "alpine"
-   ],
-   "team": "alpine",
-   "category": "Technik",
-   "firstSeen": "2026-10-20T13:01:55.265Z"
-  },
-  {
-   "title": "Expertin: Was der Funkausfall in Singapur über Max Verstappen verrät",
-   "summary": "Die ehemalige Formel-1-Strategin Bernie Collins lobt Max Verstappens Intelligenz, nachdem er den Grossen Preis von Singapur trotz eines Funkausfalls dominierte",
-   "url": "https://www.formel1.de/nc/149429",
-   "date": "2026-10-20T11:22:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-20T13:01:55.265Z"
-  },
-  {
-   "title": "How Marcin Budkowski is shaping Cadillac’s next chapter",
-   "summary": "Marcin Budkowski took over from Graeme Lowdon as Cadillac Team Principal in the summer, and has plenty on the agenda as he looks to develop F1's newest outfit.",
-   "url": "https://www.formula1.com/en/latest/article/exclusive-marcin-budkowski-on-shaping-cadillacs-next-chapter-creating-a-winning-culture-and-being-in-action-mode.MgVub5whPnC4Rn1VU5T1i",
-   "date": "2026-10-20T10:48:59.804Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "News",
-   "firstSeen": "2026-10-20T10:48:59.804Z"
-  },
-  {
-   "title": "Camara indicates the driver number he'd like to use in 2027",
-   "summary": "Rafael Camara has decided which driver number he’d like to race with in his rookie season with Haas.",
-   "url": "https://www.formula1.com/en/latest/article/new-haas-signing-camara-indicates-the-driver-number-hed-like-to-use-in-2027.2gYYicm5lswBpzkn5Wh2v0",
-   "date": "2026-10-20T10:47:59.804Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Transfer",
-   "firstSeen": "2026-10-20T10:48:59.804Z"
   }
  ]
 }
