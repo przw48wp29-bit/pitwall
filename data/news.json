@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T14:54:28.370Z",
+ "updatedAt": "2026-10-23T16:51:58.766Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Alonso über IndyCar in Barcelona: Warum er vor zu viel Expansion warnt",
+   "summary": "Fernando Alonso begrüsst die Rückkehr der IndyCar nach Europa, doch der Formel-1-Star warnt vor den Folgen einer zu starken internationalen Expansion",
+   "url": "https://www.formel1.de/nc/149485",
+   "date": "2026-10-23T16:29:24.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-10-23T16:51:58.649Z"
+  },
   {
    "title": "Can Alpine bounce back and take the P5 fight to Racing Bulls?",
    "summary": "Racing Bulls have built a 32-point advantage over Alpine in the fight for P5, but Pierre Gasly and Franco Colapinto believe there is still time to turn the tables.",
@@ -989,20 +1005,6 @@
    "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-10-21T20:50:33.793Z"
-  },
-  {
-   "title": "Our early Bet Builder for the United States Grand Prix",
-   "summary": "Our expert betting writers have picked a four-leg Bet Builder for the Circuit of the Americas, including a podium finish, two top-six hopefuls and a points bet.",
-   "url": "https://www.formula1.com/en/latest/article/our-early-bet-builder-selections-made-for-the-united-states-grand-prix.2kelGtDv9XOh9tWkKFeIV0",
-   "date": "2026-10-21T18:58:31.506Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-21T18:58:31.506Z"
   }
  ]
 }
