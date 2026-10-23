@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T04:29:52.306Z",
+ "updatedAt": "2026-10-23T08:51:44.761Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,112 @@
   }
  },
  "items": [
+  {
+   "title": "Crawford set for Mexico City FP1 outing with Aston Martin",
+   "summary": "Aston Martin have confirmed that Jak Crawford will drive the AMR26 during FP1 for the 2026 Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/crawford-set-for-mexico-city-fp1-outing-with-aston-martin.SpGxwvNGILiMifrzBTX7m",
+   "date": "2026-10-23T08:51:44.631Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "Rennen",
+   "firstSeen": "2026-10-23T08:51:44.631Z"
+  },
+  {
+   "title": "McLaren drivers 'still allowed to race' each other – Norris",
+   "summary": "Lando Norris has offered an update on McLaren's intra-team orders ahead of the United States Grand Prix, after the reigning World Champion and team mate Oscar Piastri collided at the previous round in Singapore.",
+   "url": "https://www.formula1.com/en/latest/article/still-allowed-to-race-norris-offers-update-on-mclarens-intra-team-orders-ahead-of-united-states-gp.5eqxhHMneE3tNGRKrqFBiW",
+   "date": "2026-10-23T08:50:44.631Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris",
+    "piastri"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Technik",
+   "firstSeen": "2026-10-23T08:51:44.631Z"
+  },
+  {
+   "title": "What could turn the race on its head in Austin?",
+   "summary": "After the lights go out in Austin, bettors will be watching closely to make smart betting decisions in real time.",
+   "url": "https://www.formula1.com/en/latest/article/what-could-turn-the-united-states-grand-prix-on-its-head.4SURbPtQtXjNmWRmbpJNOb",
+   "date": "2026-10-23T08:49:44.631Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-23T08:51:44.631Z"
+  },
+  {
+   "title": "Was Lewis Hamilton Antonelli vor dem Titelgewinn rät: \"Mach langsamer!\"",
+   "summary": "Kimi Antonelli steht vor seinem ersten Formel-1-WM-Titel, und Lando Norris zieht einen bemerkenswerten Vergleich zu Mercedes-Teamkollege George Russell",
+   "url": "https://www.formel1.de/nc/149473",
+   "date": "2026-10-23T08:32:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton",
+    "antonelli",
+    "norris",
+    "russell"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-23T08:51:44.631Z"
+  },
+  {
+   "title": "\"Schwachsinn!\": Leclerc kritisiert Hadjars Verstappen-Ferrari-Vergleich",
+   "summary": "Isack Hadjar ist überzeugt davon, dass Max Verstappen in Singapur in einem Ferrari noch weiter vorne gewesen wäre, für Charles Leclerc ist das jedoch \"Schwachsinn\"",
+   "url": "https://www.formel1.de/nc/149472",
+   "date": "2026-10-23T08:13:26.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc",
+    "max_verstappen",
+    "hadjar"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-23T08:51:44.631Z"
+  },
+  {
+   "title": "Mehr als 9 g: Warum Verstappen die Strecke in Austin für \"inakzeptabel\" hält",
+   "summary": "Max Verstappen kritisiert die Bodenwellen in Austin scharf und berichtet von extremen Belastungen für seinen Körper: Er fordert einen radikalen Streckenumbau",
+   "url": "https://www.formel1.de/nc/149471",
+   "date": "2026-10-23T07:02:19.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-23T08:51:44.631Z"
+  },
   {
    "title": "All the stories that got the Austin paddock talking",
    "summary": "Lawrence Barretto rounds up the big talking points to emerge during media day at the United States Grand Prix.",
@@ -876,100 +982,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-10-21T13:02:41.305Z"
-  },
-  {
-   "title": "What is the weather forecast for the United States Grand Prix?",
-   "summary": "The weather forecast is in ahead of the United States Grand Prix, which will be held at the Circuit of The Americas.",
-   "url": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2026-united-states-grand-prix.ol8Mla3euA6b0oGK4Vneg",
-   "date": "2026-10-21T13:00:41.305Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-21T13:02:41.305Z"
-  },
-  {
-   "title": "Red Bull setzt auf KI: Wie Oracle die Rennstrategie verändert",
-   "summary": "Red Bull nutzt gemeinsam mit Oracle künstliche Intelligenz für die Rennstrategie - in Monza 2025 zeigte sich, wie stark die Empfehlungen bereits eingreifen",
-   "url": "https://www.formel1.de/nc/149443",
-   "date": "2026-10-21T13:00:30.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-21T13:02:41.305Z"
-  },
-  {
-   "title": "McLaren: Austin \"wahrscheinlich eine bessere Strecke für unser Auto\"",
-   "summary": "Nachdem McLaren in den vergangenen drei Rennen ohne Podestplatz blieb, blickt das Weltmeisterteam etwas optimistischer auf den nächsten Grand Prix in den USA",
-   "url": "https://www.formel1.de/nc/149442",
-   "date": "2026-10-21T12:15:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-21T13:02:41.305Z"
-  },
-  {
-   "title": "Mercedes warnt vor Red Bull und Ferrari: \"Ein echter Kampf\" steht bevor",
-   "summary": "Mercedes führt die Formel-1-WM 2026 deutlich an, doch die Konkurrenz holt auf - und das jüngste Update des W17 sorgt intern für zusätzliche Fragezeichen",
-   "url": "https://www.formel1.de/nc/149441",
-   "date": "2026-10-21T10:54:56.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes",
-    "red_bull",
-    "ferrari"
-   ],
-   "team": "mercedes",
-   "category": "Technik",
-   "firstSeen": "2026-10-21T13:02:41.305Z"
-  },
-  {
-   "title": "How to stream the 2026 United States Grand Prix on F1 TV Premium",
-   "summary": "Here is all the information you need to follow the United States Grand Prix weekend live on F1 TV.",
-   "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-united-states-grand-prix-on-f1-tv-premium.1znJHvmSyYCxSTBDenzXtC",
-   "date": "2026-10-21T10:50:30.754Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-21T10:50:30.754Z"
-  },
-  {
-   "title": "Mercedes show off special United States Grand Prix livery",
-   "summary": "Mercedes have become the latest team to present a revised, one-off livery for this weekend’s United States Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/gallery-mercedes-show-off-special-livery-for-united-states-grand-prix-weekend.56I955QMPnrmCAzO1hQdpu",
-   "date": "2026-10-21T10:49:30.754Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-21T10:50:30.754Z"
   }
  ]
 }
