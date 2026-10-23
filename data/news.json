@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T12:59:43.875Z",
+ "updatedAt": "2026-10-23T14:54:28.370Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,72 @@
   }
  },
  "items": [
+  {
+   "title": "Can Alpine bounce back and take the P5 fight to Racing Bulls?",
+   "summary": "Racing Bulls have built a 32-point advantage over Alpine in the fight for P5, but Pierre Gasly and Franco Colapinto believe there is still time to turn the tables.",
+   "url": "https://www.formula1.com/en/latest/article/can-alpine-bounce-back-and-take-the-p5-fight-to-racing-bulls.6PEAFH06BcZUdo2HS4iEFB",
+   "date": "2026-10-23T14:54:28.228Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "gasly",
+    "colapinto"
+   ],
+   "teams": [
+    "rb",
+    "alpine"
+   ],
+   "team": "rb",
+   "category": "News",
+   "firstSeen": "2026-10-23T14:54:28.228Z"
+  },
+  {
+   "title": "Carlos Sainz: Zu viele Rennen könnten Fans F1-müde machen",
+   "summary": "Neun Grands Prix in elf Wochen: Carlos Sainz sieht die Formel 1 vor einer Grundsatzfrage und warnt vor Übersättigung und enormen Belastungen",
+   "url": "https://www.formel1.de/nc/149484",
+   "date": "2026-10-23T14:22:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "sainz"
+   ],
+   "teams": [],
+   "team": "williams",
+   "category": "Rennen",
+   "firstSeen": "2026-10-23T14:54:28.228Z"
+  },
+  {
+   "title": "Max Verstappen: So reagiert er auf das Buch von Christian Horner",
+   "summary": "Christian Horner blickt in seinem Buch auf die Vergangenheit zurück, Max Verstappen dagegen richtet den Blick nach vorne - und erklärt seine Haltung",
+   "url": "https://www.formel1.de/nc/149483",
+   "date": "2026-10-23T13:41:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-23T14:54:28.228Z"
+  },
+  {
+   "title": "Renaults ehemaliger F1-Motorenstandort: Unternehmen bietet Übernahme an",
+   "summary": "Renault gibt seinen traditionsreichen Formel-1-Motorenstandort Viry-Chatillon auf - Nun liegt ein Übernahmeangebot vor, doch die Zukunft der Mitarbeiter ist offen",
+   "url": "https://www.formel1.de/nc/149482",
+   "date": "2026-10-23T13:22:46.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-23T14:54:28.228Z"
+  },
   {
    "title": "Lewis Hamilton erklärt: Darum kam er in Singapur nicht zum Boxenstopp",
    "summary": "Lewis Hamilton räumt nach dem Singapur-Grand-Prix einen Strategiefehler ein: Warum er trotzdem auch künftig eigene Entscheidungen treffen möchte",
@@ -937,68 +1003,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-10-21T18:58:31.506Z"
-  },
-  {
-   "title": "Die grössten Formel-1-Flops: Diese 15 Rennwagen wurden zum Desaster",
-   "summary": "Selbst Ferrari, McLaren und Mercedes lagen bei der Entwicklung neuer Formel-1-Autos schon daneben: 15 Beispiele für besonders folgenreiche Fehlentwicklungen",
-   "url": "https://www.formel1.de/nc/149448",
-   "date": "2026-10-21T17:23:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes",
-    "ferrari",
-    "mclaren"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-21T18:58:31.506Z"
-  },
-  {
-   "title": "Aston Martin reveal special livery for United States Grand Prix",
-   "summary": "The Aston Martin AMR26 will sport a different look at the United States Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/gallery-aston-martin-reveal-special-livery-for-united-states-grand-prix.54xJBwPZxuLxE2ON1Oh2bi",
-   "date": "2026-10-21T16:51:02.890Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "aston_martin"
-   ],
-   "team": "aston_martin",
-   "category": "Rennen",
-   "firstSeen": "2026-10-21T16:51:02.890Z"
-  },
-  {
-   "title": "The F1 Fantasy Strategist on the US, Mexico and Brazil",
-   "summary": "From the high-speed sweeps of COTA to the thin air of Mexico City and the compact chaos of Interlagos, which drivers and teams deserve a place in your F1 Fantasy line-up?",
-   "url": "https://www.formula1.com/en/latest/article/f1-fantasy-strategist-preview-the-alpine-mini-league-and-what-you-need-to-know-for-the-us-mexico-and-brazil.5PalKAaeXaGqR6yYGvubuO",
-   "date": "2026-10-21T16:50:02.890Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-21T16:51:02.890Z"
-  },
-  {
-   "title": "Match the grid for your chance to win the ultimate F1 experience",
-   "summary": "Get race ready for your chance to win the ultimate F1 experience. Think you've got the speed, focus and memory to take on the grid?",
-   "url": "https://www.formula1.com/en/latest/article/match-the-grid-for-your-chance-to-win-the-ultimate-f1-experience-week5.2t2L2pj3NSCwiiwQiom4sv",
-   "date": "2026-10-21T16:49:02.890Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-21T16:51:02.890Z"
   }
  ]
 }
