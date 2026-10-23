@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T08:51:44.761Z",
+ "updatedAt": "2026-10-23T10:47:53.321Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,77 @@
   }
  },
  "items": [
+  {
+   "title": "Norris, Piastri, Russell: Wie Red Bull drei F1-Stars durch die Lappen gingen",
+   "summary": "Drei spätere Formel-1-Stars überzeugten einst im Red-Bull-Simulator, doch aus Norris, Piastri und Russell wurden keine Red-Bull-Junioren - warum eigentlich?",
+   "url": "https://www.formel1.de/nc/149477",
+   "date": "2026-10-23T10:43:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris",
+    "piastri",
+    "russell"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-23T10:47:53.304Z"
+  },
+  {
+   "title": "Antonelli vor erstem Matchball: \"Müssen den Job ordentlich zu Ende bringen\"",
+   "summary": "Kimi Antonelli kann in Austin den WM-Titel dingfest machen und sich zum jüngsten Weltmeister krönen, doch der Mercedes-Pilot will es Schritt für Schritt angehen",
+   "url": "https://www.formel1.de/nc/149476",
+   "date": "2026-10-23T10:15:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-23T10:47:53.304Z"
+  },
+  {
+   "title": "\"Tut mir weh\": Colapinto erklärt Botschaft gegen Online-Hass",
+   "summary": "Franco Colapinto erklärt die Hintergründe zu seinem Video-Statement und betont, dass er sich vor allem, um seine Teammitglieder sorgt",
+   "url": "https://www.formel1.de/nc/149475",
+   "date": "2026-10-23T09:33:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "colapinto"
+   ],
+   "teams": [],
+   "team": "alpine",
+   "category": "News",
+   "firstSeen": "2026-10-23T10:47:53.304Z"
+  },
+  {
+   "title": "Warum Antonelli besser ist: Russell nennt den entscheidenden Unterschied",
+   "summary": "George Russell sieht einen entscheidenden Grund für Antonellis WM-Vorsprung: Die neuen Formel-1-Regeln begünstigen einen bestimmten Fahrstil",
+   "url": "https://www.formel1.de/nc/149474",
+   "date": "2026-10-23T09:00:28.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli",
+    "russell"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Regeln",
+   "firstSeen": "2026-10-23T10:47:53.304Z"
+  },
   {
    "title": "Crawford set for Mexico City FP1 outing with Aston Martin",
    "summary": "Aston Martin have confirmed that Jak Crawford will drive the AMR26 during FP1 for the 2026 Mexico City Grand Prix.",
@@ -59,7 +130,7 @@
    "firstSeen": "2026-10-23T08:51:44.631Z"
   },
   {
-   "title": "Was Lewis Hamilton Antonelli vor dem Titelgewinn rät: \"Mach langsamer!\"",
+   "title": "Hamilton scherzt über Antonelli: \"Mach langsamer!\" - und wird dann ernst",
    "summary": "Kimi Antonelli steht vor seinem ersten Formel-1-WM-Titel, und Lando Norris zieht einen bemerkenswerten Vergleich zu Mercedes-Teamkollege George Russell",
    "url": "https://www.formel1.de/nc/149473",
    "date": "2026-10-23T08:32:04.000Z",
@@ -922,66 +993,6 @@
    "team": null,
    "category": "News",
    "firstSeen": "2026-10-21T14:50:49.297Z"
-  },
-  {
-   "title": "Horner über Abu Dhabi 2021: Natürlich haben wir Masi unter Druck gesetzt",
-   "summary": "Christian Horner spricht über das kontroverse Saisonfinale 2021 in Abu Dhabi und erklärt, wie es dazu kam, dass Red Bull Rennleiter Michael Masi unter Druck setzte",
-   "url": "https://www.formel1.de/nc/149445",
-   "date": "2026-10-21T14:24:38.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-21T14:50:49.297Z"
-  },
-  {
-   "title": "Was der Hockenheimring für ein Formel-1-Comeback tun müsste",
-   "summary": "Ein Formel-1-Comeback in Hockenheim wäre kostspielig, doch unter bestimmten Umständen könnte die Rennstrecke schon kurzfristig wieder einspringen",
-   "url": "https://www.formel1.de/nc/149444",
-   "date": "2026-10-21T13:32:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-21T14:50:49.297Z"
-  },
-  {
-   "title": "Vesti on the unusual way he became a Mercedes Junior driver",
-   "summary": "In the latest episode of official podcast F1 Beyond the Grid, Mercedes’ Third Driver Fred Vesti has opened up about his ‘very different’ approach to joining the team.",
-   "url": "https://www.formula1.com/en/latest/article/it-wasnt-easy-vesti-on-the-unusual-way-he-became-a-mercedes-junior-and-why-his-f1-dream-is-still-very-much-alive.1m0NqMANLmCy25o3bQbcjo",
-   "date": "2026-10-21T13:02:41.305Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-21T13:02:41.305Z"
-  },
-  {
-   "title": "What tyres will the teams have for the United States GP?",
-   "summary": "Pirelli have confirmed the tyre compounds that will be in use for the United States Grand Prix weekend in Austin.",
-   "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-united-states-grand-prix.44LKddYSbUJK1LxMAa6VLI",
-   "date": "2026-10-21T13:01:41.305Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-21T13:02:41.305Z"
   }
  ]
 }
