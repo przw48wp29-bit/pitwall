@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-22T22:46:49.810Z",
+ "updatedAt": "2026-10-23T04:29:52.306Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,55 @@
   }
  },
  "items": [
+  {
+   "title": "All the stories that got the Austin paddock talking",
+   "summary": "Lawrence Barretto rounds up the big talking points to emerge during media day at the United States Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-austin-paddock-talking.3Ft9Iehky7D3daarvVFTEg",
+   "date": "2026-10-23T04:29:52.305Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-23T04:29:52.305Z"
+  },
+  {
+   "title": "Russell on how 2026 has ‘tested my character and resilience’",
+   "summary": "George Russell has reflected on his title chances and the challenges he faced over the course of the 2026 season.",
+   "url": "https://www.formula1.com/en/latest/article/this-wont-be-my-last-shot-russell-on-how-2026-has-tested-my-character-and-resilience.2xvMU03AhxoQpZVAtwkelv",
+   "date": "2026-10-23T04:28:52.305Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "russell"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-23T04:29:52.305Z"
+  },
+  {
+   "title": "Christian Horner: Mercedes muss Antonelli offiziell zur Nummer 1 machen!",
+   "summary": "Laut dem ehemaligen Red-Bull-Teamchef Christian Horner muss Mercedes Kimi Antonelli in Zukunft als klaren Teamleader definieren",
+   "url": "https://www.formel1.de/nc/149470",
+   "date": "2026-10-23T04:03:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes",
+    "red_bull"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-23T04:29:52.305Z"
+  },
   {
    "title": "Verstappen backs Mekies' Red Bull contract extension",
    "summary": "Max Verstappen has backed Laurent Mekies' contract extension with Red Bull, but has cautioned those who expect the Dutchman to continue his winning form at this weekend's United States Grand Prix.",
@@ -921,55 +970,6 @@
    "team": "mercedes",
    "category": "Rennen",
    "firstSeen": "2026-10-21T10:50:30.754Z"
-  },
-  {
-   "title": "Max Verstappen über Isack Hadjar: Ist er für Red Bull der Mann für die Zukunft?",
-   "summary": "Verstappen fährt nicht ewig für Red Bull - seinem jungen Teamkollegen Isack Hadjar traut der Weltmeister zu, eines Tages seine Rolle im Team zu übernehmen",
-   "url": "https://www.formel1.de/nc/149440",
-   "date": "2026-10-21T10:29:32.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "hadjar"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-21T10:50:30.754Z"
-  },
-  {
-   "title": "Christian Horner: Habe mich bei Ferrari nicht selbst ins Spiel gebracht!",
-   "summary": "Christian Horner stellt klar, wie er seine Aussagen über Ferrari wirklich gemeint hat - Es sei nie sein Ziel gewesen, den Job von Frederic Vasseur zu übernehmen",
-   "url": "https://www.formel1.de/nc/149439",
-   "date": "2026-10-21T08:41:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-21T08:53:15.956Z"
-  },
-  {
-   "title": "FIA eröffnet neue F1-Kommandozentrale: Was sich jetzt ändern soll",
-   "summary": "Kann künstliche Intelligenz für einheitlichere Entscheidungen in der Formel 1 sorgen? Die FIA setzt auf ein neues Kontrollzentrum mit moderner Technik",
-   "url": "https://www.formel1.de/nc/149438",
-   "date": "2026-10-21T07:10:39.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
-   "firstSeen": "2026-10-21T08:53:15.956Z"
   }
  ]
 }
