@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T16:51:58.766Z",
+ "updatedAt": "2026-10-23T18:57:05.950Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,88 @@
   }
  },
  "items": [
+  {
+   "title": "Leclerc fastest in first practice for the United States GP",
+   "summary": "Charles Leclerc topped the times during first practice at the United States Grand Prix weekend.",
+   "url": "https://www.formula1.com/en/latest/article/fp1-leclerc-fastest-in-first-practice-for-the-united-states-gp-ahead-of-verstappen-and-norris.125WlaFK7K1mXXyLgb93ui",
+   "date": "2026-10-23T18:57:05.929Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-23T18:57:05.929Z"
+  },
+  {
+   "title": "LIVE COVERAGE: First practice for the United States GP",
+   "summary": "Live coverage of the first Formula 1 practice session for the 2026 United States Grand Prix in Austin.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-the-united-states-2026.4RPi7TTxLPbQv2rXIDvFPk",
+   "date": "2026-10-23T18:56:05.929Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-23T18:57:05.929Z"
+  },
+  {
+   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
+   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
+   "url": "https://www.formel1.de/nc/146408",
+   "date": "2026-10-23T18:51:17.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-10-20T16:49:32.274Z"
+  },
+  {
+   "title": "Mit Ferrari-Update: Charles Leclerc Schnellster im ersten Training in Austin",
+   "summary": "Keine Überraschungen beim Trainingsauftakt in den USA: Ferrari und Red Bull geben den Ton an, Kimi Antonelli absolviert vor der möglichen Kür die Pflicht",
+   "url": "https://www.formel1.de/nc/149487",
+   "date": "2026-10-23T18:37:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc",
+    "antonelli"
+   ],
+   "teams": [
+    "red_bull",
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Technik",
+   "firstSeen": "2026-10-23T18:57:05.929Z"
+  },
+  {
+   "title": "\"Aufregendste Strecke der Saison\": Warum die Formel-1-Fahrer Austin lieben",
+   "summary": "Leclerc, Sainz und Hülkenberg lieben Austins Layout und die Zweikämpfe, doch die berüchtigten Bodenwellen bleiben ein langjähriger Kritikpunkt der Strecke",
+   "url": "https://www.formel1.de/nc/149486",
+   "date": "2026-10-23T18:18:36.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc",
+    "sainz",
+    "hulkenberg"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-23T18:57:05.929Z"
+  },
   {
    "title": "Alonso über IndyCar in Barcelona: Warum er vor zu viel Expansion warnt",
    "summary": "Fernando Alonso begrüsst die Rückkehr der IndyCar nach Europa, doch der Formel-1-Star warnt vor den Folgen einer zu starken internationalen Expansion",
@@ -755,20 +837,6 @@
    "firstSeen": "2026-10-22T16:51:03.859Z"
   },
   {
-   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
-   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
-   "url": "https://www.formel1.de/nc/146408",
-   "date": "2026-10-22T15:15:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Transfer",
-   "firstSeen": "2026-10-20T16:49:32.274Z"
-  },
-  {
    "title": "Think you're Fan1? Win a VIP trip to Las Vegas",
    "summary": "Think You're Fan1? Win a VIP Trip to the Las Vegas Grand Prix",
    "url": "https://www.formula1.com/en/latest/article/think-youre-fan1-win-a-vip-trip-to-las-vegas-5.1VXB7LXhbghI2PxXBd9IIm",
@@ -936,75 +1004,6 @@
    "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-10-22T08:55:09.416Z"
-  },
-  {
-   "title": "Ferrari macht das Unsichtbare sichtbar: Neues Design für Hamilton und Leclerc",
-   "summary": "Ferrari tritt beim Formel-1-Rennen in Austin mit einer Sonderlackierung an: Das Design der Autos von Hamilton und Leclerc hat einen ungewöhnlichen Hintergrund",
-   "url": "https://www.formel1.de/nc/149451",
-   "date": "2026-10-22T07:55:02.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-22T08:55:09.416Z"
-  },
-  {
-   "title": "Ferrari-Abschied 2006: Was im letzten Rennen von \"Schumi\" passierte",
-   "summary": "Fernando Alonso wurde 2006 in Brasilien Weltmeister, Michael Schumacher kämpfte bei seinem Ferrari-Abschied nach einem frühen Rückschlag um jeden Platz",
-   "url": "https://www.formel1.de/nc/149450",
-   "date": "2026-10-22T06:39:39.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "alonso"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-22T07:05:31.823Z"
-  },
-  {
-   "title": "Marcin Budkowski: So hilft ihm sein ehemaliger Job als TV-Experte",
-   "summary": "Marcin Budkowski ist seit einigen Monaten Teamchef bei Cadillac - Der Pole verrät, wie ihm unter anderem seine vorherige Rolle als TV-Experte beim neuen Job hilft",
-   "url": "https://www.formel1.de/nc/149449",
-   "date": "2026-10-22T04:21:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "Rennen",
-   "firstSeen": "2026-10-22T04:30:31.601Z"
-  },
-  {
-   "title": "Ferrari become latest team to unveil special livery for US GP",
-   "summary": "Ferrari have become the latest F1 team to unveil a special livery design for the United States Grand Prix weekend.",
-   "url": "https://www.formula1.com/en/latest/article/gallery-ferrari-become-latest-team-to-unveil-special-livery-for-united-states-grand-prix.4EbG3ECmHt6RxHQYeFPkvD",
-   "date": "2026-10-21T20:50:33.793Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-21T20:50:33.793Z"
   }
  ]
 }
