@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T10:47:53.321Z",
+ "updatedAt": "2026-10-23T12:59:43.875Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,56 @@
   }
  },
  "items": [
+  {
+   "title": "Lewis Hamilton erklärt: Darum kam er in Singapur nicht zum Boxenstopp",
+   "summary": "Lewis Hamilton räumt nach dem Singapur-Grand-Prix einen Strategiefehler ein: Warum er trotzdem auch künftig eigene Entscheidungen treffen möchte",
+   "url": "https://www.formel1.de/nc/149480",
+   "date": "2026-10-23T12:56:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-23T12:59:43.636Z"
+  },
+  {
+   "title": "Oscar Piastri kämpft mit seinem McLaren: Was 2026 plötzlich anders ist",
+   "summary": "Oscar Piastri sucht 2026 weiter nach seiner Bestform: Ausgerechnet seine erfolgreichen Fahrtechniken aus dem Vorjahr stehen ihm dabei im Weg",
+   "url": "https://www.formel1.de/nc/149479",
+   "date": "2026-10-23T12:02:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "piastri"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-10-23T12:59:43.636Z"
+  },
+  {
+   "title": "Ferrari-Piloten relativieren Austin-Update: Bringt eine halbe Zehntelsekunde",
+   "summary": "Ferrari bringt in Austin ein Update, das laut den Fahrern jedoch nicht so gross sein soll wie angenommen - Trotzdem bleibt die Hoffnung auf einen dritten Saisonsieg",
+   "url": "https://www.formel1.de/nc/149478",
+   "date": "2026-10-23T11:35:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Technik",
+   "firstSeen": "2026-10-23T12:59:43.636Z"
+  },
   {
    "title": "Norris, Piastri, Russell: Wie Red Bull drei F1-Stars durch die Lappen gingen",
    "summary": "Drei spätere Formel-1-Stars überzeugten einst im Red-Bull-Simulator, doch aus Norris, Piastri und Russell wurden keine Red-Bull-Junioren - warum eigentlich?",
@@ -949,50 +999,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-10-21T16:51:02.890Z"
-  },
-  {
-   "title": "Kritik an Charles Leclerc: \"Macht irgendwelche sinnlosen Sachen\"",
-   "summary": "Laut Experte Ralf Schumacher ist die Fehlerquote bei Charles Leclerc zu hoch - Der Monegasse wolle \"mit Gewalt schnell sein\" und mache dadurch vermeidbare Fehler",
-   "url": "https://www.formel1.de/nc/149447",
-   "date": "2026-10-21T16:16:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-21T16:51:02.890Z"
-  },
-  {
-   "title": "Warum Honda seine Formel-1-Ingenieure immer wieder austauscht",
-   "summary": "Honda versetzt Formel-1-Ingenieure in andere Konzernbereiche: Warum der Hersteller trotz Schwierigkeiten an diesem ungewöhnlichen System festhält",
-   "url": "https://www.formel1.de/nc/149446",
-   "date": "2026-10-21T15:09:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-21T16:51:02.890Z"
-  },
-  {
-   "title": "How F1 drivers and strategists tackle the Circuit of The Americas",
-   "summary": "In Formula 1, performance is decided in moments where conditions change instantly, and decisions carry consequence. The difference isn’t just speed – it’s perspective.",
-   "url": "https://www.formula1.com/en/latest/article/the-risk-perspective-how-f1-drivers-engineers-and-strategists-tackle-the-circuit-of-the-americas.741JHFwQ3tVxbddx0ndKXz",
-   "date": "2026-10-21T14:50:49.297Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-21T14:50:49.297Z"
   }
  ]
 }
