@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T20:49:41.463Z",
+ "updatedAt": "2026-10-23T22:46:24.885Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,73 @@
  },
  "items": [
   {
-   "title": "LIVE COVERAGE: Second Practice in the United States",
+   "title": "Leclerc sets the pace in FP2 at the United States GP",
+   "summary": "Charles Leclerc topped the timesheets in the second hour of practice at the United States Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/fp2-leclerc-sets-the-pace-from-antonelli-and-verstappen-in-second-practice-at-united-states-grand-prix.4lRGhApoylA3exqOxagIqx",
+   "date": "2026-10-23T22:46:24.860Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-23T22:46:24.860Z"
+  },
+  {
+   "title": "Freitag in Austin: Leclerc nach heisser Szene mit Russell Schnellster",
+   "summary": "Charles Leclerc fährt in Austin zweimal Bestzeit, doch eine brenzlige Szene mit George Russell sorgt für Aufregung und beschäftigt die Rennkommissare",
+   "url": "https://www.formel1.de/nc/149493",
+   "date": "2026-10-23T22:18:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc",
+    "russell"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Regeln",
+   "firstSeen": "2026-10-23T22:46:24.860Z"
+  },
+  {
+   "title": "Was hinter dem \"Weniger-als-eine-Zehntel\"-Update von Ferrari steckt",
+   "summary": "Ferrari hat sein Auto für das Formel-1-Rennen in Austin überarbeitet, doch warum bringt man ein Upgrade nach Übersee, das weniger als eine Zehntel bringen soll?",
+   "url": "https://www.formel1.de/nc/149492",
+   "date": "2026-10-23T21:37:11.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Technik",
+   "firstSeen": "2026-10-23T22:46:24.860Z"
+  },
+  {
+   "title": "Charles Leclerc: Mache immer noch Notizen, um von Hamilton zu lernen",
+   "summary": "Charles Leclerc analysiert Lewis Hamiltons Daten: Die ungewöhnliche aktuelle Autogeneration sieht er trotz mancher Nachteile als Lernchance",
+   "url": "https://www.formel1.de/nc/149491",
+   "date": "2026-10-23T21:05:59.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc",
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-23T22:46:24.860Z"
+  },
+  {
+   "title": "AS IT HAPPENED: Second practice in the United States",
    "summary": "Live coverage of the second Formula 1 practice session ahead of the 2026 United States Grand Prix in Austin.",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-the-united-states-2026.3cC2d5dlTvN0egy2pb11Ko",
    "date": "2026-10-23T20:49:41.437Z",
@@ -120,7 +186,7 @@
    "firstSeen": "2026-10-23T18:57:05.929Z"
   },
   {
-   "title": "AS IT HAPPENED: First Practice for the United States GP",
+   "title": "AS IT HAPPENED: First practice for the United States GP",
    "summary": "Live coverage of the first Formula 1 practice session for the 2026 United States Grand Prix in Austin.",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-the-united-states-2026.4RPi7TTxLPbQv2rXIDvFPk",
    "date": "2026-10-23T18:56:05.929Z",
@@ -944,66 +1010,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-10-22T14:51:30.416Z"
-  },
-  {
-   "title": "Formel-1-Boom in Austin: 2026 winkt Rekordumsatz von einer Milliarde Dollar",
-   "summary": "Die Formel 1 bringt für die Region einen finanziellen Rekordregen: Hotels in Austin sind zu 95 Prozent ausgelastet, es winkt ein Rekordumsatz von einer Milliarde Dollar",
-   "url": "https://www.formel1.de/nc/149457",
-   "date": "2026-10-22T14:20:22.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Business",
-   "firstSeen": "2026-10-22T14:51:30.416Z"
-  },
-  {
-   "title": "Sergio Perez über seine F1-Zukunft: \"Meine Kinder sind entscheidend\"",
-   "summary": "Sergio Perez fühlt sich in der Formel 1 wohl und könnte noch lange weitermachen - Trotzdem gibt es einen Faktor, der seine Karriere beenden könnte",
-   "url": "https://www.formel1.de/nc/149456",
-   "date": "2026-10-22T13:30:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "perez"
-   ],
-   "teams": [],
-   "team": "cadillac",
-   "category": "News",
-   "firstSeen": "2026-10-22T14:51:30.416Z"
-  },
-  {
-   "title": "Mercedes bringt neuen Frontflügel: Warum das Update so wichtig ist",
-   "summary": "Nach einem kurzen Test in Singapur kehrt der neue Mercedes-Frontflügel zurück: Warum das Bauteil auch für die Entwicklung des Autos für 2027 wichtig ist",
-   "url": "https://www.formel1.de/nc/149455",
-   "date": "2026-10-22T13:07:38.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Technik",
-   "firstSeen": "2026-10-22T14:51:30.416Z"
-  },
-  {
-   "title": "Play our new Higher or Lower game for your chance to win 2027 Grand Prix tickets",
-   "summary": "Guess the total race positions gained by each driver so far this season for your chance to win Grand Prix tickets to a race of your choice in 2027.",
-   "url": "https://www.formula1.com/en/latest/article/play-our-new-higher-or-lower-game-for-your-chance-to-win-2027-grand-prix-tickets-week7.5bo4qAX7EHBFPHZOJpjnx9",
-   "date": "2026-10-22T13:02:39.780Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-22T13:02:39.780Z"
   }
  ]
 }
