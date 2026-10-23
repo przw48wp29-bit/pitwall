@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T18:57:05.950Z",
+ "updatedAt": "2026-10-23T20:49:41.463Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,100 @@
   }
  },
  "items": [
+  {
+   "title": "LIVE COVERAGE: Second Practice in the United States",
+   "summary": "Live coverage of the second Formula 1 practice session ahead of the 2026 United States Grand Prix in Austin.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-the-united-states-2026.3cC2d5dlTvN0egy2pb11Ko",
+   "date": "2026-10-23T20:49:41.437Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-23T20:49:41.437Z"
+  },
+  {
+   "title": "Lindblad, Colapinto and Bortoleto to take penalties for US GP",
+   "summary": "Arvid Lindblad, Franco Colapinto and Gabriel Bortoleto have all received grid penalties for various PU changes at the United States Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/lindblad-colapinto-and-bortoleto-to-take-grid-penalties-for-united-states-grand-prix.4qjn84W4zOmwNXeELFWn0k",
+   "date": "2026-10-23T20:48:41.437Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "arvid_lindblad",
+    "colapinto",
+    "bortoleto"
+   ],
+   "teams": [],
+   "team": "rb",
+   "category": "Rennen",
+   "firstSeen": "2026-10-23T20:49:41.437Z"
+  },
+  {
+   "title": "Mit Daniel Ricciardo im Publikum: Live-Konzert von Liam Lawson in Austin",
+   "summary": "Liam Lawson stand am Donnerstag live bei einem Musikauftritt auf der Bühne: Im Publikum war unter anderem auch Daniel Ricciardo zu finden",
+   "url": "https://www.formel1.de/nc/149490",
+   "date": "2026-10-23T20:37:11.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "lawson"
+   ],
+   "teams": [],
+   "team": "rb",
+   "category": "News",
+   "firstSeen": "2026-10-23T20:49:41.437Z"
+  },
+  {
+   "title": "Sohn von Toto Wolff: Schwerer Unfall bei Kartrennen in Italien",
+   "summary": "Jack Wolff, der Sohn von Toto Wolff, wurde in Italien in einen schweren Kartunfall verwickelt, will aber am Wochenende bereits wieder fahren",
+   "url": "https://www.formel1.de/nc/149489",
+   "date": "2026-10-23T19:58:47.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-23T20:49:41.437Z"
+  },
+  {
+   "title": "Carlos Sainz: Williams-Management hat gesagt, wir sollen sofort alles ändern",
+   "summary": "Carlos Sainz hält Williams derzeit kaum für punktefähig, weshalb das Team mitten in der Saison Abläufe und Strukturen für 2027 verändert",
+   "url": "https://www.formel1.de/nc/149488",
+   "date": "2026-10-23T19:37:12.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "sainz"
+   ],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "News",
+   "firstSeen": "2026-10-23T20:49:41.437Z"
+  },
+  {
+   "title": "Formel-1-Motorenstrafen 2026: Die Übersicht",
+   "summary": "Die verwendeten Motorenteile während der Saison 2026 in der Übersicht: Wann welchem Formel-1-Fahrer eine Strafe droht",
+   "url": "https://www.formel1.de/nc/146406",
+   "date": "2026-10-23T19:03:44.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-10-23T20:49:41.437Z"
+  },
   {
    "title": "Leclerc fastest in first practice for the United States GP",
    "summary": "Charles Leclerc topped the times during first practice at the United States Grand Prix weekend.",
@@ -26,7 +120,7 @@
    "firstSeen": "2026-10-23T18:57:05.929Z"
   },
   {
-   "title": "LIVE COVERAGE: First practice for the United States GP",
+   "title": "AS IT HAPPENED: First Practice for the United States GP",
    "summary": "Live coverage of the first Formula 1 practice session for the 2026 United States Grand Prix in Austin.",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-the-united-states-2026.4RPi7TTxLPbQv2rXIDvFPk",
    "date": "2026-10-23T18:56:05.929Z",
@@ -54,7 +148,7 @@
    "firstSeen": "2026-10-20T16:49:32.274Z"
   },
   {
-   "title": "Mit Ferrari-Update: Charles Leclerc Schnellster im ersten Training in Austin",
+   "title": "Verstappen eigentlich Schnellster: So kam Leclerc in Austin auf Platz 1",
    "summary": "Keine Überraschungen beim Trainingsauftakt in den USA: Ferrari und Red Bull geben den Ton an, Kimi Antonelli absolviert vor der möglichen Kür die Pflicht",
    "url": "https://www.formel1.de/nc/149487",
    "date": "2026-10-23T18:37:00.000Z",
@@ -62,6 +156,7 @@
    "sourceId": "formel1de",
    "lang": "de",
    "drivers": [
+    "max_verstappen",
     "leclerc",
     "antonelli"
    ],
@@ -69,8 +164,8 @@
     "red_bull",
     "ferrari"
    ],
-   "team": "ferrari",
-   "category": "Technik",
+   "team": "red_bull",
+   "category": "News",
    "firstSeen": "2026-10-23T18:57:05.929Z"
   },
   {
@@ -909,101 +1004,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-10-22T13:02:39.780Z"
-  },
-  {
-   "title": "Red-Bull-Anteilseigner rufen Horner an: Seine Reaktion sagt einiges aus",
-   "summary": "Nach dem ersten Sieg des Red-Bull-Ford-Antriebs erhielt Christian Horner besondere Anrufe: Einer erinnerte ihn an die Umstände seiner Entlassung",
-   "url": "https://www.formel1.de/nc/149454",
-   "date": "2026-10-22T11:39:01.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-22T13:02:39.780Z"
-  },
-  {
-   "title": "Ferrari setzt in Austin alles auf eine Karte: Reicht es für den Sieg?",
-   "summary": "Ferrari rüstet den SF-26 für Austin noch einmal kräftig auf: Teamchef Vasseur zeigt sich optimistisch - und auch Mercedes rechnet mit starker Konkurrenz",
-   "url": "https://www.formel1.de/nc/149453",
-   "date": "2026-10-22T11:00:38.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes",
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-22T13:02:39.780Z"
-  },
-  {
-   "title": "Kimi Antonelli vor Formel-1-Titel: Diese Angewohnheit überrascht",
-   "summary": "Kimi Antonelli kann in Austin Formel-1-Weltmeister werden - Abseits der Strecke überrascht der Mercedes-Pilot mit einer bodenständigen Angewohnheit",
-   "url": "https://www.formel1.de/nc/149452",
-   "date": "2026-10-22T09:45:21.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-22T10:50:00.929Z"
-  },
-  {
-   "title": "Facts, stats and trivia ahead of the 2026 United States GP",
-   "summary": "As F1 heads to the Circuit of The Americas for the United States Grand Prix, Need to Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
-   "url": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-united-states-grand-prix.3yCUtnzlXLwOvhVtmsdVRK",
-   "date": "2026-10-22T08:55:09.416Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-22T08:55:09.416Z"
-  },
-  {
-   "title": "Everything you need to know about the Circuit of The Americas",
-   "summary": "Get up to speed with all the key Circuit of The Americas statistics, driving pointers, facts and more.",
-   "url": "https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-circuit-of-the-americas.3OjhBbugiQRmN4FnlpBtBc",
-   "date": "2026-10-22T08:54:09.416Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-22T08:55:09.416Z"
-  },
-  {
-   "title": "F1's leading teams setting up thrilling 2027 battle",
-   "summary": "Mercedes' early dominance has been overturned by their competitors, suggesting an enthralling 2027 battle and leaving the door open for some exciting betting opportunities in upcoming races.",
-   "url": "https://www.formula1.com/en/latest/article/the-extra-gear-formula-1s-leading-teams-setting-up-thrilling-2027-title-battle.5Vm9Y6pNrUZSbpp4BX2NZo",
-   "date": "2026-10-22T08:53:09.416Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-22T08:55:09.416Z"
   }
  ]
 }
