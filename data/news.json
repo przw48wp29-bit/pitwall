@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24T14:45:23.185Z",
+ "updatedAt": "2026-10-24T16:47:28.173Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,34 @@
   }
  },
  "items": [
+  {
+   "title": "Freddie Hunt on his father James’ ‘incredible’ 1976 title",
+   "summary": "Freddie Hunt, son of the 1976 World Champion James Hunt, explains his father’s incredible legacy.",
+   "url": "https://www.formula1.com/en/latest/article/f1-icons-freddie-hunt-on-his-father-james-incredible-1976-title-and-legacy.5EtNzEaEXwqcaKCGn2ySzR",
+   "date": "2026-10-24T16:47:28.053Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-24T16:47:28.053Z"
+  },
+  {
+   "title": "Adrian Newey: Christian Horner und ich bleiben Freunde - trotz des Buches",
+   "summary": "Adrian Newey bleibt mit Christian Horner freundschaftlich verbunden, auch wenn dieser in seinem Buch nicht nur positive Töne über den Designer anschlug",
+   "url": "https://www.formel1.de/nc/149506",
+   "date": "2026-10-24T15:02:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-24T16:47:28.053Z"
+  },
   {
    "title": "Sainz 'not expecting miracles' after Williams struggle in US",
    "summary": "It was a slow start for Williams at the Circuit of The Americas as Carlos Sainz and Alex Albon struggled to keep their cars on track.",
@@ -979,42 +1007,6 @@
    "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-10-23T04:29:52.305Z"
-  },
-  {
-   "title": "Verstappen backs Mekies' Red Bull contract extension",
-   "summary": "Max Verstappen has backed Laurent Mekies' contract extension with Red Bull, but has cautioned those who expect the Dutchman to continue his winning form at this weekend's United States Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/he-fully-deserves-it-verstappen-backs-mekies-contract-extension-but-wary-of-red-bulls-winning-form-continuing-in-austin.2z5DsziITrRNyz7pVwJzu8",
-   "date": "2026-10-22T22:46:49.794Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Transfer",
-   "firstSeen": "2026-10-22T22:46:49.794Z"
-  },
-  {
-   "title": "Leclerc names bigger goal than P2 in Teams’ Championship",
-   "summary": "Charles Leclerc has revealed what he wants to achieve with Ferrari before the end of the 2026 season.",
-   "url": "https://www.formula1.com/en/latest/article/leclerc-names-what-would-be-a-much-bigger-satisfaction-than-p2-in-the-teams-championship.1qtcJMCtrJkubAYDMnrKcd",
-   "date": "2026-10-22T22:45:49.794Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-22T22:46:49.794Z"
   }
  ]
 }
