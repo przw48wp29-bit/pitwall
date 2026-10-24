@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24T06:59:26.679Z",
+ "updatedAt": "2026-10-24T08:49:08.151Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,41 @@
   }
  },
  "items": [
+  {
+   "title": "Red Bull: Fokus auf zwei Bereiche nach \"positivem\" Start ins Austin-Wochenende",
+   "summary": "Laut Max Verstappen war der Freitag in Austin kein schlechter Tag, während er und Technikchef Pierre Wache zwei Fokusbereiche in den USA ausmachen",
+   "url": "https://www.formel1.de/nc/149498",
+   "date": "2026-10-24T08:05:28.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Technik",
+   "firstSeen": "2026-10-24T08:49:08.133Z"
+  },
+  {
+   "title": "Newey: Honda ist 2026 weiter zurück als 2019 am Beginn der Red-Bull-Ära",
+   "summary": "Das Honda-Comeback mit Aston Martin verläuft schwierig: Warum Adrian Newey trotzdem zuversichtlich bleibt und was anders ist als zu Beginn der Red-Bull-Ära 2019",
+   "url": "https://www.formel1.de/nc/149497",
+   "date": "2026-10-24T07:07:19.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "aston_martin",
+    "red_bull"
+   ],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-10-24T08:49:08.133Z"
+  },
   {
    "title": "\"Gezwungen, viel länger zu bleiben\": Hamilton mit 45 noch in der Formel 1?",
    "summary": "Weil Lewis Hamilton unbedingt beim ersten Afrika-Grand-Prix am Start sein möchte, muss er seine Karriere deutlich verlängern: Ruanda-Rennen frühestens mit 45",
@@ -993,37 +1028,6 @@
    "team": "haas",
    "category": "News",
    "firstSeen": "2026-10-22T20:48:39.044Z"
-  },
-  {
-   "title": "Keine Angst vor Max Verstappen? Isack Hadjar schätzt sich \"glücklich\"",
-   "summary": "Isack Hadjar erklärt im offiziellen Podcast der Formel 1, wo genau die Stärken seines Teamkollegen Max Verstappen liegen und weshalb er so schwer zu schlagen ist",
-   "url": "https://www.formel1.de/nc/149464",
-   "date": "2026-10-22T19:10:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "hadjar"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-22T20:48:39.044Z"
-  },
-  {
-   "title": "When Taylor Swift performed at the United States GP weekend",
-   "summary": "Ten years have passed since Taylor Swift performed her only show of 2016 in front of 80,000 Formula 1 fans at the United States Grand Prix in Austin, Texas.",
-   "url": "https://www.formula1.com/en/latest/article/one-decade-later-when-taylor-swift-performed-her-only-show-of-2016-at-the-united-states-grand-prix.5H18UiePOW5yJGtH5VO2QA",
-   "date": "2026-10-22T18:58:15.211Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-22T18:58:15.211Z"
   }
  ]
 }
