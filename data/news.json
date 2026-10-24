@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-23T22:46:24.885Z",
+ "updatedAt": "2026-10-24T04:26:36.601Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,177 @@
   }
  },
  "items": [
+  {
+   "title": "Hadjar rues ‘undriveable’ Red Bull in Austin",
+   "summary": "Isack Hadjar has explained why set-up changes left his Red Bull struggling for grip during second practice for the United States Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/hadjar-rues-undriveable-red-bull-after-set-up-changes-lead-to-austin-struggles.3JtCn8kuzY4KVD6cjNFnAl",
+   "date": "2026-10-24T04:26:36.599Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hadjar"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-24T04:26:36.599Z"
+  },
+  {
+   "title": "What the teams said – Friday in the United States",
+   "summary": "The drivers and teams report back on all the action from Friday practice at the Circuit of The Americas ahead of the United States Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-the-united-states-2026.1cMIRGYoxjaKQoBFIORCea",
+   "date": "2026-10-24T04:25:36.599Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-24T04:26:36.599Z"
+  },
+  {
+   "title": "Can Ferrari stay ahead as a four-team fight takes shape?",
+   "summary": "Lawrence Barretto assesses the field after the first day of running at the Circuit of The Americas in Austin, Texas.",
+   "url": "https://www.formula1.com/en/latest/article/can-ferrari-stay-ahead-as-a-four-team-fight-takes-shape.3ePqUiXexJD4IMfFbBRLgU",
+   "date": "2026-10-24T04:24:36.599Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-24T04:26:36.599Z"
+  },
+  {
+   "title": "Leclerc warns against ‘high expectations’ at US GP",
+   "summary": "After impressing in Free Practice, Charles Leclerc has shared why Ferrari will find it tough to maintain top spot for the rest of the United States Grand Prix weekend.",
+   "url": "https://www.formula1.com/en/latest/article/we-need-to-be-careful-leclerc-warns-against-high-expectations-at-united-states-gp.3YLWMX7LEph9Fo3qfBbsQn",
+   "date": "2026-10-24T04:23:36.599Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-24T04:26:36.599Z"
+  },
+  {
+   "title": "Why Norris found it 'very difficult' to maximise the McLaren",
+   "summary": "Lando Norris' was left to rue the MCL40's handling on the first day of running in Austin despite signs of pace.",
+   "url": "https://www.formula1.com/en/latest/article/why-norris-found-it-very-difficult-to-maximise-the-mclarens-potential-in-austin.2w8uKimVta60U6RKqTTwJd",
+   "date": "2026-10-24T04:22:36.599Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Transfer",
+   "firstSeen": "2026-10-24T04:26:36.599Z"
+  },
+  {
+   "title": "Antonelli explains ‘steps forward’ with Mercedes’ upgrades",
+   "summary": "Kimi Antonelli is confident that Mercedes have begun to get the most out of their recent upgrade package at the Circuit of The Americas.",
+   "url": "https://www.formula1.com/en/latest/article/antonelli-explains-steps-forward-with-mercedes-upgrades-during-free-practice-at-us-gp.2XV6b0WII3eonLYi1DamuL",
+   "date": "2026-10-24T04:21:36.599Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Technik",
+   "firstSeen": "2026-10-24T04:26:36.599Z"
+  },
+  {
+   "title": "Newey assesses Honda progress amid ‘buzz’ at Aston Martin",
+   "summary": "Adrian Newey has offered an encouraging assessment of Aston Martin’s progress behind the scenes, while admitting Honda are “a little bit behind” where he hoped they would be.",
+   "url": "https://www.formula1.com/en/latest/article/newey-says-aston-martin-buzz-is-building-as-he-assesses-honda-progress.kzKViWGhuRLo8pVF3yZl0",
+   "date": "2026-10-24T04:20:36.599Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-10-24T04:26:36.599Z"
+  },
+  {
+   "title": "Longruns Austin: Leclerc und Verstappen vorn, Mercedes kämpft",
+   "summary": "Charles Leclerc und Max Verstappen liegen in den Austin-Longruns gleichauf, Norris lauert dahinter: Reifenverschleiss und Strategie werfen Fragen auf",
+   "url": "https://www.formel1.de/nc/149495",
+   "date": "2026-10-24T00:39:22.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc",
+    "max_verstappen",
+    "norris"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-24T04:26:36.599Z"
+  },
+  {
+   "title": "\"Hinken einen Schritt hinterher\": Was McLaren mit seinem Update lösen will",
+   "summary": "McLaren bringt in Austin den ersten Schritt seines letzten Upgrade-Paketes 2026: Doch kann man damit seine grossen Probleme mit dem MCL40 lösen?",
+   "url": "https://www.formel1.de/nc/149494",
+   "date": "2026-10-23T23:47:42.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Technik",
+   "firstSeen": "2026-10-24T04:26:36.599Z"
+  },
+  {
+   "title": "Freitag in Austin: Leclerc nach heisser Szene mit Russell Schnellster",
+   "summary": "Charles Leclerc fährt in Austin zweimal Bestzeit, doch eine brenzlige Szene mit George Russell sorgt für Aufregung und beschäftigt die Rennkommissare",
+   "url": "https://www.formel1.de/nc/149493",
+   "date": "2026-10-23T23:17:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc",
+    "russell"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Regeln",
+   "firstSeen": "2026-10-23T22:46:24.860Z"
+  },
   {
    "title": "Leclerc sets the pace in FP2 at the United States GP",
    "summary": "Charles Leclerc topped the timesheets in the second hour of practice at the United States Grand Prix.",
@@ -23,23 +194,6 @@
    "teams": [],
    "team": "ferrari",
    "category": "Rennen",
-   "firstSeen": "2026-10-23T22:46:24.860Z"
-  },
-  {
-   "title": "Freitag in Austin: Leclerc nach heisser Szene mit Russell Schnellster",
-   "summary": "Charles Leclerc fährt in Austin zweimal Bestzeit, doch eine brenzlige Szene mit George Russell sorgt für Aufregung und beschäftigt die Rennkommissare",
-   "url": "https://www.formel1.de/nc/149493",
-   "date": "2026-10-23T22:18:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc",
-    "russell"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Regeln",
    "firstSeen": "2026-10-23T22:46:24.860Z"
   },
   {
@@ -868,148 +1022,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-10-22T18:58:15.211Z"
-  },
-  {
-   "title": "LIVE COVERAGE: Build-up to the United States GP weekend",
-   "summary": "Live coverage of all the build-up ahead of the 2026 United States Grand Prix weekend in Austin.",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-the-united-states-2026.6BoltSl8tjHdSh24FRtww5",
-   "date": "2026-10-22T18:56:15.211Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-22T18:58:15.211Z"
-  },
-  {
-   "title": "Sergio Perez: Meine Leistung als Fahrer ist \"wirklich erstklassig\", aber …",
-   "summary": "Die WM-Punkte fehlen Cadillac zwar noch, aber Sergio Perez sieht seine fahrerische Leistung als \"wirklich erstklassig\" an: Nur \"das Auto ist einfach noch zu weit weg\"",
-   "url": "https://www.formel1.de/nc/149463",
-   "date": "2026-10-22T18:42:56.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "perez"
-   ],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "News",
-   "firstSeen": "2026-10-22T18:58:15.211Z"
-  },
-  {
-   "title": "Weltmeister Lando Norris droht die schlechteste Titelverteidigung seit 1997",
-   "summary": "Weltmeister Lando Norris droht in dieser Saison die schlechteste Titelverteidigung seit fast 30 Jahren, genauer gesagt seit 1997: Damals wurde Damon Hill nur Zwölfter",
-   "url": "https://www.formel1.de/nc/149462",
-   "date": "2026-10-22T17:42:28.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-10-22T18:58:15.211Z"
-  },
-  {
-   "title": "Slater to make FP1 debut with Audi in Mexico City and Sao Paulo",
-   "summary": "Freddie Slater will get behind the wheel of Audi's challenger for FP1 in Mexico City and Sao Paulo.",
-   "url": "https://www.formula1.com/en/latest/article/freddie-slater-to-make-f1-weekend-debut-with-fp1-outings-for-audi-in-mexico-city-and-sao-paulo.25wxy4YykefQKJRX5drRed",
-   "date": "2026-10-22T16:51:03.859Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "Rennen",
-   "firstSeen": "2026-10-22T16:51:03.859Z"
-  },
-  {
-   "title": "Christian Horner enthüllt: Lewis Hamilton wollte zu Red Bull wechseln",
-   "summary": "Lewis Hamilton bei Red Bull? Genau dieses Szenario hätte laut Christian Horner in der Saison 2013 eintreten können, wenn bestimmte Dinge anders gelaufen wären",
-   "url": "https://www.formel1.de/nc/149461",
-   "date": "2026-10-22T16:45:49.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-22T16:51:03.859Z"
-  },
-  {
-   "title": "Noch in diesem Jahr: Cadillac nennt Termin für Eröffnung der Motorenfabrik",
-   "summary": "General Motors macht beim eigenen Formel-1-Motor ernst und eröffnet im Dezember die neue Fabrik: Doch die Zukunft des Antriebs könnte kürzer ausfallen als gedacht",
-   "url": "https://www.formel1.de/nc/149460",
-   "date": "2026-10-22T16:37:54.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "News",
-   "firstSeen": "2026-10-22T16:51:03.859Z"
-  },
-  {
-   "title": "Formel-1-Technik: Wie OMP beim Anzug der Fahrer 600 Gramm Gewicht einspart",
-   "summary": "Ein moderner Formel-1-Rennanzug ist ein Hightech-Produkt: Hersteller OMP hat das Gewicht um 600 Gramm reduziert, ohne auf komplexe Designs verzichten zu müssen",
-   "url": "https://www.formel1.de/nc/149459",
-   "date": "2026-10-22T16:00:45.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Technik",
-   "firstSeen": "2026-10-22T16:51:03.859Z"
-  },
-  {
-   "title": "In Mexiko und Brasilien: Audi-Junior Freddie Slater feiert sein Formel-1-Debüt",
-   "summary": "Audi-Junior Freddie Slater feiert sein Formel-1-Debüt: Der Brite wird bei den Grands Prix von Mexiko und Sao Paulo jeweils im ersten Freien Training zum Einsatz kommen",
-   "url": "https://www.formel1.de/nc/149458",
-   "date": "2026-10-22T15:16:23.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "Rennen",
-   "firstSeen": "2026-10-22T16:51:03.859Z"
-  },
-  {
-   "title": "Think you're Fan1? Win a VIP trip to Las Vegas",
-   "summary": "Think You're Fan1? Win a VIP Trip to the Las Vegas Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/think-youre-fan1-win-a-vip-trip-to-las-vegas-5.1VXB7LXhbghI2PxXBd9IIm",
-   "date": "2026-10-22T14:51:30.416Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-22T14:51:30.416Z"
   }
  ]
 }
