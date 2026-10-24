@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24T04:26:36.601Z",
+ "updatedAt": "2026-10-24T06:59:26.679Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "\"Gezwungen, viel länger zu bleiben\": Hamilton mit 45 noch in der Formel 1?",
+   "summary": "Weil Lewis Hamilton unbedingt beim ersten Afrika-Grand-Prix am Start sein möchte, muss er seine Karriere deutlich verlängern: Ruanda-Rennen frühestens mit 45",
+   "url": "https://www.formel1.de/nc/149496",
+   "date": "2026-10-24T05:00:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-24T06:59:26.653Z"
+  },
   {
    "title": "Hadjar rues ‘undriveable’ Red Bull in Austin",
    "summary": "Isack Hadjar has explained why set-up changes left his Red Bull struggling for grip during second practice for the United States Grand Prix.",
@@ -1000,20 +1016,6 @@
    "summary": "Ten years have passed since Taylor Swift performed her only show of 2016 in front of 80,000 Formula 1 fans at the United States Grand Prix in Austin, Texas.",
    "url": "https://www.formula1.com/en/latest/article/one-decade-later-when-taylor-swift-performed-her-only-show-of-2016-at-the-united-states-grand-prix.5H18UiePOW5yJGtH5VO2QA",
    "date": "2026-10-22T18:58:15.211Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-22T18:58:15.211Z"
-  },
-  {
-   "title": "Best value early odds for the United States Grand Prix",
-   "summary": "We've assessed the latest betting markets and selected our pick of early bets offering the best value at the Circuit of the Americas.",
-   "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-united-states-grand-prix.ciFKUZjs5Sa2X1MAV5FNw",
-   "date": "2026-10-22T18:57:15.211Z",
    "source": "Formula1.com",
    "sourceId": "f1com",
    "lang": "en",
