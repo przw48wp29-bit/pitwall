@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24T18:49:53.066Z",
+ "updatedAt": "2026-10-24T20:43:18.097Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,53 @@
  },
  "items": [
   {
-   "title": "LIVE COVERAGE: Third practice in the United States",
+   "title": "LIVE COVERAGE: Qualifying for the United States Grand Prix",
+   "summary": "Live coverage of the Formula 1 Qualifying session for the 2026 United States Grand Prix in Austin.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-the-united-states-2026.49VaYyfwlL9ih2hFfuf9r5",
+   "date": "2026-10-24T20:43:18.078Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-24T20:43:18.078Z"
+  },
+  {
+   "title": "Hamilton goes fastest in final practice for the US GP",
+   "summary": "Lewis Hamilton made it a practice clean sweep for Ferrari at the United States Grand Prix weekend.",
+   "url": "https://www.formula1.com/en/latest/article/fp3-hamilton-goes-fastest-in-final-practice-session-for-the-united-states-gp-ahead-of-verstappen-and-leclerc.1KQ5x8wUAtBETnHxKDNldC",
+   "date": "2026-10-24T20:42:18.078Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-24T20:43:18.078Z"
+  },
+  {
+   "title": "Formel-1-Motorenstrafen 2026: Die Übersicht",
+   "summary": "Die verwendeten Motorenteile während der Saison 2026 in der Übersicht: Wann welchem Formel-1-Fahrer eine Strafe droht",
+   "url": "https://www.formel1.de/nc/146406",
+   "date": "2026-10-24T20:15:14.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-10-23T20:49:41.437Z"
+  },
+  {
+   "title": "AS IT HAPPENED: Third practice in the United States",
    "summary": "Live coverage of the final Formula 1 practice session ahead of the 2026 United States Grand Prix in Austin.",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-the-united-states-2026.1BD7GmKj1G3IaUnrRcWI3P",
    "date": "2026-10-24T18:49:53.044Z",
@@ -24,16 +70,17 @@
    "firstSeen": "2026-10-24T18:49:53.044Z"
   },
   {
-   "title": "Wieder Tracklimits-Chaos in FT3: Leclerc Schnellster, aber Bestzeit für Hamilton",
+   "title": "Hamilton vor Verstappen: Was das FT3-Ergebnis in Austin verschweigt",
    "summary": "Charles Leclerc fährt in Austin die schnellste Runde, und trotzdem gewinnt Lewis Hamilton das Abschlusstraining - Dahinter steckt ein echtes Tracklimits-Chaos",
    "url": "https://www.formel1.de/nc/149508",
-   "date": "2026-10-24T18:48:17.000Z",
+   "date": "2026-10-24T18:48:00.000Z",
    "source": "Formel1.de",
    "sourceId": "formel1de",
    "lang": "de",
    "drivers": [
-    "leclerc",
-    "hamilton"
+    "hamilton",
+    "max_verstappen",
+    "leclerc"
    ],
    "teams": [],
    "team": "ferrari",
@@ -617,20 +664,6 @@
    "firstSeen": "2026-10-23T20:49:41.437Z"
   },
   {
-   "title": "Formel-1-Motorenstrafen 2026: Die Übersicht",
-   "summary": "Die verwendeten Motorenteile während der Saison 2026 in der Übersicht: Wann welchem Formel-1-Fahrer eine Strafe droht",
-   "url": "https://www.formel1.de/nc/146406",
-   "date": "2026-10-23T19:03:44.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
-   "firstSeen": "2026-10-23T20:49:41.437Z"
-  },
-  {
    "title": "Leclerc fastest in first practice for the United States GP",
    "summary": "Charles Leclerc topped the times during first practice at the United States Grand Prix weekend.",
    "url": "https://www.formula1.com/en/latest/article/fp1-leclerc-fastest-in-first-practice-for-the-united-states-gp-ahead-of-verstappen-and-norris.125WlaFK7K1mXXyLgb93ui",
@@ -963,47 +996,6 @@
    "teams": [],
    "team": null,
    "category": "Rennen",
-   "firstSeen": "2026-10-23T08:51:44.631Z"
-  },
-  {
-   "title": "Hamilton scherzt über Antonelli: \"Mach langsamer!\" - und wird dann ernst",
-   "summary": "Kimi Antonelli steht vor seinem ersten Formel-1-WM-Titel, und Lando Norris zieht einen bemerkenswerten Vergleich zu Mercedes-Teamkollege George Russell",
-   "url": "https://www.formel1.de/nc/149473",
-   "date": "2026-10-23T08:32:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "antonelli",
-    "norris",
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-23T08:51:44.631Z"
-  },
-  {
-   "title": "\"Schwachsinn!\": Leclerc kritisiert Hadjars Verstappen-Ferrari-Vergleich",
-   "summary": "Isack Hadjar ist überzeugt davon, dass Max Verstappen in Singapur in einem Ferrari noch weiter vorne gewesen wäre, für Charles Leclerc ist das jedoch \"Schwachsinn\"",
-   "url": "https://www.formel1.de/nc/149472",
-   "date": "2026-10-23T08:13:26.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc",
-    "max_verstappen",
-    "hadjar"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
    "firstSeen": "2026-10-23T08:51:44.631Z"
   }
  ]
