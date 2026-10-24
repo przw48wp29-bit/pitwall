@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24T20:43:18.097Z",
+ "updatedAt": "2026-10-24T22:43:55.402Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,56 @@
  },
  "items": [
   {
-   "title": "LIVE COVERAGE: Qualifying for the United States Grand Prix",
+   "title": "Antonelli seizes pole position for the United States GP",
+   "summary": "Kimi Antonelli was unbeatable in Qualifying for the United States Grand Prix, with the Italian sealing pole position for the seventh time in 2026.",
+   "url": "https://www.formula1.com/en/latest/article/antonelli-seizes-pole-position-ahead-of-verstappen-in-qualifying-at-the-united-states-gp.4xdH4w09GhNDOJdknowRAk",
+   "date": "2026-10-24T22:43:55.282Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-24T22:43:55.282Z"
+  },
+  {
+   "title": "Trotz Fehler in Q3: Antonelli reicht eine schnelle Runde zur Austin-Pole!",
+   "summary": "Favorit Ferrari bleibt im Qualifying zum Grand Prix der USA unter den Erwartungen, und so gewinnt Antonelli im spannenden Pole-Duell gegen Verstappen",
+   "url": "https://www.formel1.de/nc/149510",
+   "date": "2026-10-24T22:41:30.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli",
+    "max_verstappen"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-24T22:43:55.282Z"
+  },
+  {
+   "title": "Die Qualifying-, Sprint- und Rennduelle der Formel-1-Saison 2026",
+   "summary": "Der aktuelle Zwischenstand bei den Qualifying- und Rennduellen der Teamkollegen in der Formel-1-Saison 2026",
+   "url": "https://www.formel1.de/nc/146557",
+   "date": "2026-10-24T22:25:14.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-24T22:43:55.282Z"
+  },
+  {
+   "title": "LIVE COVERAGE: All the action from Qualifying for the US GP",
    "summary": "Live coverage of the Formula 1 Qualifying session for the 2026 United States Grand Prix in Austin.",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-the-united-states-2026.49VaYyfwlL9ih2hFfuf9r5",
    "date": "2026-10-24T20:43:18.078Z",
@@ -948,55 +997,6 @@
    "team": "mercedes",
    "category": "Regeln",
    "firstSeen": "2026-10-23T10:47:53.304Z"
-  },
-  {
-   "title": "Crawford set for Mexico City FP1 outing with Aston Martin",
-   "summary": "Aston Martin have confirmed that Jak Crawford will drive the AMR26 during FP1 for the 2026 Mexico City Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/crawford-set-for-mexico-city-fp1-outing-with-aston-martin.SpGxwvNGILiMifrzBTX7m",
-   "date": "2026-10-23T08:51:44.631Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "aston_martin"
-   ],
-   "team": "aston_martin",
-   "category": "Rennen",
-   "firstSeen": "2026-10-23T08:51:44.631Z"
-  },
-  {
-   "title": "McLaren drivers 'still allowed to race' each other – Norris",
-   "summary": "Lando Norris has offered an update on McLaren's intra-team orders ahead of the United States Grand Prix, after the reigning World Champion and team mate Oscar Piastri collided at the previous round in Singapore.",
-   "url": "https://www.formula1.com/en/latest/article/still-allowed-to-race-norris-offers-update-on-mclarens-intra-team-orders-ahead-of-united-states-gp.5eqxhHMneE3tNGRKrqFBiW",
-   "date": "2026-10-23T08:50:44.631Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris",
-    "piastri"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Technik",
-   "firstSeen": "2026-10-23T08:51:44.631Z"
-  },
-  {
-   "title": "What could turn the race on its head in Austin?",
-   "summary": "After the lights go out in Austin, bettors will be watching closely to make smart betting decisions in real time.",
-   "url": "https://www.formula1.com/en/latest/article/what-could-turn-the-united-states-grand-prix-on-its-head.4SURbPtQtXjNmWRmbpJNOb",
-   "date": "2026-10-23T08:49:44.631Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-23T08:51:44.631Z"
   }
  ]
 }
