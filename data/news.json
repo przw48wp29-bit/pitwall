@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24T12:56:13.936Z",
+ "updatedAt": "2026-10-24T14:45:23.185Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,73 @@
   }
  },
  "items": [
+  {
+   "title": "Sainz 'not expecting miracles' after Williams struggle in US",
+   "summary": "It was a slow start for Williams at the Circuit of The Americas as Carlos Sainz and Alex Albon struggled to keep their cars on track.",
+   "url": "https://www.formula1.com/en/latest/article/sainz-not-expecting-miracles-after-williams-suffer-disappointing-start-to-the-united-states-grand-prix-weekend.3hBJUgYlHd65CFLlks0E5D",
+   "date": "2026-10-24T14:45:23.162Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "sainz",
+    "albon"
+   ],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "News",
+   "firstSeen": "2026-10-24T14:45:23.162Z"
+  },
+  {
+   "title": "Palmowski closes in on title with Opening Race victory",
+   "summary": "Alisha Palmowski put one hand on the 2026 F1 ACADEMY title as she secured her fifth win of the campaign.",
+   "url": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-closes-in-on-title-with-opening-race-victory-in-austin.3N2UMw9slc62OyhqJox5vH",
+   "date": "2026-10-24T14:44:23.162Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-24T14:45:23.162Z"
+  },
+  {
+   "title": "McLaren verkauft fünf historische Formel-1-Autos - darunter Senna-Boliden",
+   "summary": "McLaren räumt das Archiv auf: Der Traditionsrennstall verkauft fünf Formel-1-Autos, darunter zwei Fahrzeuge aus der letzten Weltmeister-Saison von Ayrton Senna 1991",
+   "url": "https://www.formel1.de/nc/149505",
+   "date": "2026-10-24T14:22:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-10-24T14:45:23.162Z"
+  },
+  {
+   "title": "Cadillac lässt Tür offen: Cockpit von Bottas für 2027 doch nicht sicher?",
+   "summary": "Cadillac-Teamchef Marcin Budkowski vermeidet in der Pressekonferenz in Austin ein Bekenntnis zu Valtteri Bottas und öffnet damit die Tür für Spekulationen",
+   "url": "https://www.formel1.de/nc/149504",
+   "date": "2026-10-24T13:30:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bottas"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "Transfer",
+   "firstSeen": "2026-10-24T14:45:23.162Z"
+  },
   {
    "title": "Best Qualifying bets before the United States GP",
    "summary": "Our expert betting writers share their top picks for Qualifying at the Circuit of the Americas in Texas.",
@@ -110,7 +177,7 @@
    "firstSeen": "2026-10-24T10:46:58.612Z"
   },
   {
-   "title": "Red Bull: Fokus auf zwei Bereiche nach \"positivem\" Start ins Austin-Wochenende",
+   "title": "Max Verstappen: \"Ganz und gar kein schlechter Tag\" in Austin",
    "summary": "Laut Max Verstappen war der Freitag in Austin kein schlechter Tag, während er und Technikchef Pierre Wache zwei Fokusbereiche in den USA ausmachen",
    "url": "https://www.formel1.de/nc/149498",
    "date": "2026-10-24T08:05:28.000Z",
@@ -120,9 +187,7 @@
    "drivers": [
     "max_verstappen"
    ],
-   "teams": [
-    "red_bull"
-   ],
+   "teams": [],
    "team": "red_bull",
    "category": "Technik",
    "firstSeen": "2026-10-24T08:49:08.133Z"
@@ -948,76 +1013,6 @@
     "ferrari"
    ],
    "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-22T22:46:49.794Z"
-  },
-  {
-   "title": "Ocon: Camara deserves a shot – but I don't deserve to be out",
-   "summary": "Esteban Ocon believes Rafael Camara deserves his opportunity with Haas, but remains adamant that he also belongs on the Formula 1 grid in 2027.",
-   "url": "https://www.formula1.com/en/latest/article/ocon-backs-camaras-f1-promotion-but-insists-i-dont-deserve-to-be-out.568MmK87bzFdFANA2rjpXc",
-   "date": "2026-10-22T22:44:49.794Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "ocon"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Rennen",
-   "firstSeen": "2026-10-22T22:46:49.794Z"
-  },
-  {
-   "title": "Hamilton reflects on Singapore mistakes ahead of US GP",
-   "summary": "Lewis Hamilton has reflected on how his strategy error last time out in Singapore cost himself and Ferrari a podium, and that lessons have been learnt ahead of this weekend's United States Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/hurts-when-i-lose-points-for-the-team-hamilton-reflects-on-singapore-strategy-mistake-ahead-of-united-states-gp.7d91ykgwkTr0bkFBxQr9DQ",
-   "date": "2026-10-22T22:43:49.794Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-22T22:46:49.794Z"
-  },
-  {
-   "title": "Piastri reveals ‘clear sign of progress’ in ‘challenging’ year",
-   "summary": "Oscar Piastri has shared the improvements he’s made in adapting to McLaren’s 2026 challenger over recent rounds.",
-   "url": "https://www.formula1.com/en/latest/article/piastri-reveals-clear-sign-of-progress-after-challenging-year-for-mclaren.7LvZdSCorwXqhBAJn1M1Pq",
-   "date": "2026-10-22T22:42:49.794Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "piastri"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Transfer",
-   "firstSeen": "2026-10-22T22:46:49.794Z"
-  },
-  {
-   "title": "Beeindruckendes Comeback: Wie hat Red Bull seine Saison 2026 gerettet?",
-   "summary": "Red Bull hat es einmal mehr geschafft, sich nach einem fürchterlichen Saisonstart in eine herausragende Position zu bringen und um Siege zu fighten",
-   "url": "https://www.formel1.de/nc/149469",
-   "date": "2026-10-22T21:48:42.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
    "category": "News",
    "firstSeen": "2026-10-22T22:46:49.794Z"
   }
