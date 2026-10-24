@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24T10:46:58.873Z",
+ "updatedAt": "2026-10-24T12:56:13.936Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,73 @@
   }
  },
  "items": [
+  {
+   "title": "Best Qualifying bets before the United States GP",
+   "summary": "Our expert betting writers share their top picks for Qualifying at the Circuit of the Americas in Texas.",
+   "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-on-the-markets-before-the-united-states-grand-prix.6SRiExSzMNUKAgKSZ6lZat",
+   "date": "2026-10-24T12:56:13.915Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-24T12:56:13.915Z"
+  },
+  {
+   "title": "24. Oktober 1976: Das Drama von Fuji, das James Hunt zum Weltmeister machte",
+   "summary": "Der Grosse Preis von Japan 1976 in Fuji: Die wahre Story hinter dem WM-Triumph von James Hunt, der gebrochene Pakt mit Niki Lauda und Psychospiele gegen Ferrari",
+   "url": "https://www.formel1.de/nc/113144",
+   "date": "2026-10-24T12:52:19.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-24T12:56:13.915Z"
+  },
+  {
+   "title": "Norris verrät: \"Jede Menge Standpauken\" nach Unfall mit Oscar Piastri in Singapur",
+   "summary": "Lando Norris verrät: Nach dem Unfall mit McLaren-Teamkollege Oscar Piastri hat der Brite \"jede Menge Standpauken bekommen, und es wurden viele Worte gesprochen\"",
+   "url": "https://www.formel1.de/nc/149503",
+   "date": "2026-10-24T12:11:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris",
+    "piastri"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-10-24T12:56:13.915Z"
+  },
+  {
+   "title": "Charles Leclerc wird Vater: Lässt der Ferrari-Pilot dafür sogar ein Rennen aus?",
+   "summary": "Charles Leclerc und Ehefrau Alexandra erwarten das erste Kind - und zwar mitten im hektischen Schlusspurt der Formel-1-Saison: Der Ferrari-Pilot hat einen Plan gemacht",
+   "url": "https://www.formel1.de/nc/149501",
+   "date": "2026-10-24T11:06:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-24T12:56:13.915Z"
+  },
   {
    "title": "Trotz zweitem ADUO-Upgrade: Ungeahnte Probleme für Honda und seinen Motor",
    "summary": "Selbst nach dem Einsatz des zweiten ADUO-Upgrades in Madrid hat Honda weiterhin mit dem Turboloch zu kämpfen - und mit der Fahrbarkeit der Power-Unit",
@@ -953,78 +1020,6 @@
    "team": "red_bull",
    "category": "News",
    "firstSeen": "2026-10-22T22:46:49.794Z"
-  },
-  {
-   "title": "Ferrari-Duell bei Haas: Bearman und Camara kämpfen um Scuderia-Cockpit",
-   "summary": "Oliver Bearman hat das Ferrari-Cockpit im Visier, doch nun kommt Konkurrenz aus eigenen Reihen: Mit Rafael Camara fährt ab 2027 ein weiterer Ferrari-Junior bei Haas",
-   "url": "https://www.formel1.de/nc/149468",
-   "date": "2026-10-22T21:46:35.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bearman"
-   ],
-   "teams": [
-    "ferrari",
-    "haas"
-   ],
-   "team": "ferrari",
-   "category": "Transfer",
-   "firstSeen": "2026-10-22T22:46:49.794Z"
-  },
-  {
-   "title": "Clinching maiden F1 title 'would be a dream' – Antonelli",
-   "summary": "Kimi Antonelli admits that claiming his maiden Formula 1 title this weekend in the United States Grand Prix \"would be a dream\", but that he will need a \"perfect weekend\" in order to achieve the feat.",
-   "url": "https://www.formula1.com/en/latest/article/it-would-be-a-dream-antonelli-targets-perfect-weekend-in-austin-to-claim-maiden-f1-title.39LQkTCcrGsLcfcPGgd4ud",
-   "date": "2026-10-22T20:48:39.044Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-22T20:48:39.044Z"
-  },
-  {
-   "title": "Hadjar insists Red Bull don’t have ‘the fastest car’",
-   "summary": "Isack Hadjar has downplayed Red Bull’s place in the pecking order after his team mate Max Verstappen won the last two races.",
-   "url": "https://www.formula1.com/en/latest/article/i-dont-think-we-have-the-fastest-car-hadjar-highlights-red-bulls-weaknesses-ahead-of-united-states-gp.2ttdHRoEEAi7hCQCc5mABd",
-   "date": "2026-10-22T20:47:39.044Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hadjar",
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-22T20:48:39.044Z"
-  },
-  {
-   "title": "Sainz skeptisch: Formel 1 kann Finale im Nahen Osten noch nicht garantieren",
-   "summary": "Die Formel 1 plant weiter mit einem Saisonfinale in Katar und Abu Dhabi, doch Carlos Sainz ist alles andere als überzeugt: Was den Williams-Piloten aktuell noch stört",
-   "url": "https://www.formel1.de/nc/149467",
-   "date": "2026-10-22T20:38:25.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "sainz"
-   ],
-   "teams": [
-    "williams"
-   ],
-   "team": "williams",
-   "category": "News",
-   "firstSeen": "2026-10-22T20:48:39.044Z"
   }
  ]
 }
