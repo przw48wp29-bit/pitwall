@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24T16:47:28.173Z",
+ "updatedAt": "2026-10-24T18:49:53.066Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,69 @@
   }
  },
  "items": [
+  {
+   "title": "LIVE COVERAGE: Third practice in the United States",
+   "summary": "Live coverage of the final Formula 1 practice session ahead of the 2026 United States Grand Prix in Austin.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-the-united-states-2026.1BD7GmKj1G3IaUnrRcWI3P",
+   "date": "2026-10-24T18:49:53.044Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-24T18:49:53.044Z"
+  },
+  {
+   "title": "Wieder Tracklimits-Chaos in FT3: Leclerc Schnellster, aber Bestzeit für Hamilton",
+   "summary": "Charles Leclerc fährt in Austin die schnellste Runde, und trotzdem gewinnt Lewis Hamilton das Abschlusstraining - Dahinter steckt ein echtes Tracklimits-Chaos",
+   "url": "https://www.formel1.de/nc/149508",
+   "date": "2026-10-24T18:48:17.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc",
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-24T18:49:53.044Z"
+  },
+  {
+   "title": "Christian Horner: Abu Dhabi 2021 war der perfekte Einstieg für mein Buch!",
+   "summary": "Christian Horner erklärt gegenüber unserem Schwesterportal Motorsport.com, wieso sein Buch ausgerechnet mit dem Drama von Abu Dhabi 2021 startet",
+   "url": "https://www.formel1.de/nc/149509",
+   "date": "2026-10-24T18:43:19.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-24T18:49:53.044Z"
+  },
+  {
+   "title": "Norris über Coca-Cola-Affäre in Madrid: \"Sollte trinken dürfen, was ich will\"",
+   "summary": "Lando Norris spricht erneut über den Cola-Ärger in Madrid: McLaren nutzt inzwischen markenlose Getränkehalter, doch Norris bleibt bei seiner Haltung",
+   "url": "https://www.formel1.de/nc/149507",
+   "date": "2026-10-24T18:26:37.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-10-24T18:49:53.044Z"
+  },
   {
    "title": "Freddie Hunt on his father James’ ‘incredible’ 1976 title",
    "summary": "Freddie Hunt, son of the 1976 World Champion James Hunt, explains his father’s incredible legacy.",
@@ -942,71 +1005,6 @@
    "team": "ferrari",
    "category": "News",
    "firstSeen": "2026-10-23T08:51:44.631Z"
-  },
-  {
-   "title": "Mehr als 9 g: Warum Verstappen die Strecke in Austin für \"inakzeptabel\" hält",
-   "summary": "Max Verstappen kritisiert die Bodenwellen in Austin scharf und berichtet von extremen Belastungen für seinen Körper: Er fordert einen radikalen Streckenumbau",
-   "url": "https://www.formel1.de/nc/149471",
-   "date": "2026-10-23T07:02:19.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-23T08:51:44.631Z"
-  },
-  {
-   "title": "All the stories that got the Austin paddock talking",
-   "summary": "Lawrence Barretto rounds up the big talking points to emerge during media day at the United States Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-austin-paddock-talking.3Ft9Iehky7D3daarvVFTEg",
-   "date": "2026-10-23T04:29:52.305Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-23T04:29:52.305Z"
-  },
-  {
-   "title": "Russell on how 2026 has ‘tested my character and resilience’",
-   "summary": "George Russell has reflected on his title chances and the challenges he faced over the course of the 2026 season.",
-   "url": "https://www.formula1.com/en/latest/article/this-wont-be-my-last-shot-russell-on-how-2026-has-tested-my-character-and-resilience.2xvMU03AhxoQpZVAtwkelv",
-   "date": "2026-10-23T04:28:52.305Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-23T04:29:52.305Z"
-  },
-  {
-   "title": "Christian Horner: Mercedes muss Antonelli offiziell zur Nummer 1 machen!",
-   "summary": "Laut dem ehemaligen Red-Bull-Teamchef Christian Horner muss Mercedes Kimi Antonelli in Zukunft als klaren Teamleader definieren",
-   "url": "https://www.formel1.de/nc/149470",
-   "date": "2026-10-23T04:03:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes",
-    "red_bull"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-23T04:29:52.305Z"
   }
  ]
 }
