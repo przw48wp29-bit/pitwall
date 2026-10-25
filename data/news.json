@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T14:46:25.578Z",
+ "updatedAt": "2026-10-25T16:47:48.332Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,20 @@
   }
  },
  "items": [
+  {
+   "title": "Daniel Ricciardo greift zur Mundharmonika: Fans sind begeistert",
+   "summary": "Statt im Formel-1-Cockpit steht Daniel Ricciardo in Austin auf der Bühne - Sein Auftritt mit der Mundharmonika begeistert die Fans in den sozialen Medien",
+   "url": "https://www.formel1.de/nc/149529",
+   "date": "2026-10-25T15:53:37.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-10-25T16:47:48.315Z"
+  },
   {
    "title": "Why Alonso seems as hungry as ever 20 years on from his last title",
    "summary": "It's exactly two decades since Fernando Alonso last tasted title glory in Formula 1, but will he yet write another chapter of success with Aston Martin before he's finished?",
@@ -980,24 +994,6 @@
    ],
    "team": "ferrari",
    "category": "News",
-   "firstSeen": "2026-10-24T04:26:36.599Z"
-  },
-  {
-   "title": "Leclerc warns against ‘high expectations’ at US GP",
-   "summary": "After impressing in Free Practice, Charles Leclerc has shared why Ferrari will find it tough to maintain top spot for the rest of the United States Grand Prix weekend.",
-   "url": "https://www.formula1.com/en/latest/article/we-need-to-be-careful-leclerc-warns-against-high-expectations-at-united-states-gp.3YLWMX7LEph9Fo3qfBbsQn",
-   "date": "2026-10-24T04:23:36.599Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
    "firstSeen": "2026-10-24T04:26:36.599Z"
   }
  ]
