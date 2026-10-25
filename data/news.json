@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T20:44:13.980Z",
+ "updatedAt": "2026-10-25T22:42:40.620Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,77 @@
   }
  },
  "items": [
+  {
+   "title": "Leclerc your US GP Driver of the Day after fighting drive to P2",
+   "summary": "Charles Leclerc scored his second P2 on the bounce after a feisty drive in Austin again put the Ferrari star on the podium. No one could catch Kimi Antonelli, but Leclerc enjoyed a race-long scrap for second place with old adversary Max Verstappen.",
+   "url": "https://www.formula1.com/en/latest/article/driver-of-the-day-leclerc-gets-your-vote-after-beating-verstappen-to-p2-in-austin.57AHVRNPHJYOuZFT4cjZPy",
+   "date": "2026-10-25T22:42:40.602Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "leclerc",
+    "antonelli",
+    "max_verstappen"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T22:42:40.602Z"
+  },
+  {
+   "title": "Antonelli surges to dominant victory in United States GP",
+   "summary": "Kimi Antonelli may not have secured the Drivers' Championship in Austin, but a commanding performance earned him victory over Ferrari's Charles Leclerc.",
+   "url": "https://www.formula1.com/en/latest/article/antonelli-surges-to-dominant-victory-in-united-states-grand-prix-ahead-of-leclerc-and-verstappen.6kmBQv9FNTW7LzkDj8S34j",
+   "date": "2026-10-25T22:41:40.602Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli",
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T22:42:40.602Z"
+  },
+  {
+   "title": "Kimi Antonelli gewinnt in Austin: Jetzt fehlen nur noch zwei Punkte!",
+   "summary": "P4 für Hamilton beim Grand Prix der USA, P8 für Russell: Kimi Antonelli hat nach seinem nächsten Sieg neun von zehn Fingern am WM-Pokal 2026",
+   "url": "https://www.formel1.de/nc/149532",
+   "date": "2026-10-25T22:30:32.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli",
+    "hamilton",
+    "russell"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T22:42:40.602Z"
+  },
+  {
+   "title": "Die Qualifying-, Sprint- und Rennduelle der Formel-1-Saison 2026",
+   "summary": "Der aktuelle Zwischenstand bei den Qualifying- und Rennduellen der Teamkollegen in der Formel-1-Saison 2026",
+   "url": "https://www.formel1.de/nc/146557",
+   "date": "2026-10-25T22:03:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-24T22:43:55.282Z"
+  },
   {
    "title": "Gademan grabs second win with assured Austin drive",
    "summary": "The win takes the Alpine driver up to second in the Drivers’ Standings with just two races to go.",
@@ -40,7 +111,7 @@
    "firstSeen": "2026-10-25T20:44:13.965Z"
   },
   {
-   "title": "LIVE COVERAGE: Antonelli leads the field in United States GP",
+   "title": "LIVE COVERAGE: Antonelli wins United States GP in Austin",
    "summary": "Live coverage of the Formula 1 MSC Cruises United States Grand Prix 2026 in Austin.",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-msc-cruises-united-states-grand-prix-2026.62QsaPaMCCAdaEfWYAmuGL",
    "date": "2026-10-25T20:42:13.965Z",
@@ -674,20 +745,6 @@
    "firstSeen": "2026-10-24T22:43:55.282Z"
   },
   {
-   "title": "Die Qualifying-, Sprint- und Rennduelle der Formel-1-Saison 2026",
-   "summary": "Der aktuelle Zwischenstand bei den Qualifying- und Rennduellen der Teamkollegen in der Formel-1-Saison 2026",
-   "url": "https://www.formel1.de/nc/146557",
-   "date": "2026-10-24T22:25:14.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-24T22:43:55.282Z"
-  },
-  {
    "title": "LIVE COVERAGE: All the action from Qualifying for the US GP",
    "summary": "Live coverage of the Formula 1 Qualifying session for the 2026 United States Grand Prix in Austin.",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-the-united-states-2026.49VaYyfwlL9ih2hFfuf9r5",
@@ -944,55 +1001,6 @@
    "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-10-24T12:56:13.915Z"
-  },
-  {
-   "title": "Trotz zweitem ADUO-Upgrade: Ungeahnte Probleme für Honda und seinen Motor",
-   "summary": "Selbst nach dem Einsatz des zweiten ADUO-Upgrades in Madrid hat Honda weiterhin mit dem Turboloch zu kämpfen - und mit der Fahrbarkeit der Power-Unit",
-   "url": "https://www.formel1.de/nc/149500",
-   "date": "2026-10-24T10:17:46.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Technik",
-   "firstSeen": "2026-10-24T10:46:58.612Z"
-  },
-  {
-   "title": "Antonelli sieht Fortschritte: Mercedes kommt mit den Updates besser zurecht",
-   "summary": "Mercedes macht in Austin weitere Fortschritte mit den Updates am W17: Antonelli fehlen nur 0,042 Sekunden auf die Bestzeit von Charles Leclerc - aber es gibt Arbeit",
-   "url": "https://www.formel1.de/nc/149499",
-   "date": "2026-10-24T08:50:48.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "leclerc"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Technik",
-   "firstSeen": "2026-10-24T10:46:58.612Z"
-  },
-  {
-   "title": "Max Verstappen: \"Ganz und gar kein schlechter Tag\" in Austin",
-   "summary": "Laut Max Verstappen war der Freitag in Austin kein schlechter Tag, während er und Technikchef Pierre Wache zwei Fokusbereiche in den USA ausmachen",
-   "url": "https://www.formel1.de/nc/149498",
-   "date": "2026-10-24T08:05:28.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Technik",
-   "firstSeen": "2026-10-24T08:49:08.133Z"
   }
  ]
 }
