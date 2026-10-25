@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T08:48:32.451Z",
+ "updatedAt": "2026-10-25T10:46:37.656Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,103 @@
   }
  },
  "items": [
+  {
+   "title": "Why F1 fans should avoid emotional bets in Austin",
+   "summary": "Safer gambling is important, so we’ve flagged some key areas where you should keep a cool head when betting during Sunday's race at the Circuit of The Americas.",
+   "url": "https://www.formula1.com/en/latest/article/why-f1-fans-should-avoid-emotional-betting-during-the-united-states-grand-prix-in-austin.6oUesBvtInjTBO6UhiEGu8",
+   "date": "2026-10-25T10:46:37.638Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T10:46:37.638Z"
+  },
+  {
+   "title": "Verstappen reagiert auf CoTA-Chef: Nach fünf Runden kann er nicht mehr laufen!",
+   "summary": "Streckenchef Bobby Epstein spielt die Probleme mit den Bodenwellen in Austin herunter, doch Max Verstappen lädt ihn zu einer Fahrt in seinem Auto ein",
+   "url": "https://www.formel1.de/nc/149523",
+   "date": "2026-10-25T10:36:15.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-25T10:46:37.638Z"
+  },
+  {
+   "title": "\"Weil er Argentinier ist\": Jeremy Clarkson sorgt für Ärger bei Alpine",
+   "summary": "Ein scherzhafter Kommentar von Jeremy Clarkson über Franco Colapinto hat Folgen: Alpine stellt sich hinter seinen Fahrer - Dahinter steckt eine Vorgeschichte",
+   "url": "https://www.formel1.de/nc/149522",
+   "date": "2026-10-25T10:28:37.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "colapinto"
+   ],
+   "teams": [
+    "alpine"
+   ],
+   "team": "alpine",
+   "category": "News",
+   "firstSeen": "2026-10-25T10:46:37.638Z"
+  },
+  {
+   "title": "So kann Kimi Antonelli schon in Austin Formel-1-Weltmeister werden",
+   "summary": "Kim Antonelli steht nach seinem Podestplatz in Singapur vor dem Gewinn seines ersten WM-Titels: Die Entscheidung kann nun bereits in Austin fallen",
+   "url": "https://www.formel1.de/nc/149331",
+   "date": "2026-10-25T09:45:34.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-25T10:46:37.638Z"
+  },
+  {
+   "title": "Vor WM-Entscheidung: Max Verstappen will mit Kimi Antonelli den Titel feiern",
+   "summary": "Kimi Antonelli kann sich in Austin bereits zum Formel-1-Weltmeister krönen: Max Verstappen glaubt an seinen Erfolg - und würde gemeinsam mit dem Italiener feiern",
+   "url": "https://www.formel1.de/nc/149521",
+   "date": "2026-10-25T09:41:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-25T10:46:37.638Z"
+  },
+  {
+   "title": "Trotz Favoritenstatus: Warum Ferrari erneut die Pole verpasste",
+   "summary": "Ferrari galt nach den Freien Trainings in Austin als das Team, das es zu schlagen galt - Doch als es im Qualifying darauf ankam, konnte die Scuderia nicht mehr nachlegen",
+   "url": "https://www.formel1.de/nc/149520",
+   "date": "2026-10-25T09:13:54.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T10:46:37.638Z"
+  },
   {
    "title": "Lando Norris nach Austin-Qualifying: \"Albtraum\", den McLaren abzustimmen",
    "summary": "Lando Norris kämpft auch im Austin-Qualifying mit seinem Auto: Der Weltmeister erklärt das aktuelle Problem des McLaren MCL40 - und was möglich gewesen wäre",
@@ -904,101 +1001,6 @@
    "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-10-23T22:46:24.860Z"
-  },
-  {
-   "title": "Was hinter dem \"Weniger-als-eine-Zehntel\"-Update von Ferrari steckt",
-   "summary": "Ferrari hat sein Auto für das Formel-1-Rennen in Austin überarbeitet, doch warum bringt man ein Upgrade nach Übersee, das weniger als eine Zehntel bringen soll?",
-   "url": "https://www.formel1.de/nc/149492",
-   "date": "2026-10-23T21:37:11.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Technik",
-   "firstSeen": "2026-10-23T22:46:24.860Z"
-  },
-  {
-   "title": "Charles Leclerc: Mache immer noch Notizen, um von Hamilton zu lernen",
-   "summary": "Charles Leclerc analysiert Lewis Hamiltons Daten: Die ungewöhnliche aktuelle Autogeneration sieht er trotz mancher Nachteile als Lernchance",
-   "url": "https://www.formel1.de/nc/149491",
-   "date": "2026-10-23T21:05:59.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc",
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-23T22:46:24.860Z"
-  },
-  {
-   "title": "AS IT HAPPENED: Second practice in the United States",
-   "summary": "Live coverage of the second Formula 1 practice session ahead of the 2026 United States Grand Prix in Austin.",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-the-united-states-2026.3cC2d5dlTvN0egy2pb11Ko",
-   "date": "2026-10-23T20:49:41.437Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-23T20:49:41.437Z"
-  },
-  {
-   "title": "Lindblad, Colapinto and Bortoleto to take penalties for US GP",
-   "summary": "Arvid Lindblad, Franco Colapinto and Gabriel Bortoleto have all received grid penalties for various PU changes at the United States Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/lindblad-colapinto-and-bortoleto-to-take-grid-penalties-for-united-states-grand-prix.4qjn84W4zOmwNXeELFWn0k",
-   "date": "2026-10-23T20:48:41.437Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "arvid_lindblad",
-    "colapinto",
-    "bortoleto"
-   ],
-   "teams": [],
-   "team": "rb",
-   "category": "Rennen",
-   "firstSeen": "2026-10-23T20:49:41.437Z"
-  },
-  {
-   "title": "Mit Daniel Ricciardo im Publikum: Live-Konzert von Liam Lawson in Austin",
-   "summary": "Liam Lawson stand am Donnerstag live bei einem Musikauftritt auf der Bühne: Im Publikum war unter anderem auch Daniel Ricciardo zu finden",
-   "url": "https://www.formel1.de/nc/149490",
-   "date": "2026-10-23T20:37:11.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "lawson"
-   ],
-   "teams": [],
-   "team": "rb",
-   "category": "News",
-   "firstSeen": "2026-10-23T20:49:41.437Z"
-  },
-  {
-   "title": "Sohn von Toto Wolff: Schwerer Unfall bei Kartrennen in Italien",
-   "summary": "Jack Wolff, der Sohn von Toto Wolff, wurde in Italien in einen schweren Kartunfall verwickelt, will aber am Wochenende bereits wieder fahren",
-   "url": "https://www.formel1.de/nc/149489",
-   "date": "2026-10-23T19:58:47.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-23T20:49:41.437Z"
   }
  ]
 }
