@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T04:49:07.813Z",
+ "updatedAt": "2026-10-25T07:00:30.266Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Das Highlight eines verkorksten Jahres: Herta erlebt \"superspezielles\" Training",
+   "summary": "Colton Herta durfte bei seinem Heimspiel in Austin an den Ort seines ersten IndyCar-Sieges zurück: Trotz einer Horrorsaison in der Formel 2 hofft er weiter auf Cadillac",
+   "url": "https://www.formel1.de/nc/149517",
+   "date": "2026-10-25T05:30:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T07:00:30.143Z"
+  },
   {
    "title": "How Lawson helped Lindblad by sacrificing his Q3 run",
    "summary": "Liam Lawson didn't venture out during Q3 in Austin as team mate Arvid Lindblad goes into Sunday's race with a grid penalty.",
@@ -978,20 +994,6 @@
    ],
    "teams": [],
    "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-23T18:57:05.929Z"
-  },
-  {
-   "title": "AS IT HAPPENED: First practice for the United States GP",
-   "summary": "Live coverage of the first Formula 1 practice session for the 2026 United States Grand Prix in Austin.",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-the-united-states-2026.4RPi7TTxLPbQv2rXIDvFPk",
-   "date": "2026-10-23T18:56:05.929Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
    "category": "Rennen",
    "firstSeen": "2026-10-23T18:57:05.929Z"
   }
