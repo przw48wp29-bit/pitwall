@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T16:47:48.332Z",
+ "updatedAt": "2026-10-25T18:51:19.148Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,25 @@
   }
  },
  "items": [
+  {
+   "title": "Leclerc warnt Ferrari vor nächstem Zwischenfall: \"Wir kennen die Grenze\"",
+   "summary": "Nach dem Zwischenfall in Monza mahnt Charles Leclerc zur Vorsicht: In Austin starten er und Lewis Hamilton direkt hintereinander",
+   "url": "https://www.formel1.de/nc/149530",
+   "date": "2026-10-25T18:28:36.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc",
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-25T18:51:19.126Z"
+  },
   {
    "title": "Daniel Ricciardo greift zur Mundharmonika: Fans sind begeistert",
    "summary": "Statt im Formel-1-Cockpit steht Daniel Ricciardo in Austin auf der Bühne - Sein Auftritt mit der Mundharmonika begeistert die Fans in den sozialen Medien",
@@ -978,22 +997,6 @@
    "teams": [],
    "team": null,
    "category": "Rennen",
-   "firstSeen": "2026-10-24T04:26:36.599Z"
-  },
-  {
-   "title": "Can Ferrari stay ahead as a four-team fight takes shape?",
-   "summary": "Lawrence Barretto assesses the field after the first day of running at the Circuit of The Americas in Austin, Texas.",
-   "url": "https://www.formula1.com/en/latest/article/can-ferrari-stay-ahead-as-a-four-team-fight-takes-shape.3ePqUiXexJD4IMfFbBRLgU",
-   "date": "2026-10-24T04:24:36.599Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
    "firstSeen": "2026-10-24T04:26:36.599Z"
   }
  ]
