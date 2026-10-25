@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T07:00:30.266Z",
+ "updatedAt": "2026-10-25T08:48:32.451Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,43 @@
   }
  },
  "items": [
+  {
+   "title": "Lando Norris nach Austin-Qualifying: \"Albtraum\", den McLaren abzustimmen",
+   "summary": "Lando Norris kämpft auch im Austin-Qualifying mit seinem Auto: Der Weltmeister erklärt das aktuelle Problem des McLaren MCL40 - und was möglich gewesen wäre",
+   "url": "https://www.formel1.de/nc/149519",
+   "date": "2026-10-25T08:23:49.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T08:48:32.425Z"
+  },
+  {
+   "title": "Kimi Antonelli verursacht bei Mercedes einen kuriosen Zwischenfall bei PR-Dreh",
+   "summary": "Während Kimi Antonelli seinem ersten WM-Titel entgegenfährt, unterläuft ihm bei einem PR-Dreh ein Missgeschick - George Russell kann sich Lachen nicht verkneifen",
+   "url": "https://www.formel1.de/nc/149518",
+   "date": "2026-10-25T07:13:15.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli",
+    "russell"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-25T08:48:32.425Z"
+  },
   {
    "title": "Das Highlight eines verkorksten Jahres: Herta erlebt \"superspezielles\" Training",
    "summary": "Colton Herta durfte bei seinem Heimspiel in Austin an den Ort seines ersten IndyCar-Sieges zurück: Trotz einer Horrorsaison in der Formel 2 hofft er weiter auf Cadillac",
@@ -962,40 +999,6 @@
    "team": null,
    "category": "News",
    "firstSeen": "2026-10-23T20:49:41.437Z"
-  },
-  {
-   "title": "Carlos Sainz: Williams-Management hat gesagt, wir sollen sofort alles ändern",
-   "summary": "Carlos Sainz hält Williams derzeit kaum für punktefähig, weshalb das Team mitten in der Saison Abläufe und Strukturen für 2027 verändert",
-   "url": "https://www.formel1.de/nc/149488",
-   "date": "2026-10-23T19:37:12.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "sainz"
-   ],
-   "teams": [
-    "williams"
-   ],
-   "team": "williams",
-   "category": "News",
-   "firstSeen": "2026-10-23T20:49:41.437Z"
-  },
-  {
-   "title": "Leclerc fastest in first practice for the United States GP",
-   "summary": "Charles Leclerc topped the times during first practice at the United States Grand Prix weekend.",
-   "url": "https://www.formula1.com/en/latest/article/fp1-leclerc-fastest-in-first-practice-for-the-united-states-gp-ahead-of-verstappen-and-norris.125WlaFK7K1mXXyLgb93ui",
-   "date": "2026-10-23T18:57:05.929Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-23T18:57:05.929Z"
   }
  ]
 }
