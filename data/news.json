@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T12:56:11.786Z",
+ "updatedAt": "2026-10-25T14:46:25.578Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,42 @@
   }
  },
  "items": [
+  {
+   "title": "Why Alonso seems as hungry as ever 20 years on from his last title",
+   "summary": "It's exactly two decades since Fernando Alonso last tasted title glory in Formula 1, but will he yet write another chapter of success with Aston Martin before he's finished?",
+   "url": "https://www.formula1.com/en/latest/article/why-alonso-seems-as-hungry-as-ever-20-years-on-from-his-last-title.10pZGrzMAwyYODdxZrej0Z",
+   "date": "2026-10-25T14:46:25.561Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-10-25T14:46:25.561Z"
+  },
+  {
+   "title": "\"Kein Problem\": Lewis Hamilton kontert heftige Kritik am Circuit of The Americas",
+   "summary": "Bodenwellen in Austin sorgen für heftigen Ärger bei den Fahrern, nur Lewis Hamilton kann die Kritik nicht nachvollziehen - Der Ferrari-Pilot mag die Unebenheiten sogar",
+   "url": "https://www.formel1.de/nc/149528",
+   "date": "2026-10-25T14:33:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-25T14:46:25.561Z"
+  },
   {
    "title": "Our final predictions and latest United States GP odds",
    "summary": "Our expert betting writers bring you their final predictions and latest odds before the United States Grand Prix.",
@@ -962,42 +998,6 @@
    ],
    "team": "ferrari",
    "category": "Rennen",
-   "firstSeen": "2026-10-24T04:26:36.599Z"
-  },
-  {
-   "title": "Why Norris found it 'very difficult' to maximise the McLaren",
-   "summary": "Lando Norris' was left to rue the MCL40's handling on the first day of running in Austin despite signs of pace.",
-   "url": "https://www.formula1.com/en/latest/article/why-norris-found-it-very-difficult-to-maximise-the-mclarens-potential-in-austin.2w8uKimVta60U6RKqTTwJd",
-   "date": "2026-10-24T04:22:36.599Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Transfer",
-   "firstSeen": "2026-10-24T04:26:36.599Z"
-  },
-  {
-   "title": "Antonelli explains ‘steps forward’ with Mercedes’ upgrades",
-   "summary": "Kimi Antonelli is confident that Mercedes have begun to get the most out of their recent upgrade package at the Circuit of The Americas.",
-   "url": "https://www.formula1.com/en/latest/article/antonelli-explains-steps-forward-with-mercedes-upgrades-during-free-practice-at-us-gp.2XV6b0WII3eonLYi1DamuL",
-   "date": "2026-10-24T04:21:36.599Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Technik",
    "firstSeen": "2026-10-24T04:26:36.599Z"
   }
  ]
