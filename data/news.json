@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T10:46:37.656Z",
+ "updatedAt": "2026-10-25T12:56:11.786Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,89 @@
   }
  },
  "items": [
+  {
+   "title": "Our final predictions and latest United States GP odds",
+   "summary": "Our expert betting writers bring you their final predictions and latest odds before the United States Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/our-final-united-states-grand-prix-betting-predictions-before-lights-out-in-austin.7wK6ZBsc9n2SzTMYUrlMPh",
+   "date": "2026-10-25T12:56:11.768Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T12:56:11.768Z"
+  },
+  {
+   "title": "Our Bet Builder prediction for the United States GP",
+   "summary": "We have picked a four-leg Bet Builder for Austin, including podium finish and points-finish selections.",
+   "url": "https://www.formula1.com/en/latest/article/our-united-states-grand-prix-bet-builder-predictions-after-kimi-antonelli-takes-pole-in-austin.4WblOovwGX7MwnjMW9CjIK",
+   "date": "2026-10-25T12:55:11.768Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T12:56:11.768Z"
+  },
+  {
+   "title": "Fiese Aktion! Bortoleto zieht Audi-Kollege Hülkenberg vor Fans die Hose herunter",
+   "summary": "Gabriel Bortoleto sorgt beim Formel-1-Wochenende in Austin für einen Lacher: Der Audi-Pilot zieht seinem Teamkollegen Nico Hülkenberg vor den Fans die Hose runter",
+   "url": "https://www.formel1.de/nc/149526",
+   "date": "2026-10-25T11:36:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bortoleto",
+    "hulkenberg"
+   ],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-10-25T12:56:11.768Z"
+  },
+  {
+   "title": "Party-Plan gegen den Teamkollegen: So will Russell Antonellis WM verhindern",
+   "summary": "George Russell sieht nur noch eine Chance, Kimi Antonelli vom Titelgewinn abzuhalten: Ihn in den USA wegen Alkohol verhaften zu lassen",
+   "url": "https://www.formel1.de/nc/149525",
+   "date": "2026-10-25T11:29:26.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell",
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-25T12:56:11.768Z"
+  },
+  {
+   "title": "Analyse: Wo Max Verstappen in Austin die Pole gegen Antonelli verloren hat",
+   "summary": "Max Verstappen muss sich im Qualifying in Austin gegen Kimi Antonelli geschlagen geben: Wo der Red-Bull-Pilot die entscheidende Zeit auf die Pole-Runde verloren hat",
+   "url": "https://www.formel1.de/nc/149524",
+   "date": "2026-10-25T10:58:03.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "antonelli"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T12:56:11.768Z"
+  },
   {
    "title": "Why F1 fans should avoid emotional bets in Austin",
    "summary": "Safer gambling is important, so we’ve flagged some key areas where you should keep a cool head when betting during Sunday's race at the Circuit of The Americas.",
@@ -916,91 +999,6 @@
    "team": "mercedes",
    "category": "Technik",
    "firstSeen": "2026-10-24T04:26:36.599Z"
-  },
-  {
-   "title": "Newey assesses Honda progress amid ‘buzz’ at Aston Martin",
-   "summary": "Adrian Newey has offered an encouraging assessment of Aston Martin’s progress behind the scenes, while admitting Honda are “a little bit behind” where he hoped they would be.",
-   "url": "https://www.formula1.com/en/latest/article/newey-says-aston-martin-buzz-is-building-as-he-assesses-honda-progress.kzKViWGhuRLo8pVF3yZl0",
-   "date": "2026-10-24T04:20:36.599Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "aston_martin"
-   ],
-   "team": "aston_martin",
-   "category": "News",
-   "firstSeen": "2026-10-24T04:26:36.599Z"
-  },
-  {
-   "title": "Longruns Austin: Leclerc und Verstappen vorn, Mercedes kämpft",
-   "summary": "Charles Leclerc und Max Verstappen liegen in den Austin-Longruns gleichauf, Norris lauert dahinter: Reifenverschleiss und Strategie werfen Fragen auf",
-   "url": "https://www.formel1.de/nc/149495",
-   "date": "2026-10-24T00:39:22.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc",
-    "max_verstappen",
-    "norris"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-24T04:26:36.599Z"
-  },
-  {
-   "title": "\"Hinken einen Schritt hinterher\": Was McLaren mit seinem Update lösen will",
-   "summary": "McLaren bringt in Austin den ersten Schritt seines letzten Upgrade-Paketes 2026: Doch kann man damit seine grossen Probleme mit dem MCL40 lösen?",
-   "url": "https://www.formel1.de/nc/149494",
-   "date": "2026-10-23T23:47:42.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Technik",
-   "firstSeen": "2026-10-24T04:26:36.599Z"
-  },
-  {
-   "title": "Freitag in Austin: Leclerc nach heisser Szene mit Russell Schnellster",
-   "summary": "Charles Leclerc fährt in Austin zweimal Bestzeit, doch eine brenzlige Szene mit George Russell sorgt für Aufregung und beschäftigt die Rennkommissare",
-   "url": "https://www.formel1.de/nc/149493",
-   "date": "2026-10-23T23:17:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc",
-    "russell"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Regeln",
-   "firstSeen": "2026-10-23T22:46:24.860Z"
-  },
-  {
-   "title": "Leclerc sets the pace in FP2 at the United States GP",
-   "summary": "Charles Leclerc topped the timesheets in the second hour of practice at the United States Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/fp2-leclerc-sets-the-pace-from-antonelli-and-verstappen-in-second-practice-at-united-states-grand-prix.4lRGhApoylA3exqOxagIqx",
-   "date": "2026-10-23T22:46:24.860Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-23T22:46:24.860Z"
   }
  ]
 }
