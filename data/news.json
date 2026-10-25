@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-24T22:43:55.402Z",
+ "updatedAt": "2026-10-25T04:49:07.813Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,259 @@
   }
  },
  "items": [
+  {
+   "title": "How Lawson helped Lindblad by sacrificing his Q3 run",
+   "summary": "Liam Lawson didn't venture out during Q3 in Austin as team mate Arvid Lindblad goes into Sunday's race with a grid penalty.",
+   "url": "https://www.formula1.com/en/latest/article/how-lawson-helped-racing-bulls-team-mate-lindblad-by-sacrificing-his-q3-run.dTI59a1UDuyke2gc1RC7b",
+   "date": "2026-10-25T04:49:07.798Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "lawson",
+    "arvid_lindblad"
+   ],
+   "teams": [],
+   "team": "rb",
+   "category": "Regeln",
+   "firstSeen": "2026-10-25T04:49:07.798Z"
+  },
+  {
+   "title": "‘We can’t fix core problems' – Albon on Williams' Qualifying",
+   "summary": "The Williams pair were left frustrated as the team continue to experience a difficult United States Grand Prix weekend.",
+   "url": "https://www.formula1.com/en/latest/article/we-cant-fix-core-problems-albon-delivers-honest-verdict-after-challenging-qualifying-for-williams-in-austin.LO31B2xewgPJfUt5kSgoB",
+   "date": "2026-10-25T04:48:07.798Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "albon"
+   ],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T04:49:07.798Z"
+  },
+  {
+   "title": "Palmowski crowned 2026 champion as Larsen takes maiden victory",
+   "summary": "Alisha Palmowski has been crowned the 2026 F1 ACADEMY champion after charging from eighth to second in Austin’s Reverse Grid Race, as Alba Larsen claimed her maiden victory.",
+   "url": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-crowned-2026-champion-as-larsen-takes-maiden-victory-in-austin.4AiAv0y5slEikwSUxzQuX4",
+   "date": "2026-10-25T04:47:07.798Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T04:49:07.798Z"
+  },
+  {
+   "title": "What are the tyre strategy options for the United States GP?",
+   "summary": "Matt Youson takes a look at the different pit stop and tyre options that are available to the teams on race day at the Circuit of The Americas.",
+   "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-united-states-gp.6GuFxNKHQ7TgdoH0Cc78TD",
+   "date": "2026-10-25T04:46:07.798Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T04:49:07.798Z"
+  },
+  {
+   "title": "Hamilton explains Ferrari’s Qualifying deficit in Austin",
+   "summary": "Lewis Hamilton and Charles Leclerc have explained why Ferrari were unable to carry their practice pace into Qualifying for the United States Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/hamilton-says-ferrari-are-losing-out-on-the-straights-after-taking-p5-in-us-gp-qualifying.3HHgLe8LEJj5Cb90uXqIYL",
+   "date": "2026-10-25T04:45:07.798Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T04:49:07.798Z"
+  },
+  {
+   "title": "What the teams said – Qualifying in the United States",
+   "summary": "The drivers and teams report back on all the action from final practice and Qualifying at the Circuit of The Americas ahead of the United States Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-the-united-states-2026.6m6ZshJA1PBALW8K467AQQ",
+   "date": "2026-10-25T04:44:07.798Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T04:49:07.798Z"
+  },
+  {
+   "title": "What To Watch For in the United States Grand Prix",
+   "summary": "Chris Medland picks out five key things to keep an eye on when the lights go out on race day at the Circuit of The Americas in Austin, Texas.",
+   "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-united-states-grand-prix.1Ftck085fCa8NWcCRtR6yq",
+   "date": "2026-10-25T04:43:07.798Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T04:49:07.798Z"
+  },
+  {
+   "title": "Verstappen baffled after missing out on Austin pole",
+   "summary": "Ferrari topped all three Practice sessions in Texas, but it was Mercedes and Kimi Antonelli who denied Max Verstappen a third-straight pole position this season.",
+   "url": "https://www.formula1.com/en/latest/article/verstappen-baffled-after-missing-out-on-united-states-grand-prix-pole-position-in-austin.6MHMgwAJfyIvn6cFUbeKLR",
+   "date": "2026-10-25T04:42:07.798Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen",
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes",
+    "ferrari"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T04:49:07.798Z"
+  },
+  {
+   "title": "Russell reflects on Austin Qualifying struggles",
+   "summary": "George Russell will start from sixth for the United States Grand Prix while his team mate Kimi Antonelli claimed pole.",
+   "url": "https://www.formula1.com/en/latest/article/russell-reflects-on-austin-qualifying-struggles-after-one-slide-led-to-a-snowball.rAYr78wrhqMG7GJfIca7R",
+   "date": "2026-10-25T04:41:07.798Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "russell",
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T04:49:07.798Z"
+  },
+  {
+   "title": "Bemused Wolff celebrates Antonelli’s ‘miracle lap’ in the US",
+   "summary": "Mercedes Team Principal Toto Wolff has praised Kimi Antonelli for his pole position lap at the Circuit of The Americas.",
+   "url": "https://www.formula1.com/en/latest/article/bemused-wolff-celebrates-antonellis-miracle-lap-in-qualifying-at-the-united-states-gp.16Hhn5cueHlsfCdfY62pka",
+   "date": "2026-10-25T04:40:07.798Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T04:49:07.798Z"
+  },
+  {
+   "title": "Liam Lawson wollte fahren, aber: Racing Bulls erlaubte Q3-Teilnahme nicht!",
+   "summary": "Liam Lawson wäre liebend gerne in Q3 gefahren, doch sein Team verhinderte eine Teilnahme und hatte dafür gute Gründe - Arvid Lindblad verliert fünf Plätze",
+   "url": "https://www.formel1.de/nc/149516",
+   "date": "2026-10-25T01:51:46.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "lawson",
+    "arvid_lindblad"
+   ],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T04:49:07.798Z"
+  },
+  {
+   "title": "Wegen extremer Bodenwellen in Austin: Albon fürchtet Bandscheiben-Probleme",
+   "summary": "Alexander Albon warnt vor möglichen Langzeitfolgen der Bodenwellen in Austin: Norris nimmt Schmerztabletten, mehrere Fahrer fordern Veränderungen",
+   "url": "https://www.formel1.de/nc/149515",
+   "date": "2026-10-25T01:36:52.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "albon",
+    "norris"
+   ],
+   "teams": [],
+   "team": "williams",
+   "category": "News",
+   "firstSeen": "2026-10-25T04:49:07.798Z"
+  },
+  {
+   "title": "Hadjar auf P3: Bis Q3 war Austin \"eine Katastrophe von einem Wochenende\"",
+   "summary": "Isack Hadjar konnte sich nach einem bislang schwierigen Austin-Wochenende über Rang drei freuen - Red Bull im Rennen sogar siegfähig?",
+   "url": "https://www.formel1.de/nc/149513",
+   "date": "2026-10-25T01:28:59.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hadjar"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T04:49:07.798Z"
+  },
+  {
+   "title": "\"Wie ein Känguru\": Verstappen hadert mit verpasster Pole in Austin",
+   "summary": "Max Verstappen verpasst die Poleposition in Austin um 0,179 Sekunden: Nach starkem Q2 fehlten ihm in Q3 plötzlich Grip und Vertrauen",
+   "url": "https://www.formel1.de/nc/149512",
+   "date": "2026-10-25T01:06:11.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T04:49:07.798Z"
+  },
+  {
+   "title": "Mercedes jubelt über Antonelli-Pole: \"Game over für alle anderen!\"",
+   "summary": "Kimi Antonelli macht mit der Pole einen guten Schritt in Richtung WM-Titel: Toto Wolff ist überrascht, während Antonelli vor allem die Tracklimits im Blick hatte",
+   "url": "https://www.formel1.de/nc/149511",
+   "date": "2026-10-24T23:54:17.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-25T04:49:07.798Z"
+  },
   {
    "title": "Antonelli seizes pole position for the United States GP",
    "summary": "Kimi Antonelli was unbeatable in Qualifying for the United States Grand Prix, with the Italian sealing pole position for the seventh time in 2026.",
@@ -29,7 +282,7 @@
    "title": "Trotz Fehler in Q3: Antonelli reicht eine schnelle Runde zur Austin-Pole!",
    "summary": "Favorit Ferrari bleibt im Qualifying zum Grand Prix der USA unter den Erwartungen, und so gewinnt Antonelli im spannenden Pole-Duell gegen Verstappen",
    "url": "https://www.formel1.de/nc/149510",
-   "date": "2026-10-24T22:41:30.000Z",
+   "date": "2026-10-24T22:41:00.000Z",
    "source": "Formel1.de",
    "sourceId": "formel1de",
    "lang": "de",
@@ -741,262 +994,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-10-23T18:57:05.929Z"
-  },
-  {
-   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
-   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
-   "url": "https://www.formel1.de/nc/146408",
-   "date": "2026-10-23T18:51:17.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Transfer",
-   "firstSeen": "2026-10-20T16:49:32.274Z"
-  },
-  {
-   "title": "Verstappen eigentlich Schnellster: So kam Leclerc in Austin auf Platz 1",
-   "summary": "Keine Überraschungen beim Trainingsauftakt in den USA: Ferrari und Red Bull geben den Ton an, Kimi Antonelli absolviert vor der möglichen Kür die Pflicht",
-   "url": "https://www.formel1.de/nc/149487",
-   "date": "2026-10-23T18:37:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "leclerc",
-    "antonelli"
-   ],
-   "teams": [
-    "red_bull",
-    "ferrari"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-23T18:57:05.929Z"
-  },
-  {
-   "title": "\"Aufregendste Strecke der Saison\": Warum die Formel-1-Fahrer Austin lieben",
-   "summary": "Leclerc, Sainz und Hülkenberg lieben Austins Layout und die Zweikämpfe, doch die berüchtigten Bodenwellen bleiben ein langjähriger Kritikpunkt der Strecke",
-   "url": "https://www.formel1.de/nc/149486",
-   "date": "2026-10-23T18:18:36.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc",
-    "sainz",
-    "hulkenberg"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-23T18:57:05.929Z"
-  },
-  {
-   "title": "Alonso über IndyCar in Barcelona: Warum er vor zu viel Expansion warnt",
-   "summary": "Fernando Alonso begrüsst die Rückkehr der IndyCar nach Europa, doch der Formel-1-Star warnt vor den Folgen einer zu starken internationalen Expansion",
-   "url": "https://www.formel1.de/nc/149485",
-   "date": "2026-10-23T16:29:24.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "alonso"
-   ],
-   "teams": [],
-   "team": "aston_martin",
-   "category": "News",
-   "firstSeen": "2026-10-23T16:51:58.649Z"
-  },
-  {
-   "title": "Can Alpine bounce back and take the P5 fight to Racing Bulls?",
-   "summary": "Racing Bulls have built a 32-point advantage over Alpine in the fight for P5, but Pierre Gasly and Franco Colapinto believe there is still time to turn the tables.",
-   "url": "https://www.formula1.com/en/latest/article/can-alpine-bounce-back-and-take-the-p5-fight-to-racing-bulls.6PEAFH06BcZUdo2HS4iEFB",
-   "date": "2026-10-23T14:54:28.228Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "gasly",
-    "colapinto"
-   ],
-   "teams": [
-    "rb",
-    "alpine"
-   ],
-   "team": "rb",
-   "category": "News",
-   "firstSeen": "2026-10-23T14:54:28.228Z"
-  },
-  {
-   "title": "Carlos Sainz: Zu viele Rennen könnten Fans F1-müde machen",
-   "summary": "Neun Grands Prix in elf Wochen: Carlos Sainz sieht die Formel 1 vor einer Grundsatzfrage und warnt vor Übersättigung und enormen Belastungen",
-   "url": "https://www.formel1.de/nc/149484",
-   "date": "2026-10-23T14:22:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "sainz"
-   ],
-   "teams": [],
-   "team": "williams",
-   "category": "Rennen",
-   "firstSeen": "2026-10-23T14:54:28.228Z"
-  },
-  {
-   "title": "Max Verstappen: So reagiert er auf das Buch von Christian Horner",
-   "summary": "Christian Horner blickt in seinem Buch auf die Vergangenheit zurück, Max Verstappen dagegen richtet den Blick nach vorne - und erklärt seine Haltung",
-   "url": "https://www.formel1.de/nc/149483",
-   "date": "2026-10-23T13:41:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-23T14:54:28.228Z"
-  },
-  {
-   "title": "Renaults ehemaliger F1-Motorenstandort: Unternehmen bietet Übernahme an",
-   "summary": "Renault gibt seinen traditionsreichen Formel-1-Motorenstandort Viry-Chatillon auf - Nun liegt ein Übernahmeangebot vor, doch die Zukunft der Mitarbeiter ist offen",
-   "url": "https://www.formel1.de/nc/149482",
-   "date": "2026-10-23T13:22:46.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-23T14:54:28.228Z"
-  },
-  {
-   "title": "Lewis Hamilton erklärt: Darum kam er in Singapur nicht zum Boxenstopp",
-   "summary": "Lewis Hamilton räumt nach dem Singapur-Grand-Prix einen Strategiefehler ein: Warum er trotzdem auch künftig eigene Entscheidungen treffen möchte",
-   "url": "https://www.formel1.de/nc/149480",
-   "date": "2026-10-23T12:56:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-23T12:59:43.636Z"
-  },
-  {
-   "title": "Oscar Piastri kämpft mit seinem McLaren: Was 2026 plötzlich anders ist",
-   "summary": "Oscar Piastri sucht 2026 weiter nach seiner Bestform: Ausgerechnet seine erfolgreichen Fahrtechniken aus dem Vorjahr stehen ihm dabei im Weg",
-   "url": "https://www.formel1.de/nc/149479",
-   "date": "2026-10-23T12:02:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "piastri"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-10-23T12:59:43.636Z"
-  },
-  {
-   "title": "Ferrari-Piloten relativieren Austin-Update: Bringt eine halbe Zehntelsekunde",
-   "summary": "Ferrari bringt in Austin ein Update, das laut den Fahrern jedoch nicht so gross sein soll wie angenommen - Trotzdem bleibt die Hoffnung auf einen dritten Saisonsieg",
-   "url": "https://www.formel1.de/nc/149478",
-   "date": "2026-10-23T11:35:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Technik",
-   "firstSeen": "2026-10-23T12:59:43.636Z"
-  },
-  {
-   "title": "Norris, Piastri, Russell: Wie Red Bull drei F1-Stars durch die Lappen gingen",
-   "summary": "Drei spätere Formel-1-Stars überzeugten einst im Red-Bull-Simulator, doch aus Norris, Piastri und Russell wurden keine Red-Bull-Junioren - warum eigentlich?",
-   "url": "https://www.formel1.de/nc/149477",
-   "date": "2026-10-23T10:43:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris",
-    "piastri",
-    "russell"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-23T10:47:53.304Z"
-  },
-  {
-   "title": "Antonelli vor erstem Matchball: \"Müssen den Job ordentlich zu Ende bringen\"",
-   "summary": "Kimi Antonelli kann in Austin den WM-Titel dingfest machen und sich zum jüngsten Weltmeister krönen, doch der Mercedes-Pilot will es Schritt für Schritt angehen",
-   "url": "https://www.formel1.de/nc/149476",
-   "date": "2026-10-23T10:15:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-23T10:47:53.304Z"
-  },
-  {
-   "title": "\"Tut mir weh\": Colapinto erklärt Botschaft gegen Online-Hass",
-   "summary": "Franco Colapinto erklärt die Hintergründe zu seinem Video-Statement und betont, dass er sich vor allem, um seine Teammitglieder sorgt",
-   "url": "https://www.formel1.de/nc/149475",
-   "date": "2026-10-23T09:33:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "colapinto"
-   ],
-   "teams": [],
-   "team": "alpine",
-   "category": "News",
-   "firstSeen": "2026-10-23T10:47:53.304Z"
-  },
-  {
-   "title": "Warum Antonelli besser ist: Russell nennt den entscheidenden Unterschied",
-   "summary": "George Russell sieht einen entscheidenden Grund für Antonellis WM-Vorsprung: Die neuen Formel-1-Regeln begünstigen einen bestimmten Fahrstil",
-   "url": "https://www.formel1.de/nc/149474",
-   "date": "2026-10-23T09:00:28.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "russell"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Regeln",
-   "firstSeen": "2026-10-23T10:47:53.304Z"
   }
  ]
 }
