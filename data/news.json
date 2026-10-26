@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T19:04:50.207Z",
+ "updatedAt": "2026-10-26T20:52:12.054Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -192,7 +192,7 @@
    "firstSeen": "2026-10-26T14:57:25.755Z"
   },
   {
-   "title": "Fahrernoten Austin: Gasly und Lawson düpieren die Champions",
+   "title": "Fahrernoten Austin: Vier Fahrer kämpfen um Platz drei der Gesamtwertung",
    "summary": "Antonelli, Leclerc und Verstappen stehen auch bei den Noten vorne, doch direkt dahinter sorgen Gasly und Lawson für die Überraschung von Austin",
    "url": "https://www.formel1.de/nc/149543",
    "date": "2026-10-26T12:30:19.000Z",
@@ -200,14 +200,14 @@
    "sourceId": "formel1de",
    "lang": "de",
    "drivers": [
-    "gasly",
-    "lawson",
     "antonelli",
     "leclerc",
-    "max_verstappen"
+    "max_verstappen",
+    "gasly",
+    "lawson"
    ],
    "teams": [],
-   "team": "alpine",
+   "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-10-26T14:57:25.755Z"
   },
