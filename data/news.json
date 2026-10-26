@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T07:09:15.528Z",
+ "updatedAt": "2026-10-26T09:00:51.624Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,25 @@
   }
  },
  "items": [
+  {
+   "title": "Lewis Hamilton entdeckt Ferrari-Schwachstelle: \"Wir müssen uns das anschauen\"",
+   "summary": "Charles Leclerc wurde in Austin Zweiter, Lewis Hamilton nur Vierter: Der Ex-Champion sieht einen entscheidenden Unterschied zwischen den Autos",
+   "url": "https://www.formel1.de/nc/149538",
+   "date": "2026-10-26T08:08:57.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-26T09:00:51.488Z"
+  },
   {
    "title": "So wird Kimi Antonelli in Mexiko Formel-1-Weltmeister",
    "summary": "Mercedes-Fahrer Kimi Antonelli hat beim Grand Prix von Mexiko den zweiten \"Matchball\": Warum ihm selbst ein Ausfall zum WM-Titel reichen könnte",
@@ -989,24 +1008,6 @@
    "drivers": [],
    "teams": [],
    "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-24T20:43:18.078Z"
-  },
-  {
-   "title": "Hamilton goes fastest in final practice for the US GP",
-   "summary": "Lewis Hamilton made it a practice clean sweep for Ferrari at the United States Grand Prix weekend.",
-   "url": "https://www.formula1.com/en/latest/article/fp3-hamilton-goes-fastest-in-final-practice-session-for-the-united-states-gp-ahead-of-verstappen-and-leclerc.1KQ5x8wUAtBETnHxKDNldC",
-   "date": "2026-10-24T20:42:18.078Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-10-24T20:43:18.078Z"
   }
