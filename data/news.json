@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T20:52:12.054Z",
+ "updatedAt": "2026-10-26T22:51:01.008Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,24 @@
   }
  },
  "items": [
+  {
+   "title": "5 betting lessons after Antonelli wins United States GP",
+   "summary": "The Mercedes star needs just two more points to clinch the title after his ninth win of the season.",
+   "url": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-learnt-after-kimi-antonelli-wins-the-united-states-grand-prix.4KrTb1yIoxsJJP5cD25hwN",
+   "date": "2026-10-26T22:51:00.994Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-26T22:51:00.994Z"
+  },
   {
    "title": "Warum Max Verstappen immer schon am Sonntagabend heimfliegt",
    "summary": "Max Verstappen fliegt nach Rennen möglichst am Sonntagabend nach Hause: Seine Tochter Lily prägt seinen Alltag und beeinflusst auch seine Zukunftspläne",
@@ -994,24 +1012,6 @@
    "teams": [],
    "team": "rb",
    "category": "Regeln",
-   "firstSeen": "2026-10-25T04:49:07.798Z"
-  },
-  {
-   "title": "‘We can’t fix core problems' – Albon on Williams' Qualifying",
-   "summary": "The Williams pair were left frustrated as the team continue to experience a difficult United States Grand Prix weekend.",
-   "url": "https://www.formula1.com/en/latest/article/we-cant-fix-core-problems-albon-delivers-honest-verdict-after-challenging-qualifying-for-williams-in-austin.LO31B2xewgPJfUt5kSgoB",
-   "date": "2026-10-25T04:48:07.798Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "albon"
-   ],
-   "teams": [
-    "williams"
-   ],
-   "team": "williams",
-   "category": "Rennen",
    "firstSeen": "2026-10-25T04:49:07.798Z"
   }
  ]
