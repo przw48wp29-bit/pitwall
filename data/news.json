@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T09:00:51.624Z",
+ "updatedAt": "2026-10-26T10:55:45.555Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,74 @@
   }
  },
  "items": [
+  {
+   "title": "The single lap that cost Leclerc a shot at victory in Austin",
+   "summary": "Michael Lamonato assesses what might have been for Charles Leclerc after his P2 result in the United States Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/how-one-lap-cost-leclerc-a-shot-at-cota-victory.3Uw9MTUgPzZXSokRPlTU1S",
+   "date": "2026-10-26T10:55:45.539Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-26T10:55:45.539Z"
+  },
+  {
+   "title": "Wer letzte Nacht am schlechtesten geschlafen hat: Lando Norris",
+   "summary": "Lando Norris ist als Formel-1-Weltmeister endgültig entthront, doch sein Verhalten in Austin wirft eine Frage auf, die über den verlorenen WM-Titel hinausgeht",
+   "url": "https://www.formel1.de/nc/149542",
+   "date": "2026-10-26T10:51:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-10-26T10:55:45.539Z"
+  },
+  {
+   "title": "George Russell: Die Strafe gegen mich war \"ein bisschen lächerlich\"",
+   "summary": "Mercedes gewinnt in Austin, doch George Russell ist ratlos: Nach Platz acht spricht er über das schmale Arbeitsfenster des W17 und fehlende Antworten",
+   "url": "https://www.formel1.de/nc/149541",
+   "date": "2026-10-26T10:28:19.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Regeln",
+   "firstSeen": "2026-10-26T10:55:45.539Z"
+  },
+  {
+   "title": "Wer letzte Nacht am besten geschlafen hat: Liam Lawson",
+   "summary": "Noch immer kein Vertrag für die Formel-1-Saison 2027, doch Liam Lawson macht es Red Bull beinahe unmöglich, ihn nicht für eine weitere Saison zu behalten",
+   "url": "https://www.formel1.de/nc/149540",
+   "date": "2026-10-26T09:06:43.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "lawson"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "rb",
+   "category": "Transfer",
+   "firstSeen": "2026-10-26T10:55:45.539Z"
+  },
   {
    "title": "Lewis Hamilton entdeckt Ferrari-Schwachstelle: \"Wir müssen uns das anschauen\"",
    "summary": "Charles Leclerc wurde in Austin Zweiter, Lewis Hamilton nur Vierter: Der Ex-Champion sieht einen entscheidenden Unterschied zwischen den Autos",
@@ -943,73 +1011,6 @@
    "team": "red_bull",
    "category": "Rennen",
    "firstSeen": "2026-10-25T04:49:07.798Z"
-  },
-  {
-   "title": "Mercedes jubelt über Antonelli-Pole: \"Game over für alle anderen!\"",
-   "summary": "Kimi Antonelli macht mit der Pole einen guten Schritt in Richtung WM-Titel: Toto Wolff ist überrascht, während Antonelli vor allem die Tracklimits im Blick hatte",
-   "url": "https://www.formel1.de/nc/149511",
-   "date": "2026-10-24T23:54:17.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T04:49:07.798Z"
-  },
-  {
-   "title": "Antonelli seizes pole position for the United States GP",
-   "summary": "Kimi Antonelli was unbeatable in Qualifying for the United States Grand Prix, with the Italian sealing pole position for the seventh time in 2026.",
-   "url": "https://www.formula1.com/en/latest/article/antonelli-seizes-pole-position-ahead-of-verstappen-in-qualifying-at-the-united-states-gp.4xdH4w09GhNDOJdknowRAk",
-   "date": "2026-10-24T22:43:55.282Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-24T22:43:55.282Z"
-  },
-  {
-   "title": "Trotz Fehler in Q3: Antonelli reicht eine schnelle Runde zur Austin-Pole!",
-   "summary": "Favorit Ferrari bleibt im Qualifying zum Grand Prix der USA unter den Erwartungen, und so gewinnt Antonelli im spannenden Pole-Duell gegen Verstappen",
-   "url": "https://www.formel1.de/nc/149510",
-   "date": "2026-10-24T22:41:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "max_verstappen"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-24T22:43:55.282Z"
-  },
-  {
-   "title": "LIVE COVERAGE: All the action from Qualifying for the US GP",
-   "summary": "Live coverage of the Formula 1 Qualifying session for the 2026 United States Grand Prix in Austin.",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-the-united-states-2026.49VaYyfwlL9ih2hFfuf9r5",
-   "date": "2026-10-24T20:43:18.078Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-24T20:43:18.078Z"
   }
  ]
 }
