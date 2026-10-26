@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-25T22:42:40.620Z",
+ "updatedAt": "2026-10-26T04:52:11.399Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,208 @@
   }
  },
  "items": [
+  {
+   "title": "Wolff hails Antonelli’s ‘best race’ in Austin",
+   "summary": "Toto Wolff has explained why he rates Kimi Antonelli’s dominant United States Grand Prix victory as his “best race” yet, while offering an insight into the championship leader’s relaxed mindset.",
+   "url": "https://www.formula1.com/en/latest/article/why-wolff-believes-that-austin-victory-was-antonellis-best-race-so-far.5EknFIzoqV4V2lU00IzdER",
+   "date": "2026-10-26T04:52:11.375Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-26T04:52:11.375Z"
+  },
+  {
+   "title": "What the teams said – Race day in the United States",
+   "summary": "The drivers and teams report back on all the action from race day at the Circuit of The Americas for the United States Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-the-united-states-2026.4FopoItrER6KX395f6ZENu",
+   "date": "2026-10-26T04:51:11.375Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-26T04:52:11.375Z"
+  },
+  {
+   "title": "All the key moments from the 2026 United States Grand Prix",
+   "summary": "The Circuit of The Americas put on another show as Kimi Antonelli beat Charles Leclerc to bring the Drivers' Championship within his reach.",
+   "url": "https://www.formula1.com/en/latest/article/austin-lowdown-all-the-key-moments-as-antonelli-dominates-to-edge-towards-title.4HFlGYh5oSLacvlbJEIa1y",
+   "date": "2026-10-26T04:50:11.375Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli",
+    "leclerc"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-26T04:52:11.375Z"
+  },
+  {
+   "title": "Hamilton singles out his ‘biggest issue’ in US GP",
+   "summary": "Lewis Hamilton highlighted problems with the balance of his car as he finished in fourth, while Charles Leclerc claimed another podium in Austin.",
+   "url": "https://www.formula1.com/en/latest/article/hamilton-singles-out-his-biggest-issue-in-united-states-gp-with-leclerc-optimistic-after-podium.5mv33bCKbMzoECWZ6JqTBD",
+   "date": "2026-10-26T04:49:11.375Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-26T04:52:11.375Z"
+  },
+  {
+   "title": "How ‘everything went wrong’ for Red Bull in United States GP",
+   "summary": "Max Verstappen and Isack Hadjar were left frustrated after they were held back by problems for Red Bull at the United States Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/how-everything-went-wrong-for-red-bull-in-united-states-gp-as-verstappen-rues-too-many-issues.6x0g7TJYZGjpf6BTASvdNd",
+   "date": "2026-10-26T04:48:11.375Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen",
+    "hadjar"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-26T04:52:11.375Z"
+  },
+  {
+   "title": "Norris admits McLaren are 'just not quick enough'",
+   "summary": "Reigning World Champion Lando Norris was honest about where McLaren struggled to perform after a tough weekend at the United States Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/were-just-not-quick-enough-norris-admits-mclarens-failure-at-the-united-states-grand-prix.3qbb9T79ZfhlsStK5EYSOg",
+   "date": "2026-10-26T04:47:11.375Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-26T04:52:11.375Z"
+  },
+  {
+   "title": "Russell at a loss to explain United States GP struggles",
+   "summary": "George Russell was left searching for answers as a lack of pace, as well as a five-second penalty, saw him settle for an eighth-placed result.",
+   "url": "https://www.formula1.com/en/latest/article/russell-at-a-loss-to-explain-united-states-gp-struggles-as-mercedes-man-finishes-in-p8.4RRUvKCTx9siOaCCBh4xah",
+   "date": "2026-10-26T04:46:11.375Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "russell"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Regeln",
+   "firstSeen": "2026-10-26T04:52:11.375Z"
+  },
+  {
+   "title": "Antonelli hoping to win title ‘very soon’ after ‘perfect’ US GP",
+   "summary": "A dominant victory at the United States Grand Prix has taken Kimi Antonelli even closer to winning the Drivers’ Championship.",
+   "url": "https://www.formula1.com/en/latest/article/it-was-the-result-we-needed-antonelli-hoping-to-win-title-very-soon-after-perfect-us-gp.3pukItI57EWP9AtzrExMek",
+   "date": "2026-10-26T04:45:11.375Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-26T04:52:11.375Z"
+  },
+  {
+   "title": "Verstappen sauer: Falsche Reifenwahl, zu wenig Pace und Funkprobleme",
+   "summary": "Max Verstappen kritisiert nach Platz drei in Austin die Reifenstrategie, technische Probleme und wiederkehrende Funkstörungen - Red Bull kündigt Verbesserungen an",
+   "url": "https://www.formel1.de/nc/149536",
+   "date": "2026-10-26T01:23:36.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-26T04:52:11.375Z"
+  },
+  {
+   "title": "Alonso schiesst gegen Albon: Qualität im hinteren Fahrerfeld \"extrem niedrig\"",
+   "summary": "Fernando Alonso glaubt, dass er von Alexander Albon um mögliche Punkte in Austin gebracht wurde, und kritisiert dabei das komplette hintere Feld",
+   "url": "https://www.formel1.de/nc/149535",
+   "date": "2026-10-26T00:52:19.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "alonso",
+    "albon"
+   ],
+   "teams": [],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-10-26T04:52:11.375Z"
+  },
+  {
+   "title": "Charles Leclerc nach Platz zwei in Austin: Ferrari fehlt noch die Konstanz",
+   "summary": "Charles Leclerc wird in Austin Zweiter, lobt Ferraris Tempo und erklärt, warum Reifenmanagement und fehlende Konstanz den möglichen Sieg verhinderten",
+   "url": "https://www.formel1.de/nc/149534",
+   "date": "2026-10-25T23:55:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-26T04:52:11.375Z"
+  },
+  {
+   "title": "Antonelli vor dem letzten Schritt: \"Das war die Fahrt eines Champions!\"",
+   "summary": "Kimi Antonelli steht nach seinem Sieg in Austin kurz vor dem Gewinn seines ersten WM-Titels: Toto Wolff lobt die \"Champion\"-Vorstellung seines Schützlings",
+   "url": "https://www.formel1.de/nc/149533",
+   "date": "2026-10-25T23:42:02.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-26T04:52:11.375Z"
+  },
   {
    "title": "Leclerc your US GP Driver of the Day after fighting drive to P2",
    "summary": "Charles Leclerc scored his second P2 on the bounce after a feisty drive in Austin again put the Ferrari star on the podium. No one could catch Kimi Antonelli, but Leclerc enjoyed a race-long scrap for second place with old adversary Max Verstappen.",
@@ -52,7 +254,7 @@
    "title": "Kimi Antonelli gewinnt in Austin: Jetzt fehlen nur noch zwei Punkte!",
    "summary": "P4 für Hamilton beim Grand Prix der USA, P8 für Russell: Kimi Antonelli hat nach seinem nächsten Sieg neun von zehn Fingern am WM-Pokal 2026",
    "url": "https://www.formel1.de/nc/149532",
-   "date": "2026-10-25T22:30:32.000Z",
+   "date": "2026-10-25T22:30:00.000Z",
    "source": "Formel1.de",
    "sourceId": "formel1de",
    "lang": "de",
@@ -807,200 +1009,6 @@
    "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-10-24T18:49:53.044Z"
-  },
-  {
-   "title": "Christian Horner: Abu Dhabi 2021 war der perfekte Einstieg für mein Buch!",
-   "summary": "Christian Horner erklärt gegenüber unserem Schwesterportal Motorsport.com, wieso sein Buch ausgerechnet mit dem Drama von Abu Dhabi 2021 startet",
-   "url": "https://www.formel1.de/nc/149509",
-   "date": "2026-10-24T18:43:19.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-24T18:49:53.044Z"
-  },
-  {
-   "title": "Norris über Coca-Cola-Affäre in Madrid: \"Sollte trinken dürfen, was ich will\"",
-   "summary": "Lando Norris spricht erneut über den Cola-Ärger in Madrid: McLaren nutzt inzwischen markenlose Getränkehalter, doch Norris bleibt bei seiner Haltung",
-   "url": "https://www.formel1.de/nc/149507",
-   "date": "2026-10-24T18:26:37.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-10-24T18:49:53.044Z"
-  },
-  {
-   "title": "Freddie Hunt on his father James’ ‘incredible’ 1976 title",
-   "summary": "Freddie Hunt, son of the 1976 World Champion James Hunt, explains his father’s incredible legacy.",
-   "url": "https://www.formula1.com/en/latest/article/f1-icons-freddie-hunt-on-his-father-james-incredible-1976-title-and-legacy.5EtNzEaEXwqcaKCGn2ySzR",
-   "date": "2026-10-24T16:47:28.053Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-24T16:47:28.053Z"
-  },
-  {
-   "title": "Adrian Newey: Christian Horner und ich bleiben Freunde - trotz des Buches",
-   "summary": "Adrian Newey bleibt mit Christian Horner freundschaftlich verbunden, auch wenn dieser in seinem Buch nicht nur positive Töne über den Designer anschlug",
-   "url": "https://www.formel1.de/nc/149506",
-   "date": "2026-10-24T15:02:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-24T16:47:28.053Z"
-  },
-  {
-   "title": "Sainz 'not expecting miracles' after Williams struggle in US",
-   "summary": "It was a slow start for Williams at the Circuit of The Americas as Carlos Sainz and Alex Albon struggled to keep their cars on track.",
-   "url": "https://www.formula1.com/en/latest/article/sainz-not-expecting-miracles-after-williams-suffer-disappointing-start-to-the-united-states-grand-prix-weekend.3hBJUgYlHd65CFLlks0E5D",
-   "date": "2026-10-24T14:45:23.162Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "sainz",
-    "albon"
-   ],
-   "teams": [
-    "williams"
-   ],
-   "team": "williams",
-   "category": "News",
-   "firstSeen": "2026-10-24T14:45:23.162Z"
-  },
-  {
-   "title": "Palmowski closes in on title with Opening Race victory",
-   "summary": "Alisha Palmowski put one hand on the 2026 F1 ACADEMY title as she secured her fifth win of the campaign.",
-   "url": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-closes-in-on-title-with-opening-race-victory-in-austin.3N2UMw9slc62OyhqJox5vH",
-   "date": "2026-10-24T14:44:23.162Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-24T14:45:23.162Z"
-  },
-  {
-   "title": "McLaren verkauft fünf historische Formel-1-Autos - darunter Senna-Boliden",
-   "summary": "McLaren räumt das Archiv auf: Der Traditionsrennstall verkauft fünf Formel-1-Autos, darunter zwei Fahrzeuge aus der letzten Weltmeister-Saison von Ayrton Senna 1991",
-   "url": "https://www.formel1.de/nc/149505",
-   "date": "2026-10-24T14:22:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-10-24T14:45:23.162Z"
-  },
-  {
-   "title": "Cadillac lässt Tür offen: Cockpit von Bottas für 2027 doch nicht sicher?",
-   "summary": "Cadillac-Teamchef Marcin Budkowski vermeidet in der Pressekonferenz in Austin ein Bekenntnis zu Valtteri Bottas und öffnet damit die Tür für Spekulationen",
-   "url": "https://www.formel1.de/nc/149504",
-   "date": "2026-10-24T13:30:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bottas"
-   ],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "Transfer",
-   "firstSeen": "2026-10-24T14:45:23.162Z"
-  },
-  {
-   "title": "Best Qualifying bets before the United States GP",
-   "summary": "Our expert betting writers share their top picks for Qualifying at the Circuit of the Americas in Texas.",
-   "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-on-the-markets-before-the-united-states-grand-prix.6SRiExSzMNUKAgKSZ6lZat",
-   "date": "2026-10-24T12:56:13.915Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-24T12:56:13.915Z"
-  },
-  {
-   "title": "24. Oktober 1976: Das Drama von Fuji, das James Hunt zum Weltmeister machte",
-   "summary": "Der Grosse Preis von Japan 1976 in Fuji: Die wahre Story hinter dem WM-Triumph von James Hunt, der gebrochene Pakt mit Niki Lauda und Psychospiele gegen Ferrari",
-   "url": "https://www.formel1.de/nc/113144",
-   "date": "2026-10-24T12:52:19.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-24T12:56:13.915Z"
-  },
-  {
-   "title": "Norris verrät: \"Jede Menge Standpauken\" nach Unfall mit Oscar Piastri in Singapur",
-   "summary": "Lando Norris verrät: Nach dem Unfall mit McLaren-Teamkollege Oscar Piastri hat der Brite \"jede Menge Standpauken bekommen, und es wurden viele Worte gesprochen\"",
-   "url": "https://www.formel1.de/nc/149503",
-   "date": "2026-10-24T12:11:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris",
-    "piastri"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-10-24T12:56:13.915Z"
-  },
-  {
-   "title": "Charles Leclerc wird Vater: Lässt der Ferrari-Pilot dafür sogar ein Rennen aus?",
-   "summary": "Charles Leclerc und Ehefrau Alexandra erwarten das erste Kind - und zwar mitten im hektischen Schlusspurt der Formel-1-Saison: Der Ferrari-Pilot hat einen Plan gemacht",
-   "url": "https://www.formel1.de/nc/149501",
-   "date": "2026-10-24T11:06:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-24T12:56:13.915Z"
   }
  ]
 }
