@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T14:57:25.905Z",
+ "updatedAt": "2026-10-26T16:59:28.798Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,88 @@
   }
  },
  "items": [
+  {
+   "title": "Russell struggling with 'difficult' operating window – Wolff",
+   "summary": "Toto Wolff believes George Russell has struggled to get the most out of Mercedes’ W17 this season due to a “difficult” operating window, with the Briton only finishing eighth in last weekend’s United States Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/we-just-have-to-work-it-out-with-him-wolff-admits-russell-struggling-to-find-operating-window-for-mercedes-w17.6pbdYv34V9nrlo6P0EoJQQ",
+   "date": "2026-10-26T16:59:28.786Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "russell"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-26T16:59:28.786Z"
+  },
+  {
+   "title": "5 Winners and 5 Losers from Austin",
+   "summary": "Kimi Antonelli moved to the brink of his first world title with a superb drive in the United States Grand Prix. But as the Italian champion elect celebrated a commanding victory in Austin, others didn’t have much to write home about. Lawrence Barretto selects his winners and losers at the Circuit of The Americas.",
+   "url": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-austin.17w6sgHeulLQ51qh9e1b6I",
+   "date": "2026-10-26T16:58:28.786Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-26T16:59:28.786Z"
+  },
+  {
+   "title": "Stella reflects on McLaren's US GP after missing podium",
+   "summary": "Andrea Stella believes that McLaren matched the performance of Ferrari and Red Bull during the United States Grand Prix, despite Lando Norris eventually slipping to fifth last weekend.",
+   "url": "https://www.formula1.com/en/latest/article/competitive-as-the-ferraris-and-red-bull-stella-reflects-on-mclarens-us-gp-after-missing-out-on-podium.6zqu0n947Kd3dm25J79GWa",
+   "date": "2026-10-26T16:57:28.786Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [
+    "red_bull",
+    "ferrari",
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-26T16:59:28.786Z"
+  },
+  {
+   "title": "High Rake: Der wenig beachtete Schwachpunkt des Reglements 2026",
+   "summary": "Die Ground-Effect-Ära der Formel 1 litt unter einem entscheidenden Manko, das die jüngsten Regeln beheben sollten - doch das haben sie nicht",
+   "url": "https://www.formel1.de/nc/149546",
+   "date": "2026-10-26T15:08:57.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-10-26T16:59:28.786Z"
+  },
+  {
+   "title": "Horner fordert neues Fanerlebnis: Zuschauer sollen an die Boxenmauer",
+   "summary": "Christian Horner will Fans virtuell auf die Boxenmauer bringen und ihnen zeigen, wie Formel-1-Teams Strategien entwickeln und Entscheidungen treffen",
+   "url": "https://www.formel1.de/nc/149545",
+   "date": "2026-10-26T15:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Business",
+   "firstSeen": "2026-10-26T16:59:28.786Z"
+  },
   {
    "title": "Antonelli and Mercedes 'faster than us' in US GP – Mekies",
    "summary": "Red Bull's Laurent Mekies admits that Kimi Antonelli and Mercedes were \"faster than us\" in last weekend's United States Grand Prix, as Max Verstappen could only finish third.",
@@ -927,87 +1009,6 @@
    "drivers": [],
    "teams": [],
    "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T04:49:07.798Z"
-  },
-  {
-   "title": "What are the tyre strategy options for the United States GP?",
-   "summary": "Matt Youson takes a look at the different pit stop and tyre options that are available to the teams on race day at the Circuit of The Americas.",
-   "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-united-states-gp.6GuFxNKHQ7TgdoH0Cc78TD",
-   "date": "2026-10-25T04:46:07.798Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T04:49:07.798Z"
-  },
-  {
-   "title": "Hamilton explains Ferrari’s Qualifying deficit in Austin",
-   "summary": "Lewis Hamilton and Charles Leclerc have explained why Ferrari were unable to carry their practice pace into Qualifying for the United States Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/hamilton-says-ferrari-are-losing-out-on-the-straights-after-taking-p5-in-us-gp-qualifying.3HHgLe8LEJj5Cb90uXqIYL",
-   "date": "2026-10-25T04:45:07.798Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T04:49:07.798Z"
-  },
-  {
-   "title": "What the teams said – Qualifying in the United States",
-   "summary": "The drivers and teams report back on all the action from final practice and Qualifying at the Circuit of The Americas ahead of the United States Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-the-united-states-2026.6m6ZshJA1PBALW8K467AQQ",
-   "date": "2026-10-25T04:44:07.798Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T04:49:07.798Z"
-  },
-  {
-   "title": "What To Watch For in the United States Grand Prix",
-   "summary": "Chris Medland picks out five key things to keep an eye on when the lights go out on race day at the Circuit of The Americas in Austin, Texas.",
-   "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-united-states-grand-prix.1Ftck085fCa8NWcCRtR6yq",
-   "date": "2026-10-25T04:43:07.798Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T04:49:07.798Z"
-  },
-  {
-   "title": "Verstappen baffled after missing out on Austin pole",
-   "summary": "Ferrari topped all three Practice sessions in Texas, but it was Mercedes and Kimi Antonelli who denied Max Verstappen a third-straight pole position this season.",
-   "url": "https://www.formula1.com/en/latest/article/verstappen-baffled-after-missing-out-on-united-states-grand-prix-pole-position-in-austin.6MHMgwAJfyIvn6cFUbeKLR",
-   "date": "2026-10-25T04:42:07.798Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen",
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes",
-    "ferrari"
-   ],
-   "team": "red_bull",
    "category": "Rennen",
    "firstSeen": "2026-10-25T04:49:07.798Z"
   }
