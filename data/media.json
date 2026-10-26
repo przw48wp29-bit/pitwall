@@ -474,16 +474,6 @@
    "h": 3548,
    "curated": true
   },
-  "mclaren": {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/FIA_F1_Austria_2026_Nr._1_Norris_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._1_Norris_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/FIA_F1_Austria_2026_Nr._1_Norris_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._1_Norris_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "file": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._1_Norris_(1).jpg",
-   "credit": "Lukas Raich",
-   "license": "CC BY-SA 4.0",
-   "w": 5037,
-   "h": 2519,
-   "curated": true
-  },
   "red_bull": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/FIA_F1_Austria_2026_Nr._3_Verstappen_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._3_Verstappen_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/FIA_F1_Austria_2026_Nr._3_Verstappen_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._3_Verstappen_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -492,6 +482,16 @@
    "license": "CC BY-SA 4.0",
    "w": 5215,
    "h": 2608,
+   "curated": true
+  },
+  "mclaren": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/FIA_F1_Austria_2026_Nr._1_Norris_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._1_Norris_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/FIA_F1_Austria_2026_Nr._1_Norris_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._1_Norris_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._1_Norris_(1).jpg",
+   "credit": "Lukas Raich",
+   "license": "CC BY-SA 4.0",
+   "w": 5037,
+   "h": 2519,
    "curated": true
   },
   "rb": {
