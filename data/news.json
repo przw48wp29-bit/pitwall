@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T04:52:11.399Z",
+ "updatedAt": "2026-10-26T07:09:15.528Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,38 @@
   }
  },
  "items": [
+  {
+   "title": "So wird Kimi Antonelli in Mexiko Formel-1-Weltmeister",
+   "summary": "Mercedes-Fahrer Kimi Antonelli hat beim Grand Prix von Mexiko den zweiten \"Matchball\": Warum ihm selbst ein Ausfall zum WM-Titel reichen könnte",
+   "url": "https://www.formel1.de/nc/149537",
+   "date": "2026-10-26T06:11:25.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-26T07:09:15.516Z"
+  },
+  {
+   "title": "Formel-1-Zuschauer: Rekordkulisse am Circuit of The Americas in Austin",
+   "summary": "So viele Zuschauer wie nie zuvor strömten 2026 zum USA-Grand-Prix nach Austin: Wo der Circuit of The Americas jetzt im internationalen Vergleich steht",
+   "url": "https://www.formel1.de/nc/146482",
+   "date": "2026-10-26T05:33:27.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Business",
+   "firstSeen": "2026-10-26T07:09:15.516Z"
+  },
   {
    "title": "Wolff hails Antonelli’s ‘best race’ in Austin",
    "summary": "Toto Wolff has explained why he rates Kimi Antonelli’s dominant United States Grand Prix victory as his “best race” yet, while offering an insight into the championship leader’s relaxed mindset.",
@@ -977,38 +1009,6 @@
    "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-10-24T20:43:18.078Z"
-  },
-  {
-   "title": "AS IT HAPPENED: Third practice in the United States",
-   "summary": "Live coverage of the final Formula 1 practice session ahead of the 2026 United States Grand Prix in Austin.",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-the-united-states-2026.1BD7GmKj1G3IaUnrRcWI3P",
-   "date": "2026-10-24T18:49:53.044Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-24T18:49:53.044Z"
-  },
-  {
-   "title": "Hamilton vor Verstappen: Was das FT3-Ergebnis in Austin verschweigt",
-   "summary": "Charles Leclerc fährt in Austin die schnellste Runde, und trotzdem gewinnt Lewis Hamilton das Abschlusstraining - Dahinter steckt ein echtes Tracklimits-Chaos",
-   "url": "https://www.formel1.de/nc/149508",
-   "date": "2026-10-24T18:48:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "max_verstappen",
-    "leclerc"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-24T18:49:53.044Z"
   }
  ]
 }
