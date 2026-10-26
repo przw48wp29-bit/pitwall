@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T10:55:45.555Z",
+ "updatedAt": "2026-10-26T14:57:25.905Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,110 @@
   }
  },
  "items": [
+  {
+   "title": "Antonelli and Mercedes 'faster than us' in US GP – Mekies",
+   "summary": "Red Bull's Laurent Mekies admits that Kimi Antonelli and Mercedes were \"faster than us\" in last weekend's United States Grand Prix, as Max Verstappen could only finish third.",
+   "url": "https://www.formula1.com/en/latest/article/dont-think-we-can-use-any-excuse-red-bulls-mekies-admits-antonelli-and-mercedes-faster-than-us-in-us-gp.2q77epiHSatdl0aexWkf3M",
+   "date": "2026-10-26T14:57:25.755Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli",
+    "max_verstappen"
+   ],
+   "teams": [
+    "mercedes",
+    "red_bull"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-26T14:57:25.755Z"
+  },
+  {
+   "title": "Vasseur admits to 'frustration' as 'pace was there' to win",
+   "summary": "The United States Grand Prix weekend was something of a mixed one for Ferrari, and in the end a solid second place was not quite enough for Charles Leclerc, who made it clear that he wanted more.",
+   "url": "https://www.formula1.com/en/latest/article/vasseur-admits-to-ferrari-frustration-as-pace-was-there-to-fight-for-victory.2dt48UPXlFVMj5yaSrWC3V",
+   "date": "2026-10-26T14:56:25.755Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-26T14:57:25.755Z"
+  },
+  {
+   "title": "When is the earliest Antonelli could win the title?",
+   "summary": "As Kimi Antonelli continues to lead the standings, F1.com looks at the permutations for when the Mercedes driver could mathematically win the World Championship.",
+   "url": "https://www.formula1.com/en/latest/article/points-permutations-when-is-the-earliest-antonelli-could-win-the-world-championship.24UKT2fsQl4GmC5DMrmYUy",
+   "date": "2026-10-26T14:55:25.755Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-26T14:57:25.755Z"
+  },
+  {
+   "title": "The 2026 Qualifying and race head-to-heads so far",
+   "summary": "This is how each team mate pairing has stacked up against each other so far during the 2026 F1 season.",
+   "url": "https://www.formula1.com/en/latest/article/in-numbers-the-qualifying-and-race-head-to-heads-between-team-mates-so-far-in-2026.D8AYcVEPGOs8OjIiVisZw",
+   "date": "2026-10-26T14:54:25.755Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-26T14:57:25.755Z"
+  },
+  {
+   "title": "\"Über Michael Schumacher\": Formel-1-Stammtisch mit Alfred Weinzierl",
+   "summary": "Der Journalist Alfred Weinzierl kommt an unseren YouTube-Stammtisch und spricht dort über seine Arbeit in der Formel 1 und sein gerade erschienenes Buch",
+   "url": "https://www.formel1.de/nc/149544",
+   "date": "2026-10-26T14:22:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-26T14:57:25.755Z"
+  },
+  {
+   "title": "Fahrernoten Austin: Gasly und Lawson düpieren die Champions",
+   "summary": "Antonelli, Leclerc und Verstappen stehen auch bei den Noten vorne, doch direkt dahinter sorgen Gasly und Lawson für die Überraschung von Austin",
+   "url": "https://www.formel1.de/nc/149543",
+   "date": "2026-10-26T12:30:19.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "gasly",
+    "lawson",
+    "antonelli",
+    "leclerc",
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "alpine",
+   "category": "News",
+   "firstSeen": "2026-10-26T14:57:25.755Z"
+  },
   {
    "title": "The single lap that cost Leclerc a shot at victory in Austin",
    "summary": "Michael Lamonato assesses what might have been for Charles Leclerc after his P2 result in the United States Grand Prix.",
@@ -903,111 +1007,6 @@
     "mercedes",
     "ferrari"
    ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T04:49:07.798Z"
-  },
-  {
-   "title": "Russell reflects on Austin Qualifying struggles",
-   "summary": "George Russell will start from sixth for the United States Grand Prix while his team mate Kimi Antonelli claimed pole.",
-   "url": "https://www.formula1.com/en/latest/article/russell-reflects-on-austin-qualifying-struggles-after-one-slide-led-to-a-snowball.rAYr78wrhqMG7GJfIca7R",
-   "date": "2026-10-25T04:41:07.798Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell",
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T04:49:07.798Z"
-  },
-  {
-   "title": "Bemused Wolff celebrates Antonelli’s ‘miracle lap’ in the US",
-   "summary": "Mercedes Team Principal Toto Wolff has praised Kimi Antonelli for his pole position lap at the Circuit of The Americas.",
-   "url": "https://www.formula1.com/en/latest/article/bemused-wolff-celebrates-antonellis-miracle-lap-in-qualifying-at-the-united-states-gp.16Hhn5cueHlsfCdfY62pka",
-   "date": "2026-10-25T04:40:07.798Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T04:49:07.798Z"
-  },
-  {
-   "title": "Liam Lawson wollte fahren, aber: Racing Bulls erlaubte Q3-Teilnahme nicht!",
-   "summary": "Liam Lawson wäre liebend gerne in Q3 gefahren, doch sein Team verhinderte eine Teilnahme und hatte dafür gute Gründe - Arvid Lindblad verliert fünf Plätze",
-   "url": "https://www.formel1.de/nc/149516",
-   "date": "2026-10-25T01:51:46.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "lawson",
-    "arvid_lindblad"
-   ],
-   "teams": [
-    "rb"
-   ],
-   "team": "rb",
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T04:49:07.798Z"
-  },
-  {
-   "title": "Wegen extremer Bodenwellen in Austin: Albon fürchtet Bandscheiben-Probleme",
-   "summary": "Alexander Albon warnt vor möglichen Langzeitfolgen der Bodenwellen in Austin: Norris nimmt Schmerztabletten, mehrere Fahrer fordern Veränderungen",
-   "url": "https://www.formel1.de/nc/149515",
-   "date": "2026-10-25T01:36:52.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "albon",
-    "norris"
-   ],
-   "teams": [],
-   "team": "williams",
-   "category": "News",
-   "firstSeen": "2026-10-25T04:49:07.798Z"
-  },
-  {
-   "title": "Hadjar auf P3: Bis Q3 war Austin \"eine Katastrophe von einem Wochenende\"",
-   "summary": "Isack Hadjar konnte sich nach einem bislang schwierigen Austin-Wochenende über Rang drei freuen - Red Bull im Rennen sogar siegfähig?",
-   "url": "https://www.formel1.de/nc/149513",
-   "date": "2026-10-25T01:28:59.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hadjar"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T04:49:07.798Z"
-  },
-  {
-   "title": "\"Wie ein Känguru\": Verstappen hadert mit verpasster Pole in Austin",
-   "summary": "Max Verstappen verpasst die Poleposition in Austin um 0,179 Sekunden: Nach starkem Q2 fehlten ihm in Q3 plötzlich Grip und Vertrauen",
-   "url": "https://www.formel1.de/nc/149512",
-   "date": "2026-10-25T01:06:11.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
    "team": "red_bull",
    "category": "Rennen",
    "firstSeen": "2026-10-25T04:49:07.798Z"
