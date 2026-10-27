@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T04:50:04.964Z",
+ "updatedAt": "2026-10-27T07:04:24.623Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Christian Horner: Mateschitz-Tod führte zum \"brutalen\" Red-Bull-Aus",
+   "summary": "Laut dem ehemaligen Red-Bull-Teamchef Christian Horner ist seine Entlassung vor allem ein Resultat des Todes von Dietrich Mateschitz",
+   "url": "https://www.formel1.de/nc/149548",
+   "date": "2026-10-27T06:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-27T07:04:24.609Z"
+  },
   {
    "title": "Second place battle intensifies as Antonelli nears title",
    "summary": "Five drivers are still in the hunt to finish second in the standings, but who is most likely to finish runner-up this season?",
@@ -996,22 +1012,6 @@
    "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-10-25T08:48:32.425Z"
-  },
-  {
-   "title": "Das Highlight eines verkorksten Jahres: Herta erlebt \"superspezielles\" Training",
-   "summary": "Colton Herta durfte bei seinem Heimspiel in Austin an den Ort seines ersten IndyCar-Sieges zurück: Trotz einer Horrorsaison in der Formel 2 hofft er weiter auf Cadillac",
-   "url": "https://www.formel1.de/nc/149517",
-   "date": "2026-10-25T05:30:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T07:00:30.143Z"
   }
  ]
 }
