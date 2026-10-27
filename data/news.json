@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T15:03:09.010Z",
+ "updatedAt": "2026-10-27T16:59:30.491Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,51 @@
   }
  },
  "items": [
+  {
+   "title": "What time is the 2026 Mexico City GP and how can I watch it?",
+   "summary": "Here are all the timings – along with all the additional information you need – for the 19th Grand Prix weekend of the 2026 season from Mexico.",
+   "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-mexico-city-grand-prix-and-how-can-i-watch-it.7ugr1iuBkVF1pD5fqJHNA3",
+   "date": "2026-10-27T16:59:30.469Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-27T16:59:30.469Z"
+  },
+  {
+   "title": "Bearman hadert mit Strafe: \"Kann mich nicht einfach in Luft auflösen\"",
+   "summary": "Oliver Bearman kritisiert die Strafe gegen sich wegen der Berührung mit Pierre Gasly: Die Sanktion sei viel zu hart, wenn man es überhaupt bestraffen sollte",
+   "url": "https://www.formel1.de/nc/149554",
+   "date": "2026-10-27T16:14:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bearman",
+    "gasly"
+   ],
+   "teams": [],
+   "team": "haas",
+   "category": "Regeln",
+   "firstSeen": "2026-10-27T16:59:30.469Z"
+  },
+  {
+   "title": "So wird das Wetter beim Grand Prix von Mexiko in Mexiko-Stadt",
+   "summary": "Die aktuelle Wettervorschau für das 19. Rennwochenende der Formel-1-Saison 2026, den Grand Prix von Mexiko auf dem Autodromo Hermanos Rodriguez",
+   "url": "https://www.formel1.de/nc/123255",
+   "date": "2026-10-27T15:11:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-27T16:59:30.469Z"
+  },
   {
    "title": "Who impressed our Power Rankings judges in Austin?",
    "summary": "Kimi Antonelli took another step towards the 2026 world title with a superb display at the Circuit of The Americas in Austin. But who else impressed our Power Rankings judges? Check out the latest scores and overall leaderboard below …",
@@ -968,52 +1013,6 @@
    "team": "aston_martin",
    "category": "News",
    "firstSeen": "2026-10-25T14:46:25.561Z"
-  },
-  {
-   "title": "\"Kein Problem\": Lewis Hamilton kontert heftige Kritik am Circuit of The Americas",
-   "summary": "Bodenwellen in Austin sorgen für heftigen Ärger bei den Fahrern, nur Lewis Hamilton kann die Kritik nicht nachvollziehen - Der Ferrari-Pilot mag die Unebenheiten sogar",
-   "url": "https://www.formel1.de/nc/149528",
-   "date": "2026-10-25T14:33:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-25T14:46:25.561Z"
-  },
-  {
-   "title": "Our final predictions and latest United States GP odds",
-   "summary": "Our expert betting writers bring you their final predictions and latest odds before the United States Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/our-final-united-states-grand-prix-betting-predictions-before-lights-out-in-austin.7wK6ZBsc9n2SzTMYUrlMPh",
-   "date": "2026-10-25T12:56:11.768Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T12:56:11.768Z"
-  },
-  {
-   "title": "Our Bet Builder prediction for the United States GP",
-   "summary": "We have picked a four-leg Bet Builder for Austin, including podium finish and points-finish selections.",
-   "url": "https://www.formula1.com/en/latest/article/our-united-states-grand-prix-bet-builder-predictions-after-kimi-antonelli-takes-pole-in-austin.4WblOovwGX7MwnjMW9CjIK",
-   "date": "2026-10-25T12:55:11.768Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T12:56:11.768Z"
   }
  ]
 }
