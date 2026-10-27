@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T10:53:36.695Z",
+ "updatedAt": "2026-10-27T13:05:14.096Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,60 @@
   }
  },
  "items": [
+  {
+   "title": "Bearman and Gasly reflect on US GP collision",
+   "summary": "Ollie Bearman and Pierre Gasly have reflected on their collision in the United States Grand Prix, with the former stating \"I don't regret going for the move\" despite being handed a penalty.",
+   "url": "https://www.formula1.com/en/latest/article/dont-regret-going-for-the-move-bearman-and-gasly-reflect-on-us-gp-collision.44PTEF0WAfbRzdly5QPpR2",
+   "date": "2026-10-27T13:05:14.072Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "bearman",
+    "gasly"
+   ],
+   "teams": [],
+   "team": "haas",
+   "category": "Regeln",
+   "firstSeen": "2026-10-27T13:05:14.072Z"
+  },
+  {
+   "title": "P11 in Austin: Nico Hülkenberg beklagt \"ungewöhnlichen\" Anti-Stall",
+   "summary": "Nico Hülkenbergs Rennen wurde mit einem schlechten Start zu einer schwierigen Aufgabe gemacht, weshalb Audi in Austin am Ende ohne Punkte blieb",
+   "url": "https://www.formel1.de/nc/149552",
+   "date": "2026-10-27T12:03:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hulkenberg"
+   ],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "Rennen",
+   "firstSeen": "2026-10-27T13:05:14.072Z"
+  },
+  {
+   "title": "Carlos Sainz: Verstehe nicht, warum Lindblad dafür nicht bestraft wurde",
+   "summary": "Carlos Sainz sieht kein generelles Qualitätsproblem im Hinterfeld, ärgert sich aber über Arvid Lindblad und eine typische Taktik gegen Williams' Turbostarts",
+   "url": "https://www.formel1.de/nc/149551",
+   "date": "2026-10-27T11:15:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "sainz",
+    "arvid_lindblad"
+   ],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "News",
+   "firstSeen": "2026-10-27T13:05:14.072Z"
+  },
   {
    "title": "Lawson excited for what’s to come after more points in Austin",
    "summary": "It was a strong weekend for Liam Lawson at the United States Grand Prix, the Racing Bulls driver adding to the team's points tally with a P9 finish.",
@@ -60,7 +114,7 @@
    "firstSeen": "2026-10-27T10:53:36.679Z"
   },
   {
-   "title": "Live im TV und Stream: Alle Infos zur Übertragung der Formel 1 in Mexiko",
+   "title": "Live im TV und Stream: WM-Entscheidung am Sonntag in Mexiko?",
    "summary": "Alle Informationen zur Formel 1 2026 im TV und Livestream: Wie Du die Saison mit Audi, Ferrari, McLaren, Mercedes, Red Bull und Cadillac live verfolgen kannst!",
    "url": "https://www.formel1.de/nc/123413",
    "date": "2026-10-27T10:09:55.000Z",
@@ -966,55 +1020,6 @@
    "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-10-25T12:56:11.768Z"
-  },
-  {
-   "title": "Analyse: Wo Max Verstappen in Austin die Pole gegen Antonelli verloren hat",
-   "summary": "Max Verstappen muss sich im Qualifying in Austin gegen Kimi Antonelli geschlagen geben: Wo der Red-Bull-Pilot die entscheidende Zeit auf die Pole-Runde verloren hat",
-   "url": "https://www.formel1.de/nc/149524",
-   "date": "2026-10-25T10:58:03.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "antonelli"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T12:56:11.768Z"
-  },
-  {
-   "title": "Why F1 fans should avoid emotional bets in Austin",
-   "summary": "Safer gambling is important, so we’ve flagged some key areas where you should keep a cool head when betting during Sunday's race at the Circuit of The Americas.",
-   "url": "https://www.formula1.com/en/latest/article/why-f1-fans-should-avoid-emotional-betting-during-the-united-states-grand-prix-in-austin.6oUesBvtInjTBO6UhiEGu8",
-   "date": "2026-10-25T10:46:37.638Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T10:46:37.638Z"
-  },
-  {
-   "title": "Verstappen reagiert auf CoTA-Chef: Nach fünf Runden kann er nicht mehr laufen!",
-   "summary": "Streckenchef Bobby Epstein spielt die Probleme mit den Bodenwellen in Austin herunter, doch Max Verstappen lädt ihn zu einer Fahrt in seinem Auto ein",
-   "url": "https://www.formel1.de/nc/149523",
-   "date": "2026-10-25T10:36:15.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-25T10:46:37.638Z"
   }
  ]
 }
