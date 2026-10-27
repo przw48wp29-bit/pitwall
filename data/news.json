@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T22:51:01.008Z",
+ "updatedAt": "2026-10-27T04:50:04.964Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Second place battle intensifies as Antonelli nears title",
+   "summary": "Five drivers are still in the hunt to finish second in the standings, but who is most likely to finish runner-up this season?",
+   "url": "https://www.formula1.com/en/latest/article/attention-turns-to-the-race-for-second-place-as-kimi-antonelli-closes-in-on-title-success.4UFMy0lQi5bRt1lBhZLgDG",
+   "date": "2026-10-27T04:50:04.940Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-27T04:50:04.940Z"
+  },
   {
    "title": "5 betting lessons after Antonelli wins United States GP",
    "summary": "The Mercedes star needs just two more points to clinch the title after his ninth win of the season.",
@@ -996,23 +1012,6 @@
    "team": "cadillac",
    "category": "Rennen",
    "firstSeen": "2026-10-25T07:00:30.143Z"
-  },
-  {
-   "title": "How Lawson helped Lindblad by sacrificing his Q3 run",
-   "summary": "Liam Lawson didn't venture out during Q3 in Austin as team mate Arvid Lindblad goes into Sunday's race with a grid penalty.",
-   "url": "https://www.formula1.com/en/latest/article/how-lawson-helped-racing-bulls-team-mate-lindblad-by-sacrificing-his-q3-run.dTI59a1UDuyke2gc1RC7b",
-   "date": "2026-10-25T04:49:07.798Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "lawson",
-    "arvid_lindblad"
-   ],
-   "teams": [],
-   "team": "rb",
-   "category": "Regeln",
-   "firstSeen": "2026-10-25T04:49:07.798Z"
   }
  ]
 }
