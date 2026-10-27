@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T13:05:14.096Z",
+ "updatedAt": "2026-10-27T15:03:09.010Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,36 @@
   }
  },
  "items": [
+  {
+   "title": "Who impressed our Power Rankings judges in Austin?",
+   "summary": "Kimi Antonelli took another step towards the 2026 world title with a superb display at the Circuit of The Americas in Austin. But who else impressed our Power Rankings judges? Check out the latest scores and overall leaderboard below …",
+   "url": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-2026-united-states-grand-prix.1XvMJxZDuSvCKgHwE3eS5C",
+   "date": "2026-10-27T15:03:08.992Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-27T15:03:08.992Z"
+  },
+  {
+   "title": "TV-Quoten Austin: Sky und ServusTV über Saisonschnitt, aber …",
+   "summary": "Die Formel 1 erzielt in Austin überdurchschnittliche TV-Quoten in Deutschland und Österreich: Trotzdem fällt die Bilanz nicht uneingeschränkt positiv aus",
+   "url": "https://www.formel1.de/nc/149553",
+   "date": "2026-10-27T14:02:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Business",
+   "firstSeen": "2026-10-27T15:03:08.992Z"
+  },
   {
    "title": "Bearman and Gasly reflect on US GP collision",
    "summary": "Ollie Bearman and Pierre Gasly have reflected on their collision in the United States Grand Prix, with the former stating \"I don't regret going for the move\" despite being handed a penalty.",
@@ -27,7 +57,7 @@
    "firstSeen": "2026-10-27T13:05:14.072Z"
   },
   {
-   "title": "P11 in Austin: Nico Hülkenberg beklagt \"ungewöhnlichen\" Anti-Stall",
+   "title": "Audi hadert mit P11: Punkte nach Startproblem bei Hülkenberg verpasst",
    "summary": "Nico Hülkenbergs Rennen wurde mit einem schlechten Start zu einer schwierigen Aufgabe gemacht, weshalb Audi in Austin am Ende ohne Punkte blieb",
    "url": "https://www.formel1.de/nc/149552",
    "date": "2026-10-27T12:03:04.000Z",
@@ -45,7 +75,7 @@
    "firstSeen": "2026-10-27T13:05:14.072Z"
   },
   {
-   "title": "Carlos Sainz: Verstehe nicht, warum Lindblad dafür nicht bestraft wurde",
+   "title": "Carlos Sainz hadert: Die anderen kommen mit sowas durch, ich nicht!",
    "summary": "Carlos Sainz sieht kein generelles Qualitätsproblem im Hinterfeld, ärgert sich aber über Arvid Lindblad und eine typische Taktik gegen Williams' Turbostarts",
    "url": "https://www.formel1.de/nc/149551",
    "date": "2026-10-27T11:15:04.000Z",
@@ -983,42 +1013,6 @@
    "teams": [],
    "team": null,
    "category": "Rennen",
-   "firstSeen": "2026-10-25T12:56:11.768Z"
-  },
-  {
-   "title": "Fiese Aktion! Bortoleto zieht Audi-Kollege Hülkenberg vor Fans die Hose herunter",
-   "summary": "Gabriel Bortoleto sorgt beim Formel-1-Wochenende in Austin für einen Lacher: Der Audi-Pilot zieht seinem Teamkollegen Nico Hülkenberg vor den Fans die Hose runter",
-   "url": "https://www.formel1.de/nc/149526",
-   "date": "2026-10-25T11:36:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bortoleto",
-    "hulkenberg"
-   ],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "News",
-   "firstSeen": "2026-10-25T12:56:11.768Z"
-  },
-  {
-   "title": "Party-Plan gegen den Teamkollegen: So will Russell Antonellis WM verhindern",
-   "summary": "George Russell sieht nur noch eine Chance, Kimi Antonelli vom Titelgewinn abzuhalten: Ihn in den USA wegen Alkohol verhaften zu lassen",
-   "url": "https://www.formel1.de/nc/149525",
-   "date": "2026-10-25T11:29:26.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell",
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
    "firstSeen": "2026-10-25T12:56:11.768Z"
   }
  ]
