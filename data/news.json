@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T07:04:24.623Z",
+ "updatedAt": "2026-10-27T08:57:23.052Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,42 @@
   }
  },
  "items": [
+  {
+   "title": "Lando Norris: McLaren \"ziemlich offensichtlich\" nur noch viertbestes Team",
+   "summary": "Lando Norris ist nach dem Wochenende in Austin ernüchtert: Red Bull hat in der Konstrukteurs-WM gleichgezogen und McLaren auf Rang vier verdrängt",
+   "url": "https://www.formel1.de/nc/149550",
+   "date": "2026-10-27T08:32:37.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [
+    "red_bull",
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-10-27T08:57:23.038Z"
+  },
+  {
+   "title": "Isack Hadjar: So erklärt er das Funk-Missverständnis mit Verstappen in Austin",
+   "summary": "Isack Hadjar hatte in Austin mit mehreren Probleme zu kämpfen: Erst verlor er am Start einige Positionen, dann kam es zu einer Unstimmigkeit mit Max Verstappen",
+   "url": "https://www.formel1.de/nc/149549",
+   "date": "2026-10-27T07:25:02.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hadjar",
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-27T08:57:23.038Z"
+  },
   {
    "title": "Christian Horner: Mateschitz-Tod führte zum \"brutalen\" Red-Bull-Aus",
    "summary": "Laut dem ehemaligen Red-Bull-Teamchef Christian Horner ist seine Entlassung vor allem ein Resultat des Todes von Dietrich Mateschitz",
@@ -975,43 +1011,6 @@
    "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-10-25T10:46:37.638Z"
-  },
-  {
-   "title": "Lando Norris nach Austin-Qualifying: \"Albtraum\", den McLaren abzustimmen",
-   "summary": "Lando Norris kämpft auch im Austin-Qualifying mit seinem Auto: Der Weltmeister erklärt das aktuelle Problem des McLaren MCL40 - und was möglich gewesen wäre",
-   "url": "https://www.formel1.de/nc/149519",
-   "date": "2026-10-25T08:23:49.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T08:48:32.425Z"
-  },
-  {
-   "title": "Kimi Antonelli verursacht bei Mercedes einen kuriosen Zwischenfall bei PR-Dreh",
-   "summary": "Während Kimi Antonelli seinem ersten WM-Titel entgegenfährt, unterläuft ihm bei einem PR-Dreh ein Missgeschick - George Russell kann sich Lachen nicht verkneifen",
-   "url": "https://www.formel1.de/nc/149518",
-   "date": "2026-10-25T07:13:15.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-25T08:48:32.425Z"
   }
  ]
 }
