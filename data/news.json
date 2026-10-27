@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T16:59:30.491Z",
+ "updatedAt": "2026-10-27T18:59:14.893Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,104 @@
   }
  },
  "items": [
+  {
+   "title": "The 5 drivers most likely to win in Mexico",
+   "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Autodromo Hermanos Rodriguez.",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-mexico-city-grand-prix-according-to-the-betting-markets.32ZVgQbihx4vuZDR1iAHkQ",
+   "date": "2026-10-27T18:59:14.877Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-27T18:59:14.877Z"
+  },
+  {
+   "title": "PALMER: Was Antonelli’s Austin victory his most dominant win yet?",
+   "summary": "F1 TV analyst and former Renault F1 driver Jolyon Palmer examines Kimi Antonelli's dominant victory at the Circuit of The Americas.",
+   "url": "https://www.formula1.com/en/latest/article/was-antonellis-us-grand-prix-victory-his-most-dominant-win-yet.6jLJgm7H1yfJHHC3moJ4k4",
+   "date": "2026-10-27T18:58:14.877Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-27T18:59:14.877Z"
+  },
+  {
+   "title": "Toto Wolff glaubt weiterhin: Russell \"ist ein potenzieller Champion\"",
+   "summary": "George Russell galt als WM-Favorit, liegt aber deutlich hinter Teamkollege Kimi Antonelli: Nach Austin wächst der Druck - Toto Wolff hält dennoch zu ihm",
+   "url": "https://www.formel1.de/nc/149557",
+   "date": "2026-10-27T18:54:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell",
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-27T18:59:14.877Z"
+  },
+  {
+   "title": "Formel-1-Debüt in Mexiko: Alpine gibt Nachwuchstalent Mini eine Chance",
+   "summary": "Alpine, Williams, Mercedes und Audi setzen in Mexiko auf Nachwuchsfahrer: Gabriele Mini steht vor seinem ersten Einsatz in einem offiziellen Formel-1-Training",
+   "url": "https://www.formel1.de/nc/149556",
+   "date": "2026-10-27T18:30:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes",
+    "williams",
+    "alpine",
+    "audi"
+   ],
+   "team": "alpine",
+   "category": "Rennen",
+   "firstSeen": "2026-10-27T18:59:14.877Z"
+  },
+  {
+   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
+   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
+   "url": "https://www.formel1.de/nc/146408",
+   "date": "2026-10-27T18:22:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-10-27T18:59:14.877Z"
+  },
+  {
+   "title": "Mercedes-Update: Warum der Antonelli-Sieg noch nicht alle Probleme löst",
+   "summary": "Zwei Mercedes-Updates, zwei unterschiedliche Ergebnisse: Warum die neuen Teile aus Kanada sofort funktionierten, das Malaysia-Paket aber erst mit Verzögerung",
+   "url": "https://www.formel1.de/nc/149555",
+   "date": "2026-10-27T17:04:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Technik",
+   "firstSeen": "2026-10-27T18:59:14.877Z"
+  },
   {
    "title": "What time is the 2026 Mexico City GP and how can I watch it?",
    "summary": "Here are all the timings – along with all the additional information you need – for the 19th Grand Prix weekend of the 2026 season from Mexico.",
@@ -918,101 +1016,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-10-25T20:44:13.965Z"
-  },
-  {
-   "title": "LIVE COVERAGE: Antonelli wins United States GP in Austin",
-   "summary": "Live coverage of the Formula 1 MSC Cruises United States Grand Prix 2026 in Austin.",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-msc-cruises-united-states-grand-prix-2026.62QsaPaMCCAdaEfWYAmuGL",
-   "date": "2026-10-25T20:42:13.965Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T20:44:13.965Z"
-  },
-  {
-   "title": "\"Alles gut, alles gut\": Toto Wolff gibt nach Crash von Sohn Jack Entwarnung",
-   "summary": "Toto Wolff spricht bei Sky über den spektakulären Kart-Crash seines Sohnes Jack und bestätigt, dass dem jungen Rennfahrer nichts passiert ist",
-   "url": "https://www.formel1.de/nc/149531",
-   "date": "2026-10-25T19:40:52.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-25T20:44:13.965Z"
-  },
-  {
-   "title": "Formel-1-Motorenstrafen 2026: Die Übersicht",
-   "summary": "Die verwendeten Motorenteile während der Saison 2026 in der Übersicht: Wann welchem Formel-1-Fahrer eine Strafe droht",
-   "url": "https://www.formel1.de/nc/146406",
-   "date": "2026-10-25T19:15:57.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
-   "firstSeen": "2026-10-23T20:49:41.437Z"
-  },
-  {
-   "title": "Leclerc warnt Ferrari vor nächstem Zwischenfall: \"Wir kennen die Grenze\"",
-   "summary": "Nach dem Zwischenfall in Monza mahnt Charles Leclerc zur Vorsicht: In Austin starten er und Lewis Hamilton direkt hintereinander",
-   "url": "https://www.formel1.de/nc/149530",
-   "date": "2026-10-25T18:28:36.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc",
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-25T18:51:19.126Z"
-  },
-  {
-   "title": "Daniel Ricciardo greift zur Mundharmonika: Fans sind begeistert",
-   "summary": "Statt im Formel-1-Cockpit steht Daniel Ricciardo in Austin auf der Bühne - Sein Auftritt mit der Mundharmonika begeistert die Fans in den sozialen Medien",
-   "url": "https://www.formel1.de/nc/149529",
-   "date": "2026-10-25T15:53:37.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Transfer",
-   "firstSeen": "2026-10-25T16:47:48.315Z"
-  },
-  {
-   "title": "Why Alonso seems as hungry as ever 20 years on from his last title",
-   "summary": "It's exactly two decades since Fernando Alonso last tasted title glory in Formula 1, but will he yet write another chapter of success with Aston Martin before he's finished?",
-   "url": "https://www.formula1.com/en/latest/article/why-alonso-seems-as-hungry-as-ever-20-years-on-from-his-last-title.10pZGrzMAwyYODdxZrej0Z",
-   "date": "2026-10-25T14:46:25.561Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "alonso"
-   ],
-   "teams": [
-    "aston_martin"
-   ],
-   "team": "aston_martin",
-   "category": "News",
-   "firstSeen": "2026-10-25T14:46:25.561Z"
   }
  ]
 }
