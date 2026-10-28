@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T07:16:12.907Z",
+ "updatedAt": "2026-10-28T09:04:00.046Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Formel-1-Motorenabteilung von Audi bekommt neuen Geschäftsführer",
+   "summary": "Audi verstärkt die Führung seiner F1-Motorenabteilung in Neuburg: Thomas Fuhr wird CEO der Audi Formula Racing GmbH und soll die Organisation weiterentwickeln",
+   "url": "https://www.formel1.de/nc/149560",
+   "date": "2026-10-28T08:04:46.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-10-28T09:04:00.023Z"
+  },
   {
    "title": "Die ungewöhnlichen Gerüchte um Aston Martin, Honda und Red Bull im Kontext",
    "summary": "In den USA wurden Aston Martin und Red Bull zu einer unwahrscheinlichen Motorenpartnerschaft befragt: Warum das passiert ist und wie die Antwort lautet",
@@ -1003,20 +1019,6 @@
    "team": "mercedes",
    "category": "Rennen",
    "firstSeen": "2026-10-25T22:42:40.602Z"
-  },
-  {
-   "title": "Die Qualifying-, Sprint- und Rennduelle der Formel-1-Saison 2026",
-   "summary": "Der aktuelle Zwischenstand bei den Qualifying- und Rennduellen der Teamkollegen in der Formel-1-Saison 2026",
-   "url": "https://www.formel1.de/nc/146557",
-   "date": "2026-10-25T22:03:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-24T22:43:55.282Z"
   }
  ]
 }
