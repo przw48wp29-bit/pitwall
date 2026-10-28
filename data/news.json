@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T13:14:28.565Z",
+ "updatedAt": "2026-10-28T15:07:18.164Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,86 @@
   }
  },
  "items": [
+  {
+   "title": "Perez signs Cadillac contract extension until at least 2029",
+   "summary": "Sergio Perez has extended his contract with the Cadillac Formula 1 Team, which will ensure that the Mexican driver will stay with the American outfit until at least 2029.",
+   "url": "https://www.formula1.com/en/latest/article/perez-signs-contract-extension-to-remain-at-cadillac-until-at-least-2029.4oF3HFX8tK9qTWvU7wAXHM",
+   "date": "2026-10-28T15:07:17.955Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "perez"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "Transfer",
+   "firstSeen": "2026-10-28T15:07:17.955Z"
+  },
+  {
+   "title": "Formula 1 publishes first sport-wide Social Impact Report",
+   "summary": "Formula 1 has unveiled its first sport-wide Social Impact Report, as well as announcing a £2.4 million investment in the next phase of the Formula 1 Engineering Scholarship Programme for until the 2028/29 academic year.",
+   "url": "https://www.formula1.com/en/latest/article/formula-1-publishes-first-sport-wide-social-impact-report-and-renews-gbp2-4-million-engineering-scholarship-programme.2SBEfFCzB54FXnwTb6COdW",
+   "date": "2026-10-28T15:06:17.955Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-28T15:07:17.955Z"
+  },
+  {
+   "title": "How to stream the 2026 Mexico City Grand Prix on F1 TV Premium",
+   "summary": "Here is all the information you need to follow the Mexico City Grand Prix weekend live on F1 TV.",
+   "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-2026-mexico-city-grand-prix-on-f1-tv-premium.E67qNTJ5yEN1ZueDeqLdv",
+   "date": "2026-10-28T15:05:17.955Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-28T15:07:17.955Z"
+  },
+  {
+   "title": "Kimi Antonelli: Neue Startnummer als Formel-1-Weltmeister?",
+   "summary": "Kimi Antonelli dürfte 2027 als designierter Weltmeister mit der Startnummer 1 an den Start gehen, wird nach aktuellem Stand aber wohl auf dieses Privileg verzichten",
+   "url": "https://www.formel1.de/nc/149566",
+   "date": "2026-10-28T14:51:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-28T15:07:17.955Z"
+  },
+  {
+   "title": "Formel-1-Experte: Alexander Albon hat \"die Nase gestrichen voll\"",
+   "summary": "Ralf Schumacher vermutet, dass 2027 die letzte Williams-Saison von Alexander Albon wird - Er selbst hätte den 30-Jährigen bereits im nächsten Jahr ausgetauscht",
+   "url": "https://www.formel1.de/nc/149565",
+   "date": "2026-10-28T13:32:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "albon"
+   ],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "News",
+   "firstSeen": "2026-10-28T15:07:17.955Z"
+  },
   {
    "title": "Ricciardo opens up on the ‘humiliation’ he felt amid F1 exit",
    "summary": "In the latest episode of official podcast F1 Beyond the Grid, Daniel Ricciardo reflects on how he’s handled his retirement from the sport.",
@@ -914,92 +994,6 @@
    "drivers": [
     "antonelli",
     "leclerc"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-26T04:52:11.375Z"
-  },
-  {
-   "title": "Hamilton singles out his ‘biggest issue’ in US GP",
-   "summary": "Lewis Hamilton highlighted problems with the balance of his car as he finished in fourth, while Charles Leclerc claimed another podium in Austin.",
-   "url": "https://www.formula1.com/en/latest/article/hamilton-singles-out-his-biggest-issue-in-united-states-gp-with-leclerc-optimistic-after-podium.5mv33bCKbMzoECWZ6JqTBD",
-   "date": "2026-10-26T04:49:11.375Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-26T04:52:11.375Z"
-  },
-  {
-   "title": "How ‘everything went wrong’ for Red Bull in United States GP",
-   "summary": "Max Verstappen and Isack Hadjar were left frustrated after they were held back by problems for Red Bull at the United States Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/how-everything-went-wrong-for-red-bull-in-united-states-gp-as-verstappen-rues-too-many-issues.6x0g7TJYZGjpf6BTASvdNd",
-   "date": "2026-10-26T04:48:11.375Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen",
-    "hadjar"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-26T04:52:11.375Z"
-  },
-  {
-   "title": "Norris admits McLaren are 'just not quick enough'",
-   "summary": "Reigning World Champion Lando Norris was honest about where McLaren struggled to perform after a tough weekend at the United States Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/were-just-not-quick-enough-norris-admits-mclarens-failure-at-the-united-states-grand-prix.3qbb9T79ZfhlsStK5EYSOg",
-   "date": "2026-10-26T04:47:11.375Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-26T04:52:11.375Z"
-  },
-  {
-   "title": "Russell at a loss to explain United States GP struggles",
-   "summary": "George Russell was left searching for answers as a lack of pace, as well as a five-second penalty, saw him settle for an eighth-placed result.",
-   "url": "https://www.formula1.com/en/latest/article/russell-at-a-loss-to-explain-united-states-gp-struggles-as-mercedes-man-finishes-in-p8.4RRUvKCTx9siOaCCBh4xah",
-   "date": "2026-10-26T04:46:11.375Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Regeln",
-   "firstSeen": "2026-10-26T04:52:11.375Z"
-  },
-  {
-   "title": "Antonelli hoping to win title ‘very soon’ after ‘perfect’ US GP",
-   "summary": "A dominant victory at the United States Grand Prix has taken Kimi Antonelli even closer to winning the Drivers’ Championship.",
-   "url": "https://www.formula1.com/en/latest/article/it-was-the-result-we-needed-antonelli-hoping-to-win-title-very-soon-after-perfect-us-gp.3pukItI57EWP9AtzrExMek",
-   "date": "2026-10-26T04:45:11.375Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
    ],
    "teams": [],
    "team": "mercedes",
