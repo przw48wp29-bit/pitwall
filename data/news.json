@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T10:59:08.043Z",
+ "updatedAt": "2026-10-28T13:14:28.565Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,54 @@
   }
  },
  "items": [
+  {
+   "title": "Ricciardo opens up on the ‘humiliation’ he felt amid F1 exit",
+   "summary": "In the latest episode of official podcast F1 Beyond the Grid, Daniel Ricciardo reflects on how he’s handled his retirement from the sport.",
+   "url": "https://www.formula1.com/en/latest/article/ricciardo-explains-how-he-converted-humiliation-into-feeling-proud-following-his-f1-exit.10kNySRo1gU5H2e59aN8qR",
+   "date": "2026-10-28T13:14:28.353Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-28T13:14:28.353Z"
+  },
+  {
+   "title": "LN4 Fusion: Team von Lando Norris bekommt Startplatz in der Formel 2!",
+   "summary": "Nachdem bereits Pläne für andere Serien verkündet wurden, steht nun fest, dass das neue Nachwuchsteam von Lando Norris auch in der Formel 2 an den Start gehen wird",
+   "url": "https://www.formel1.de/nc/149564",
+   "date": "2026-10-28T12:22:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-28T13:14:28.353Z"
+  },
+  {
+   "title": "Piastri hadert mit Problemen: \"Sind im Moment nicht besonders stark\"",
+   "summary": "Oscar Piastri kommt weiterhin nicht in Schwung, während McLaren nur noch vierte Kraft zu sein scheint: \"Schwierig\", eine gute Runde mit dem Auto zu fahren",
+   "url": "https://www.formel1.de/nc/149563",
+   "date": "2026-10-28T11:20:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "piastri"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-10-28T13:14:28.353Z"
+  },
   {
    "title": "The 5 drivers most likely to qualify fastest in Mexico",
    "summary": "We have looked at the betting markets for Qualifying at the Autodromo Hermanos Rodriguez and assessed the chances of the leading contenders for pole.",
@@ -955,59 +1003,6 @@
    ],
    "teams": [],
    "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-26T04:52:11.375Z"
-  },
-  {
-   "title": "Verstappen sauer: Falsche Reifenwahl, zu wenig Pace und Funkprobleme",
-   "summary": "Max Verstappen kritisiert nach Platz drei in Austin die Reifenstrategie, technische Probleme und wiederkehrende Funkstörungen - Red Bull kündigt Verbesserungen an",
-   "url": "https://www.formel1.de/nc/149536",
-   "date": "2026-10-26T01:23:36.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-26T04:52:11.375Z"
-  },
-  {
-   "title": "Alonso schiesst gegen Albon: Qualität im hinteren Fahrerfeld \"extrem niedrig\"",
-   "summary": "Fernando Alonso glaubt, dass er von Alexander Albon um mögliche Punkte in Austin gebracht wurde, und kritisiert dabei das komplette hintere Feld",
-   "url": "https://www.formel1.de/nc/149535",
-   "date": "2026-10-26T00:52:19.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "alonso",
-    "albon"
-   ],
-   "teams": [],
-   "team": "aston_martin",
-   "category": "News",
-   "firstSeen": "2026-10-26T04:52:11.375Z"
-  },
-  {
-   "title": "Charles Leclerc nach Platz zwei in Austin: Ferrari fehlt noch die Konstanz",
-   "summary": "Charles Leclerc wird in Austin Zweiter, lobt Ferraris Tempo und erklärt, warum Reifenmanagement und fehlende Konstanz den möglichen Sieg verhinderten",
-   "url": "https://www.formel1.de/nc/149534",
-   "date": "2026-10-25T23:55:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-10-26T04:52:11.375Z"
   }
