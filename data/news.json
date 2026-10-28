@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T09:04:00.046Z",
+ "updatedAt": "2026-10-28T10:59:08.043Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,70 @@
   }
  },
  "items": [
+  {
+   "title": "The 5 drivers most likely to qualify fastest in Mexico",
+   "summary": "We have looked at the betting markets for Qualifying at the Autodromo Hermanos Rodriguez and assessed the chances of the leading contenders for pole.",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-mexico-city.1t7oVE9TBWLG7srsEAA0Bh",
+   "date": "2026-10-28T10:59:08.023Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-28T10:59:08.023Z"
+  },
+  {
+   "title": "What went into Ferrari's upgrade package in the US?",
+   "summary": "Mark Hughes and Giorgio Piola delve into the upgrades Ferrari introduced at the United States Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/what-went-into-ferraris-latest-upgrade-package-in-the-united-states.3I72X1Dos3Nty2sNxMfDD4",
+   "date": "2026-10-28T10:58:08.023Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Technik",
+   "firstSeen": "2026-10-28T10:59:08.023Z"
+  },
+  {
+   "title": "Bottas reagiert auf Ablöse-Gerüchte: \"Wenn Kühe fliegen könnten ...\"",
+   "summary": "Ist das Cockpit von Valtteri Bottas bei Cadillac nicht sicher? Der Finne reagiert auf die Aussagen von Teamchef Marcin Budkowski in der Pressekonferenz von Austin",
+   "url": "https://www.formel1.de/nc/149562",
+   "date": "2026-10-28T10:17:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bottas"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "Transfer",
+   "firstSeen": "2026-10-28T10:59:08.023Z"
+  },
+  {
+   "title": "Colapinto reagiert auf Eklat-Statement von Jeremy Clarkson",
+   "summary": "\"Bestrafen, weil er Argentinier ist\" - Mit diesen Worten hat Jeremy Clarkson bei der Formel 1 in Austin für Ärger gesorgt - Franco Colapinto reagiert nach dem Rennen",
+   "url": "https://www.formel1.de/nc/149561",
+   "date": "2026-10-28T09:11:29.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "colapinto"
+   ],
+   "teams": [],
+   "team": "alpine",
+   "category": "Rennen",
+   "firstSeen": "2026-10-28T10:59:08.023Z"
+  },
   {
    "title": "Formel-1-Motorenabteilung von Audi bekommt neuen Geschäftsführer",
    "summary": "Audi verstärkt die Führung seiner F1-Motorenabteilung in Neuburg: Thomas Fuhr wird CEO der Audi Formula Racing GmbH und soll die Organisation weiterentwickeln",
@@ -946,79 +1010,6 @@
    "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-10-26T04:52:11.375Z"
-  },
-  {
-   "title": "Antonelli vor dem letzten Schritt: \"Das war die Fahrt eines Champions!\"",
-   "summary": "Kimi Antonelli steht nach seinem Sieg in Austin kurz vor dem Gewinn seines ersten WM-Titels: Toto Wolff lobt die \"Champion\"-Vorstellung seines Schützlings",
-   "url": "https://www.formel1.de/nc/149533",
-   "date": "2026-10-25T23:42:02.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-26T04:52:11.375Z"
-  },
-  {
-   "title": "Leclerc your US GP Driver of the Day after fighting drive to P2",
-   "summary": "Charles Leclerc scored his second P2 on the bounce after a feisty drive in Austin again put the Ferrari star on the podium. No one could catch Kimi Antonelli, but Leclerc enjoyed a race-long scrap for second place with old adversary Max Verstappen.",
-   "url": "https://www.formula1.com/en/latest/article/driver-of-the-day-leclerc-gets-your-vote-after-beating-verstappen-to-p2-in-austin.57AHVRNPHJYOuZFT4cjZPy",
-   "date": "2026-10-25T22:42:40.602Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "leclerc",
-    "antonelli",
-    "max_verstappen"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T22:42:40.602Z"
-  },
-  {
-   "title": "Antonelli surges to dominant victory in United States GP",
-   "summary": "Kimi Antonelli may not have secured the Drivers' Championship in Austin, but a commanding performance earned him victory over Ferrari's Charles Leclerc.",
-   "url": "https://www.formula1.com/en/latest/article/antonelli-surges-to-dominant-victory-in-united-states-grand-prix-ahead-of-leclerc-and-verstappen.6kmBQv9FNTW7LzkDj8S34j",
-   "date": "2026-10-25T22:41:40.602Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T22:42:40.602Z"
-  },
-  {
-   "title": "Kimi Antonelli gewinnt in Austin: Jetzt fehlen nur noch zwei Punkte!",
-   "summary": "P4 für Hamilton beim Grand Prix der USA, P8 für Russell: Kimi Antonelli hat nach seinem nächsten Sieg neun von zehn Fingern am WM-Pokal 2026",
-   "url": "https://www.formel1.de/nc/149532",
-   "date": "2026-10-25T22:30:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "hamilton",
-    "russell"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T22:42:40.602Z"
   }
  ]
 }
