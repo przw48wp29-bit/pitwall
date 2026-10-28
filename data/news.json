@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T18:59:14.893Z",
+ "updatedAt": "2026-10-28T07:16:12.907Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,51 @@
   }
  },
  "items": [
+  {
+   "title": "Die ungewöhnlichen Gerüchte um Aston Martin, Honda und Red Bull im Kontext",
+   "summary": "In den USA wurden Aston Martin und Red Bull zu einer unwahrscheinlichen Motorenpartnerschaft befragt: Warum das passiert ist und wie die Antwort lautet",
+   "url": "https://www.formel1.de/nc/149559",
+   "date": "2026-10-28T07:11:29.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "aston_martin",
+    "red_bull"
+   ],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-10-28T07:16:12.733Z"
+  },
+  {
+   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
+   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
+   "url": "https://www.formel1.de/nc/146408",
+   "date": "2026-10-28T06:20:24.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-10-27T18:59:14.877Z"
+  },
+  {
+   "title": "Horner über Fan-Hass: Warum ihm seine Frau Geri helfen konnte",
+   "summary": "Christian Horner wurde beim Formel-1-Launch 2025 ausgebuht: Seine Frau Geri Halliwell half ihm, mit öffentlicher Kritik und Ablehnung umzugehen",
+   "url": "https://www.formel1.de/nc/149558",
+   "date": "2026-10-28T06:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-28T07:16:12.733Z"
+  },
   {
    "title": "The 5 drivers most likely to win in Mexico",
    "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Autodromo Hermanos Rodriguez.",
@@ -73,20 +118,6 @@
    ],
    "team": "alpine",
    "category": "Rennen",
-   "firstSeen": "2026-10-27T18:59:14.877Z"
-  },
-  {
-   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
-   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
-   "url": "https://www.formel1.de/nc/146408",
-   "date": "2026-10-27T18:22:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Transfer",
    "firstSeen": "2026-10-27T18:59:14.877Z"
   },
   {
@@ -986,36 +1017,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-10-24T22:43:55.282Z"
-  },
-  {
-   "title": "Gademan grabs second win with assured Austin drive",
-   "summary": "The win takes the Alpine driver up to second in the Drivers’ Standings with just two races to go.",
-   "url": "https://www.formula1.com/en/latest/article/f1-academy-gademan-seizes-second-victory-of-the-season-with-assured-austin-drive.q6wyvoFDYd1YGnleJKDGu",
-   "date": "2026-10-25T20:44:13.965Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "alpine"
-   ],
-   "team": "alpine",
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T20:44:13.965Z"
-  },
-  {
-   "title": "OFFICIAL GRID: Who starts where for the United States Grand Prix",
-   "summary": "The full official starting order for the 2026 United States Grand Prix in Austin.",
-   "url": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-for-the-2026-united-states-grand-prix.3eD3xBDo1wI0V0VIWo2wMY",
-   "date": "2026-10-25T20:43:13.965Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-25T20:44:13.965Z"
   }
  ]
 }
