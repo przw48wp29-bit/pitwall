@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T17:07:37.314Z",
+ "updatedAt": "2026-10-29T19:08:39.194Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,118 @@
   }
  },
  "items": [
+  {
+   "title": "LIVE COVERAGE: Build-up to the Mexico City Grand Prix",
+   "summary": "Live coverage of all the build-up ahead of the 2026 Mexico City Grand Prix weekend.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-mexico-city-2026.6MzXcSQ7C6Varyqp2ev3Eg",
+   "date": "2026-10-29T19:08:39.034Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-29T19:08:39.034Z"
+  },
+  {
+   "title": "Facts, stats and trivia ahead of the Mexico City Grand Prix",
+   "summary": "As F1 heads to the Autodromo Hermanos Rodriguez for the Mexico City Grand Prix, Need to Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
+   "url": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-mexico-city-grand-prix.7n5BnpkqmEkgJR61h8yqGv",
+   "date": "2026-10-29T19:07:39.034Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-29T19:08:39.034Z"
+  },
+  {
+   "title": "Mekies zufrieden mit Premiere von Verstappens neuem Renningenieur",
+   "summary": "Tom Hart bestand in Austin sein erstes volles Wochenende als Verstappens Renningenieur: Laurent Mekies lobt ihn trotz schwieriger Rennbedingungen",
+   "url": "https://www.formel1.de/nc/149585",
+   "date": "2026-10-29T18:43:12.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-29T19:08:39.034Z"
+  },
+  {
+   "title": "Daniel Ricciardo: Diese \"Superkraft\" macht Kimi Antonelli so stark",
+   "summary": "Daniel Ricciardo vergleicht die Situation von Kimi Antonelli bei Mercedes mit seiner eigenen bei Red Bull im Jahr 2014 - Warum es der Italiener leichter hat als Russell",
+   "url": "https://www.formel1.de/nc/149584",
+   "date": "2026-10-29T18:26:37.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli",
+    "russell"
+   ],
+   "teams": [
+    "mercedes",
+    "red_bull"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-29T19:08:39.034Z"
+  },
+  {
+   "title": "Sebastian Vettel: Red Bull wollte, dass ich Webber zum WM-Titel verhelfe",
+   "summary": "Auf dem Schlussspurt der Formel-1-Weltmeisterschaft 2010 wollte Red Bull, so die Erzählung von Sebastian Vettel, alles auf Mark Webber setzen",
+   "url": "https://www.formel1.de/nc/149583",
+   "date": "2026-10-29T18:04:40.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-29T19:08:39.034Z"
+  },
+  {
+   "title": "Kimi Antonelli: Virus stoppt WM-Spitzenreiter am Mexiko-Donnerstag",
+   "summary": "Mit Kimi Antonelli und Valtteri Bottas müssen gleich zwei Formel-1-Fahrer den Donnerstags beim Mexiko-Grand-Prix auslassen - Müssen Ersatzfahrer ran?",
+   "url": "https://www.formel1.de/nc/149582",
+   "date": "2026-10-29T17:38:42.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli",
+    "bottas"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-29T19:08:39.034Z"
+  },
+  {
+   "title": "Mentalcoach warnt Russell: \"Darf den Status des Verlierers nicht akzeptieren\"",
+   "summary": "Mentalcoach Riccardo Ceccarelli erwartet einen unveränderten Antonelli als Weltmeister, Russell dagegen muss sein Selbstvertrauen verteidigen",
+   "url": "https://www.formel1.de/nc/149581",
+   "date": "2026-10-29T17:30:49.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell",
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-29T19:08:39.034Z"
+  },
   {
    "title": "Best value early bets for the Mexico City Grand Prix",
    "summary": "We've assessed the latest betting markets and selected our pick of early bets offering the best value at the Autodromo Hermanos Rodriguez.",
@@ -839,122 +951,6 @@
    "team": "haas",
    "category": "Regeln",
    "firstSeen": "2026-10-27T16:59:30.469Z"
-  },
-  {
-   "title": "So wird das Wetter beim Grand Prix von Mexiko in Mexiko-Stadt",
-   "summary": "Die aktuelle Wettervorschau für das 19. Rennwochenende der Formel-1-Saison 2026, den Grand Prix von Mexiko auf dem Autodromo Hermanos Rodriguez",
-   "url": "https://www.formel1.de/nc/123255",
-   "date": "2026-10-27T15:11:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-27T16:59:30.469Z"
-  },
-  {
-   "title": "Who impressed our Power Rankings judges in Austin?",
-   "summary": "Kimi Antonelli took another step towards the 2026 world title with a superb display at the Circuit of The Americas in Austin. But who else impressed our Power Rankings judges? Check out the latest scores and overall leaderboard below …",
-   "url": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-2026-united-states-grand-prix.1XvMJxZDuSvCKgHwE3eS5C",
-   "date": "2026-10-27T15:03:08.992Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-27T15:03:08.992Z"
-  },
-  {
-   "title": "TV-Quoten Austin: Sky und ServusTV über Saisonschnitt, aber …",
-   "summary": "Die Formel 1 erzielt in Austin überdurchschnittliche TV-Quoten in Deutschland und Österreich: Trotzdem fällt die Bilanz nicht uneingeschränkt positiv aus",
-   "url": "https://www.formel1.de/nc/149553",
-   "date": "2026-10-27T14:02:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Business",
-   "firstSeen": "2026-10-27T15:03:08.992Z"
-  },
-  {
-   "title": "Bearman and Gasly reflect on US GP collision",
-   "summary": "Ollie Bearman and Pierre Gasly have reflected on their collision in the United States Grand Prix, with the former stating \"I don't regret going for the move\" despite being handed a penalty.",
-   "url": "https://www.formula1.com/en/latest/article/dont-regret-going-for-the-move-bearman-and-gasly-reflect-on-us-gp-collision.44PTEF0WAfbRzdly5QPpR2",
-   "date": "2026-10-27T13:05:14.072Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "bearman",
-    "gasly"
-   ],
-   "teams": [],
-   "team": "haas",
-   "category": "Regeln",
-   "firstSeen": "2026-10-27T13:05:14.072Z"
-  },
-  {
-   "title": "Audi hadert mit P11: Punkte nach Startproblem bei Hülkenberg verpasst",
-   "summary": "Nico Hülkenbergs Rennen wurde mit einem schlechten Start zu einer schwierigen Aufgabe gemacht, weshalb Audi in Austin am Ende ohne Punkte blieb",
-   "url": "https://www.formel1.de/nc/149552",
-   "date": "2026-10-27T12:03:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hulkenberg"
-   ],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "Rennen",
-   "firstSeen": "2026-10-27T13:05:14.072Z"
-  },
-  {
-   "title": "Carlos Sainz hadert: Die anderen kommen mit sowas durch, ich nicht!",
-   "summary": "Carlos Sainz sieht kein generelles Qualitätsproblem im Hinterfeld, ärgert sich aber über Arvid Lindblad und eine typische Taktik gegen Williams' Turbostarts",
-   "url": "https://www.formel1.de/nc/149551",
-   "date": "2026-10-27T11:15:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "sainz",
-    "arvid_lindblad"
-   ],
-   "teams": [
-    "williams"
-   ],
-   "team": "williams",
-   "category": "News",
-   "firstSeen": "2026-10-27T13:05:14.072Z"
-  },
-  {
-   "title": "Lawson excited for what’s to come after more points in Austin",
-   "summary": "It was a strong weekend for Liam Lawson at the United States Grand Prix, the Racing Bulls driver adding to the team's points tally with a P9 finish.",
-   "url": "https://www.formula1.com/en/latest/article/were-in-a-good-place-lawson-excited-for-whats-to-come-after-more-points-in-austin.6vU3y2Du9rHiEgtFZLkyde",
-   "date": "2026-10-27T10:53:36.679Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "lawson"
-   ],
-   "teams": [
-    "rb"
-   ],
-   "team": "rb",
-   "category": "Rennen",
-   "firstSeen": "2026-10-27T10:53:36.679Z"
   }
  ]
 }
