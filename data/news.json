@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T07:17:07.305Z",
+ "updatedAt": "2026-10-29T09:06:08.627Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,39 @@
   }
  },
  "items": [
+  {
+   "title": "Wolff packt aus: Maldonado-Sieg bei Williams verhalf ihm zum Mercedes-Job",
+   "summary": "Pastor Maldonados Sensationssieg in Barcelona 2012 weckte das Interesse von Mercedes - Toto Wolff blickt auf die entscheidenden Gespräche in Stuttgart zurück",
+   "url": "https://www.formel1.de/nc/149573",
+   "date": "2026-10-29T09:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes",
+    "williams"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-29T09:06:08.508Z"
+  },
+  {
+   "title": "Daniel Ricciardo: \"Ich wünschte, ich wäre bei Red Bull geblieben\"",
+   "summary": "Daniel Ricciardo sieht seinen Abschied von Red Bull heute kritisch: Er glaubt, damit seine beste Chance auf den Formel-1-Weltmeistertitel vergeben zu haben",
+   "url": "https://www.formel1.de/nc/149572",
+   "date": "2026-10-29T07:40:51.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-29T09:06:08.508Z"
+  },
   {
    "title": "Sergio Perez an sein jüngeres Ich: Geniesse auch die schlechten Momente",
    "summary": "Sergio Perez blickt auf seine bisherige Formel-1-Karriere zurück und erklärt, warum er viele Momente in der Königsklasse nicht ausreichend geniessen konnte",
@@ -947,40 +980,6 @@
    "team": null,
    "category": "Regeln",
    "firstSeen": "2026-10-26T16:59:28.786Z"
-  },
-  {
-   "title": "Horner fordert neues Fanerlebnis: Zuschauer sollen an die Boxenmauer",
-   "summary": "Christian Horner will Fans virtuell auf die Boxenmauer bringen und ihnen zeigen, wie Formel-1-Teams Strategien entwickeln und Entscheidungen treffen",
-   "url": "https://www.formel1.de/nc/149545",
-   "date": "2026-10-26T15:00:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Business",
-   "firstSeen": "2026-10-26T16:59:28.786Z"
-  },
-  {
-   "title": "Antonelli and Mercedes 'faster than us' in US GP – Mekies",
-   "summary": "Red Bull's Laurent Mekies admits that Kimi Antonelli and Mercedes were \"faster than us\" in last weekend's United States Grand Prix, as Max Verstappen could only finish third.",
-   "url": "https://www.formula1.com/en/latest/article/dont-think-we-can-use-any-excuse-red-bulls-mekies-admits-antonelli-and-mercedes-faster-than-us-in-us-gp.2q77epiHSatdl0aexWkf3M",
-   "date": "2026-10-26T14:57:25.755Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli",
-    "max_verstappen"
-   ],
-   "teams": [
-    "mercedes",
-    "red_bull"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-26T14:57:25.755Z"
   }
  ]
 }
