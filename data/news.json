@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T22:53:23.863Z",
+ "updatedAt": "2026-10-29T07:17:07.305Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Sergio Perez an sein jüngeres Ich: Geniesse auch die schlechten Momente",
+   "summary": "Sergio Perez blickt auf seine bisherige Formel-1-Karriere zurück und erklärt, warum er viele Momente in der Königsklasse nicht ausreichend geniessen konnte",
+   "url": "https://www.formel1.de/nc/149571",
+   "date": "2026-10-29T05:43:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "perez"
+   ],
+   "teams": [],
+   "team": "cadillac",
+   "category": "News",
+   "firstSeen": "2026-10-29T07:17:07.292Z"
+  },
   {
    "title": "Our early Bet Builder picks for the Mexico City GP",
    "summary": "Our expert betting writers have picked a five-leg Bet Builder for the Mexico City Grand Prix, including a podium finish and two top-six finish selections.",
@@ -963,24 +979,6 @@
     "red_bull"
    ],
    "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-26T14:57:25.755Z"
-  },
-  {
-   "title": "Vasseur admits to 'frustration' as 'pace was there' to win",
-   "summary": "The United States Grand Prix weekend was something of a mixed one for Ferrari, and in the end a solid second place was not quite enough for Charles Leclerc, who made it clear that he wanted more.",
-   "url": "https://www.formula1.com/en/latest/article/vasseur-admits-to-ferrari-frustration-as-pace-was-there-to-fight-for-victory.2dt48UPXlFVMj5yaSrWC3V",
-   "date": "2026-10-26T14:56:25.755Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-10-26T14:57:25.755Z"
   }
