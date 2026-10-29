@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T13:16:25.931Z",
+ "updatedAt": "2026-10-29T15:09:23.618Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,38 @@
   }
  },
  "items": [
+  {
+   "title": "\"Konstrukteurs-WM mit nur einem Fahrer\": Verstappen mit Kampfansage",
+   "summary": "Nach acht Podestplätzen im Jahr 2026 wittert Max Verstappen bei Red Bull wieder Morgenluft - Der Niederländer sieht Red Bull auf dem richtigen Weg",
+   "url": "https://www.formel1.de/nc/149579",
+   "date": "2026-10-29T15:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-29T15:09:23.600Z"
+  },
+  {
+   "title": "Formel 1 2026: Welches Team welchen Kraftstoff tankt",
+   "summary": "Seit 2026 fährt die Formel 1 mit nachhaltigem Kraftstoff, fünf Mineralölkonzerne versorgen die elf Teams: Die Übersicht zeigt, wer wen beliefert und was im Tank ist",
+   "url": "https://www.formel1.de/nc/149578",
+   "date": "2026-10-29T13:56:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-29T15:09:23.600Z"
+  },
   {
    "title": "Kings of Leon complete star-studded line-up for Abu Dhabi GP",
    "summary": "Andrea Bocelli, Kings of Leon, Lewis Capaldi, Alex Warren, Jennifer Lopez, Imagine Dragons, The Chainsmokers, The Script, Black Coffee, CamelPhat, Shimza and Anyma are set to perform at the Yasalam festival during the F1 finale in Abu Dhabi.",
@@ -56,7 +88,7 @@
    "firstSeen": "2026-10-29T13:16:25.914Z"
   },
   {
-   "title": "\"Nicht so schnell und nicht so gut\": Sebastian Vettel über seine BMW-Zeit",
+   "title": "Sebastian Vettel verrät: Warum seine Formel-1-Karriere bei BMW scheiterte",
    "summary": "BMW hatte Sebastian Vettel bereits ein Formel-1-Cockpit zugesichert, doch daraus wurde nichts: Nun spricht der viermalige Weltmeister über die Hintergründe",
    "url": "https://www.formel1.de/nc/149576",
    "date": "2026-10-29T12:04:04.000Z",
@@ -925,46 +957,6 @@
    "team": "audi",
    "category": "News",
    "firstSeen": "2026-10-27T10:53:36.679Z"
-  },
-  {
-   "title": "Live im TV und Stream: WM-Entscheidung am Sonntag in Mexiko?",
-   "summary": "Alle Informationen zur Formel 1 2026 im TV und Livestream: Wie Du die Saison mit Audi, Ferrari, McLaren, Mercedes, Red Bull und Cadillac live verfolgen kannst!",
-   "url": "https://www.formel1.de/nc/123413",
-   "date": "2026-10-27T10:09:55.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes",
-    "red_bull",
-    "cadillac",
-    "ferrari",
-    "mclaren",
-    "audi"
-   ],
-   "team": "mercedes",
-   "category": "Business",
-   "firstSeen": "2026-10-27T10:53:36.679Z"
-  },
-  {
-   "title": "Lando Norris' bittere Realität: Verliert McLaren den Anschluss?",
-   "summary": "Lando Norris ist nach dem Wochenende in Austin ernüchtert: Red Bull hat in der Konstrukteurs-WM gleichgezogen und McLaren auf Rang vier verdrängt",
-   "url": "https://www.formel1.de/nc/149550",
-   "date": "2026-10-27T08:32:37.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "red_bull",
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-10-27T08:57:23.038Z"
   }
  ]
 }
