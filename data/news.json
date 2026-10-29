@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T09:06:08.627Z",
+ "updatedAt": "2026-10-29T11:00:19.648Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,66 @@
   }
  },
  "items": [
+  {
+   "title": "QUIZ: How much do you know about the drivers in the F1 '300 club'?",
+   "summary": "This weekend at his home race Sergio Perez will compete in his 300th Grand Prix. But how much do you know about the other drivers in Formula 1's '300 club'?",
+   "url": "https://www.formula1.com/en/latest/article/quiz-how-much-do-you-know-about-the-drivers-in-the-f1-300-club.3MbaQSikVNjuvFSZHI8RwT",
+   "date": "2026-10-29T11:00:19.633Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "perez"
+   ],
+   "teams": [],
+   "team": "cadillac",
+   "category": "Rennen",
+   "firstSeen": "2026-10-29T11:00:19.633Z"
+  },
+  {
+   "title": "Perez reflects on his F1 career in photos ahead of 300th GP",
+   "summary": "Sergio Perez will mark a major milestone in his career at the upcoming Mexico City Grand Prix when he starts an F1 race for the 300th time – climbing above Sebastian Vettel and into seventh position on the sport’s all-time entry list.",
+   "url": "https://www.formula1.com/en/latest/article/exclusive-sergio-perez-reflects-on-his-f1-career-in-photos-as-he-reaches-300-grand-prix-starts.4c7PQiuN2WobXtsQ2tEeRw",
+   "date": "2026-10-29T10:59:19.633Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "perez"
+   ],
+   "teams": [],
+   "team": "cadillac",
+   "category": "Rennen",
+   "firstSeen": "2026-10-29T11:00:19.633Z"
+  },
+  {
+   "title": "Everything you need to know about the Autodromo Hermanos Rodriguez",
+   "summary": "Get up to speed with all the key Autodromo Hermanos Rodriguez statistics, driving pointers, facts and more.",
+   "url": "https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-autodromo-hermanos-rodriguez.4D4Jzu2UDBia3HHmFa50zv",
+   "date": "2026-10-29T10:58:19.633Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-29T11:00:19.633Z"
+  },
+  {
+   "title": "Coulthard zweifelt an F1-Ausreden: Senna und Schumacher als Gegenbeweis",
+   "summary": "David Coulthard hält wenig davon, schwache Formel-1-Leistungen mit dem Reglement zu erklären - und verweist auf Ayrton Senna und Michael Schumacher",
+   "url": "https://www.formel1.de/nc/149574",
+   "date": "2026-10-29T09:53:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-10-29T11:00:19.633Z"
+  },
   {
    "title": "Wolff packt aus: Maldonado-Sieg bei Williams verhalf ihm zum Mercedes-Job",
    "summary": "Pastor Maldonados Sensationssieg in Barcelona 2012 weckte das Interesse von Mercedes - Toto Wolff blickt auf die entscheidenden Gespräche in Stuttgart zurück",
@@ -27,7 +87,7 @@
    "firstSeen": "2026-10-29T09:06:08.508Z"
   },
   {
-   "title": "Daniel Ricciardo: \"Ich wünschte, ich wäre bei Red Bull geblieben\"",
+   "title": "Daniel Ricciardo über seinen grössten Formel-1-Fehler: \"Ich wäre geblieben\"",
    "summary": "Daniel Ricciardo sieht seinen Abschied von Red Bull heute kritisch: Er glaubt, damit seine beste Chance auf den Formel-1-Weltmeistertitel vergeben zu haben",
    "url": "https://www.formel1.de/nc/149572",
    "date": "2026-10-29T07:40:51.000Z",
@@ -912,74 +972,6 @@
    "team": "red_bull",
    "category": "Rennen",
    "firstSeen": "2026-10-26T19:04:50.193Z"
-  },
-  {
-   "title": "Russell struggling with 'difficult' operating window – Wolff",
-   "summary": "Toto Wolff believes George Russell has struggled to get the most out of Mercedes’ W17 this season due to a “difficult” operating window, with the Briton only finishing eighth in last weekend’s United States Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/we-just-have-to-work-it-out-with-him-wolff-admits-russell-struggling-to-find-operating-window-for-mercedes-w17.6pbdYv34V9nrlo6P0EoJQQ",
-   "date": "2026-10-26T16:59:28.786Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-26T16:59:28.786Z"
-  },
-  {
-   "title": "5 Winners and 5 Losers from Austin",
-   "summary": "Kimi Antonelli moved to the brink of his first world title with a superb drive in the United States Grand Prix. But as the Italian champion elect celebrated a commanding victory in Austin, others didn’t have much to write home about. Lawrence Barretto selects his winners and losers at the Circuit of The Americas.",
-   "url": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-austin.17w6sgHeulLQ51qh9e1b6I",
-   "date": "2026-10-26T16:58:28.786Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-26T16:59:28.786Z"
-  },
-  {
-   "title": "Stella reflects on McLaren's US GP after missing podium",
-   "summary": "Andrea Stella believes that McLaren matched the performance of Ferrari and Red Bull during the United States Grand Prix, despite Lando Norris eventually slipping to fifth last weekend.",
-   "url": "https://www.formula1.com/en/latest/article/competitive-as-the-ferraris-and-red-bull-stella-reflects-on-mclarens-us-gp-after-missing-out-on-podium.6zqu0n947Kd3dm25J79GWa",
-   "date": "2026-10-26T16:57:28.786Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "red_bull",
-    "ferrari",
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-26T16:59:28.786Z"
-  },
-  {
-   "title": "High Rake: Der wenig beachtete Schwachpunkt des Reglements 2026",
-   "summary": "Die Ground-Effect-Ära der Formel 1 litt unter einem entscheidenden Manko, das die jüngsten Regeln beheben sollten - doch das haben sie nicht",
-   "url": "https://www.formel1.de/nc/149546",
-   "date": "2026-10-26T15:08:57.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
-   "firstSeen": "2026-10-26T16:59:28.786Z"
   }
  ]
 }
