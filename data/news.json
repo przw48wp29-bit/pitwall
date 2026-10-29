@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T20:58:18.765Z",
+ "updatedAt": "2026-10-29T22:55:09.243Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,111 @@
   }
  },
  "items": [
+  {
+   "title": "Hamilton outlines Ferrari's objectives for Mexico and beyond",
+   "summary": "Lewis Hamilton believes ahead of the Mexico City Grand Prix this weekend that the \"next five races are like test races\", as the Briton pushes Ferrari to build a car capable of challenging for next year's titles.",
+   "url": "https://www.formula1.com/en/latest/article/next-five-races-are-like-test-races-hamilton-outlines-ferraris-objectives-in-mexico-and-beyond.2nIpI4JGRd8wG4e2qqjp6r",
+   "date": "2026-10-29T22:55:09.222Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-29T22:55:09.222Z"
+  },
+  {
+   "title": "Leclerc assesses Ferrari's chances in Mexico City Grand Prix",
+   "summary": "Charles Leclerc believes Ferrari have the potential to win this weekend's Mexico City Grand Prix, but that \"we've got to be perfect\" in order to beat the likes of Mercedes and Red Bull.",
+   "url": "https://www.formula1.com/en/latest/article/weve-got-to-be-perfect-leclerc-assesses-ferraris-chances-of-victory-in-mexico-city.3AVK2YwBQwT2Dp5FZUCBO1",
+   "date": "2026-10-29T22:54:09.222Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [
+    "mercedes",
+    "red_bull",
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-29T22:55:09.222Z"
+  },
+  {
+   "title": "Russell opens up on relationship with Antonelli this season",
+   "summary": "George Russell has reflected on how he and team mate Kimi Antonelli get along amid their contrasting 2026 seasons.",
+   "url": "https://www.formula1.com/en/latest/article/we-keep-ourselves-to-ourselves-russell-opens-up-on-relationship-with-antonelli-this-season.2m4A9yZTCSJNlLYmPPJbvK",
+   "date": "2026-10-29T22:53:09.222Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "russell",
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-29T22:55:09.222Z"
+  },
+  {
+   "title": "Russell nimmt sich Hamilton als Vorbild: 2026 \"wird mich nicht brechen\"",
+   "summary": "Trotz der höchstwahrscheinlich verlorenen WM ist George Russell davon überzeugt, dass ihn die schwierigste Saison seiner Karriere nicht brechen kann",
+   "url": "https://www.formel1.de/nc/149591",
+   "date": "2026-10-29T22:41:29.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell",
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-29T22:55:09.222Z"
+  },
+  {
+   "title": "Gabriel Bortoleto: Früher bin ich mit Kimi Antonelli in Misano Tandem gefahren",
+   "summary": "Gabriel Bortoleto kennt Kimi Antonelli seit der Jugend: Heute kämpft sein Freund um den WM-Titel und Bortoleto verfolgt eigene Ziele",
+   "url": "https://www.formel1.de/nc/149590",
+   "date": "2026-10-29T21:45:25.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bortoleto",
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-10-29T22:55:09.222Z"
+  },
+  {
+   "title": "Fernando Alonso bleibt standhaft: Das Niveau im Mittelfeld ist unterirdisch",
+   "summary": "Auch vor dem Grand Prix von Mexiko betont Fernando Alonso, dass er von den Fahrkünsten seiner Kollegen im Mittelfeld nicht viel hält",
+   "url": "https://www.formel1.de/nc/149589",
+   "date": "2026-10-29T21:15:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [],
+   "team": "aston_martin",
+   "category": "Rennen",
+   "firstSeen": "2026-10-29T22:55:09.222Z"
+  },
   {
    "title": "Nico Hülkenberg: Mit meiner Performance bin ich \"grundsätzlich zufrieden\"",
    "summary": "Vor dem Grand Prix von Mexiko spricht Nico Hülkenberg über seine Performance und die vielen Baustellen, an den Audi noch arbeiten muss",
@@ -860,103 +965,6 @@
    "team": "audi",
    "category": "News",
    "firstSeen": "2026-10-28T09:04:00.023Z"
-  },
-  {
-   "title": "Die ungewöhnlichen Gerüchte um Aston Martin, Honda und Red Bull im Kontext",
-   "summary": "In den USA wurden Aston Martin und Red Bull zu einer unwahrscheinlichen Motorenpartnerschaft befragt: Warum das passiert ist und wie die Antwort lautet",
-   "url": "https://www.formel1.de/nc/149559",
-   "date": "2026-10-28T07:11:29.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "aston_martin",
-    "red_bull"
-   ],
-   "team": "aston_martin",
-   "category": "News",
-   "firstSeen": "2026-10-28T07:16:12.733Z"
-  },
-  {
-   "title": "Horner über Fan-Hass: Warum ihm seine Frau Geri helfen konnte",
-   "summary": "Christian Horner wurde beim Formel-1-Launch 2025 ausgebuht: Seine Frau Geri Halliwell half ihm, mit öffentlicher Kritik und Ablehnung umzugehen",
-   "url": "https://www.formel1.de/nc/149558",
-   "date": "2026-10-28T06:00:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-28T07:16:12.733Z"
-  },
-  {
-   "title": "The 5 drivers most likely to win in Mexico",
-   "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Autodromo Hermanos Rodriguez.",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-mexico-city-grand-prix-according-to-the-betting-markets.32ZVgQbihx4vuZDR1iAHkQ",
-   "date": "2026-10-27T18:59:14.877Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-27T18:59:14.877Z"
-  },
-  {
-   "title": "PALMER: Was Antonelli’s Austin victory his most dominant win yet?",
-   "summary": "F1 TV analyst and former Renault F1 driver Jolyon Palmer examines Kimi Antonelli's dominant victory at the Circuit of The Americas.",
-   "url": "https://www.formula1.com/en/latest/article/was-antonellis-us-grand-prix-victory-his-most-dominant-win-yet.6jLJgm7H1yfJHHC3moJ4k4",
-   "date": "2026-10-27T18:58:14.877Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-27T18:59:14.877Z"
-  },
-  {
-   "title": "Toto Wolff glaubt weiterhin: Russell \"ist ein potenzieller Champion\"",
-   "summary": "George Russell galt als WM-Favorit, liegt aber deutlich hinter Teamkollege Kimi Antonelli: Nach Austin wächst der Druck - Toto Wolff hält dennoch zu ihm",
-   "url": "https://www.formel1.de/nc/149557",
-   "date": "2026-10-27T18:54:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell",
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-27T18:59:14.877Z"
-  },
-  {
-   "title": "Formel-1-Debüt in Mexiko: Alpine gibt Nachwuchstalent Mini eine Chance",
-   "summary": "Alpine, Williams, Mercedes und Audi setzen in Mexiko auf Nachwuchsfahrer: Gabriele Mini steht vor seinem ersten Einsatz in einem offiziellen Formel-1-Training",
-   "url": "https://www.formel1.de/nc/149556",
-   "date": "2026-10-27T18:30:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes",
-    "williams",
-    "alpine",
-    "audi"
-   ],
-   "team": "alpine",
-   "category": "Rennen",
-   "firstSeen": "2026-10-27T18:59:14.877Z"
   }
  ]
 }
