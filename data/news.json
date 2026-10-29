@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T11:00:19.648Z",
+ "updatedAt": "2026-10-29T13:16:25.931Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,82 @@
   }
  },
  "items": [
+  {
+   "title": "Kings of Leon complete star-studded line-up for Abu Dhabi GP",
+   "summary": "Andrea Bocelli, Kings of Leon, Lewis Capaldi, Alex Warren, Jennifer Lopez, Imagine Dragons, The Chainsmokers, The Script, Black Coffee, CamelPhat, Shimza and Anyma are set to perform at the Yasalam festival during the F1 finale in Abu Dhabi.",
+   "url": "https://www.formula1.com/en/latest/article/kings-of-leon-complete-star-studded-line-up-for-2026-abu-dhabi-grand-prix.5dFsTMZDFm6NvZ2wIEdwRX",
+   "date": "2026-10-29T13:16:25.914Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-29T13:16:25.914Z"
+  },
+  {
+   "title": "Play our new Higher or Lower game for your chance to win 2027 Grand Prix tickets",
+   "summary": "Predict whether each driver's average finish position so far in 2026 is higher or lower than the previous driver’s tally",
+   "url": "https://www.formula1.com/en/latest/article/play-our-new-higher-or-lower-game-for-your-chance-to-win-2027-grand-prix-tickets-week8.4ykUhr2ypAKoyTwZWuVz1b",
+   "date": "2026-10-29T13:15:25.914Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-29T13:16:25.914Z"
+  },
+  {
+   "title": "Umbruch bei Cadillac: Sergio Perez setzt auf Geduld, Budkowski und die Zukunft",
+   "summary": "Sergio Perez hat seinen Vertrag bei Cadillac langfristig bis Ende 2029 verlängert - Nach einer durchwachsenen Debütsaison setzt der Mexikaner voll das Personal",
+   "url": "https://www.formel1.de/nc/149577",
+   "date": "2026-10-29T13:00:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "perez"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "Transfer",
+   "firstSeen": "2026-10-29T13:16:25.914Z"
+  },
+  {
+   "title": "\"Nicht so schnell und nicht so gut\": Sebastian Vettel über seine BMW-Zeit",
+   "summary": "BMW hatte Sebastian Vettel bereits ein Formel-1-Cockpit zugesichert, doch daraus wurde nichts: Nun spricht der viermalige Weltmeister über die Hintergründe",
+   "url": "https://www.formel1.de/nc/149576",
+   "date": "2026-10-29T12:04:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-10-29T13:16:25.914Z"
+  },
+  {
+   "title": "Zwischen Vater-Kritik und Top-Material: Rosberg über seinen Weg an die Spitze",
+   "summary": "Früh gefördert von Vater Keke und mit Top-Material ausgestattet, eroberte Nico Rosberg die Formel 1 - 2016 krönte er sich gegen Lewis Hamilton zum Champion",
+   "url": "https://www.formel1.de/nc/149575",
+   "date": "2026-10-29T11:02:28.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-29T13:16:25.914Z"
+  },
   {
    "title": "QUIZ: How much do you know about the drivers in the F1 '300 club'?",
    "summary": "This weekend at his home race Sergio Perez will compete in his 300th Grand Prix. But how much do you know about the other drivers in Formula 1's '300 club'?",
@@ -889,89 +965,6 @@
    "team": "mclaren",
    "category": "News",
    "firstSeen": "2026-10-27T08:57:23.038Z"
-  },
-  {
-   "title": "Isack Hadjar: So erklärt er das Funk-Missverständnis mit Verstappen in Austin",
-   "summary": "Isack Hadjar hatte in Austin mit mehreren Probleme zu kämpfen: Erst verlor er am Start einige Positionen, dann kam es zu einer Unstimmigkeit mit Max Verstappen",
-   "url": "https://www.formel1.de/nc/149549",
-   "date": "2026-10-27T07:25:02.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hadjar",
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-27T08:57:23.038Z"
-  },
-  {
-   "title": "Christian Horner: Mateschitz-Tod führte zum \"brutalen\" Red-Bull-Aus",
-   "summary": "Laut dem ehemaligen Red-Bull-Teamchef Christian Horner ist seine Entlassung vor allem ein Resultat des Todes von Dietrich Mateschitz",
-   "url": "https://www.formel1.de/nc/149548",
-   "date": "2026-10-27T06:00:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-27T07:04:24.609Z"
-  },
-  {
-   "title": "Second place battle intensifies as Antonelli nears title",
-   "summary": "Five drivers are still in the hunt to finish second in the standings, but who is most likely to finish runner-up this season?",
-   "url": "https://www.formula1.com/en/latest/article/attention-turns-to-the-race-for-second-place-as-kimi-antonelli-closes-in-on-title-success.4UFMy0lQi5bRt1lBhZLgDG",
-   "date": "2026-10-27T04:50:04.940Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-27T04:50:04.940Z"
-  },
-  {
-   "title": "5 betting lessons after Antonelli wins United States GP",
-   "summary": "The Mercedes star needs just two more points to clinch the title after his ninth win of the season.",
-   "url": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-learnt-after-kimi-antonelli-wins-the-united-states-grand-prix.4KrTb1yIoxsJJP5cD25hwN",
-   "date": "2026-10-26T22:51:00.994Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-26T22:51:00.994Z"
-  },
-  {
-   "title": "Warum Max Verstappen immer schon am Sonntagabend heimfliegt",
-   "summary": "Max Verstappen fliegt nach Rennen möglichst am Sonntagabend nach Hause: Seine Tochter Lily prägt seinen Alltag und beeinflusst auch seine Zukunftspläne",
-   "url": "https://www.formel1.de/nc/149547",
-   "date": "2026-10-26T17:00:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-26T19:04:50.193Z"
   }
  ]
 }
