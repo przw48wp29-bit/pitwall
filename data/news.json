@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T15:09:23.618Z",
+ "updatedAt": "2026-10-29T17:07:37.314Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,36 @@
   }
  },
  "items": [
+  {
+   "title": "Best value early bets for the Mexico City Grand Prix",
+   "summary": "We've assessed the latest betting markets and selected our pick of early bets offering the best value at the Autodromo Hermanos Rodriguez.",
+   "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-mexico-city-grand-prix.5JJhrbuGw9nNsmkuvsa4jX",
+   "date": "2026-10-29T17:07:37.303Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-29T17:07:37.303Z"
+  },
+  {
+   "title": "Horner rechnet mit Webber ab: War \"respektlos\" gegenüber Red Bull",
+   "summary": "Christian Horner kritisiert Mark Webbers Abschied von Red Bull als respektlos: Gleichzeitig erklärt er, warum Daniel Ricciardo sofort überzeugte",
+   "url": "https://www.formel1.de/nc/149580",
+   "date": "2026-10-29T16:11:38.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-29T17:07:37.303Z"
+  },
   {
    "title": "\"Konstrukteurs-WM mit nur einem Fahrer\": Verstappen mit Kampfansage",
    "summary": "Nach acht Podestplätzen im Jahr 2026 wittert Max Verstappen bei Red Bull wieder Morgenluft - Der Niederländer sieht Red Bull auf dem richtigen Weg",
@@ -924,38 +954,6 @@
    ],
    "team": "rb",
    "category": "Rennen",
-   "firstSeen": "2026-10-27T10:53:36.679Z"
-  },
-  {
-   "title": "Mexico City Grand Prix betting guide and latest odds",
-   "summary": "Our experts bring you all the important betting information you need before making your predictions for the Autodromo Hermanos Rodriguez.",
-   "url": "https://www.formula1.com/en/latest/article/mexico-city-grand-prix-race-betting-guide-and-what-the-markets-expect-to-happen.27HUe9yu5jsRU6mrkmkWxS",
-   "date": "2026-10-27T10:52:36.679Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-27T10:53:36.679Z"
-  },
-  {
-   "title": "'More than a bad start' cost Audi after another P11 finish",
-   "summary": "Nico Hulkenberg finished 11th in Austin as Audi once again came agonisingly close to scoring points. It is the third time in the last four races that the German has come home in P11 – something that has become a theme of Audi’s season as a whole.",
-   "url": "https://www.formula1.com/en/latest/article/more-than-a-bad-start-cost-audi-in-austin-as-hulkenberg-returns-another-p11-finish.7iLbqYhxXCxyg6VgvzN23w",
-   "date": "2026-10-27T10:51:36.679Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hulkenberg"
-   ],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "News",
    "firstSeen": "2026-10-27T10:53:36.679Z"
   }
  ]
