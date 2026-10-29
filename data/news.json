@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T19:08:39.194Z",
+ "updatedAt": "2026-10-29T20:58:18.765Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,61 @@
   }
  },
  "items": [
+  {
+   "title": "Nico Hülkenberg: Mit meiner Performance bin ich \"grundsätzlich zufrieden\"",
+   "summary": "Vor dem Grand Prix von Mexiko spricht Nico Hülkenberg über seine Performance und die vielen Baustellen, an den Audi noch arbeiten muss",
+   "url": "https://www.formel1.de/nc/149588",
+   "date": "2026-10-29T20:15:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hulkenberg"
+   ],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "Rennen",
+   "firstSeen": "2026-10-29T20:58:18.750Z"
+  },
+  {
+   "title": "\"Das Auto hat sein Limit erreicht\": Bearman mit klarer Haas-Diagnose",
+   "summary": "Oliver Bearman lobt das Fahrgefühl des Haas, sieht aber keine Leistungsreserven mehr - Der entscheidende Faktor: fehlender Abtrieb gegenüber der Konkurrenz",
+   "url": "https://www.formel1.de/nc/149587",
+   "date": "2026-10-29T20:08:21.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bearman"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "News",
+   "firstSeen": "2026-10-29T20:58:18.750Z"
+  },
+  {
+   "title": "Toto Wolff: Leute verstehen nicht, wie viel wir in Antonelli investiert haben",
+   "summary": "Vor dem Grand Prix von Mexiko hat Mercedes-Teamchef Toto Wolff über Piero Ferrari und dessen Vergleich zwischen Kimi Antonelli und Niki Lauda gesprochen",
+   "url": "https://www.formel1.de/nc/149586",
+   "date": "2026-10-29T19:09:28.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes",
+    "ferrari"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-29T20:58:18.750Z"
+  },
   {
    "title": "LIVE COVERAGE: Build-up to the Mexico City Grand Prix",
    "summary": "Live coverage of all the build-up ahead of the 2026 Mexico City Grand Prix weekend.",
@@ -150,6 +205,20 @@
    "team": "red_bull",
    "category": "News",
    "firstSeen": "2026-10-29T17:07:37.303Z"
+  },
+  {
+   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
+   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
+   "url": "https://www.formel1.de/nc/146408",
+   "date": "2026-10-29T15:49:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-10-27T18:59:14.877Z"
   },
   {
    "title": "\"Konstrukteurs-WM mit nur einem Fahrer\": Verstappen mit Kampfansage",
@@ -553,20 +622,6 @@
    "firstSeen": "2026-10-28T17:04:30.369Z"
   },
   {
-   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
-   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
-   "url": "https://www.formel1.de/nc/146408",
-   "date": "2026-10-28T15:49:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Transfer",
-   "firstSeen": "2026-10-27T18:59:14.877Z"
-  },
-  {
    "title": "Übersicht: Die Fahrer und Teams der Formel-1-Saison 2027",
    "summary": "Der aktuelle Ausblick auf die Formel-1-Saison 2027 mit allen bisher bestätigten Fahrern und Teams sowie allen Fahrerwechseln",
    "url": "https://www.formel1.de/nc/148077",
@@ -902,55 +957,6 @@
    "team": "alpine",
    "category": "Rennen",
    "firstSeen": "2026-10-27T18:59:14.877Z"
-  },
-  {
-   "title": "Mercedes-Update: Warum der Antonelli-Sieg noch nicht alle Probleme löst",
-   "summary": "Zwei Mercedes-Updates, zwei unterschiedliche Ergebnisse: Warum die neuen Teile aus Kanada sofort funktionierten, das Malaysia-Paket aber erst mit Verzögerung",
-   "url": "https://www.formel1.de/nc/149555",
-   "date": "2026-10-27T17:04:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Technik",
-   "firstSeen": "2026-10-27T18:59:14.877Z"
-  },
-  {
-   "title": "What time is the 2026 Mexico City GP and how can I watch it?",
-   "summary": "Here are all the timings – along with all the additional information you need – for the 19th Grand Prix weekend of the 2026 season from Mexico.",
-   "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-mexico-city-grand-prix-and-how-can-i-watch-it.7ugr1iuBkVF1pD5fqJHNA3",
-   "date": "2026-10-27T16:59:30.469Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-27T16:59:30.469Z"
-  },
-  {
-   "title": "Bearman hadert mit Strafe: \"Kann mich nicht einfach in Luft auflösen\"",
-   "summary": "Oliver Bearman kritisiert die Strafe gegen sich wegen der Berührung mit Pierre Gasly: Die Sanktion sei viel zu hart, wenn man es überhaupt bestraffen sollte",
-   "url": "https://www.formel1.de/nc/149554",
-   "date": "2026-10-27T16:14:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bearman",
-    "gasly"
-   ],
-   "teams": [],
-   "team": "haas",
-   "category": "Regeln",
-   "firstSeen": "2026-10-27T16:59:30.469Z"
   }
  ]
 }
