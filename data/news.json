@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T13:12:44.373Z",
+ "updatedAt": "2026-10-30T15:08:45.834Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,58 @@
   }
  },
  "items": [
+  {
+   "title": "Midfield fight on a ‘knife’s edge’ as Audi target Haas",
+   "summary": "Nico Hulkenberg believes Audi must be “flawless” to capitalise on opportunities in the tightly contested midfield battle this weekend in Mexico, while team mate Gabriel Bortoleto remains confident the team can close the gap to Haas in the teams' standings.",
+   "url": "https://www.formula1.com/en/latest/article/hulkenberg-believes-midfield-battle-is-on-a-knifes-edge-as-audi-target-haas-in-mexico.4bLtkwTVJwOHEEUjCzTLp1",
+   "date": "2026-10-30T15:08:45.819Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hulkenberg",
+    "bortoleto"
+   ],
+   "teams": [
+    "haas",
+    "audi"
+   ],
+   "team": "haas",
+   "category": "News",
+   "firstSeen": "2026-10-30T15:08:45.819Z"
+  },
+  {
+   "title": "Isack Hadjar rudert zurück: \"Das hätte ich für mich behalten sollen\"",
+   "summary": "Isack Hadjar liess nach dem US-Grand-Prix seinem Frust freien Lauf: In Mexiko räumt der Formel-1-Pilot nun ein, dass er dabei zu weit gegangen ist",
+   "url": "https://www.formel1.de/nc/149602",
+   "date": "2026-10-30T14:04:30.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hadjar"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-30T15:08:45.819Z"
+  },
+  {
+   "title": "24h Le Mans mit Daniel Ricciardo? So reagiert Max Verstappen",
+   "summary": "Daniel Ricciardo liebäugelt mit einer Rückkehr in den Motorsport: Max Verstappen verrät nun, was er darüber weiss und wie er zu einem gemeinsamen Start steht",
+   "url": "https://www.formel1.de/nc/149601",
+   "date": "2026-10-30T13:46:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-30T15:08:45.819Z"
+  },
   {
    "title": "The greatest pranks in Formula 1 history",
    "summary": "Discover the funniest Formula 1 pranks involving Ayrton Senna, Michael Schumacher, Max Verstappen, Kimi Antonelli and more.",
@@ -61,7 +113,7 @@
    "firstSeen": "2026-10-30T13:12:44.359Z"
   },
   {
-   "title": "Kimi Antonelli: Ein \"ganz normaler Typ\" - und bald besser als Vettel?",
+   "title": "Kimi Antonelli besser als Sebastian Vettel? Steiner legt sich fest",
    "summary": "Sebastian Vettel war viermal Weltmeister, doch Günther Steiner hält Kimi Antonelli für aussergewöhnlicher - Dabei spielt auch Vettels Ferrari-Zeit eine Rolle",
    "url": "https://www.formel1.de/nc/149600",
    "date": "2026-10-30T12:31:58.000Z",
@@ -939,53 +991,6 @@
    "team": "red_bull",
    "category": "News",
    "firstSeen": "2026-10-28T19:06:03.054Z"
-  },
-  {
-   "title": "Think you're Fan1? Win a VIP trip to Las Vegas",
-   "summary": "Think You're Fan1? Win a VIP Trip to the Las Vegas Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/think-youre-fan1-win-a-vip-trip-to-las-vegas-6.3X254pEwzMITS11jVkMZAp",
-   "date": "2026-10-28T17:04:30.369Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-28T17:04:30.369Z"
-  },
-  {
-   "title": "How F1 drivers and strategists tackle the Mexico City Grand Prix",
-   "summary": "In Formula 1, performance is decided in moments where conditions change instantly, and decisions carry consequence. The difference isn’t just speed – it’s perspective.",
-   "url": "https://www.formula1.com/en/latest/article/the-risk-perspective-how-f1-drivers-engineers-and-strategists-tackle-the-mexico-city-grand-prix.B8P8xr5i1sPDgQOmL7hzs",
-   "date": "2026-10-28T17:03:30.369Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-28T17:04:30.369Z"
-  },
-  {
-   "title": "ANALYSIS: What does the future hold for Bottas at Cadillac?",
-   "summary": "Valtteri Bottas signed a multi-year deal with Cadillac to return to the grid this season after a year on the sidelines as Mercedes' third driver. However, it has emerged that the team have yet to commit to triggering an option in his contract that would keep him in the seat for 2027.",
-   "url": "https://www.formula1.com/en/latest/article/analysis-what-does-the-future-hold-for-bottas-at-cadillac.1KzNAtutw1HxVernUWD5TG",
-   "date": "2026-10-28T17:02:30.369Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "bottas"
-   ],
-   "teams": [
-    "mercedes",
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "Transfer",
-   "firstSeen": "2026-10-28T17:04:30.369Z"
   }
  ]
 }
