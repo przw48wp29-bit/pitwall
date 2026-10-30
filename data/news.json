@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T15:08:45.834Z",
+ "updatedAt": "2026-10-30T16:59:06.677Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,88 @@
   }
  },
  "items": [
+  {
+   "title": "7 memorable FP1 debuts from future F1 stars",
+   "summary": "Mexico City will see Nikola Tsolov and Freddie Slater make their FP1 debuts in Formula, over the years plenty of future F1 stars have made their mark in Friday practice before them. F1.com looks back at some familiar names who made FP1 performances.",
+   "url": "https://www.formula1.com/en/latest/article/the-7-memorable-fp1-debuts-from-future-formula-1-stars.3YaqSX5YT9d54Eb4sPWtqb",
+   "date": "2026-10-30T16:59:06.663Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-30T16:59:06.663Z"
+  },
+  {
+   "title": "Which rookies are getting FP1 outings in Mexico?",
+   "summary": "10 full-time drivers will make way for junior, test and reserve drivers during FP1 at the Autodromo Hermanos Rodriguez.",
+   "url": "https://www.formula1.com/en/latest/article/which-rookie-drivers-are-getting-fp1-outings-at-the-mexico-city-grand-prix.7rCPdOEOjnSiAOM8SjUAsB",
+   "date": "2026-10-30T16:58:06.663Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-30T16:59:06.663Z"
+  },
+  {
+   "title": "Win tickets to see McLaren Racing Live at the O2",
+   "summary": "",
+   "url": "https://www.formula1.com/en/latest/article/win-tickets-to-see-mclaren-racing-live-at-the-o2.3lzP8fNRqqmPZP6uSZwvDP",
+   "date": "2026-10-30T16:57:06.663Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-30T16:59:06.663Z"
+  },
+  {
+   "title": "Nach Cockpitverlust bei Haas: Lewis Hamilton spricht Ocon Mut zu",
+   "summary": "Lewis Hamilton bedauert Esteban Ocons bevorstehenden Formel-1-Abschied: Nach einem persönlichen Gespräch macht er dem Haas-Fahrer Mut für die Zukunft",
+   "url": "https://www.formel1.de/nc/149604",
+   "date": "2026-10-30T15:57:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton",
+    "ocon"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "News",
+   "firstSeen": "2026-10-30T16:59:06.663Z"
+  },
+  {
+   "title": "George Russell erklärt: Warum ihm die neue Formel 1 nicht liegt",
+   "summary": "Während Kimi Antonelli im Mercedes um den WM-Titel fährt, kämpft George Russell mit seinem Auto: Zwei technische Faktoren machen ihm besonders zu schaffen",
+   "url": "https://www.formel1.de/nc/149603",
+   "date": "2026-10-30T15:11:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell",
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-30T16:59:06.663Z"
+  },
   {
    "title": "Midfield fight on a ‘knife’s edge’ as Audi target Haas",
    "summary": "Nico Hulkenberg believes Audi must be “flawless” to capitalise on opportunities in the tightly contested midfield battle this weekend in Mexico, while team mate Gabriel Bortoleto remains confident the team can close the gap to Haas in the teams' standings.",
@@ -913,83 +995,6 @@
    "teams": [],
    "team": null,
    "category": "Rennen",
-   "firstSeen": "2026-10-28T19:06:03.054Z"
-  },
-  {
-   "title": "What tyres will the teams have for the Mexico City GP?",
-   "summary": "Pirelli have confirmed the tyre compounds that will be in use for the Mexico City Grand Prix weekend at the Autodromo Hermanos Rodriguez.",
-   "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-mexico-city-grand-prix.3a3o08HqrmdQ9IqXYUwJrH",
-   "date": "2026-10-28T19:05:03.054Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-28T19:06:03.054Z"
-  },
-  {
-   "title": "What is the weather forecast for the Mexico City GP?",
-   "summary": "The weather forecast is in ahead of the Mexico City Grand Prix from the Autodromo Hermanos Rodriguez.",
-   "url": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2026-mexico-city-grand-prix.3KktGrfJjMyHWilzlrQGK6",
-   "date": "2026-10-28T19:04:03.054Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-28T19:06:03.054Z"
-  },
-  {
-   "title": "5 storylines we're excited about ahead of the Mexico City GP",
-   "summary": "Chris Medland runs through the biggest talking points as F1 heads to Mexico City for Round 19 of the 2026 season.",
-   "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-mexico-city-grand-prix.3qhXiCGvBjL6deUeE7qpvT",
-   "date": "2026-10-28T19:03:03.054Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-28T19:06:03.054Z"
-  },
-  {
-   "title": "Wird Russell nie Weltmeister? Warum Toto Wolff Helmut Marko widerspricht",
-   "summary": "Helmut Marko glaubt, dass George Russell keine weitere Chance auf den WM-Titel bekommen wird - Mercedes-Teamchef Toto Wolff stimmt seinem Landsmann nicht zu",
-   "url": "https://www.formel1.de/nc/149570",
-   "date": "2026-10-28T18:41:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-28T19:06:03.054Z"
-  },
-  {
-   "title": "Max Verstappen: WM-Titel wird Kimi Antonelli noch besser machen",
-   "summary": "Laut Max Verstappen wird Kimi Antonelli in den kommenden Jahren noch stärker werden - Der gerade einmal 20-Jährige habe sein Potenzial noch nicht ausgeschöpft",
-   "url": "https://www.formel1.de/nc/149569",
-   "date": "2026-10-28T17:16:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
    "firstSeen": "2026-10-28T19:06:03.054Z"
   }
  ]
