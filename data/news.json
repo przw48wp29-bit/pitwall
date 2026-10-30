@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T19:01:36.324Z",
+ "updatedAt": "2026-10-30T20:55:35.261Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,155 @@
  },
  "items": [
   {
-   "title": "LIVE COVERAGE: FP1 for the Mexico City Grand Prix",
+   "title": "Bottas set for grid penalty in Mexico City after PU changes",
+   "summary": "Cadillac driver Valtteri Bottas will take a sizeable grid drop at this weekend’s Mexico City Grand Prix after the team changed various power unit elements on his car.",
+   "url": "https://www.formula1.com/en/latest/article/bottas-set-for-grid-penalty-at-mexico-city-grand-prix-after-power-unit-changes.2J7hkopU6hrvgFvlK82cip",
+   "date": "2026-10-30T20:55:35.244Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "bottas"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "Regeln",
+   "firstSeen": "2026-10-30T20:55:35.244Z"
+  },
+  {
+   "title": "Leclerc fastest in Mexico FP1 as new faces make F1 debuts",
+   "summary": "Charles Leclerc finished fastest in Free Practice 1 ahead of the Mexico City Grand Prix, the Ferrari driver heading Kimi Antonelli and Fred Vesti.",
+   "url": "https://www.formula1.com/en/latest/article/fp1-leclerc-leads-antonelli-in-mexico-city-as-new-faces-make-formula-1-debuts.5IkozqYxX25QgmGJqc0NlA",
+   "date": "2026-10-30T20:54:35.244Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "leclerc",
+    "antonelli"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-30T20:55:35.244Z"
+  },
+  {
+   "title": "What could shake up Mexico City betting markets?",
+   "summary": "After the lights go out in Mexico City, bettors will be watching closely to make smart betting decisions in real time.",
+   "url": "https://www.formula1.com/en/latest/article/what-could-shake-up-mexico-city-grand-prix-markets-when-betting-in-race.2O1mWktrVDTGOKZXZofsLA",
+   "date": "2026-10-30T20:53:35.244Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-10-30T20:55:35.244Z"
+  },
+  {
+   "title": "Keine Garmin oder Apple Watch: Darum meidet Verstappen Fitnesstracker",
+   "summary": "Max Verstappen verzichtet auf Fitnesstracker, während Lando Norris seinen Whoop nutzt: Beide setzen auf unterschiedliche Strategien gegen die Saisonbelastung",
+   "url": "https://www.formel1.de/nc/149609",
+   "date": "2026-10-30T20:44:30.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "norris"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-30T20:55:35.244Z"
+  },
+  {
+   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
+   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
+   "url": "https://www.formel1.de/nc/146408",
+   "date": "2026-10-30T20:04:53.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-10-27T18:59:14.877Z"
+  },
+  {
+   "title": "Kritik an Kollegen: Hat Fernando Alonso einen wichtigen Punkt übersehen?",
+   "summary": "Nach der vernichtenden Kritik von Fernando Alonso an seinen Kollegen im Mittelfeld stellt sich die Frage nach den Problemen unterhalb der Formel 1",
+   "url": "https://www.formel1.de/nc/149608",
+   "date": "2026-10-30T19:55:52.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-10-30T20:55:35.244Z"
+  },
+  {
+   "title": "Formel-1-Motorenstrafen 2026: Die Übersicht",
+   "summary": "Die verwendeten Motorenteile während der Saison 2026 in der Übersicht: Wann welchem Formel-1-Fahrer eine Strafe droht",
+   "url": "https://www.formel1.de/nc/146406",
+   "date": "2026-10-30T19:51:47.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-10-30T20:55:35.244Z"
+  },
+  {
+   "title": "Klarer Vorsprung auf Antonelli: Leclerc Schnellster im ersten Mexiko-Training",
+   "summary": "Charles Leclerc dominiert das erste Freie Training zum Grand Prix von Mexiko 2026, das ganz im Zeichen der Freitagspiloten in zehn von elf Teams steht",
+   "url": "https://www.formel1.de/nc/149607",
+   "date": "2026-10-30T19:36:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli",
+    "leclerc"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-30T20:55:35.244Z"
+  },
+  {
+   "title": "\"Zwei Schritte vor, einer zurück\": Oscar Piastri erklärt McLarens Formtief",
+   "summary": "Oscar Piastri und Lando Norris erklären, warum der McLaren so schwer zu fahren ist und weshalb 2027 bereits mitentscheidet",
+   "url": "https://www.formel1.de/nc/149606",
+   "date": "2026-10-30T19:15:10.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "piastri",
+    "norris"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-10-30T20:55:35.244Z"
+  },
+  {
+   "title": "AS IT HAPPENED: FP1 for the Mexico City Grand Prix",
    "summary": "Live coverage of the first Formula 1 practice session for the 2026 Mexico City Grand Prix.",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-mexico-city-2026.3EQXBZtUSy8UX3vcLOrmta",
    "date": "2026-10-30T19:01:36.311Z",
@@ -767,20 +915,6 @@
    "firstSeen": "2026-10-29T17:07:37.303Z"
   },
   {
-   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
-   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
-   "url": "https://www.formel1.de/nc/146408",
-   "date": "2026-10-29T15:49:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Transfer",
-   "firstSeen": "2026-10-27T18:59:14.877Z"
-  },
-  {
    "title": "\"Konstrukteurs-WM mit nur einem Fahrer\": Verstappen mit Kampfansage",
    "summary": "Nach acht Podestplätzen im Jahr 2026 wittert Max Verstappen bei Red Bull wieder Morgenluft - Der Niederländer sieht Red Bull auf dem richtigen Weg",
    "url": "https://www.formel1.de/nc/149579",
@@ -871,131 +1005,6 @@
    "team": null,
    "category": "Transfer",
    "firstSeen": "2026-10-29T13:16:25.914Z"
-  },
-  {
-   "title": "Zwischen Vater-Kritik und Top-Material: Rosberg über seinen Weg an die Spitze",
-   "summary": "Früh gefördert von Vater Keke und mit Top-Material ausgestattet, eroberte Nico Rosberg die Formel 1 - 2016 krönte er sich gegen Lewis Hamilton zum Champion",
-   "url": "https://www.formel1.de/nc/149575",
-   "date": "2026-10-29T11:02:28.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-29T13:16:25.914Z"
-  },
-  {
-   "title": "QUIZ: How much do you know about the drivers in the F1 '300 club'?",
-   "summary": "This weekend at his home race Sergio Perez will compete in his 300th Grand Prix. But how much do you know about the other drivers in Formula 1's '300 club'?",
-   "url": "https://www.formula1.com/en/latest/article/quiz-how-much-do-you-know-about-the-drivers-in-the-f1-300-club.3MbaQSikVNjuvFSZHI8RwT",
-   "date": "2026-10-29T11:00:19.633Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "perez"
-   ],
-   "teams": [],
-   "team": "cadillac",
-   "category": "Rennen",
-   "firstSeen": "2026-10-29T11:00:19.633Z"
-  },
-  {
-   "title": "Perez reflects on his F1 career in photos ahead of 300th GP",
-   "summary": "Sergio Perez will mark a major milestone in his career at the upcoming Mexico City Grand Prix when he starts an F1 race for the 300th time – climbing above Sebastian Vettel and into seventh position on the sport’s all-time entry list.",
-   "url": "https://www.formula1.com/en/latest/article/exclusive-sergio-perez-reflects-on-his-f1-career-in-photos-as-he-reaches-300-grand-prix-starts.4c7PQiuN2WobXtsQ2tEeRw",
-   "date": "2026-10-29T10:59:19.633Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "perez"
-   ],
-   "teams": [],
-   "team": "cadillac",
-   "category": "Rennen",
-   "firstSeen": "2026-10-29T11:00:19.633Z"
-  },
-  {
-   "title": "Everything you need to know about the Autodromo Hermanos Rodriguez",
-   "summary": "Get up to speed with all the key Autodromo Hermanos Rodriguez statistics, driving pointers, facts and more.",
-   "url": "https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-autodromo-hermanos-rodriguez.4D4Jzu2UDBia3HHmFa50zv",
-   "date": "2026-10-29T10:58:19.633Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-29T11:00:19.633Z"
-  },
-  {
-   "title": "Coulthard zweifelt an F1-Ausreden: Senna und Schumacher als Gegenbeweis",
-   "summary": "David Coulthard hält wenig davon, schwache Formel-1-Leistungen mit dem Reglement zu erklären - und verweist auf Ayrton Senna und Michael Schumacher",
-   "url": "https://www.formel1.de/nc/149574",
-   "date": "2026-10-29T09:53:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
-   "firstSeen": "2026-10-29T11:00:19.633Z"
-  },
-  {
-   "title": "Wolff packt aus: Maldonado-Sieg bei Williams verhalf ihm zum Mercedes-Job",
-   "summary": "Pastor Maldonados Sensationssieg in Barcelona 2012 weckte das Interesse von Mercedes - Toto Wolff blickt auf die entscheidenden Gespräche in Stuttgart zurück",
-   "url": "https://www.formel1.de/nc/149573",
-   "date": "2026-10-29T09:00:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes",
-    "williams"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-29T09:06:08.508Z"
-  },
-  {
-   "title": "Daniel Ricciardo über seinen grössten Formel-1-Fehler: \"Ich wäre geblieben\"",
-   "summary": "Daniel Ricciardo sieht seinen Abschied von Red Bull heute kritisch: Er glaubt, damit seine beste Chance auf den Formel-1-Weltmeistertitel vergeben zu haben",
-   "url": "https://www.formel1.de/nc/149572",
-   "date": "2026-10-29T07:40:51.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-29T09:06:08.508Z"
-  },
-  {
-   "title": "Sergio Perez an sein jüngeres Ich: Geniesse auch die schlechten Momente",
-   "summary": "Sergio Perez blickt auf seine bisherige Formel-1-Karriere zurück und erklärt, warum er viele Momente in der Königsklasse nicht ausreichend geniessen konnte",
-   "url": "https://www.formel1.de/nc/149571",
-   "date": "2026-10-29T05:43:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "perez"
-   ],
-   "teams": [],
-   "team": "cadillac",
-   "category": "News",
-   "firstSeen": "2026-10-29T07:17:07.292Z"
   }
  ]
 }
