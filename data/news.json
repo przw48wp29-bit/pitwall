@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T20:55:35.261Z",
+ "updatedAt": "2026-10-30T22:52:22.062Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,53 @@
   }
  },
  "items": [
+  {
+   "title": "LIVE COVERAGE: Hamilton out of FP2 in Mexico City",
+   "summary": "Live coverage of the second Formula 1 practice session for the 2026 Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-mexico-city-2026.3nb452uxR9tTmO83J73OeN",
+   "date": "2026-10-30T22:52:22.039Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-30T22:52:22.039Z"
+  },
+  {
+   "title": "Klarer Vorsprung auf Antonelli: Leclerc Schnellster im ersten Mexiko-Training",
+   "summary": "Charles Leclerc dominiert das erste Freie Training zum Grand Prix von Mexiko 2026, das ganz im Zeichen der Freitagspiloten in zehn von elf Teams steht",
+   "url": "https://www.formel1.de/nc/149607",
+   "date": "2026-10-30T21:23:38.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli",
+    "leclerc"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-30T20:55:35.244Z"
+  },
+  {
+   "title": "F1-Revolution? FIA nutzt AWS-KI gegen regulatorische Grauzonen",
+   "summary": "Die FIA kooperiert in Zukunft mit Amazon Web Services, um an Regelwerken zu arbeiten und regulatorische Grauzonen ausfindig zu machen",
+   "url": "https://www.formel1.de/nc/149610",
+   "date": "2026-10-30T21:10:40.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-10-30T22:52:22.039Z"
+  },
   {
    "title": "Bottas set for grid penalty in Mexico City after PU changes",
    "summary": "Cadillac driver Valtteri Bottas will take a sizeable grid drop at this weekend’s Mexico City Grand Prix after the team changed various power unit elements on his car.",
@@ -119,23 +166,6 @@
    "teams": [],
    "team": null,
    "category": "Regeln",
-   "firstSeen": "2026-10-30T20:55:35.244Z"
-  },
-  {
-   "title": "Klarer Vorsprung auf Antonelli: Leclerc Schnellster im ersten Mexiko-Training",
-   "summary": "Charles Leclerc dominiert das erste Freie Training zum Grand Prix von Mexiko 2026, das ganz im Zeichen der Freitagspiloten in zehn von elf Teams steht",
-   "url": "https://www.formel1.de/nc/149607",
-   "date": "2026-10-30T19:36:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "leclerc"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
    "firstSeen": "2026-10-30T20:55:35.244Z"
   },
   {
@@ -972,38 +1002,6 @@
    "teams": [],
    "team": null,
    "category": "Rennen",
-   "firstSeen": "2026-10-29T13:16:25.914Z"
-  },
-  {
-   "title": "Umbruch bei Cadillac: Sergio Perez setzt auf Geduld, Budkowski und die Zukunft",
-   "summary": "Sergio Perez hat seinen Vertrag bei Cadillac langfristig bis Ende 2029 verlängert - Nach einer durchwachsenen Debütsaison setzt der Mexikaner voll das Personal",
-   "url": "https://www.formel1.de/nc/149577",
-   "date": "2026-10-29T13:00:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "perez"
-   ],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "Transfer",
-   "firstSeen": "2026-10-29T13:16:25.914Z"
-  },
-  {
-   "title": "Sebastian Vettel verrät: Warum seine Formel-1-Karriere bei BMW scheiterte",
-   "summary": "BMW hatte Sebastian Vettel bereits ein Formel-1-Cockpit zugesichert, doch daraus wurde nichts: Nun spricht der viermalige Weltmeister über die Hintergründe",
-   "url": "https://www.formel1.de/nc/149576",
-   "date": "2026-10-29T12:04:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Transfer",
    "firstSeen": "2026-10-29T13:16:25.914Z"
   }
  ]
