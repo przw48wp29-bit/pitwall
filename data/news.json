@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T09:05:46.579Z",
+ "updatedAt": "2026-10-30T10:58:38.379Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,75 @@
  },
  "items": [
   {
-   "title": "Lando Norris verteidigt McLarens F1-Saison 2026: \"Kein Misserfolg\"",
+   "title": "Hadjar identifies the ‘weakness’ Red Bull still suffer from",
+   "summary": "Isack Hadjar has looked ahead to the Mexico City Grand Prix, pinpointing an area that Red Bull need to work on in order to fight for victory again.",
+   "url": "https://www.formula1.com/en/latest/article/nothing-could-be-done-hadjar-identifies-the-weakness-red-bull-still-suffer-from.Se87vcJiXrG3Qd1WJMPfi",
+   "date": "2026-10-30T10:58:38.362Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hadjar"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-30T10:58:38.362Z"
+  },
+  {
+   "title": "Why Sergio Perez means so much to Mexico",
+   "summary": "Sergio Perez will line up for his 300th Formula 1 race when he takes to the track at home in Mexico City. Fans, murals and memes show what he means to the country.",
+   "url": "https://www.formula1.com/en/latest/article/why-sergio-perez-means-so-much-to-mexico-as-he-celebrates-his-300th-grand-prix.55aJ3d90HUJ8smyvsIZtsr",
+   "date": "2026-10-30T10:57:38.362Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "perez"
+   ],
+   "teams": [],
+   "team": "cadillac",
+   "category": "Rennen",
+   "firstSeen": "2026-10-30T10:58:38.362Z"
+  },
+  {
+   "title": "Sergio Perez: Glaube, dass ich mit Cadillac 2028 aufs Podium fahren kann",
+   "summary": "Sergio Perez hat bei Cadillac verlängert, plant aber bereits sein Formel-1-Karriereende: Was der Mexikaner bis dahin unbedingt noch erreichen möchte",
+   "url": "https://www.formel1.de/nc/149598",
+   "date": "2026-10-30T10:02:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "perez"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "Rennen",
+   "firstSeen": "2026-10-30T10:58:38.362Z"
+  },
+  {
+   "title": "Audi bestätigt überraschenden Abschied: Beat Zehnder verlässt F1-Team",
+   "summary": "Kaum jemand verkörperte Sauber so sehr wie Beat Zehnder, jetzt verlässt der langjährige Teammanager nach 39 Jahren den Rennstall: Audi erklärt den Abschied",
+   "url": "https://www.formel1.de/nc/149597",
+   "date": "2026-10-30T09:13:30.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-10-30T10:58:38.362Z"
+  },
+  {
+   "title": "Lando Norris erklärt McLaren-Rückschlag 2026: \"Es war ein Opfer\"",
    "summary": "Nur Platz sechs in der Fahrerwertung, trotzdem zufrieden: Lando Norris erklärt, warum seine WM-Position für ihn kaum zählt und was ihn wirklich ärgert",
    "url": "https://www.formel1.de/nc/149596",
    "date": "2026-10-30T08:41:32.000Z",
@@ -20,7 +88,9 @@
    "drivers": [
     "norris"
    ],
-   "teams": [],
+   "teams": [
+    "mclaren"
+   ],
    "team": "mclaren",
    "category": "News",
    "firstSeen": "2026-10-30T09:05:46.563Z"
@@ -909,68 +979,6 @@
    "team": "cadillac",
    "category": "Transfer",
    "firstSeen": "2026-10-28T17:04:30.369Z"
-  },
-  {
-   "title": "Perez signs Cadillac contract extension until at least 2029",
-   "summary": "Sergio Perez has extended his contract with the Cadillac Formula 1 Team, which will ensure that the Mexican driver will stay with the American outfit until at least 2029.",
-   "url": "https://www.formula1.com/en/latest/article/perez-signs-contract-extension-to-remain-at-cadillac-until-at-least-2029.4oF3HFX8tK9qTWvU7wAXHM",
-   "date": "2026-10-28T15:07:17.955Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "perez"
-   ],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "Transfer",
-   "firstSeen": "2026-10-28T15:07:17.955Z"
-  },
-  {
-   "title": "Formula 1 publishes first sport-wide Social Impact Report",
-   "summary": "Formula 1 has unveiled its first sport-wide Social Impact Report, as well as announcing a £2.4 million investment in the next phase of the Formula 1 Engineering Scholarship Programme for until the 2028/29 academic year.",
-   "url": "https://www.formula1.com/en/latest/article/formula-1-publishes-first-sport-wide-social-impact-report-and-renews-gbp2-4-million-engineering-scholarship-programme.2SBEfFCzB54FXnwTb6COdW",
-   "date": "2026-10-28T15:06:17.955Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-28T15:07:17.955Z"
-  },
-  {
-   "title": "How to stream the 2026 Mexico City Grand Prix on F1 TV Premium",
-   "summary": "Here is all the information you need to follow the Mexico City Grand Prix weekend live on F1 TV.",
-   "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-2026-mexico-city-grand-prix-on-f1-tv-premium.E67qNTJ5yEN1ZueDeqLdv",
-   "date": "2026-10-28T15:05:17.955Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-28T15:07:17.955Z"
-  },
-  {
-   "title": "Kimi Antonelli würde als Weltmeister wohl auf Startnummer 1 verzichten",
-   "summary": "Kimi Antonelli dürfte 2027 als designierter Weltmeister mit der Startnummer 1 an den Start gehen, wird nach aktuellem Stand aber wohl auf dieses Privileg verzichten",
-   "url": "https://www.formel1.de/nc/149566",
-   "date": "2026-10-28T14:51:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-28T15:07:17.955Z"
   }
  ]
 }
