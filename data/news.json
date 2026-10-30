@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T22:55:09.243Z",
+ "updatedAt": "2026-10-30T05:01:09.117Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,124 @@
   }
  },
  "items": [
+  {
+   "title": "All the stories that got the Mexico City paddock talking",
+   "summary": "Lawrence Barretto rounds up the big talking points to emerge during media day at the Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-mexico-city-paddock-talking.7nwhBepDfju9wmdjGdxEPk",
+   "date": "2026-10-30T05:01:09.102Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-30T05:01:09.102Z"
+  },
+  {
+   "title": "Why Tsolov has complicated Racing Bulls’ 2027 plans",
+   "summary": "Nikola Tsolov’s FP1 appearance in Mexico has intensified the battle for a Racing Bulls seat in 2027.",
+   "url": "https://www.formula1.com/en/latest/article/how-tsolovs-fp1-appearance-puts-a-spotlight-on-racing-bulls-2027-line-up.3ScioRvM975nKI375uYqkb",
+   "date": "2026-10-30T05:00:09.102Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "Transfer",
+   "firstSeen": "2026-10-30T05:01:09.102Z"
+  },
+  {
+   "title": "Mit Max Verstappen und Sebastian Vettel? Ricciardo will nach Le Mans",
+   "summary": "Daniel Ricciardo zieht es zurück in den Motorsport - Der Ex-F1-Pilot möchte an den 24 Stunden von Le Mans teilnehmen und träumt von potenten Teamkollegen",
+   "url": "https://www.formel1.de/nc/149594",
+   "date": "2026-10-30T05:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-30T05:01:09.102Z"
+  },
+  {
+   "title": "Norris defends McLaren's progress ahead of Mexico City GP",
+   "summary": "Lando Norris has defended McLaren's 2026 development progress ahead of the Mexico City Grand Prix, and believes that \"we've had a pretty good year\" after a tough start to the campaign.",
+   "url": "https://www.formula1.com/en/latest/article/a-pretty-good-year-norris-defends-mclarens-2026-development-progress-ahead-of-mexico-city-grand-prix.51Xn2ULlO3UZRPy0sAGpem",
+   "date": "2026-10-30T04:59:09.102Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-30T05:01:09.102Z"
+  },
+  {
+   "title": "‘I don’t care’ about the Drivers’ Championship – Verstappen",
+   "summary": "Red Bull’s Max Verstappen has outlined his priorities for the remaining races of the 2026 season.",
+   "url": "https://www.formula1.com/en/latest/article/verstappen-explains-why-he-doesnt-really-care-about-the-drivers-championship.3MV9VgrNtTXBwMPVvg9N7c",
+   "date": "2026-10-30T04:58:09.102Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-30T05:01:09.102Z"
+  },
+  {
+   "title": "Horner-Aussagen über Newey: Wiederholt sich bei Aston Martin die Geschichte?",
+   "summary": "Kommentar von Ronald Vording: Was Christian Horner über Adrian Newey sagt und warum dessen Beginn bei Aston Martin an den Beginn bei Red Bull erinnert",
+   "url": "https://www.formel1.de/nc/149593",
+   "date": "2026-10-29T23:16:45.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "aston_martin",
+    "red_bull"
+   ],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-10-30T05:01:09.102Z"
+  },
+  {
+   "title": "Leclerc: Mercedes Favorit, sinkende Temperaturen ein Problem für Ferrari",
+   "summary": "Charles Leclerc sieht Mercedes auch in Mexiko vorn: Ferrari kämpft besonders bei sinkenden Temperaturen mit einer bekannten Schwäche im Qualifying",
+   "url": "https://www.formel1.de/nc/149592",
+   "date": "2026-10-29T23:11:42.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [
+    "mercedes",
+    "ferrari"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-30T05:01:09.102Z"
+  },
   {
    "title": "Hamilton outlines Ferrari's objectives for Mexico and beyond",
    "summary": "Lewis Hamilton believes ahead of the Mexico City Grand Prix this weekend that the \"next five races are like test races\", as the Briton pushes Ferrari to build a car capable of challenging for next year's titles.",
@@ -170,7 +288,7 @@
    "firstSeen": "2026-10-29T20:58:18.750Z"
   },
   {
-   "title": "LIVE COVERAGE: Build-up to the Mexico City Grand Prix",
+   "title": "AS IT HAPPENED: Build-up to the Mexico City Grand Prix",
    "summary": "Live coverage of all the build-up ahead of the 2026 Mexico City Grand Prix weekend.",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-mexico-city-2026.6MzXcSQ7C6Varyqp2ev3Eg",
    "date": "2026-10-29T19:08:39.034Z",
@@ -851,120 +969,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-10-28T13:14:28.353Z"
-  },
-  {
-   "title": "LN4 Fusion: Team von Lando Norris bekommt Startplatz in der Formel 2!",
-   "summary": "Nachdem bereits Pläne für andere Serien verkündet wurden, steht nun fest, dass das neue Nachwuchsteam von Lando Norris auch in der Formel 2 an den Start gehen wird",
-   "url": "https://www.formel1.de/nc/149564",
-   "date": "2026-10-28T12:22:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-28T13:14:28.353Z"
-  },
-  {
-   "title": "Piastri hadert mit Problemen: \"Sind im Moment nicht besonders stark\"",
-   "summary": "Oscar Piastri kommt weiterhin nicht in Schwung, während McLaren nur noch vierte Kraft zu sein scheint: \"Schwierig\", eine gute Runde mit dem Auto zu fahren",
-   "url": "https://www.formel1.de/nc/149563",
-   "date": "2026-10-28T11:20:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "piastri"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-10-28T13:14:28.353Z"
-  },
-  {
-   "title": "The 5 drivers most likely to qualify fastest in Mexico",
-   "summary": "We have looked at the betting markets for Qualifying at the Autodromo Hermanos Rodriguez and assessed the chances of the leading contenders for pole.",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-mexico-city.1t7oVE9TBWLG7srsEAA0Bh",
-   "date": "2026-10-28T10:59:08.023Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-28T10:59:08.023Z"
-  },
-  {
-   "title": "What went into Ferrari's upgrade package in the US?",
-   "summary": "Mark Hughes and Giorgio Piola delve into the upgrades Ferrari introduced at the United States Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/what-went-into-ferraris-latest-upgrade-package-in-the-united-states.3I72X1Dos3Nty2sNxMfDD4",
-   "date": "2026-10-28T10:58:08.023Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Technik",
-   "firstSeen": "2026-10-28T10:59:08.023Z"
-  },
-  {
-   "title": "Bottas reagiert auf Ablöse-Gerüchte: \"Wenn Kühe fliegen könnten ...\"",
-   "summary": "Ist das Cockpit von Valtteri Bottas bei Cadillac nicht sicher? Der Finne reagiert auf die Aussagen von Teamchef Marcin Budkowski in der Pressekonferenz von Austin",
-   "url": "https://www.formel1.de/nc/149562",
-   "date": "2026-10-28T10:17:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bottas"
-   ],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "Transfer",
-   "firstSeen": "2026-10-28T10:59:08.023Z"
-  },
-  {
-   "title": "Colapinto reagiert auf Eklat-Statement von Jeremy Clarkson",
-   "summary": "\"Bestrafen, weil er Argentinier ist\" - Mit diesen Worten hat Jeremy Clarkson bei der Formel 1 in Austin für Ärger gesorgt - Franco Colapinto reagiert nach dem Rennen",
-   "url": "https://www.formel1.de/nc/149561",
-   "date": "2026-10-28T09:11:29.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "colapinto"
-   ],
-   "teams": [],
-   "team": "alpine",
-   "category": "Rennen",
-   "firstSeen": "2026-10-28T10:59:08.023Z"
-  },
-  {
-   "title": "Formel-1-Motorenabteilung von Audi bekommt neuen Geschäftsführer",
-   "summary": "Audi verstärkt die Führung seiner F1-Motorenabteilung in Neuburg: Thomas Fuhr wird CEO der Audi Formula Racing GmbH und soll die Organisation weiterentwickeln",
-   "url": "https://www.formel1.de/nc/149560",
-   "date": "2026-10-28T08:04:46.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "News",
-   "firstSeen": "2026-10-28T09:04:00.023Z"
   }
  ]
 }
