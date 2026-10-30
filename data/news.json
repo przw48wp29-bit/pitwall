@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T05:01:09.117Z",
+ "updatedAt": "2026-10-30T09:05:46.579Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,40 @@
   }
  },
  "items": [
+  {
+   "title": "Lando Norris verteidigt McLarens F1-Saison 2026: \"Kein Misserfolg\"",
+   "summary": "Nur Platz sechs in der Fahrerwertung, trotzdem zufrieden: Lando Norris erklärt, warum seine WM-Position für ihn kaum zählt und was ihn wirklich ärgert",
+   "url": "https://www.formel1.de/nc/149596",
+   "date": "2026-10-30T08:41:32.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-10-30T09:05:46.563Z"
+  },
+  {
+   "title": "Lewis Hamilton denkt nicht ans Aufhören: \"Gab niemanden wie mich\"",
+   "summary": "Lewis Hamilton spricht über seine langfristige Formel-1-Zukunft, die Grenzen seiner Karriere und die grösste Schwachstelle des aktuellen Ferrari",
+   "url": "https://www.formel1.de/nc/149595",
+   "date": "2026-10-30T07:49:59.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-30T09:05:46.563Z"
+  },
   {
    "title": "All the stories that got the Mexico City paddock talking",
    "summary": "Lawrence Barretto rounds up the big talking points to emerge during media day at the Mexico City Grand Prix.",
@@ -43,7 +77,7 @@
    "title": "Mit Max Verstappen und Sebastian Vettel? Ricciardo will nach Le Mans",
    "summary": "Daniel Ricciardo zieht es zurück in den Motorsport - Der Ex-F1-Pilot möchte an den 24 Stunden von Le Mans teilnehmen und träumt von potenten Teamkollegen",
    "url": "https://www.formel1.de/nc/149594",
-   "date": "2026-10-30T05:00:04.000Z",
+   "date": "2026-10-30T05:00:00.000Z",
    "source": "Formel1.de",
    "sourceId": "formel1de",
    "lang": "de",
@@ -937,38 +971,6 @@
    "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-10-28T15:07:17.955Z"
-  },
-  {
-   "title": "Formel-1-Experte: Alexander Albon hat \"die Nase gestrichen voll\"",
-   "summary": "Ralf Schumacher vermutet, dass 2027 die letzte Williams-Saison von Alexander Albon wird - Er selbst hätte den 30-Jährigen bereits im nächsten Jahr ausgetauscht",
-   "url": "https://www.formel1.de/nc/149565",
-   "date": "2026-10-28T13:32:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "albon"
-   ],
-   "teams": [
-    "williams"
-   ],
-   "team": "williams",
-   "category": "News",
-   "firstSeen": "2026-10-28T15:07:17.955Z"
-  },
-  {
-   "title": "Ricciardo opens up on the ‘humiliation’ he felt amid F1 exit",
-   "summary": "In the latest episode of official podcast F1 Beyond the Grid, Daniel Ricciardo reflects on how he’s handled his retirement from the sport.",
-   "url": "https://www.formula1.com/en/latest/article/ricciardo-explains-how-he-converted-humiliation-into-feeling-proud-following-his-f1-exit.10kNySRo1gU5H2e59aN8qR",
-   "date": "2026-10-28T13:14:28.353Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-28T13:14:28.353Z"
   }
  ]
 }
