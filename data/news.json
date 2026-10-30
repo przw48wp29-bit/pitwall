@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T10:58:38.379Z",
+ "updatedAt": "2026-10-30T13:12:44.373Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,91 @@
   }
  },
  "items": [
+  {
+   "title": "The greatest pranks in Formula 1 history",
+   "summary": "Discover the funniest Formula 1 pranks involving Ayrton Senna, Michael Schumacher, Max Verstappen, Kimi Antonelli and more.",
+   "url": "https://www.formula1.com/en/latest/article/practical-jokes-and-paddock-mischief-halloween-inspiration-with-f1s-greatest-pranks.4iwxlYilplMbe2OgWdzbbs",
+   "date": "2026-10-30T13:12:44.359Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen",
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-30T13:12:44.359Z"
+  },
+  {
+   "title": "Sauber veteran Zehnder to leave Audi at end of 2026",
+   "summary": "Veteran Swiss engineer and long-time Sauber Team Manager Beat Zehnder will leave the Formula 1 team now known as Audi at the end of the year.",
+   "url": "https://www.formula1.com/en/latest/article/sauber-veteran-zehnder-to-leave-audi-at-end-of-2026.4a26d2DMBeYhGUkbdd8xCN",
+   "date": "2026-10-30T13:11:44.359Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-10-30T13:12:44.359Z"
+  },
+  {
+   "title": "Bearman offers update on F1 future ahead of Mexico City GP",
+   "summary": "Ollie Bearman has confirmed ahead of this weekend's Mexico City Grand Prix that \"it's very clear I want to continue with Haas\" in 2027, although no official announcement has yet been made.",
+   "url": "https://www.formula1.com/en/latest/article/clear-i-want-to-continue-with-haas-bearman-offers-update-on-f1-future-ahead-of-mexico-city-gp.JM5Cf94lnTraFxuKBR8nx",
+   "date": "2026-10-30T13:10:44.359Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "bearman"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Technik",
+   "firstSeen": "2026-10-30T13:12:44.359Z"
+  },
+  {
+   "title": "Kimi Antonelli: Ein \"ganz normaler Typ\" - und bald besser als Vettel?",
+   "summary": "Sebastian Vettel war viermal Weltmeister, doch Günther Steiner hält Kimi Antonelli für aussergewöhnlicher - Dabei spielt auch Vettels Ferrari-Zeit eine Rolle",
+   "url": "https://www.formel1.de/nc/149600",
+   "date": "2026-10-30T12:31:58.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-30T13:12:44.359Z"
+  },
+  {
+   "title": "2.286 Meter Höhe: Warum die Formel 1 in Mexiko ein Problem bekommt",
+   "summary": "Die Höhenlage Mexikos fordert die Formel 1 jedes Jahr heraus, doch 2026 verschärfen die neuen Regeln die Probleme - und könnten Ferrari einen Vorteil bringen",
+   "url": "https://www.formel1.de/nc/149599",
+   "date": "2026-10-30T11:10:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Regeln",
+   "firstSeen": "2026-10-30T13:12:44.359Z"
+  },
   {
    "title": "Hadjar identifies the ‘weakness’ Red Bull still suffer from",
    "summary": "Isack Hadjar has looked ahead to the Mexico City Grand Prix, pinpointing an area that Red Bull need to work on in order to fight for victory again.",
@@ -896,84 +981,6 @@
    ],
    "teams": [
     "mercedes",
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "Transfer",
-   "firstSeen": "2026-10-28T17:04:30.369Z"
-  },
-  {
-   "title": "ANALYSIS: Why Cadillac moved quickly to secure Perez",
-   "summary": "Sergio Perez is set to remain in Formula 1 for the foreseeable future after signing a multi-year contract extension with Cadillac ahead of his home race in Mexico. F1 Correspondent Lawrence Barretto explains why they have extended their partnership …",
-   "url": "https://www.formula1.com/en/latest/article/analysis-why-cadillac-moved-quickly-to-secure-perezs-f1-future.4SIs2e4heBk8BrUrsodtaX",
-   "date": "2026-10-28T17:01:30.369Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "perez"
-   ],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "Transfer",
-   "firstSeen": "2026-10-28T17:04:30.369Z"
-  },
-  {
-   "title": "Match the grid for your chance to win the ultimate F1 experience",
-   "summary": "Get race ready for your chance to win the ultimate F1 experience. Think you've got the speed, focus and memory to take on the grid?",
-   "url": "https://www.formula1.com/en/latest/article/match-the-grid-for-your-chance-to-win-the-ultimate-f1-experience-week6.1GS7Ni59FKPUFQHorDK0kg",
-   "date": "2026-10-28T17:00:30.369Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-28T17:04:30.369Z"
-  },
-  {
-   "title": "Formel-1-Motoren: Alle Antriebskonzepte von 1950 bis 2030",
-   "summary": "Vom Kompressor-Achtzylinder über Turbo und V10 bis zum Hybrid: Welche Motoren die Formel 1 seit 1950 hatte, wie viel PS sie leisteten und was 2030 kommt",
-   "url": "https://www.formel1.de/nc/149568",
-   "date": "2026-10-28T16:03:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-28T17:04:30.369Z"
-  },
-  {
-   "title": "Übersicht: Die Fahrer und Teams der Formel-1-Saison 2027",
-   "summary": "Der aktuelle Ausblick auf die Formel-1-Saison 2027 mit allen bisher bestätigten Fahrern und Teams sowie allen Fahrerwechseln",
-   "url": "https://www.formel1.de/nc/148077",
-   "date": "2026-10-28T15:34:32.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-28T17:04:30.369Z"
-  },
-  {
-   "title": "Neuer Vertrag: Sergio Perez bleibt bis 2029 bei Cadillac!",
-   "summary": "Sergio Perez bleibt der Formel 1 auch in den kommenden Jahren erhalten - Der Mexikaner hat seinen Vertrag bei Cadillac bis Ende 2029 verlängert",
-   "url": "https://www.formel1.de/nc/149567",
-   "date": "2026-10-28T15:26:20.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "perez"
-   ],
-   "teams": [
     "cadillac"
    ],
    "team": "cadillac",
