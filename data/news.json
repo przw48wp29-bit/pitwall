@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T10:51:17.907Z",
+ "updatedAt": "2026-10-31T13:05:17.976Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,91 @@
  },
  "items": [
   {
-   "title": "Nico Hülkenberg: Mexiko \"sicher einer der anspruchsvolleren Freitage\" für Audi",
+   "title": "Best Qualifying bets before the Mexico City GP",
+   "summary": "Our expert betting writers share their top picks for Qualifying at the Autodromo Hermanos Rodriguez in Mexico City.",
+   "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-on-the-markets-before-the-mexico-city-grand-prix.6vo71zRrlBile9GdUI3W8y",
+   "date": "2026-10-31T13:05:17.862Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T13:05:17.862Z"
+  },
+  {
+   "title": "Mekies predicts ‘one-off’ Mexico order in wind tunnel update",
+   "summary": "Laurent Mekies believes the unique challenges of the Mexico City Grand Prix could shake up the competitive order, whilst also revealing when the team’s new wind tunnel is expected to arrive.",
+   "url": "https://www.formula1.com/en/latest/article/mekies-predicts-one-off-mexico-pecking-order-as-he-gives-red-bull-wind-tunnel-update.xu23RRtyMHXYDzeyZ2Q7f",
+   "date": "2026-10-31T13:04:17.862Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Technik",
+   "firstSeen": "2026-10-31T13:05:17.862Z"
+  },
+  {
+   "title": "Alonso cautiously upbeat after strong Friday in Mexico",
+   "summary": "Fernando Alonso admits Aston Martin's Friday performance in Mexico City has beaten expectations, with the AMR26 coping well with the challenges of altitude.",
+   "url": "https://www.formula1.com/en/latest/article/alonso-cautiously-upbeat-after-strong-friday-in-mexico-for-aston-martin.4vekgCuq0xUq8VaOuuxWAt",
+   "date": "2026-10-31T13:03:17.862Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-10-31T13:05:17.862Z"
+  },
+  {
+   "title": "George Russell begeistert: Frederik Vesti verdient das Cadillac-Cockpit für 2027",
+   "summary": "Wer fährt 2027 an der Seite von Sergio Perez bei Cadillac? George Russell bringt einen Kandidaten neben Bottas, Herta und Ocon ins Spiel: Mercedes-Talent Frederik Vesti",
+   "url": "https://www.formel1.de/nc/149622",
+   "date": "2026-10-31T12:54:48.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell",
+    "perez",
+    "bottas",
+    "ocon"
+   ],
+   "teams": [
+    "mercedes",
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "Transfer",
+   "firstSeen": "2026-10-31T13:05:17.862Z"
+  },
+  {
+   "title": "Trotz bevorstehendem WM-Titel: Kimi Antonelli sieht noch Fehler bei sich",
+   "summary": "Nur zwei Punkte fehlen Andrea Kimi Antonelli noch zum Titelgewinn der Formel-1-Weltmeisterschaft 2026 - Er sieht aber noch Potenzial nach oben bei sich",
+   "url": "https://www.formel1.de/nc/149621",
+   "date": "2026-10-31T11:44:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-10-31T13:05:17.862Z"
+  },
+  {
+   "title": "Audi erlebt schwierigen Mexiko-Freitag: Nico Hülkenberg erklärt die Hintergründe",
    "summary": "Audi erlebt in Mexiko einen schwierigen Freitag: Nico Hülkenberg erklärt die Gründe, während Gabriel Bortoleto und Nachwuchs Freddie Slater kaum zum Fahren kommen",
    "url": "https://www.formel1.de/nc/149620",
    "date": "2026-10-31T10:11:04.000Z",
@@ -930,96 +1014,6 @@
    "team": "red_bull",
    "category": "News",
    "firstSeen": "2026-10-30T05:01:09.102Z"
-  },
-  {
-   "title": "Norris defends McLaren's progress ahead of Mexico City GP",
-   "summary": "Lando Norris has defended McLaren's 2026 development progress ahead of the Mexico City Grand Prix, and believes that \"we've had a pretty good year\" after a tough start to the campaign.",
-   "url": "https://www.formula1.com/en/latest/article/a-pretty-good-year-norris-defends-mclarens-2026-development-progress-ahead-of-mexico-city-grand-prix.51Xn2ULlO3UZRPy0sAGpem",
-   "date": "2026-10-30T04:59:09.102Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-30T05:01:09.102Z"
-  },
-  {
-   "title": "‘I don’t care’ about the Drivers’ Championship – Verstappen",
-   "summary": "Red Bull’s Max Verstappen has outlined his priorities for the remaining races of the 2026 season.",
-   "url": "https://www.formula1.com/en/latest/article/verstappen-explains-why-he-doesnt-really-care-about-the-drivers-championship.3MV9VgrNtTXBwMPVvg9N7c",
-   "date": "2026-10-30T04:58:09.102Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-30T05:01:09.102Z"
-  },
-  {
-   "title": "Horner-Aussagen über Newey: Wiederholt sich bei Aston Martin die Geschichte?",
-   "summary": "Kommentar von Ronald Vording: Was Christian Horner über Adrian Newey sagt und warum dessen Beginn bei Aston Martin an den Beginn bei Red Bull erinnert",
-   "url": "https://www.formel1.de/nc/149593",
-   "date": "2026-10-29T23:16:45.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "aston_martin",
-    "red_bull"
-   ],
-   "team": "aston_martin",
-   "category": "News",
-   "firstSeen": "2026-10-30T05:01:09.102Z"
-  },
-  {
-   "title": "Leclerc: Mercedes Favorit, sinkende Temperaturen ein Problem für Ferrari",
-   "summary": "Charles Leclerc sieht Mercedes auch in Mexiko vorn: Ferrari kämpft besonders bei sinkenden Temperaturen mit einer bekannten Schwäche im Qualifying",
-   "url": "https://www.formel1.de/nc/149592",
-   "date": "2026-10-29T23:11:42.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [
-    "mercedes",
-    "ferrari"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-30T05:01:09.102Z"
-  },
-  {
-   "title": "Hamilton outlines Ferrari's objectives for Mexico and beyond",
-   "summary": "Lewis Hamilton believes ahead of the Mexico City Grand Prix this weekend that the \"next five races are like test races\", as the Briton pushes Ferrari to build a car capable of challenging for next year's titles.",
-   "url": "https://www.formula1.com/en/latest/article/next-five-races-are-like-test-races-hamilton-outlines-ferraris-objectives-in-mexico-and-beyond.2nIpI4JGRd8wG4e2qqjp6r",
-   "date": "2026-10-29T22:55:09.222Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-29T22:55:09.222Z"
   }
  ]
 }
