@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-30T22:52:22.062Z",
+ "updatedAt": "2026-10-31T04:57:27.652Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,10 +10,72 @@
  },
  "items": [
   {
-   "title": "LIVE COVERAGE: Hamilton out of FP2 in Mexico City",
-   "summary": "Live coverage of the second Formula 1 practice session for the 2026 Mexico City Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-mexico-city-2026.3nb452uxR9tTmO83J73OeN",
-   "date": "2026-10-30T22:52:22.039Z",
+   "title": "What the teams said – Friday in Mexico City",
+   "summary": "The drivers and teams report back on all the action from Friday practice at the Autodromo Hermanos Rodriguez ahead of the 2026 Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-mexico-city-2026.6smOV3lTU4s76z0vrnd1RJ",
+   "date": "2026-10-31T04:57:27.631Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T04:57:27.631Z"
+  },
+  {
+   "title": "How 10 F1 rookies got on during FP1 in Mexico City",
+   "summary": "Ten rookies took to the track during first practice in Mexico City, but who impressed and who endured a more challenging session?",
+   "url": "https://www.formula1.com/en/latest/article/rookie-round-up-how-10-f1-rookies-got-on-during-fp1-in-mexico-city.74AEGVqctlzDCIV2WftRMC",
+   "date": "2026-10-31T04:56:27.631Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T04:57:27.631Z"
+  },
+  {
+   "title": "Are Ferrari the favourites after Friday practice in Mexico City?",
+   "summary": "Lawrence Barretto delves into the biggest lessons from Friday's running at the Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/are-ferrari-the-favourites-after-friday-practice-in-mexico-city.cvthLLii4LO7DJgTUQoxx",
+   "date": "2026-10-31T04:55:27.631Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T04:57:27.631Z"
+  },
+  {
+   "title": "Piastri on why McLaren’s Mexico prospects are ‘very difficult to know’",
+   "summary": "Oscar Piastri has given his take on how McLaren fared on Friday at the Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/piastri-explains-why-mclarens-mexico-prospects-are-very-difficult-to-know-after-first-day-on-track.4PGo71V75Iiks8Tdhj5z4B",
+   "date": "2026-10-31T04:54:27.631Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "piastri"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T04:57:27.631Z"
+  },
+  {
+   "title": "Hamilton reflects on ‘really unfortunate’ Mexico FP2 stoppage",
+   "summary": "Lewis Hamilton has explained how an issue hampered his running during second practice at the Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/praying-that-everythings-okay-hamilton-reflects-on-really-unfortunate-fp2-stoppage-in-mexico.B3uFU4WqI2rTzIgVsHqe2",
+   "date": "2026-10-31T04:53:27.631Z",
    "source": "Formula1.com",
    "sourceId": "f1com",
    "lang": "en",
@@ -22,6 +84,212 @@
    ],
    "teams": [],
    "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T04:57:27.631Z"
+  },
+  {
+   "title": "Verstappen reacts to Lawson FP2 incident in Mexico",
+   "summary": "Max Verstappen has claimed the incident with Liam Lawson during Free Practice 2 ahead of the Mexico City Grand Prix was \"not very smart behaviour\".",
+   "url": "https://www.formula1.com/en/latest/article/not-very-smart-behaviour-verstappen-reacts-to-lawson-fp2-incident-ahead-of-mexico-city-gp.2RGMKcFV52oDZr134MgXC3",
+   "date": "2026-10-31T04:52:27.631Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen",
+    "lawson"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T04:57:27.631Z"
+  },
+  {
+   "title": "Competitive order ‘can go any way’ in Mexico City – Russell",
+   "summary": "George Russell has offered his thoughts on the pecking order after the opening day of action at the Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/russell-believes-competitive-order-can-go-any-way-after-very-tight-friday-running-in-mexico-city.k3rgSvRXtVkLvBPdHw1xS",
+   "date": "2026-10-31T04:51:27.631Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "russell"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T04:57:27.631Z"
+  },
+  {
+   "title": "Komatsu blasts Bearman salary demand rumours as 'nonsense'",
+   "summary": "Rumours suggesting Ollie Bearman's demand for a larger salary is the reason a new contract with Haas has been delayed are \"absolute nonsense\", according to Ayao Komatsu.",
+   "url": "https://www.formula1.com/en/latest/article/absolute-nonsense-komatsu-refutes-bearmans-salary-demand-is-the-reason-for-haas-contract-delay.68hjHnOBePhQXhTccJ5eJP",
+   "date": "2026-10-31T04:50:27.631Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "bearman"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Transfer",
+   "firstSeen": "2026-10-31T04:57:27.631Z"
+  },
+  {
+   "title": "Leclerc tops eventful FP2 from Norris at Mexico City GP",
+   "summary": "Charles Leclerc set the pace for Ferrari in both practice sessions on Friday at the Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/fp2-leclerc-tops-eventful-second-practice-from-norris-and-russell-at-mexico-city-grand-prix.5iyjNG9TZGc6DfLTacb05D",
+   "date": "2026-10-31T04:49:27.631Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "leclerc",
+    "norris"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T04:57:27.631Z"
+  },
+  {
+   "title": "Fan im Paddock zur Seite geschubst: Isack Hadjar droht in Mexiko eine Strafe!",
+   "summary": "Wegen eines Fehlverhaltens am Freitag im Paddock in Mexiko-Stadt muss Isack Hadjar am Samstagmorgen bei den FIA-Kommissaren vorsprechen",
+   "url": "https://www.formel1.de/nc/149616",
+   "date": "2026-10-31T03:34:54.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hadjar"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Regeln",
+   "firstSeen": "2026-10-31T04:57:27.631Z"
+  },
+  {
+   "title": "Nach Kollision mit Lawson: Verstappen erhält Startplatzstrafe in Mexiko!",
+   "summary": "Nach einer Kollision zwischen Max Verstappen und Liam Lawson im Freien Training müssen beide beim Grand Prix von Mexiko einen Startplatz nach hinten",
+   "url": "https://www.formel1.de/nc/149615",
+   "date": "2026-10-31T03:10:45.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "lawson",
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "rb",
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T04:57:27.631Z"
+  },
+  {
+   "title": "Formel-1-Strafpunkte 2026: Die aktuelle Übersicht der Strafen",
+   "summary": "In unserer Übersicht der Formel-1-Strafpunkte zeigen wir dir den aktuellen Stand und wer eine Weisse Weste hat oder kurz vor einer Rennsperre steht",
+   "url": "https://www.formel1.de/nc/146577",
+   "date": "2026-10-31T03:04:07.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-10-31T04:57:27.631Z"
+  },
+  {
+   "title": "Longruns Mexiko: Lando Norris vorn, Ferrari und Red Bull schwächeln",
+   "summary": "Charles Leclerc dominiert die Formel-1-Trainings in Mexiko, doch McLaren-Pilot Lando Norris glänzt im Longrun: Droht Ferrari ein erneuter Formabfall?",
+   "url": "https://www.formel1.de/nc/149614",
+   "date": "2026-10-31T01:38:21.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris",
+    "leclerc"
+   ],
+   "teams": [
+    "red_bull",
+    "ferrari",
+    "mclaren"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-31T04:57:27.631Z"
+  },
+  {
+   "title": "Erklärt: Wieso hat Colton Herta nach Mexiko noch keine Superlizenz?",
+   "summary": "Trotz seines Auftritts in Mexiko hat Colton Herta noch keine Superlizenz, um möglicherweise Valtteri Bottas bei Cadillac 2027 zu beerben",
+   "url": "https://www.formel1.de/nc/149613",
+   "date": "2026-10-31T00:10:42.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bottas"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "News",
+   "firstSeen": "2026-10-31T04:57:27.631Z"
+  },
+  {
+   "title": "Freitag Mexiko: Leclerc fährt Bestzeit, Verstappen handelt sich Ärger ein",
+   "summary": "Charles Leclerc setzt auch im zweiten Mexiko-Training die Bestzeit, während Lewis Hamilton ausrollt und Max Verstappen nach einer Kollision Ärger droht",
+   "url": "https://www.formel1.de/nc/149612",
+   "date": "2026-10-30T23:03:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc",
+    "max_verstappen",
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T04:57:27.631Z"
+  },
+  {
+   "title": "James Vowles reagiert auf Alonso-Kritik: Bestes Formel-1-Fahrerfeld seit Jahren?",
+   "summary": "Williams-Teamchef James Vowles kann die Kritik am Mittelfeld, mit der Fernando Alonso in Austin für Furore gesorgt hat, nicht nachvollziehen",
+   "url": "https://www.formel1.de/nc/149611",
+   "date": "2026-10-30T23:00:36.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [
+    "williams"
+   ],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-10-31T04:57:27.631Z"
+  },
+  {
+   "title": "AS IT HAPPENED: Second practice for the Mexico City GP",
+   "summary": "Live coverage of the second Formula 1 practice session for the 2026 Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-mexico-city-2026.3nb452uxR9tTmO83J73OeN",
+   "date": "2026-10-30T22:52:22.039Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
    "category": "Rennen",
    "firstSeen": "2026-10-30T22:52:22.039Z"
   },
@@ -746,263 +1014,6 @@
    "team": "aston_martin",
    "category": "Rennen",
    "firstSeen": "2026-10-29T22:55:09.222Z"
-  },
-  {
-   "title": "Nico Hülkenberg: Mit meiner Performance bin ich \"grundsätzlich zufrieden\"",
-   "summary": "Vor dem Grand Prix von Mexiko spricht Nico Hülkenberg über seine Performance und die vielen Baustellen, an den Audi noch arbeiten muss",
-   "url": "https://www.formel1.de/nc/149588",
-   "date": "2026-10-29T20:15:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hulkenberg"
-   ],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "Rennen",
-   "firstSeen": "2026-10-29T20:58:18.750Z"
-  },
-  {
-   "title": "\"Das Auto hat sein Limit erreicht\": Bearman mit klarer Haas-Diagnose",
-   "summary": "Oliver Bearman lobt das Fahrgefühl des Haas, sieht aber keine Leistungsreserven mehr - Der entscheidende Faktor: fehlender Abtrieb gegenüber der Konkurrenz",
-   "url": "https://www.formel1.de/nc/149587",
-   "date": "2026-10-29T20:08:21.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bearman"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "News",
-   "firstSeen": "2026-10-29T20:58:18.750Z"
-  },
-  {
-   "title": "Toto Wolff: Leute verstehen nicht, wie viel wir in Antonelli investiert haben",
-   "summary": "Vor dem Grand Prix von Mexiko hat Mercedes-Teamchef Toto Wolff über Piero Ferrari und dessen Vergleich zwischen Kimi Antonelli und Niki Lauda gesprochen",
-   "url": "https://www.formel1.de/nc/149586",
-   "date": "2026-10-29T19:09:28.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes",
-    "ferrari"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-29T20:58:18.750Z"
-  },
-  {
-   "title": "AS IT HAPPENED: Build-up to the Mexico City Grand Prix",
-   "summary": "Live coverage of all the build-up ahead of the 2026 Mexico City Grand Prix weekend.",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-mexico-city-2026.6MzXcSQ7C6Varyqp2ev3Eg",
-   "date": "2026-10-29T19:08:39.034Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-29T19:08:39.034Z"
-  },
-  {
-   "title": "Facts, stats and trivia ahead of the Mexico City Grand Prix",
-   "summary": "As F1 heads to the Autodromo Hermanos Rodriguez for the Mexico City Grand Prix, Need to Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
-   "url": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-mexico-city-grand-prix.7n5BnpkqmEkgJR61h8yqGv",
-   "date": "2026-10-29T19:07:39.034Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-29T19:08:39.034Z"
-  },
-  {
-   "title": "Mekies zufrieden mit Premiere von Verstappens neuem Renningenieur",
-   "summary": "Tom Hart bestand in Austin sein erstes volles Wochenende als Verstappens Renningenieur: Laurent Mekies lobt ihn trotz schwieriger Rennbedingungen",
-   "url": "https://www.formel1.de/nc/149585",
-   "date": "2026-10-29T18:43:12.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-29T19:08:39.034Z"
-  },
-  {
-   "title": "Daniel Ricciardo: Diese \"Superkraft\" macht Kimi Antonelli so stark",
-   "summary": "Daniel Ricciardo vergleicht die Situation von Kimi Antonelli bei Mercedes mit seiner eigenen bei Red Bull im Jahr 2014 - Warum es der Italiener leichter hat als Russell",
-   "url": "https://www.formel1.de/nc/149584",
-   "date": "2026-10-29T18:26:37.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "russell"
-   ],
-   "teams": [
-    "mercedes",
-    "red_bull"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-29T19:08:39.034Z"
-  },
-  {
-   "title": "Sebastian Vettel: Red Bull wollte, dass ich Webber zum WM-Titel verhelfe",
-   "summary": "Auf dem Schlussspurt der Formel-1-Weltmeisterschaft 2010 wollte Red Bull, so die Erzählung von Sebastian Vettel, alles auf Mark Webber setzen",
-   "url": "https://www.formel1.de/nc/149583",
-   "date": "2026-10-29T18:04:40.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-29T19:08:39.034Z"
-  },
-  {
-   "title": "Kimi Antonelli: Virus stoppt WM-Spitzenreiter am Mexiko-Donnerstag",
-   "summary": "Mit Kimi Antonelli und Valtteri Bottas müssen gleich zwei Formel-1-Fahrer den Donnerstags beim Mexiko-Grand-Prix auslassen - Müssen Ersatzfahrer ran?",
-   "url": "https://www.formel1.de/nc/149582",
-   "date": "2026-10-29T17:38:42.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "bottas"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-29T19:08:39.034Z"
-  },
-  {
-   "title": "Mentalcoach warnt Russell: \"Darf den Status des Verlierers nicht akzeptieren\"",
-   "summary": "Mentalcoach Riccardo Ceccarelli erwartet einen unveränderten Antonelli als Weltmeister, Russell dagegen muss sein Selbstvertrauen verteidigen",
-   "url": "https://www.formel1.de/nc/149581",
-   "date": "2026-10-29T17:30:49.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell",
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-29T19:08:39.034Z"
-  },
-  {
-   "title": "Best value early bets for the Mexico City Grand Prix",
-   "summary": "We've assessed the latest betting markets and selected our pick of early bets offering the best value at the Autodromo Hermanos Rodriguez.",
-   "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-mexico-city-grand-prix.5JJhrbuGw9nNsmkuvsa4jX",
-   "date": "2026-10-29T17:07:37.303Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-29T17:07:37.303Z"
-  },
-  {
-   "title": "Horner rechnet mit Webber ab: War \"respektlos\" gegenüber Red Bull",
-   "summary": "Christian Horner kritisiert Mark Webbers Abschied von Red Bull als respektlos: Gleichzeitig erklärt er, warum Daniel Ricciardo sofort überzeugte",
-   "url": "https://www.formel1.de/nc/149580",
-   "date": "2026-10-29T16:11:38.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-29T17:07:37.303Z"
-  },
-  {
-   "title": "\"Konstrukteurs-WM mit nur einem Fahrer\": Verstappen mit Kampfansage",
-   "summary": "Nach acht Podestplätzen im Jahr 2026 wittert Max Verstappen bei Red Bull wieder Morgenluft - Der Niederländer sieht Red Bull auf dem richtigen Weg",
-   "url": "https://www.formel1.de/nc/149579",
-   "date": "2026-10-29T15:00:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-29T15:09:23.600Z"
-  },
-  {
-   "title": "Formel 1 2026: Welches Team welchen Kraftstoff tankt",
-   "summary": "Seit 2026 fährt die Formel 1 mit nachhaltigem Kraftstoff, fünf Mineralölkonzerne versorgen die elf Teams: Die Übersicht zeigt, wer wen beliefert und was im Tank ist",
-   "url": "https://www.formel1.de/nc/149578",
-   "date": "2026-10-29T13:56:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-10-29T15:09:23.600Z"
-  },
-  {
-   "title": "Kings of Leon complete star-studded line-up for Abu Dhabi GP",
-   "summary": "Andrea Bocelli, Kings of Leon, Lewis Capaldi, Alex Warren, Jennifer Lopez, Imagine Dragons, The Chainsmokers, The Script, Black Coffee, CamelPhat, Shimza and Anyma are set to perform at the Yasalam festival during the F1 finale in Abu Dhabi.",
-   "url": "https://www.formula1.com/en/latest/article/kings-of-leon-complete-star-studded-line-up-for-2026-abu-dhabi-grand-prix.5dFsTMZDFm6NvZ2wIEdwRX",
-   "date": "2026-10-29T13:16:25.914Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-29T13:16:25.914Z"
-  },
-  {
-   "title": "Play our new Higher or Lower game for your chance to win 2027 Grand Prix tickets",
-   "summary": "Predict whether each driver's average finish position so far in 2026 is higher or lower than the previous driver’s tally",
-   "url": "https://www.formula1.com/en/latest/article/play-our-new-higher-or-lower-game-for-your-chance-to-win-2027-grand-prix-tickets-week8.4ykUhr2ypAKoyTwZWuVz1b",
-   "date": "2026-10-29T13:15:25.914Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-29T13:16:25.914Z"
   }
  ]
 }
