@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T14:50:15.879Z",
+ "updatedAt": "2026-10-31T16:51:30.124Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,76 @@
   }
  },
  "items": [
+  {
+   "title": "Hirakawa to replace Ocon at Haas for Mexico City Grand Prix",
+   "summary": "Haas have announced Ryo Hirakawa will replace Esteban Ocon for the remainder of the Grand Prix weekend in Mexico City.",
+   "url": "https://www.formula1.com/en/latest/article/hirakawa-to-replace-ocon-at-haas-for-remainder-of-mexico-city-grand-prix-weekend.2cl5jN0g3rZ2pIYQvc00xM",
+   "date": "2026-10-31T16:51:30.107Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "ocon"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T16:51:30.107Z"
+  },
+  {
+   "title": "Komatsu wütend: Angeblicher Bearman-Gehaltspoker \"völliger Schwachsinn\"",
+   "summary": "Haas-Teamchef Ayao Komatsu schlägt zurück - Gerüchte um angebliche Millionen-Forderungen von Oliver Bearman seien frei erfunden und absoluter Schwachsinn",
+   "url": "https://www.formel1.de/nc/149627",
+   "date": "2026-10-31T16:12:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bearman"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "News",
+   "firstSeen": "2026-10-31T16:51:30.107Z"
+  },
+  {
+   "title": "Neuer Formel-1-Windkanal: Red Bull nennt Zeitplan für die Inbetriebnahme",
+   "summary": "Red Bull wartet weiter auf die Fertigstellung des neuen Windkanals - Teamchef Laurent Mekies nennt nun Details zum Zeitplan und rechnet erst mit 2027",
+   "url": "https://www.formel1.de/nc/149625",
+   "date": "2026-10-31T15:09:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-10-31T16:51:30.107Z"
+  },
+  {
+   "title": "Esteban Ocon fährt nicht: Ryo Hirakawa übernimmt das Haas-Cockpit in Mexiko!",
+   "summary": "Fahrerwechsel bei Haas: Esteban Ocon wird nicht fahren, Ersatzpilot Ryo Hirakawa übernimmt beim Grossen Preis von Mexiko - Kommt es zur vorzeitigen Trennung?",
+   "url": "https://www.formel1.de/nc/149624",
+   "date": "2026-10-31T15:01:43.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "ocon"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Transfer",
+   "firstSeen": "2026-10-31T16:51:30.107Z"
+  },
   {
    "title": "Ferrari-Teamchef Frederic Vasseur dämpft Erwartungen trotz starker Leclerc-Bestzeit",
    "summary": "Charles Leclerc war am Mexiko-Freitag der schnellste Fahrer, doch Ferrari-Teamchef Frederic Vasseur dämpft die Erwartungen: Warum sich am Samstag alles ändern kann",
@@ -950,72 +1020,6 @@
    "team": "audi",
    "category": "News",
    "firstSeen": "2026-10-30T10:58:38.362Z"
-  },
-  {
-   "title": "Lando Norris erklärt McLaren-Rückschlag 2026: \"Es war ein Opfer\"",
-   "summary": "Nur Platz sechs in der Fahrerwertung, trotzdem zufrieden: Lando Norris erklärt, warum seine WM-Position für ihn kaum zählt und was ihn wirklich ärgert",
-   "url": "https://www.formel1.de/nc/149596",
-   "date": "2026-10-30T08:41:32.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-10-30T09:05:46.563Z"
-  },
-  {
-   "title": "Lewis Hamilton denkt nicht ans Aufhören: \"Gab niemanden wie mich\"",
-   "summary": "Lewis Hamilton spricht über seine langfristige Formel-1-Zukunft, die Grenzen seiner Karriere und die grösste Schwachstelle des aktuellen Ferrari",
-   "url": "https://www.formel1.de/nc/149595",
-   "date": "2026-10-30T07:49:59.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-30T09:05:46.563Z"
-  },
-  {
-   "title": "All the stories that got the Mexico City paddock talking",
-   "summary": "Lawrence Barretto rounds up the big talking points to emerge during media day at the Mexico City Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-mexico-city-paddock-talking.7nwhBepDfju9wmdjGdxEPk",
-   "date": "2026-10-30T05:01:09.102Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-30T05:01:09.102Z"
-  },
-  {
-   "title": "Why Tsolov has complicated Racing Bulls’ 2027 plans",
-   "summary": "Nikola Tsolov’s FP1 appearance in Mexico has intensified the battle for a Racing Bulls seat in 2027.",
-   "url": "https://www.formula1.com/en/latest/article/how-tsolovs-fp1-appearance-puts-a-spotlight-on-racing-bulls-2027-line-up.3ScioRvM975nKI375uYqkb",
-   "date": "2026-10-30T05:00:09.102Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "rb"
-   ],
-   "team": "rb",
-   "category": "Transfer",
-   "firstSeen": "2026-10-30T05:01:09.102Z"
   }
  ]
 }
