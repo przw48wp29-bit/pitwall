@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T13:05:17.976Z",
+ "updatedAt": "2026-10-31T14:50:15.879Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,24 @@
   }
  },
  "items": [
+  {
+   "title": "Ferrari-Teamchef Frederic Vasseur dämpft Erwartungen trotz starker Leclerc-Bestzeit",
+   "summary": "Charles Leclerc war am Mexiko-Freitag der schnellste Fahrer, doch Ferrari-Teamchef Frederic Vasseur dämpft die Erwartungen: Warum sich am Samstag alles ändern kann",
+   "url": "https://www.formel1.de/nc/149623",
+   "date": "2026-10-31T13:51:26.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-31T14:50:15.866Z"
+  },
   {
    "title": "Best Qualifying bets before the Mexico City GP",
    "summary": "Our expert betting writers share their top picks for Qualifying at the Autodromo Hermanos Rodriguez in Mexico City.",
@@ -997,22 +1015,6 @@
    ],
    "team": "rb",
    "category": "Transfer",
-   "firstSeen": "2026-10-30T05:01:09.102Z"
-  },
-  {
-   "title": "Mit Max Verstappen und Sebastian Vettel? Ricciardo will nach Le Mans",
-   "summary": "Daniel Ricciardo zieht es zurück in den Motorsport - Der Ex-F1-Pilot möchte an den 24 Stunden von Le Mans teilnehmen und träumt von potenten Teamkollegen",
-   "url": "https://www.formel1.de/nc/149594",
-   "date": "2026-10-30T05:00:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
    "firstSeen": "2026-10-30T05:01:09.102Z"
   }
  ]
