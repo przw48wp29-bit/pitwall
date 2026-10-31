@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T08:56:09.074Z",
+ "updatedAt": "2026-10-31T10:51:17.907Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,43 @@
   }
  },
  "items": [
+  {
+   "title": "Nico Hülkenberg: Mexiko \"sicher einer der anspruchsvolleren Freitage\" für Audi",
+   "summary": "Audi erlebt in Mexiko einen schwierigen Freitag: Nico Hülkenberg erklärt die Gründe, während Gabriel Bortoleto und Nachwuchs Freddie Slater kaum zum Fahren kommen",
+   "url": "https://www.formel1.de/nc/149620",
+   "date": "2026-10-31T10:11:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hulkenberg",
+    "bortoleto"
+   ],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-10-31T10:51:17.776Z"
+  },
+  {
+   "title": "Mexiko-Höhenluft: Hamilton widerspricht Gerüchten über Ferrari-Vorteil",
+   "summary": "Hat Ferrari auf über 2.000 Metern Höhe in Mexiko einen Vorteil gegenüber der Konkurrenz? Lewis Hamilton glaubt nicht an mehr Leistung durch das Turbo-Konzept",
+   "url": "https://www.formel1.de/nc/149619",
+   "date": "2026-10-31T09:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-10-31T10:51:17.776Z"
+  },
   {
    "title": "Max Verstappen zu langsam: Technikchef Pierre Wache erklärt Red-Bull-Problem",
    "summary": "Red Bull hat am Freitag in Mexiko zu kämpfen: Nicht nur der beschädigte RB22 von Max Verstappen kostet ein besseres Ergebnis, auch das Set-up ist noch nicht perfekt",
@@ -982,43 +1019,6 @@
    ],
    "team": "ferrari",
    "category": "Rennen",
-   "firstSeen": "2026-10-29T22:55:09.222Z"
-  },
-  {
-   "title": "Leclerc assesses Ferrari's chances in Mexico City Grand Prix",
-   "summary": "Charles Leclerc believes Ferrari have the potential to win this weekend's Mexico City Grand Prix, but that \"we've got to be perfect\" in order to beat the likes of Mercedes and Red Bull.",
-   "url": "https://www.formula1.com/en/latest/article/weve-got-to-be-perfect-leclerc-assesses-ferraris-chances-of-victory-in-mexico-city.3AVK2YwBQwT2Dp5FZUCBO1",
-   "date": "2026-10-29T22:54:09.222Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [
-    "mercedes",
-    "red_bull",
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-29T22:55:09.222Z"
-  },
-  {
-   "title": "Russell opens up on relationship with Antonelli this season",
-   "summary": "George Russell has reflected on how he and team mate Kimi Antonelli get along amid their contrasting 2026 seasons.",
-   "url": "https://www.formula1.com/en/latest/article/we-keep-ourselves-to-ourselves-russell-opens-up-on-relationship-with-antonelli-this-season.2m4A9yZTCSJNlLYmPPJbvK",
-   "date": "2026-10-29T22:53:09.222Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell",
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
    "firstSeen": "2026-10-29T22:55:09.222Z"
   }
  ]
