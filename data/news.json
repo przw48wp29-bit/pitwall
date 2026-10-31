@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T20:50:34.071Z",
+ "updatedAt": "2026-10-31T22:49:54.455Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,16 +10,69 @@
  },
  "items": [
   {
-   "title": "LIVE COVERAGE: Qualifying for the Mexico City GP",
+   "title": "Hamilton clinches first pole with Ferrari at Mexico City GP",
+   "summary": "Lewis Hamilton has ended a three-year pole position drought in Qualifying at the Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/hamilton-clinches-first-pole-with-ferrari-in-qualifying-at-the-mexico-city-gp.4GffzFhlnOxOjbHHMc0AJI",
+   "date": "2026-10-31T22:49:54.442Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T22:49:54.442Z"
+  },
+  {
+   "title": "Die Qualifying-, Sprint- und Rennduelle der Formel-1-Saison 2026",
+   "summary": "Der aktuelle Zwischenstand bei den Qualifying- und Rennduellen der Teamkollegen in der Formel-1-Saison 2026",
+   "url": "https://www.formel1.de/nc/146557",
+   "date": "2026-10-31T22:43:40.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T22:49:54.442Z"
+  },
+  {
+   "title": "Quali-Thriller in Mexiko: Verstappen verpasst Pole, Hamilton auf P1!",
+   "summary": "Das war richtig spannend: Lewis Hamilton gewinnt das Qualifying in Mexiko vor George Russell und Charles Leclerc - Max Verstappen nach Top-Zwischenzeiten auf P4",
+   "url": "https://www.formel1.de/nc/149630",
+   "date": "2026-10-31T22:19:08.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "hamilton",
+    "russell",
+    "leclerc"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T22:49:54.442Z"
+  },
+  {
+   "title": "LIVE COVERAGE: Hamilton claims scintillating pole in Mexico City",
    "summary": "Live coverage of the Formula 1 Qualifying session for the 2026 Mexico City Grand Prix.",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-mexico-city-2026.7rsM0FXrllMkwPI44GSR58",
    "date": "2026-10-31T20:50:34.057Z",
    "source": "Formula1.com",
    "sourceId": "f1com",
    "lang": "en",
-   "drivers": [],
+   "drivers": [
+    "hamilton"
+   ],
    "teams": [],
-   "team": null,
+   "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-10-31T20:50:34.057Z"
   },
@@ -965,58 +1018,6 @@
    ],
    "teams": [],
    "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-30T13:12:44.359Z"
-  },
-  {
-   "title": "Sauber veteran Zehnder to leave Audi at end of 2026",
-   "summary": "Veteran Swiss engineer and long-time Sauber Team Manager Beat Zehnder will leave the Formula 1 team now known as Audi at the end of the year.",
-   "url": "https://www.formula1.com/en/latest/article/sauber-veteran-zehnder-to-leave-audi-at-end-of-2026.4a26d2DMBeYhGUkbdd8xCN",
-   "date": "2026-10-30T13:11:44.359Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "News",
-   "firstSeen": "2026-10-30T13:12:44.359Z"
-  },
-  {
-   "title": "Bearman offers update on F1 future ahead of Mexico City GP",
-   "summary": "Ollie Bearman has confirmed ahead of this weekend's Mexico City Grand Prix that \"it's very clear I want to continue with Haas\" in 2027, although no official announcement has yet been made.",
-   "url": "https://www.formula1.com/en/latest/article/clear-i-want-to-continue-with-haas-bearman-offers-update-on-f1-future-ahead-of-mexico-city-gp.JM5Cf94lnTraFxuKBR8nx",
-   "date": "2026-10-30T13:10:44.359Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "bearman"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Technik",
-   "firstSeen": "2026-10-30T13:12:44.359Z"
-  },
-  {
-   "title": "Kimi Antonelli besser als Sebastian Vettel? Steiner legt sich fest",
-   "summary": "Sebastian Vettel war viermal Weltmeister, doch Günther Steiner hält Kimi Antonelli für aussergewöhnlicher - Dabei spielt auch Vettels Ferrari-Zeit eine Rolle",
-   "url": "https://www.formel1.de/nc/149600",
-   "date": "2026-10-30T12:31:58.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-10-30T13:12:44.359Z"
   }
