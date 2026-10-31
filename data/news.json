@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T04:57:27.652Z",
+ "updatedAt": "2026-10-31T05:26:37.686Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,26 @@
   }
  },
  "items": [
+  {
+   "title": "Verstappen and Lawson get grid drops after ‘clumsy’ clash",
+   "summary": "Red Bull’s Max Verstappen and Racing Bulls’ Liam Lawson have been given grid penalties by the stewards following their “unacceptable” and “clumsy” incident during second practice in Mexico.",
+   "url": "https://www.formula1.com/en/latest/article/verstappen-and-lawson-get-grid-penalties-after-clumsy-mexico-city-practice-clash.2m2ey8Pl7g5IfQfGeepilD",
+   "date": "2026-10-31T05:26:37.685Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen",
+    "lawson"
+   ],
+   "teams": [
+    "rb",
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Regeln",
+   "firstSeen": "2026-10-31T05:26:37.685Z"
+  },
   {
    "title": "What the teams said – Friday in Mexico City",
    "summary": "The drivers and teams report back on all the action from Friday practice at the Autodromo Hermanos Rodriguez ahead of the 2026 Mexico City Grand Prix.",
@@ -997,22 +1017,6 @@
    "teams": [],
    "team": "audi",
    "category": "News",
-   "firstSeen": "2026-10-29T22:55:09.222Z"
-  },
-  {
-   "title": "Fernando Alonso bleibt standhaft: Das Niveau im Mittelfeld ist unterirdisch",
-   "summary": "Auch vor dem Grand Prix von Mexiko betont Fernando Alonso, dass er von den Fahrkünsten seiner Kollegen im Mittelfeld nicht viel hält",
-   "url": "https://www.formel1.de/nc/149589",
-   "date": "2026-10-29T21:15:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "alonso"
-   ],
-   "teams": [],
-   "team": "aston_martin",
-   "category": "Rennen",
    "firstSeen": "2026-10-29T22:55:09.222Z"
   }
  ]
