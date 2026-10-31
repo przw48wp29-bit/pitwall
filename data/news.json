@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T16:51:30.124Z",
+ "updatedAt": "2026-10-31T18:59:16.431Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,60 @@
   }
  },
  "items": [
+  {
+   "title": "Norris pips Antonelli to top spot in Mexico City FP3",
+   "summary": "Lando Norris finished fastest in Free Practice 3 ahead of the Mexico City Grand Prix, the McLaren driver just beating Kimi Antonelli and Charles Leclerc to the top spot.",
+   "url": "https://www.formula1.com/en/latest/article/fp3-norris-pips-antonelli-and-leclerc-to-top-spot-in-final-practice-for-mexico-city-gp.1s5lDqpwmCBl5aqSGq4Ffn",
+   "date": "2026-10-31T18:59:16.416Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris",
+    "antonelli",
+    "leclerc"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T18:59:16.416Z"
+  },
+  {
+   "title": "LIVE COVERAGE: FP3 for the Mexico City Grand Prix",
+   "summary": "Live coverage of the third Formula 1 practice session for the 2026 Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-mexico-city-2026.3Ud38VpRJjlYJc5Gae4PGd",
+   "date": "2026-10-31T18:58:16.416Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T18:59:16.416Z"
+  },
+  {
+   "title": "Abschlusstraining Mexiko: Lando Norris 0,001 Sekunden vor Antonelli",
+   "summary": "Ferrari und Red Bull haben am Samstag zu kämpfen, während der amtierende und der angehende Weltmeister die Plätze 1 und 2 unter sich ausmachen",
+   "url": "https://www.formel1.de/nc/149628",
+   "date": "2026-10-31T18:41:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris",
+    "antonelli"
+   ],
+   "teams": [
+    "red_bull",
+    "ferrari"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-10-31T18:59:16.416Z"
+  },
   {
    "title": "Hirakawa to replace Ocon at Haas for Mexico City Grand Prix",
    "summary": "Haas have announced Ryo Hirakawa will replace Esteban Ocon for the remainder of the Grand Prix weekend in Mexico City.",
@@ -969,56 +1023,6 @@
    ],
    "team": "red_bull",
    "category": "Rennen",
-   "firstSeen": "2026-10-30T10:58:38.362Z"
-  },
-  {
-   "title": "Why Sergio Perez means so much to Mexico",
-   "summary": "Sergio Perez will line up for his 300th Formula 1 race when he takes to the track at home in Mexico City. Fans, murals and memes show what he means to the country.",
-   "url": "https://www.formula1.com/en/latest/article/why-sergio-perez-means-so-much-to-mexico-as-he-celebrates-his-300th-grand-prix.55aJ3d90HUJ8smyvsIZtsr",
-   "date": "2026-10-30T10:57:38.362Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "perez"
-   ],
-   "teams": [],
-   "team": "cadillac",
-   "category": "Rennen",
-   "firstSeen": "2026-10-30T10:58:38.362Z"
-  },
-  {
-   "title": "Sergio Perez: Glaube, dass ich mit Cadillac 2028 aufs Podium fahren kann",
-   "summary": "Sergio Perez hat bei Cadillac verlängert, plant aber bereits sein Formel-1-Karriereende: Was der Mexikaner bis dahin unbedingt noch erreichen möchte",
-   "url": "https://www.formel1.de/nc/149598",
-   "date": "2026-10-30T10:02:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "perez"
-   ],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "Rennen",
-   "firstSeen": "2026-10-30T10:58:38.362Z"
-  },
-  {
-   "title": "Audi bestätigt überraschenden Abschied: Beat Zehnder verlässt F1-Team",
-   "summary": "Kaum jemand verkörperte Sauber so sehr wie Beat Zehnder, jetzt verlässt der langjährige Teammanager nach 39 Jahren den Rennstall: Audi erklärt den Abschied",
-   "url": "https://www.formel1.de/nc/149597",
-   "date": "2026-10-30T09:13:30.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "News",
    "firstSeen": "2026-10-30T10:58:38.362Z"
   }
  ]
