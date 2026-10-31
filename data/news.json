@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T05:26:37.686Z",
+ "updatedAt": "2026-10-31T08:56:09.074Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,42 @@
   }
  },
  "items": [
+  {
+   "title": "Max Verstappen zu langsam: Technikchef Pierre Wache erklärt Red-Bull-Problem",
+   "summary": "Red Bull hat am Freitag in Mexiko zu kämpfen: Nicht nur der beschädigte RB22 von Max Verstappen kostet ein besseres Ergebnis, auch das Set-up ist noch nicht perfekt",
+   "url": "https://www.formel1.de/nc/149618",
+   "date": "2026-10-31T07:55:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Technik",
+   "firstSeen": "2026-10-31T08:56:09.060Z"
+  },
+  {
+   "title": "Stark auf über 2.000 Meter Höhe: Warum Piastri in Mexiko auf McLaren hofft",
+   "summary": "Oscar Piastri blickt mit voller Zuversicht auf das Formel-1-Rennen in Mexiko - McLaren scheint mit der dünnen Luft gut zurechtzukommen",
+   "url": "https://www.formel1.de/nc/149617",
+   "date": "2026-10-31T07:16:10.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "piastri"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T08:56:09.060Z"
+  },
   {
    "title": "Verstappen and Lawson get grid drops after ‘clumsy’ clash",
    "summary": "Red Bull’s Max Verstappen and Racing Bulls’ Liam Lawson have been given grid penalties by the stewards following their “unacceptable” and “clumsy” incident during second practice in Mexico.",
@@ -982,40 +1018,6 @@
    ],
    "teams": [],
    "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-29T22:55:09.222Z"
-  },
-  {
-   "title": "Russell nimmt sich Hamilton als Vorbild: 2026 \"wird mich nicht brechen\"",
-   "summary": "Trotz der höchstwahrscheinlich verlorenen WM ist George Russell davon überzeugt, dass ihn die schwierigste Saison seiner Karriere nicht brechen kann",
-   "url": "https://www.formel1.de/nc/149591",
-   "date": "2026-10-29T22:41:29.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell",
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-29T22:55:09.222Z"
-  },
-  {
-   "title": "Gabriel Bortoleto: Früher bin ich mit Kimi Antonelli in Misano Tandem gefahren",
-   "summary": "Gabriel Bortoleto kennt Kimi Antonelli seit der Jugend: Heute kämpft sein Freund um den WM-Titel und Bortoleto verfolgt eigene Ziele",
-   "url": "https://www.formel1.de/nc/149590",
-   "date": "2026-10-29T21:45:25.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bortoleto",
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "audi",
    "category": "News",
    "firstSeen": "2026-10-29T22:55:09.222Z"
   }
