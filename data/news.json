@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T18:59:16.431Z",
+ "updatedAt": "2026-10-31T20:50:34.071Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,36 @@
   }
  },
  "items": [
+  {
+   "title": "LIVE COVERAGE: Qualifying for the Mexico City GP",
+   "summary": "Live coverage of the Formula 1 Qualifying session for the 2026 Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-mexico-city-2026.7rsM0FXrllMkwPI44GSR58",
+   "date": "2026-10-31T20:50:34.057Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T20:50:34.057Z"
+  },
+  {
+   "title": "Nach Fan-Rempler: Isack Hadjar kommt mit Verwarnung davon!",
+   "summary": "Isack Hadjar kommt bei einem Fan-Schubser mit einer Verwarnung davon: Alexander Wurz versteht die Bedrängnis, kritisiert aber den körperlichen Umgang",
+   "url": "https://www.formel1.de/nc/149629",
+   "date": "2026-10-31T19:21:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hadjar"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Regeln",
+   "firstSeen": "2026-10-31T20:50:34.057Z"
+  },
   {
    "title": "Norris pips Antonelli to top spot in Mexico City FP3",
    "summary": "Lando Norris finished fastest in Free Practice 3 ahead of the Mexico City Grand Prix, the McLaren driver just beating Kimi Antonelli and Charles Leclerc to the top spot.",
@@ -30,7 +60,7 @@
    "firstSeen": "2026-10-31T18:59:16.416Z"
   },
   {
-   "title": "LIVE COVERAGE: FP3 for the Mexico City Grand Prix",
+   "title": "AS IT HAPPENED: FP3 for the Mexico City Grand Prix",
    "summary": "Live coverage of the third Formula 1 practice session for the 2026 Mexico City Grand Prix.",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-mexico-city-2026.3Ud38VpRJjlYJc5Gae4PGd",
    "date": "2026-10-31T18:58:16.416Z",
@@ -44,7 +74,7 @@
    "firstSeen": "2026-10-31T18:59:16.416Z"
   },
   {
-   "title": "Abschlusstraining Mexiko: Lando Norris 0,001 Sekunden vor Antonelli",
+   "title": "Norris hauchdünn vorn: Drei Teams machen Hoffnung auf Qualifying-Krimi",
    "summary": "Ferrari und Red Bull haben am Samstag zu kämpfen, während der amtierende und der angehende Weltmeister die Plätze 1 und 2 unter sich ausmachen",
    "url": "https://www.formel1.de/nc/149628",
    "date": "2026-10-31T18:41:00.000Z",
@@ -52,15 +82,14 @@
    "sourceId": "formel1de",
    "lang": "de",
    "drivers": [
-    "norris",
-    "antonelli"
+    "norris"
    ],
    "teams": [
     "red_bull",
     "ferrari"
    ],
    "team": "mclaren",
-   "category": "News",
+   "category": "Rennen",
    "firstSeen": "2026-10-31T18:59:16.416Z"
   },
   {
@@ -990,40 +1019,6 @@
    "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-10-30T13:12:44.359Z"
-  },
-  {
-   "title": "2.286 Meter Höhe: Warum die Formel 1 in Mexiko ein Problem bekommt",
-   "summary": "Die Höhenlage Mexikos fordert die Formel 1 jedes Jahr heraus, doch 2026 verschärfen die neuen Regeln die Probleme - und könnten Ferrari einen Vorteil bringen",
-   "url": "https://www.formel1.de/nc/149599",
-   "date": "2026-10-30T11:10:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Regeln",
-   "firstSeen": "2026-10-30T13:12:44.359Z"
-  },
-  {
-   "title": "Hadjar identifies the ‘weakness’ Red Bull still suffer from",
-   "summary": "Isack Hadjar has looked ahead to the Mexico City Grand Prix, pinpointing an area that Red Bull need to work on in order to fight for victory again.",
-   "url": "https://www.formula1.com/en/latest/article/nothing-could-be-done-hadjar-identifies-the-weakness-red-bull-still-suffer-from.Se87vcJiXrG3Qd1WJMPfi",
-   "date": "2026-10-30T10:58:38.362Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hadjar"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-10-30T10:58:38.362Z"
   }
  ]
 }
