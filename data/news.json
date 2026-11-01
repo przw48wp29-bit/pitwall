@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T14:52:06.214Z",
+ "updatedAt": "2026-11-01T16:51:18.677Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,42 @@
   }
  },
  "items": [
+  {
+   "title": "Valtteri Bottas glaubt an seine Formel-1-Zukunft: Doch Cadillac lässt ihn warten",
+   "summary": "Valtteri Bottas rechnet mit einer baldigen Entscheidung über seine F1-Zukunft: Der Cadillac-Pilot verweist auf seinen Vertrag und die anstehenden Sitzungen in den USA",
+   "url": "https://www.formel1.de/nc/149650",
+   "date": "2026-11-01T16:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bottas"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "Transfer",
+   "firstSeen": "2026-11-01T16:51:18.658Z"
+  },
+  {
+   "title": "Warum der Start in Mexiko für Red Bull besonders schmerzhaft werden könnte",
+   "summary": "Max Verstappen wird den Grossen Preis von Mexiko vom fünften Startplatz in Angriff nehmen und hat Sorgen: Denn der schlechte Start von Red Bull könnte teuer werden",
+   "url": "https://www.formel1.de/nc/149649",
+   "date": "2026-11-01T14:58:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-11-01T16:51:18.658Z"
+  },
   {
    "title": "Why F1 fans must avoid emotional bets in Mexico",
    "summary": "Safer gambling is important, so we’ve flagged some key areas where you should keep a cool head when betting during Sunday's race at the Autodromo Hermanos Rodriguez.",
@@ -983,42 +1019,6 @@
    "team": "ferrari",
    "category": "News",
    "firstSeen": "2026-10-31T10:51:17.776Z"
-  },
-  {
-   "title": "Max Verstappen zu langsam: Technikchef Pierre Wache erklärt Red-Bull-Problem",
-   "summary": "Red Bull hat am Freitag in Mexiko zu kämpfen: Nicht nur der beschädigte RB22 von Max Verstappen kostet ein besseres Ergebnis, auch das Set-up ist noch nicht perfekt",
-   "url": "https://www.formel1.de/nc/149618",
-   "date": "2026-10-31T07:55:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Technik",
-   "firstSeen": "2026-10-31T08:56:09.060Z"
-  },
-  {
-   "title": "Stark auf über 2.000 Meter Höhe: Warum Piastri in Mexiko auf McLaren hofft",
-   "summary": "Oscar Piastri blickt mit voller Zuversicht auf das Formel-1-Rennen in Mexiko - McLaren scheint mit der dünnen Luft gut zurechtzukommen",
-   "url": "https://www.formel1.de/nc/149617",
-   "date": "2026-10-31T07:16:10.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "piastri"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-31T08:56:09.060Z"
   }
  ]
 }
