@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T05:31:02.135Z",
+ "updatedAt": "2026-11-01T07:18:42.070Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "300. Grand Prix für Sergio Perez: Die 10 wichtigsten Momente seiner F1-Karriere!",
+   "summary": "Sergio Perez feiert beim Heimspiel in Mexiko seinen 300. Formel-1-Grand-Prix - Zeit, um einmal auf die zehn wichtigsten Momente seiner Karriere zu blicken",
+   "url": "https://www.formel1.de/nc/149640",
+   "date": "2026-11-01T07:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "perez"
+   ],
+   "teams": [],
+   "team": "cadillac",
+   "category": "Rennen",
+   "firstSeen": "2026-11-01T07:18:42.056Z"
+  },
   {
    "title": "Sebastian Vettel: Selbstzweifel als ständiger Begleiter in der Formel 1",
    "summary": "In Being Sebastian Vettel spricht der viermalige Weltmeister über die Selbstzweifel, die ihn während seiner Karriere in der Formel 1 geprägt haben",
@@ -1012,23 +1028,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-10-30T22:52:22.039Z"
-  },
-  {
-   "title": "Klarer Vorsprung auf Antonelli: Leclerc Schnellster im ersten Mexiko-Training",
-   "summary": "Charles Leclerc dominiert das erste Freie Training zum Grand Prix von Mexiko 2026, das ganz im Zeichen der Freitagspiloten in zehn von elf Teams steht",
-   "url": "https://www.formel1.de/nc/149607",
-   "date": "2026-10-30T21:23:38.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "leclerc"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-10-30T20:55:35.244Z"
   }
  ]
 }
