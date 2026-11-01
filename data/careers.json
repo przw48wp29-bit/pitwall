@@ -22,7 +22,7 @@
   "starts": 398,
   "wins": 106,
   "podiums": 208,
-  "poles": 119,
+  "poles": 120,
   "titles": 7,
   "first": "2007"
  },
@@ -49,7 +49,7 @@
   "starts": 170,
   "wins": 13,
   "podiums": 49,
-  "poles": 34,
+  "poles": 35,
   "titles": 1,
   "first": "2019"
  },
@@ -205,5 +205,13 @@
   "poles": 4,
   "titles": 0,
   "first": "2011"
+ },
+ "ryo_hirakawa": {
+  "seasons": 0,
+  "starts": 0,
+  "wins": 0,
+  "podiums": 0,
+  "poles": 0,
+  "titles": 0
  }
 }

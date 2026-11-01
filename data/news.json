@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T05:02:27.861Z",
+ "updatedAt": "2026-11-01T05:31:02.135Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,20 @@
   }
  },
  "items": [
+  {
+   "title": "Sebastian Vettel: Selbstzweifel als ständiger Begleiter in der Formel 1",
+   "summary": "In Being Sebastian Vettel spricht der viermalige Weltmeister über die Selbstzweifel, die ihn während seiner Karriere in der Formel 1 geprägt haben",
+   "url": "https://www.formel1.de/nc/149639",
+   "date": "2026-11-01T05:30:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-01T05:31:02.133Z"
+  },
   {
    "title": "What To Watch For in the Mexico City Grand Prix",
    "summary": "Chris Medland picks out five key things to keep an eye on when the lights go out on race day at the Autodromo Hermanos Rodriguez.",
@@ -510,7 +524,8 @@
    "sourceId": "formel1de",
    "lang": "de",
    "drivers": [
-    "ocon"
+    "ocon",
+    "ryo_hirakawa"
    ],
    "teams": [
     "haas"
@@ -1014,20 +1029,6 @@
    "team": "mercedes",
    "category": "Rennen",
    "firstSeen": "2026-10-30T20:55:35.244Z"
-  },
-  {
-   "title": "F1-Revolution? FIA nutzt AWS-KI gegen regulatorische Grauzonen",
-   "summary": "Die FIA kooperiert in Zukunft mit Amazon Web Services, um an Regelwerken zu arbeiten und regulatorische Grauzonen ausfindig zu machen",
-   "url": "https://www.formel1.de/nc/149610",
-   "date": "2026-10-30T21:10:40.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
-   "firstSeen": "2026-10-30T22:52:22.039Z"
   }
  ]
 }

@@ -229,7 +229,8 @@
    "w": 3865,
    "h": 5797,
    "curated": true
-  }
+  },
+  "ryo_hirakawa": null
  },
  "driverCars": {
   "antonelli": {
@@ -451,6 +452,16 @@
    "w": 5047,
    "h": 2524,
    "curated": true
+  },
+  "ryo_hirakawa": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/FIA_F1_Austria_2026_Nr._50_Hirakawa_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._50_Hirakawa_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/FIA_F1_Austria_2026_Nr._50_Hirakawa_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._50_Hirakawa_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._50_Hirakawa_(1).jpg",
+   "credit": "Lukas Raich",
+   "license": "CC BY-SA 4.0",
+   "w": 5206,
+   "h": 2603,
+   "season": "2026"
   }
  },
  "cars": {
