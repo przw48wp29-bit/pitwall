@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T08:59:45.384Z",
+ "updatedAt": "2026-11-01T10:53:20.029Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,74 @@
   }
  },
  "items": [
+  {
+   "title": "F1’s longest pole career spans as Hamilton returns to top",
+   "summary": "Lewis Hamilton scored the 105th pole position at the Mexico City Grand Prix, extending his own record as the longest pole position career spans, coming over 19 years after his maiden top spot in Formula 1. We take a look at the top 10 drivers with the longest career spans between their first and last poles.",
+   "url": "https://www.formula1.com/en/latest/article/f1s-longest-pole-position-career-spans-as-hamilton-returns-to-the-top-with-ferrari.6YDBxkSvAtUCaNxNQBAk8Z",
+   "date": "2026-11-01T10:53:20.011Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-01T10:53:20.011Z"
+  },
+  {
+   "title": "5 late-notice F1 debutants and how they fared",
+   "summary": "Following the news of Ryo Hirakawa's surprise debut in Mexico City, F1.com has taken a look at how other last-minute substitutes got on in the past.",
+   "url": "https://www.formula1.com/en/latest/article/5-late-notice-f1-debutants-and-how-they-fared-as-hirakawa-replaces-ocon-in-mexico-city.38AAO3RRnruvkI88muFolf",
+   "date": "2026-11-01T10:52:20.011Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "ryo_hirakawa"
+   ],
+   "teams": [],
+   "team": "haas",
+   "category": "News",
+   "firstSeen": "2026-11-01T10:53:20.011Z"
+  },
+  {
+   "title": "Zu viel Sprit im Tank? Diese Details kosteten George Russell die Mexiko-Pole",
+   "summary": "Am Ende fehlten George Russell lediglich neun Tausendstelsekunden auf die Polezeit von Lewis Hamilton: Diese Details haben dem Mercedes-Piloten die Bestzeit gekostet",
+   "url": "https://www.formel1.de/nc/149644",
+   "date": "2026-11-01T10:11:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell",
+    "hamilton"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-01T10:53:20.011Z"
+  },
+  {
+   "title": "Ryo Hirakawa ärgert sich nach Qualifying in Mexiko: Q2 \"locker\" geschafft, wenn …",
+   "summary": "Ocon-Ersatz Ryo Hirakawa ärgert sich über eine verpasste Chance in seinem ersten Formel-1-Qualifying in Mexiko: Einzug in Q2 wäre \"locker\" möglich gewesen, wenn …",
+   "url": "https://www.formel1.de/nc/149643",
+   "date": "2026-11-01T09:33:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "ryo_hirakawa",
+    "ocon"
+   ],
+   "teams": [],
+   "team": "haas",
+   "category": "Rennen",
+   "firstSeen": "2026-11-01T10:53:20.011Z"
+  },
   {
    "title": "Erklärt: Warum Liam Lawson nach dem Qualifying in Mexiko disqualifiziert wurde",
    "summary": "Harte Strafe für Liam Lawson: Der Racing-Bulls-Pilot wurde nach dem Qualifying in Mexiko disqualifiziert und muss das Rennen von hinten starten - Das ist der Grund",
@@ -957,77 +1025,6 @@
    ],
    "teams": [],
    "team": "rb",
-   "category": "Rennen",
-   "firstSeen": "2026-10-31T04:57:27.631Z"
-  },
-  {
-   "title": "Formel-1-Strafpunkte 2026: Die aktuelle Übersicht der Strafen",
-   "summary": "In unserer Übersicht der Formel-1-Strafpunkte zeigen wir dir den aktuellen Stand und wer eine Weisse Weste hat oder kurz vor einer Rennsperre steht",
-   "url": "https://www.formel1.de/nc/146577",
-   "date": "2026-10-31T03:04:07.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
-   "firstSeen": "2026-10-31T04:57:27.631Z"
-  },
-  {
-   "title": "Longruns Mexiko: Lando Norris vorn, Ferrari und Red Bull schwächeln",
-   "summary": "Charles Leclerc dominiert die Formel-1-Trainings in Mexiko, doch McLaren-Pilot Lando Norris glänzt im Longrun: Droht Ferrari ein erneuter Formabfall?",
-   "url": "https://www.formel1.de/nc/149614",
-   "date": "2026-10-31T01:38:21.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris",
-    "leclerc"
-   ],
-   "teams": [
-    "red_bull",
-    "ferrari",
-    "mclaren"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-31T04:57:27.631Z"
-  },
-  {
-   "title": "Erklärt: Wieso hat Colton Herta nach Mexiko noch keine Superlizenz?",
-   "summary": "Trotz seines Auftritts in Mexiko hat Colton Herta noch keine Superlizenz, um möglicherweise Valtteri Bottas bei Cadillac 2027 zu beerben",
-   "url": "https://www.formel1.de/nc/149613",
-   "date": "2026-10-31T00:10:42.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bottas"
-   ],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "News",
-   "firstSeen": "2026-10-31T04:57:27.631Z"
-  },
-  {
-   "title": "Freitag Mexiko: Leclerc fährt Bestzeit, Verstappen handelt sich Ärger ein",
-   "summary": "Charles Leclerc setzt auch im zweiten Mexiko-Training die Bestzeit, während Lewis Hamilton ausrollt und Max Verstappen nach einer Kollision Ärger droht",
-   "url": "https://www.formel1.de/nc/149612",
-   "date": "2026-10-30T23:03:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc",
-    "max_verstappen",
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-10-31T04:57:27.631Z"
   }
