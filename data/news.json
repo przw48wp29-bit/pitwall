@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T20:51:36.175Z",
+ "updatedAt": "2026-11-01T22:49:55.536Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,98 @@
   }
  },
  "items": [
+  {
+   "title": "Antonelli crowned champion in Mexico as Verstappen wins race",
+   "summary": "Kimi Antonelli became the youngest Formula 1 World Champion as third place in the Mexico City Grand Prix was enough for the Mercedes driver to claim the 2026 crown, with Max Verstappen taking race victory from Lewis Hamilton.",
+   "url": "https://www.formula1.com/en/latest/article/antonelli-crowned-youngest-ever-f1-champion-as-verstappen-wins-eventful-mexico-city-grand-prix.xpMMeef0KmRURs9IDs3LH",
+   "date": "2026-11-01T22:49:55.521Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli",
+    "max_verstappen",
+    "hamilton"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-01T22:49:55.521Z"
+  },
+  {
+   "title": "Krimi in Mexiko: Verstappen gewinnt, Hamilton tobt, Antonelli Weltmeister!",
+   "summary": "Bei Ferrari fliegen in Mexiko die Fetzen: Lewis Hamilton ist ausser sich und kündigt ernste Gespräche an, während Max Verstappen den Grand Prix gewinnt",
+   "url": "https://www.formel1.de/nc/149658",
+   "date": "2026-11-01T22:31:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "hamilton",
+    "antonelli"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-11-01T22:49:55.521Z"
+  },
+  {
+   "title": "Kimi Antonelli an der Spitze: Die fünf jüngsten Formel-1-Weltmeister",
+   "summary": "Kimi Antonelli krönt sich mit 20 Jahren zum jüngsten Formel-1-Weltmeister. Vettel, Hamilton, Alonso und Verstappen stehen nun hinter ihm.",
+   "url": "https://www.formel1.de/nc/149657",
+   "date": "2026-11-01T22:28:39.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli",
+    "hamilton",
+    "alonso",
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-01T22:49:55.521Z"
+  },
+  {
+   "title": "Vettel-Rekord gebrochen: Kimi Antonelli ist Formel-1-Weltmeister 2026!",
+   "summary": "Kimi Antonelli hat den Rekord von Sebastian Vettel gebrochen und sich in seiner erst zweiten Saison zum mit Abstand jüngsten Formel-1-Weltmeister gekrönt",
+   "url": "https://www.formel1.de/nc/149656",
+   "date": "2026-11-01T22:26:44.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-01T22:49:55.521Z"
+  },
+  {
+   "title": "Erklärt: Wieso wurde Charles Leclerc in Mexiko bestraft?",
+   "summary": "Beim Grand Prix von Mexiko wurde Charles Leclerc nach seinem hitzigen Duell mit Lewis Hamilton in der ersten Runde bestraft",
+   "url": "https://www.formel1.de/nc/149655",
+   "date": "2026-11-01T21:44:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc",
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-01T22:49:55.521Z"
+  },
   {
    "title": "OFFICIAL GRID: Who starts where for the Mexico City Grand Prix",
    "summary": "The full official starting order for the 2026 Mexico City Grand Prix.",
@@ -24,7 +116,7 @@
    "firstSeen": "2026-11-01T20:51:36.164Z"
   },
   {
-   "title": "LIVE COVERAGE: Leclerc leads in Mexico after Hamilton battle",
+   "title": "LIVE COVERAGE: Antonelli becomes youngest ever F1 champion",
    "summary": "Live coverage of the Formula 1 Gran Premio de la Ciudad de Mexico 2026.",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-gran-premio-de-la-ciudad-de-mexico-2026.5CheEK7oQK2jf98nrc6i8Y",
    "date": "2026-11-01T20:50:36.164Z",
@@ -32,11 +124,10 @@
    "sourceId": "f1com",
    "lang": "en",
    "drivers": [
-    "leclerc",
-    "hamilton"
+    "antonelli"
    ],
    "teams": [],
-   "team": "ferrari",
+   "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-11-01T20:51:36.164Z"
   },
@@ -918,91 +1009,6 @@
    "team": "haas",
    "category": "Rennen",
    "firstSeen": "2026-10-31T16:51:30.107Z"
-  },
-  {
-   "title": "Komatsu wütend: Angeblicher Bearman-Gehaltspoker \"völliger Schwachsinn\"",
-   "summary": "Haas-Teamchef Ayao Komatsu schlägt zurück - Gerüchte um angebliche Millionen-Forderungen von Oliver Bearman seien frei erfunden und absoluter Schwachsinn",
-   "url": "https://www.formel1.de/nc/149627",
-   "date": "2026-10-31T16:12:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bearman"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "News",
-   "firstSeen": "2026-10-31T16:51:30.107Z"
-  },
-  {
-   "title": "Neuer Formel-1-Windkanal: Red Bull nennt Zeitplan für die Inbetriebnahme",
-   "summary": "Red Bull wartet weiter auf die Fertigstellung des neuen Windkanals - Teamchef Laurent Mekies nennt nun Details zum Zeitplan und rechnet erst mit 2027",
-   "url": "https://www.formel1.de/nc/149625",
-   "date": "2026-10-31T15:09:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-10-31T16:51:30.107Z"
-  },
-  {
-   "title": "Esteban Ocon fährt nicht: Ryo Hirakawa übernimmt das Haas-Cockpit in Mexiko!",
-   "summary": "Fahrerwechsel bei Haas: Esteban Ocon wird nicht fahren, Ersatzpilot Ryo Hirakawa übernimmt beim Grossen Preis von Mexiko - Kommt es zur vorzeitigen Trennung?",
-   "url": "https://www.formel1.de/nc/149624",
-   "date": "2026-10-31T15:01:43.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "ocon",
-    "ryo_hirakawa"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Transfer",
-   "firstSeen": "2026-10-31T16:51:30.107Z"
-  },
-  {
-   "title": "Ferrari-Teamchef Frederic Vasseur dämpft Erwartungen trotz starker Leclerc-Bestzeit",
-   "summary": "Charles Leclerc war am Mexiko-Freitag der schnellste Fahrer, doch Ferrari-Teamchef Frederic Vasseur dämpft die Erwartungen: Warum sich am Samstag alles ändern kann",
-   "url": "https://www.formel1.de/nc/149623",
-   "date": "2026-10-31T13:51:26.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-31T14:50:15.866Z"
-  },
-  {
-   "title": "Best Qualifying bets before the Mexico City GP",
-   "summary": "Our expert betting writers share their top picks for Qualifying at the Autodromo Hermanos Rodriguez in Mexico City.",
-   "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-on-the-markets-before-the-mexico-city-grand-prix.6vo71zRrlBile9GdUI3W8y",
-   "date": "2026-10-31T13:05:17.862Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-31T13:05:17.862Z"
   }
  ]
 }
