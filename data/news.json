@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T18:59:21.657Z",
+ "updatedAt": "2026-11-01T20:51:36.175Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,37 @@
   }
  },
  "items": [
+  {
+   "title": "OFFICIAL GRID: Who starts where for the Mexico City Grand Prix",
+   "summary": "The full official starting order for the 2026 Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-for-the-2026-mexico-city-grand-prix.4AUykgAAZz3GMiI15Fqfir",
+   "date": "2026-11-01T20:51:36.164Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-01T20:51:36.164Z"
+  },
+  {
+   "title": "LIVE COVERAGE: Leclerc leads in Mexico after Hamilton battle",
+   "summary": "Live coverage of the Formula 1 Gran Premio de la Ciudad de Mexico 2026.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-gran-premio-de-la-ciudad-de-mexico-2026.5CheEK7oQK2jf98nrc6i8Y",
+   "date": "2026-11-01T20:50:36.164Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "leclerc",
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-01T20:51:36.164Z"
+  },
   {
    "title": "Lewis Hamilton: Hat er die 18-Zoll-Räder jetzt endlich geknackt?",
    "summary": "Lewis Hamilton erklärt, warum ihm die 18-Zoll-Reifen jahrelang Probleme bereiteten - und weshalb in Mexiko plötzlich alles zusammenpasst",
@@ -40,7 +71,7 @@
    "firstSeen": "2026-11-01T18:59:21.639Z"
   },
   {
-   "title": "Alexander Wurz versteht Hadjar, findet Schubser aber trotzdem \"nicht cool\"",
+   "title": "Isack Hadjar verteidigt Schubser gegen Fan: Formel 1 ist \"keine Reality-Show\"",
    "summary": "Isack Hadjar sieht nach seinem Schubser gegen einen Fan keinen Grund für Reue - Ex-Formel-1-Pilot Alexander Wurz versteht den Ärger, kritisiert aber die Reaktion",
    "url": "https://www.formel1.de/nc/149652",
    "date": "2026-11-01T17:49:18.000Z",
@@ -971,38 +1002,6 @@
    "teams": [],
    "team": null,
    "category": "Rennen",
-   "firstSeen": "2026-10-31T13:05:17.862Z"
-  },
-  {
-   "title": "Mekies predicts ‘one-off’ Mexico order in wind tunnel update",
-   "summary": "Laurent Mekies believes the unique challenges of the Mexico City Grand Prix could shake up the competitive order, whilst also revealing when the team’s new wind tunnel is expected to arrive.",
-   "url": "https://www.formula1.com/en/latest/article/mekies-predicts-one-off-mexico-pecking-order-as-he-gives-red-bull-wind-tunnel-update.xu23RRtyMHXYDzeyZ2Q7f",
-   "date": "2026-10-31T13:04:17.862Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Technik",
-   "firstSeen": "2026-10-31T13:05:17.862Z"
-  },
-  {
-   "title": "Alonso cautiously upbeat after strong Friday in Mexico",
-   "summary": "Fernando Alonso admits Aston Martin's Friday performance in Mexico City has beaten expectations, with the AMR26 coping well with the challenges of altitude.",
-   "url": "https://www.formula1.com/en/latest/article/alonso-cautiously-upbeat-after-strong-friday-in-mexico-for-aston-martin.4vekgCuq0xUq8VaOuuxWAt",
-   "date": "2026-10-31T13:03:17.862Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "alonso"
-   ],
-   "teams": [
-    "aston_martin"
-   ],
-   "team": "aston_martin",
-   "category": "News",
    "firstSeen": "2026-10-31T13:05:17.862Z"
   }
  ]
