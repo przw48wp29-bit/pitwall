@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T13:07:36.093Z",
+ "updatedAt": "2026-11-01T14:52:06.214Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,37 @@
   }
  },
  "items": [
+  {
+   "title": "Why F1 fans must avoid emotional bets in Mexico",
+   "summary": "Safer gambling is important, so we’ve flagged some key areas where you should keep a cool head when betting during Sunday's race at the Autodromo Hermanos Rodriguez.",
+   "url": "https://www.formula1.com/en/latest/article/why-f1-fans-must-avoid-emotional-betting-during-the-mexico-city-grand-prix.6XPJ9yMZJmUR7oF9cHe2Ql",
+   "date": "2026-11-01T14:52:06.197Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-01T14:52:06.197Z"
+  },
+  {
+   "title": "Lewis Hamilton und George Russell offen: WM-Titel spielt keine Rolle mehr",
+   "summary": "Lewis Hamilton und George Russell könnten den WM-Kampf mit einem Sieg unter Umständen offenhalten: Warum beide Fahrer aber nicht mehr an den Titel glauben",
+   "url": "https://www.formel1.de/nc/149648",
+   "date": "2026-11-01T13:22:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton",
+    "russell"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-01T14:52:06.197Z"
+  },
   {
    "title": "Our final Mexico City Grand Prix betting predictions",
    "summary": "Our expert betting writers bring you their final predictions and latest odds before the Mexico City Grand Prix.",
@@ -118,7 +149,7 @@
    "firstSeen": "2026-11-01T13:07:36.080Z"
   },
   {
-   "title": "Max Verstappen und Liam Lawson klären Streit - doch eine Frage bleibt offen",
+   "title": "Max Verstappen schweigt zu Lawsons Zukunft: \"Das muss ich nicht sagen\"",
    "summary": "Max Verstappen und Liam Lawson haben ihren Streit nach der Kollision in Mexiko beigelegt, doch bei der Cockpitfrage für 2027 hält sich der Weltmeister bedeckt",
    "url": "https://www.formel1.de/nc/149647",
    "date": "2026-11-01T12:45:08.000Z",
@@ -135,7 +166,7 @@
    "firstSeen": "2026-11-01T13:07:36.080Z"
   },
   {
-   "title": "Nach Wasserleck im Qualifying: Hat Fernando Alonso jetzt keine Lust mehr?",
+   "title": "Nach Quali-Problem: Frustration ist für Alonso \"kaum in Worte zu fassen\"",
    "summary": "Fernando Alonso muss seinen Aston Martin im Mexiko-Qualifying abstellen und sorgt dann mit einer rätselhaften Aussage für Spekulationen über seinen Start am Sonntag",
    "url": "https://www.formel1.de/nc/149646",
    "date": "2026-11-01T12:13:04.000Z",
@@ -988,40 +1019,6 @@
    "team": "mclaren",
    "category": "Rennen",
    "firstSeen": "2026-10-31T08:56:09.060Z"
-  },
-  {
-   "title": "Verstappen and Lawson get grid drops after ‘clumsy’ clash",
-   "summary": "Red Bull’s Max Verstappen and Racing Bulls’ Liam Lawson have been given grid penalties by the stewards following their “unacceptable” and “clumsy” incident during second practice in Mexico.",
-   "url": "https://www.formula1.com/en/latest/article/verstappen-and-lawson-get-grid-penalties-after-clumsy-mexico-city-practice-clash.2m2ey8Pl7g5IfQfGeepilD",
-   "date": "2026-10-31T05:26:37.685Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen",
-    "lawson"
-   ],
-   "teams": [
-    "rb",
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Regeln",
-   "firstSeen": "2026-10-31T05:26:37.685Z"
-  },
-  {
-   "title": "What the teams said – Friday in Mexico City",
-   "summary": "The drivers and teams report back on all the action from Friday practice at the Autodromo Hermanos Rodriguez ahead of the 2026 Mexico City Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-mexico-city-2026.6smOV3lTU4s76z0vrnd1RJ",
-   "date": "2026-10-31T04:57:27.631Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-31T04:57:27.631Z"
   }
  ]
 }
