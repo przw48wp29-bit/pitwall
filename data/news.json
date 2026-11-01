@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T16:51:18.677Z",
+ "updatedAt": "2026-11-01T18:59:21.657Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,67 @@
  },
  "items": [
   {
-   "title": "Valtteri Bottas glaubt an seine Formel-1-Zukunft: Doch Cadillac lässt ihn warten",
+   "title": "Lewis Hamilton: Hat er die 18-Zoll-Räder jetzt endlich geknackt?",
+   "summary": "Lewis Hamilton erklärt, warum ihm die 18-Zoll-Reifen jahrelang Probleme bereiteten - und weshalb in Mexiko plötzlich alles zusammenpasst",
+   "url": "https://www.formel1.de/nc/149654",
+   "date": "2026-11-01T18:40:52.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-01T18:59:21.639Z"
+  },
+  {
+   "title": "Was Yamahas MotoGP-Boykott für Katar und Abu Dhabi bedeutet",
+   "summary": "Nach dem überraschenden Yamaha-Boykott wächst der Druck auf die Formel 1 - Warum die Rennen in Katar und Abu Dhabi trotzdem wie geplant stattfinden sollen",
+   "url": "https://www.formel1.de/nc/149653",
+   "date": "2026-11-01T18:17:08.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-01T18:59:21.639Z"
+  },
+  {
+   "title": "Alexander Wurz versteht Hadjar, findet Schubser aber trotzdem \"nicht cool\"",
+   "summary": "Isack Hadjar sieht nach seinem Schubser gegen einen Fan keinen Grund für Reue - Ex-Formel-1-Pilot Alexander Wurz versteht den Ärger, kritisiert aber die Reaktion",
+   "url": "https://www.formel1.de/nc/149652",
+   "date": "2026-11-01T17:49:18.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hadjar"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-01T18:59:21.639Z"
+  },
+  {
+   "title": "Formel-1-Motorenstrafen 2026: Die Übersicht",
+   "summary": "Die verwendeten Motorenteile während der Saison 2026 in der Übersicht: Wann welchem Formel-1-Fahrer eine Strafe droht",
+   "url": "https://www.formel1.de/nc/146406",
+   "date": "2026-11-01T17:41:43.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-11-01T18:59:21.639Z"
+  },
+  {
+   "title": "Valtteri Bottas vor dem Cadillac-Aus? Was der Finne zu seiner Zukunft sagt",
    "summary": "Valtteri Bottas rechnet mit einer baldigen Entscheidung über seine F1-Zukunft: Der Cadillac-Pilot verweist auf seinen Vertrag und die anstehenden Sitzungen in den USA",
    "url": "https://www.formel1.de/nc/149650",
    "date": "2026-11-01T16:00:04.000Z",
@@ -944,81 +1004,6 @@
    "team": "aston_martin",
    "category": "News",
    "firstSeen": "2026-10-31T13:05:17.862Z"
-  },
-  {
-   "title": "George Russell begeistert: Frederik Vesti verdient das Cadillac-Cockpit für 2027",
-   "summary": "Wer fährt 2027 an der Seite von Sergio Perez bei Cadillac? George Russell bringt einen Kandidaten neben Bottas, Herta und Ocon ins Spiel: Mercedes-Talent Frederik Vesti",
-   "url": "https://www.formel1.de/nc/149622",
-   "date": "2026-10-31T12:54:48.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell",
-    "perez",
-    "bottas",
-    "ocon"
-   ],
-   "teams": [
-    "mercedes",
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "Transfer",
-   "firstSeen": "2026-10-31T13:05:17.862Z"
-  },
-  {
-   "title": "Trotz bevorstehendem WM-Titel: Kimi Antonelli sieht noch Fehler bei sich",
-   "summary": "Nur zwei Punkte fehlen Andrea Kimi Antonelli noch zum Titelgewinn der Formel-1-Weltmeisterschaft 2026 - Er sieht aber noch Potenzial nach oben bei sich",
-   "url": "https://www.formel1.de/nc/149621",
-   "date": "2026-10-31T11:44:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-10-31T13:05:17.862Z"
-  },
-  {
-   "title": "Audi erlebt schwierigen Mexiko-Freitag: Nico Hülkenberg erklärt die Hintergründe",
-   "summary": "Audi erlebt in Mexiko einen schwierigen Freitag: Nico Hülkenberg erklärt die Gründe, während Gabriel Bortoleto und Nachwuchs Freddie Slater kaum zum Fahren kommen",
-   "url": "https://www.formel1.de/nc/149620",
-   "date": "2026-10-31T10:11:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hulkenberg",
-    "bortoleto"
-   ],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "News",
-   "firstSeen": "2026-10-31T10:51:17.776Z"
-  },
-  {
-   "title": "Mexiko-Höhenluft: Hamilton widerspricht Gerüchten über Ferrari-Vorteil",
-   "summary": "Hat Ferrari auf über 2.000 Metern Höhe in Mexiko einen Vorteil gegenüber der Konkurrenz? Lewis Hamilton glaubt nicht an mehr Leistung durch das Turbo-Konzept",
-   "url": "https://www.formel1.de/nc/149619",
-   "date": "2026-10-31T09:00:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-10-31T10:51:17.776Z"
   }
  ]
 }
