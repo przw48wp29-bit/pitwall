@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T11:13:06.119Z",
+ "updatedAt": "2026-11-02T13:27:30.302Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,59 @@
   }
  },
  "items": [
+  {
+   "title": "The records Antonelli has broken on his way to maiden title",
+   "summary": "It has been a season of breaking records for Kimi Antonelli, who has rewritten several chapters of the F1 history books en route to his first World Championship.",
+   "url": "https://www.formula1.com/en/latest/article/in-numbers-the-records-antonelli-has-broken-on-his-way-to-his-maiden-f1-title.2FB9yQ5qD7XzQ418HNlrfN",
+   "date": "2026-11-02T13:27:30.290Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-02T13:27:30.290Z"
+  },
+  {
+   "title": "Russell details ‘frustrating’ opening lap issue in Mexico",
+   "summary": "George Russell has shared his thoughts on the Mexico City Grand Prix, where his team mate Kimi Antonelli put the Drivers’ Championship out of reach for good.",
+   "url": "https://www.formula1.com/en/latest/article/russell-details-frustrating-opening-lap-issue-in-mexico-city-that-cost-him-a-shot-at-victory.3K9bqtqg1bCnFQf9NxWM5J",
+   "date": "2026-11-02T13:26:30.290Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "russell",
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T13:27:30.290Z"
+  },
+  {
+   "title": "Fahrernoten Mexiko: Podestplatz für Audi-Fahrer Gabriel Bortoleto",
+   "summary": "Rennsieger Max Verstappen, Weltmeister Kimi Antonelli und Audi-Fahrer Gabriel Bortoleto teilen sich das Podium der Leserwertung für Mexiko-Stadt 2026",
+   "url": "https://www.formel1.de/nc/149677",
+   "date": "2026-11-02T12:23:56.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bortoleto",
+    "max_verstappen",
+    "antonelli"
+   ],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T13:27:30.290Z"
+  },
   {
    "title": "‘It's a matter of respect’ – Vasseur on Hamilton/Leclerc clash",
    "summary": "A Mexico City GP that held such promise for Scuderia Ferrari proved to be a painful afternoon for team principal Fred Vasseur.",
@@ -968,57 +1021,6 @@
    "team": "mclaren",
    "category": "Rennen",
    "firstSeen": "2026-11-01T13:07:36.080Z"
-  },
-  {
-   "title": "F1’s longest pole career spans as Hamilton returns to top",
-   "summary": "Lewis Hamilton scored the 105th pole position at the Mexico City Grand Prix, extending his own record as the longest pole position career spans, coming over 19 years after his maiden top spot in Formula 1. We take a look at the top 10 drivers with the longest career spans between their first and last poles.",
-   "url": "https://www.formula1.com/en/latest/article/f1s-longest-pole-position-career-spans-as-hamilton-returns-to-the-top-with-ferrari.6YDBxkSvAtUCaNxNQBAk8Z",
-   "date": "2026-11-01T10:53:20.011Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T10:53:20.011Z"
-  },
-  {
-   "title": "5 late-notice F1 debutants and how they fared",
-   "summary": "Following the news of Ryo Hirakawa's surprise debut in Mexico City, F1.com has taken a look at how other last-minute substitutes got on in the past.",
-   "url": "https://www.formula1.com/en/latest/article/5-late-notice-f1-debutants-and-how-they-fared-as-hirakawa-replaces-ocon-in-mexico-city.38AAO3RRnruvkI88muFolf",
-   "date": "2026-11-01T10:52:20.011Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "ryo_hirakawa"
-   ],
-   "teams": [],
-   "team": "haas",
-   "category": "News",
-   "firstSeen": "2026-11-01T10:53:20.011Z"
-  },
-  {
-   "title": "Zu viel Sprit im Tank? Diese Details kosteten George Russell die Mexiko-Pole",
-   "summary": "Am Ende fehlten George Russell lediglich neun Tausendstelsekunden auf die Polezeit von Lewis Hamilton: Diese Details haben dem Mercedes-Piloten die Bestzeit gekostet",
-   "url": "https://www.formel1.de/nc/149644",
-   "date": "2026-11-01T10:11:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell",
-    "hamilton"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T10:53:20.011Z"
   }
  ]
 }
