@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T17:16:13.350Z",
+ "updatedAt": "2026-11-02T19:12:27.977Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,38 @@
   }
  },
  "items": [
+  {
+   "title": "Antonelli reveals race number he will use to defend title in 2027",
+   "summary": "Kimi Antonelli has revealed what race number he will use to defend his Formula 1 drivers' title in 2027, having become World Champion last weekend in the Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/antonelli-reveals-what-race-number-he-will-use-to-defend-formula-1-title-in-2027.3GBWpLc1FUNDolu43D8Llu",
+   "date": "2026-11-02T19:12:27.961Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T19:12:27.961Z"
+  },
+  {
+   "title": "Der Moment, als \"Bono\" erstmals den Rohdiamanten in Antonelli gesehen hat",
+   "summary": "Kimi Antonelli ist Formel-1-Weltmeister 2026: Sein Renningenieur Peter Bonnington verrät nun, wann ihm der junge Italiener als \"Rohdiamant\" erstmals aufgefallen ist",
+   "url": "https://www.formel1.de/nc/149679",
+   "date": "2026-11-02T17:33:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-02T19:12:27.961Z"
+  },
   {
    "title": "Hirakawa assesses 'dream' F1 debut in Mexico City",
    "summary": "Ryo Hirakawa admits that making his Formula 1 debut \"was my dream\" after the Japanese driver finished the Mexico City Grand Prix last weekend, eventually being promoted into the points.",
@@ -981,40 +1013,6 @@
    "teams": [],
    "team": null,
    "category": "Rennen",
-   "firstSeen": "2026-11-01T13:07:36.080Z"
-  },
-  {
-   "title": "‘This experience has shaped me’ – Gasly on his work with Make-A-Wish",
-   "summary": "Make-a-Wish France Ambassador Pierre Gasly discusses his vital work with the charity and the experiences that have stayed with him.",
-   "url": "https://www.formula1.com/en/latest/article/this-experience-has-shaped-me-gasly-opens-up-on-his-work-with-make-a-wish.54HKdR8EMP7KwMpbJUnYNz",
-   "date": "2026-11-01T13:04:36.080Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "gasly"
-   ],
-   "teams": [],
-   "team": "alpine",
-   "category": "News",
-   "firstSeen": "2026-11-01T13:07:36.080Z"
-  },
-  {
-   "title": "Alonso's 'frustration is beyond imagination' after issues",
-   "summary": "Fernando Alonso has stated that his \"frustration is beyond imagination\" after a power unit problem brought the Aston Martin driver's Qualifying for the Mexico City Grand Prix to an early end.",
-   "url": "https://www.formula1.com/en/latest/article/frustration-is-beyond-imagination-alonso-reflects-on-missed-opportunity-for-aston-martin-in-mexico-city-gp-qualifying.2FmjSG4Ad82g6zMsw4TJgE",
-   "date": "2026-11-01T13:03:36.080Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "alonso"
-   ],
-   "teams": [
-    "aston_martin"
-   ],
-   "team": "aston_martin",
-   "category": "Technik",
    "firstSeen": "2026-11-01T13:07:36.080Z"
   }
  ]
