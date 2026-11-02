@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T09:22:22.360Z",
+ "updatedAt": "2026-11-02T11:13:06.119Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,130 @@
   }
  },
  "items": [
+  {
+   "title": "‘It's a matter of respect’ – Vasseur on Hamilton/Leclerc clash",
+   "summary": "A Mexico City GP that held such promise for Scuderia Ferrari proved to be a painful afternoon for team principal Fred Vasseur.",
+   "url": "https://www.formula1.com/en/latest/article/its-a-matter-of-respect-vasseur-airs-frustrations-over-ferrari-intra-team-clash-in-mexico.33Ed4HMOlbqcaZlQ37hA0F",
+   "date": "2026-11-02T11:13:06.108Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T11:13:06.108Z"
+  },
+  {
+   "title": "The Mexico GP issues Antonelli overcame to claim his title",
+   "summary": "Michael Lamonato on how Kimi Antonelli turned a sub-optimal build-up to the Mexico City Grand Prix into title-winning glory.",
+   "url": "https://www.formula1.com/en/latest/article/how-antonelli-drove-through-tears-fears-and-illness-to-claim-his-maiden-title.3LPbRl2JBmLVdc5OKrOTqF",
+   "date": "2026-11-02T11:12:06.108Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T11:13:06.108Z"
+  },
+  {
+   "title": "Wer letzte Nacht am besten geschlafen hat: Kimi Antonelli",
+   "summary": "Ein Junge, den einfach jeder mag, ist Formel-1-Weltmeister geworden: Kimi Antonellis Triumph könnt der Beginn einer Ära sein, findet Redakteur Oleg Karpov",
+   "url": "https://www.formel1.de/nc/149676",
+   "date": "2026-11-02T10:45:54.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-02T11:13:06.108Z"
+  },
+  {
+   "title": "Toto Wolff verrät: Zwei Sponsoren verliessen Mercedes wegen Kimi Antonelli",
+   "summary": "Zwei Sponsoren kehrten Mercedes wegen Kimi Antonelli den Rücken, doch nach dessen WM-Triumph rechnet Toto Wolff mit den Kritikern seiner Entscheidung ab",
+   "url": "https://www.formel1.de/nc/149675",
+   "date": "2026-11-02T10:14:26.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Business",
+   "firstSeen": "2026-11-02T11:13:06.108Z"
+  },
+  {
+   "title": "Lando Norris überzeugt: McLaren-Pace war gut genug für den Sieg in Mexiko",
+   "summary": "Lando Norris beendet den Grossen Preis von Mexiko als Fünfter, stellt anschliessend allerdings eine mutige These auf: Der Rennsieg am Sonntag wäre möglich gewesen!",
+   "url": "https://www.formel1.de/nc/149674",
+   "date": "2026-11-02T10:13:50.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T11:13:06.108Z"
+  },
+  {
+   "title": "Formel-1-Zuschauer: So viele sahen die WM-Entscheidung vor Ort in Mexiko",
+   "summary": "Kimi Antonelli ist Formel-1-Weltmeister, und über 400.000 sind live dabei: Die Zuschauerzahlen zum Grand Prix von Mexiko-Stadt 2026",
+   "url": "https://www.formel1.de/nc/146482",
+   "date": "2026-11-02T09:44:08.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T11:13:06.108Z"
+  },
+  {
+   "title": "Max Verstappen überzeugt: Ferrari hat den Sieg in Mexiko verschenkt",
+   "summary": "Max Verstappen profitiert vom Ferrari-Zoff zwischen Lewis Hamilton und Charles Leclerc - und gewinnt den Mexiko-GP: So lief das Rennen für den Red-Bull-Piloten",
+   "url": "https://www.formel1.de/nc/149673",
+   "date": "2026-11-02T09:33:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [
+    "red_bull",
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T11:13:06.108Z"
+  },
   {
    "title": "Keine Interviews: Darum wurde George Russell von der FIA bestraft",
    "summary": "George Russell erlebt in Mexiko einen bitteren Abend und kassiert eine FIA-Strafe: Wie Toto Wolff Verständnis darauf reagierte und was Nico Rosberg dazu sagte",
@@ -60,7 +184,7 @@
    "firstSeen": "2026-11-02T09:22:22.337Z"
   },
   {
-   "title": "Darum verzichtet Kimi Antonelli 2027 auf die Startnummer 1 des Weltmeisters",
+   "title": "Kimi Antonelli verzichtet 2027 auf die Startnummer 1 - aus diesem Grund",
    "summary": "Kimi Antonelli hat sich vorzeitig den WM-Titel 2026 gesichert: Warum der Italiener in der kommenden Saison aber auf die Startnummer 1 an seinem Mercedes verzichtet",
    "url": "https://www.formel1.de/nc/149668",
    "date": "2026-11-02T07:22:26.000Z",
@@ -895,115 +1019,6 @@
    "team": "mercedes",
    "category": "Rennen",
    "firstSeen": "2026-11-01T10:53:20.011Z"
-  },
-  {
-   "title": "Ryo Hirakawa ärgert sich nach Qualifying in Mexiko: Q2 \"locker\" geschafft, wenn …",
-   "summary": "Ocon-Ersatz Ryo Hirakawa ärgert sich über eine verpasste Chance in seinem ersten Formel-1-Qualifying in Mexiko: Einzug in Q2 wäre \"locker\" möglich gewesen, wenn …",
-   "url": "https://www.formel1.de/nc/149643",
-   "date": "2026-11-01T09:33:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "ryo_hirakawa",
-    "ocon"
-   ],
-   "teams": [],
-   "team": "haas",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T10:53:20.011Z"
-  },
-  {
-   "title": "Erklärt: Warum Liam Lawson nach dem Qualifying in Mexiko disqualifiziert wurde",
-   "summary": "Harte Strafe für Liam Lawson: Der Racing-Bulls-Pilot wurde nach dem Qualifying in Mexiko disqualifiziert und muss das Rennen von hinten starten - Das ist der Grund",
-   "url": "https://www.formel1.de/nc/149642",
-   "date": "2026-11-01T08:54:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "lawson"
-   ],
-   "teams": [
-    "rb"
-   ],
-   "team": "rb",
-   "category": "Regeln",
-   "firstSeen": "2026-11-01T08:59:45.374Z"
-  },
-  {
-   "title": "Kommentar: Warum Isack Hadjar eine Medaille statt einer Verwarnung verdient",
-   "summary": "Isack Hadjar schubste in Mexiko einen aufdringlichen Gast Fan und wurde verwarnt, doch der Vorfall zeigt ein viel grösseres Paddock-Problem",
-   "url": "https://www.formel1.de/nc/149641",
-   "date": "2026-11-01T08:00:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hadjar"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Regeln",
-   "firstSeen": "2026-11-01T08:59:45.374Z"
-  },
-  {
-   "title": "300. Grand Prix für Sergio Perez: Die 10 wichtigsten Momente seiner F1-Karriere!",
-   "summary": "Sergio Perez feiert beim Heimspiel in Mexiko seinen 300. Formel-1-Grand-Prix - Zeit, um einmal auf die zehn wichtigsten Momente seiner Karriere zu blicken",
-   "url": "https://www.formel1.de/nc/149640",
-   "date": "2026-11-01T07:00:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "perez"
-   ],
-   "teams": [],
-   "team": "cadillac",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T07:18:42.056Z"
-  },
-  {
-   "title": "Sebastian Vettel: Selbstzweifel als ständiger Begleiter in der Formel 1",
-   "summary": "In Being Sebastian Vettel spricht der viermalige Weltmeister über die Selbstzweifel, die ihn während seiner Karriere in der Formel 1 geprägt haben",
-   "url": "https://www.formel1.de/nc/149639",
-   "date": "2026-11-01T05:30:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-01T05:31:02.133Z"
-  },
-  {
-   "title": "What To Watch For in the Mexico City Grand Prix",
-   "summary": "Chris Medland picks out five key things to keep an eye on when the lights go out on race day at the Autodromo Hermanos Rodriguez.",
-   "url": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-mexico-city-grand-prix.2L0L49djDMMYYHFCx7EpTf",
-   "date": "2026-11-01T05:02:27.846Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T05:02:27.846Z"
-  },
-  {
-   "title": "What the teams said – Qualifying in Mexico City",
-   "summary": "The drivers and teams report back on all the action from final practice and Qualifying at the Autodromo Hermanos Rodriguez ahead of the 2026 Mexico City Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-mexico-city-2026.OeV40dsukK0h4mpxdkqoj",
-   "date": "2026-11-01T05:01:27.846Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T05:02:27.846Z"
   }
  ]
 }
