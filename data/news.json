@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T05:17:24.626Z",
+ "updatedAt": "2026-11-02T07:43:04.625Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,74 @@
   }
  },
  "items": [
+  {
+   "title": "Darum verzichtet Kimi Antonelli 2027 auf die Startnummer 1 des Weltmeisters",
+   "summary": "Kimi Antonelli hat sich vorzeitig den WM-Titel 2026 gesichert: Warum der Italiener in der kommenden Saison aber auf die Startnummer 1 an seinem Mercedes verzichtet",
+   "url": "https://www.formel1.de/nc/149668",
+   "date": "2026-11-02T07:22:26.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-02T07:43:04.609Z"
+  },
+  {
+   "title": "Kimi Antonelli ist Weltmeister: Wem sein Vater jetzt besonders dankbar ist",
+   "summary": "Nach dem WM-Titel von Kimi Antonelli zeigt sich Marco Antonelli überwältigt: Auf die Frage nach dem Talent seines Sohnes hat er eine amüsante Antwort",
+   "url": "https://www.formel1.de/nc/149667",
+   "date": "2026-11-02T06:42:47.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-02T07:43:04.609Z"
+  },
+  {
+   "title": "\"Geniesse es einfach\": Sebastian Vettel reagiert auf WM-Erfolg von Kimi Antonelli",
+   "summary": "Kimi Antonelli hat den Formel-1-Rekord von Sebastian Vettel geknackt: Der deutsche Weltmeister schickt seinem Nachfolger die Glückwünsche - und einen wichtigen Rat",
+   "url": "https://www.formel1.de/nc/149666",
+   "date": "2026-11-02T06:34:30.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Transfer",
+   "firstSeen": "2026-11-02T07:43:04.609Z"
+  },
+  {
+   "title": "Nachträgliche Strafen in Mexiko: Drei Formel-1-Fahrer verlieren ihre Punkte",
+   "summary": "Zwei Alpine-Fahrer verlieren nach dem Mexiko-Grand-Prix ihre WM-Punkte - Besonders kurios: In einem weiteren Zwischenfall kommt Gasly ohne Strafe davon",
+   "url": "https://www.formel1.de/nc/149665",
+   "date": "2026-11-02T06:01:36.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "gasly"
+   ],
+   "teams": [
+    "alpine"
+   ],
+   "team": "alpine",
+   "category": "Regeln",
+   "firstSeen": "2026-11-02T07:43:04.609Z"
+  },
   {
    "title": "All the key moments from the 2026 Mexico City Grand Prix",
    "summary": "The Mexico City Grand Prix once again delivered a memorable weekend, culminating in Kimi Antonelli being crowned F1’s youngest World Champion.",
@@ -937,75 +1005,6 @@
    ],
    "teams": [],
    "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T05:02:27.846Z"
-  },
-  {
-   "title": "Lawson disqualified from Mexico City GP Qualifying",
-   "summary": "Liam Lawson's eventful weekend at the Mexico City Grand Prix has continued with his disqualification from Saturday's Qualifying hour.",
-   "url": "https://www.formula1.com/en/latest/article/lawson-disqualified-from-mexico-city-gp-qualifying-for-technical-breach.1LIHCl2P75cYj0cGJgyZhx",
-   "date": "2026-11-01T04:57:27.846Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "lawson"
-   ],
-   "teams": [],
-   "team": "rb",
-   "category": "Regeln",
-   "firstSeen": "2026-11-01T05:02:27.846Z"
-  },
-  {
-   "title": "Antonelli ‘feeling more tense than usual’ in Mexico City",
-   "summary": "On what could potentially be a historic weekend for Kimi Antonelli, the Mercedes driver will line up in P4 for the Mexico City Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/i-didnt-do-a-good-enough-job-antonelli-admits-feeling-more-tense-than-usual-in-mexico-city-qualifying.2DHPy7wRU0Qymi79OMvZyy",
-   "date": "2026-11-01T04:56:27.846Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T05:02:27.846Z"
-  },
-  {
-   "title": "Verstappen reveals what 'killed my lap' in Mexico Qualifying",
-   "summary": "Max Verstappen believes \"we were fighting for pole\" ahead of the Mexico City Grand Prix, with the Red Bull driver ultimately set to start P5 for Sunday's race.",
-   "url": "https://www.formula1.com/en/latest/article/verstappen-reveals-what-killed-my-lap-as-he-assesses-red-bulls-mexico-city-gp-qualifying-performance.6aGB9J2CrK0d9IyF2f7b6q",
-   "date": "2026-11-01T04:55:27.846Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T05:02:27.846Z"
-  },
-  {
-   "title": "Russell details 'frustration I have' despite qualifying in P2",
-   "summary": "George Russell will start on the front row in Mexico after a close Qualifying battle with polesitter Lewis Hamilton.",
-   "url": "https://www.formula1.com/en/latest/article/russell-details-the-frustration-i-have-despite-securing-p2-qualifying-result-for-mexico-city-gp.7DMElgRPmwTePfGOfGiUu9",
-   "date": "2026-11-01T04:54:27.846Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell",
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "mercedes",
    "category": "Rennen",
    "firstSeen": "2026-11-01T05:02:27.846Z"
   }
