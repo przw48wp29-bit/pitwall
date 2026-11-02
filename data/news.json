@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-01T22:49:55.536Z",
+ "updatedAt": "2026-11-02T05:17:24.626Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,333 @@
   }
  },
  "items": [
+  {
+   "title": "All the key moments from the 2026 Mexico City Grand Prix",
+   "summary": "The Mexico City Grand Prix once again delivered a memorable weekend, culminating in Kimi Antonelli being crowned F1’s youngest World Champion.",
+   "url": "https://www.formula1.com/en/latest/article/mexico-city-lowdown-all-the-key-moments-as-antonelli-secures-maiden-title-and-verstappen-denies-ferrari-victory.3mPqECWFPlJsdg4jUOZUXz",
+   "date": "2026-11-02T05:17:24.611Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T05:17:24.611Z"
+  },
+  {
+   "title": "What the teams said – Race day in Mexico City",
+   "summary": "The drivers and teams report back on all the action at the Autodromo Hermanos Rodriguez for the 2026 Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-mexico-city-2026.5jvq4rkRMEYHkdIE7IXwxK",
+   "date": "2026-11-02T05:16:24.611Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T05:17:24.611Z"
+  },
+  {
+   "title": "'Unbelievable' – The F1 grid praise new champion Antonelli",
+   "summary": "Drivers across the Formula 1 grid gave their reactions to Kimi Antonelli becoming the youngest ever World Champion.",
+   "url": "https://www.formula1.com/en/latest/article/hes-made-everyone-else-look-silly-the-f1-grid-praise-new-world-champion-kimi-antonelli.4wWSNrdtuPYOnmQSLB78dt",
+   "date": "2026-11-02T05:15:24.611Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T05:17:24.611Z"
+  },
+  {
+   "title": "‘People were doubters’ – Wolff on Antonelli’s ‘incredible’ journey",
+   "summary": "Toto Wolff has reflected on Kimi Antonelli's journey with Mercedes after the Italian claimed his maiden Formula 1 title at the Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/people-were-doubters-wolff-assesses-antonellis-incredible-journey-to-f1-title-glory.2t6Z3Fg7owWCwnAKjb7Mzl",
+   "date": "2026-11-02T05:14:24.611Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T05:17:24.611Z"
+  },
+  {
+   "title": "'Serious talks’ – Hamilton on costly Leclerc battle",
+   "summary": "Lewis Hamilton believes Ferrari \"easily had a car to have P1 and P2\" during the Mexico City Grand Prix, as an opening lap battle with team mate Charles Leclerc potentially cost the team victory.",
+   "url": "https://www.formula1.com/en/latest/article/we-have-to-have-some-serious-talks-hamilton-reflects-on-costly-ferrari-intra-team-battle-in-mexico.20AlOSmTwJkVVJRtw70vIp",
+   "date": "2026-11-02T05:13:24.611Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T05:17:24.611Z"
+  },
+  {
+   "title": "Alpine duo stripped of Mexico City GP points after penalties",
+   "summary": "Franco Colapinto and Pierre Gasly have lost their top-10 finishes at the Mexico City Grand Prix after receiving penalties following the race.",
+   "url": "https://www.formula1.com/en/latest/article/alpines-gasly-and-colapinto-stripped-of-mexico-city-gp-points-after-post-race-penalties.2wLfobQHufuH1L1aMYPl7h",
+   "date": "2026-11-02T05:12:24.611Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "colapinto",
+    "gasly"
+   ],
+   "teams": [
+    "alpine"
+   ],
+   "team": "alpine",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T05:17:24.611Z"
+  },
+  {
+   "title": "Wer letzte Nacht am schlechtesten geschlafen hat: Frederic Vasseur",
+   "summary": "Ein wütender Hamilton und ein uneinsichtiger Leclerc: Warum das Ferrari-Drama von Mexiko für Frederic Vasseur zur echten Bewährungsprobe werden könnte",
+   "url": "https://www.formel1.de/nc/149664",
+   "date": "2026-11-02T05:11:50.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-02T05:17:24.611Z"
+  },
+  {
+   "title": "Antonelli’s dad reflects on son’s ‘important’ title triumph",
+   "summary": "Marco Antonelli has opened up about his son’s historic World Championship success at the Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/he-makes-himself-stronger-antonellis-dad-reflects-on-sons-important-title-triumph.2jMjsfdy0bakm0FChw4Qk4",
+   "date": "2026-11-02T05:11:24.611Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T05:17:24.611Z"
+  },
+  {
+   "title": "Leclerc concedes he 'deserved penalty' over Hamilton clash",
+   "summary": "Charles Leclerc picked up a five-second time penalty after passing his team mate off track during an opening lap battle for the lead.",
+   "url": "https://www.formula1.com/en/latest/article/leclerc-concedes-he-deserved-penalty-over-hamilton-clash-in-mexico-city-gp.4rYJb2xww8myo1gtgBV5pV",
+   "date": "2026-11-02T05:10:24.611Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "leclerc",
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Regeln",
+   "firstSeen": "2026-11-02T05:17:24.611Z"
+  },
+  {
+   "title": "Piastri receives post-race penalty at Mexico City GP",
+   "summary": "Oscar Piastri has lost his points from the Mexico City Grand Prix after he was deemed to be at fault in a collision with Racing Bulls' Arvid Lindblad.",
+   "url": "https://www.formula1.com/en/latest/article/piastri-loses-p7-after-being-handed-post-race-penalty-at-mexico-city-gp.5dk3wHeak2yu7xWF0OhsRt",
+   "date": "2026-11-02T05:09:24.611Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "piastri",
+    "arvid_lindblad"
+   ],
+   "teams": [
+    "rb"
+   ],
+   "team": "mclaren",
+   "category": "Regeln",
+   "firstSeen": "2026-11-02T05:17:24.611Z"
+  },
+  {
+   "title": "Verstappen on the move that earned him ‘fantastic’ Mexico win",
+   "summary": "Max Verstappen took advantage of an early tussle between Ferrari's Lewis Hamilton and Charles Leclerc to clinch victory at the Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/verstappen-on-the-opportunistic-move-that-earned-him-fantastic-win-at-mexico-city-gp.5C4UF8HgiJdAGfZeXRBbpB",
+   "date": "2026-11-02T05:08:24.611Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen",
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T05:17:24.611Z"
+  },
+  {
+   "title": "Nach dem Rennen: Zehn-Sekunden-Zeitstrafe gegen Oscar Piastri verhängt",
+   "summary": "Nach dem Grossen Preis von Mexiko wurde Oscar Piastri für eine Kollision mit Arvid Lindblad bestraft und fliegt somit aus den Punkten",
+   "url": "https://www.formel1.de/nc/149663",
+   "date": "2026-11-02T02:42:35.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "piastri",
+    "arvid_lindblad"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T05:17:24.611Z"
+  },
+  {
+   "title": "Kimi Antonelli gibt zu: Russell hatte 2026 mehr Pech als ich",
+   "summary": "Kimi Antonelli erkennt nach seinem WM-Triumph an, dass George Russell 2026 mehr Pech hatte, und erwartet einen starken Konkurrenten 2027",
+   "url": "https://www.formel1.de/nc/149662",
+   "date": "2026-11-02T02:23:29.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli",
+    "russell"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-02T05:17:24.611Z"
+  },
+  {
+   "title": "Formel-1-Strafpunkte 2026: Die aktuelle Übersicht der Strafen",
+   "summary": "In unserer Übersicht der Formel-1-Strafpunkte zeigen wir dir den aktuellen Stand und wer eine Weisse Weste hat oder kurz vor einer Rennsperre steht",
+   "url": "https://www.formel1.de/nc/146577",
+   "date": "2026-11-02T02:07:59.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-11-02T05:17:24.611Z"
+  },
+  {
+   "title": "Frederic Vasseur: Das sagt er nach dem Ferrari-Zoff in Mexiko",
+   "summary": "Nach dem Grossen Preis von Mexiko lässt sich Ferrari-Teamchef zum Duell seiner beiden Fahrer in der ersten Runde noch nicht in die Karten blicken",
+   "url": "https://www.formel1.de/nc/149661",
+   "date": "2026-11-02T01:59:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-02T05:17:24.611Z"
+  },
+  {
+   "title": "Ferrari-Zoff in Mexiko: Hamilton verlangt \"ernsthafte Gespräche\"",
+   "summary": "Lewis Hamilton wirft Ferrari nach dem Mexiko-GP Gesprächsbedarf vor: Der Brite glaubt, dass Charles Leclercs Manöver den möglichen Sieg kostete",
+   "url": "https://www.formel1.de/nc/149659",
+   "date": "2026-11-02T01:15:09.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T05:17:24.611Z"
+  },
+  {
+   "title": "Kimi Antonelli: Vor lauter Tränen in der letzten Runde fast die Kontrolle verloren",
+   "summary": "Kurz vor Rennende beim Grand Prix von Mexiko hätte Kimi Antonelli auf dem Weg zur Weltmeisterschaft seinen Silberpfeil vor Tränen von der Strecke geworfen",
+   "url": "https://www.formel1.de/nc/149660",
+   "date": "2026-11-02T01:13:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T05:17:24.611Z"
+  },
+  {
+   "title": "Krimi in Mexiko: Verstappen gewinnt, Hamilton tobt, Antonelli Weltmeister!",
+   "summary": "Bei Ferrari fliegen in Mexiko die Fetzen: Lewis Hamilton ist ausser sich und kündigt ernste Gespräche an, während Max Verstappen den Grand Prix gewinnt",
+   "url": "https://www.formel1.de/nc/149658",
+   "date": "2026-11-01T23:25:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "hamilton",
+    "antonelli"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-11-01T22:49:55.521Z"
+  },
+  {
+   "title": "Die Qualifying-, Sprint- und Rennduelle der Formel-1-Saison 2026",
+   "summary": "Der aktuelle Zwischenstand bei den Qualifying- und Rennduellen der Teamkollegen in der Formel-1-Saison 2026",
+   "url": "https://www.formel1.de/nc/146557",
+   "date": "2026-11-01T23:18:53.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-10-31T22:49:54.442Z"
+  },
   {
    "title": "Antonelli crowned champion in Mexico as Verstappen wins race",
    "summary": "Kimi Antonelli became the youngest Formula 1 World Champion as third place in the Mexico City Grand Prix was enough for the Mercedes driver to claim the 2026 crown, with Max Verstappen taking race victory from Lewis Hamilton.",
@@ -26,26 +353,6 @@
     "mercedes"
    ],
    "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T22:49:55.521Z"
-  },
-  {
-   "title": "Krimi in Mexiko: Verstappen gewinnt, Hamilton tobt, Antonelli Weltmeister!",
-   "summary": "Bei Ferrari fliegen in Mexiko die Fetzen: Lewis Hamilton ist ausser sich und kündigt ernste Gespräche an, während Max Verstappen den Grand Prix gewinnt",
-   "url": "https://www.formel1.de/nc/149658",
-   "date": "2026-11-01T22:31:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "hamilton",
-    "antonelli"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "red_bull",
    "category": "Rennen",
    "firstSeen": "2026-11-01T22:49:55.521Z"
   },
@@ -701,314 +1008,6 @@
    "team": "mercedes",
    "category": "Rennen",
    "firstSeen": "2026-11-01T05:02:27.846Z"
-  },
-  {
-   "title": "Hamilton reacts to ‘special’ maiden pole with Ferrari",
-   "summary": "Lewis Hamilton claimed his first pole position since 2023 during Qualifying at the Mexico City Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/wow-hamilton-reacts-to-special-maiden-pole-with-ferrari-at-mexico-city-gp.1S7nqyX2uIPgZomeRkneq4",
-   "date": "2026-11-01T04:53:27.846Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T05:02:27.846Z"
-  },
-  {
-   "title": "Gabriel Bortoleto dachte nach Q1: \"Fuck, ich fahre hier auf Pole!\"",
-   "summary": "Gabriel Bortoleto fehlten in Mexiko wichtige Trainingsrunden. Seine Q1-Zeit überraschte ihn selbst, doch in Q2 wurde die fehlende Vorbereitung spürbar",
-   "url": "https://www.formel1.de/nc/149638",
-   "date": "2026-11-01T02:56:24.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bortoleto"
-   ],
-   "teams": [],
-   "team": "audi",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T05:02:27.846Z"
-  },
-  {
-   "title": "Sekt oder Selters: Russell spricht nach P2 im Qualifying über schwankende Pace",
-   "summary": "Nach seinem zweiten Platz im Qualifying von Mexiko spricht George Russell erneut über die grossen Performanceschwankungen, die seine Saison weiterhin plagen",
-   "url": "https://www.formel1.de/nc/149637",
-   "date": "2026-11-01T02:53:29.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T05:02:27.846Z"
-  },
-  {
-   "title": "Qualifying in Mexiko: Hadjar kann nicht glauben, \"wie schnell das Auto ist\"",
-   "summary": "Nach Platz 7 im Qualifying kann Isack Hadjar sich nicht erklären, wieso sein Red Bull trotz grosser Balanceprobleme eigentlich so schnell ist",
-   "url": "https://www.formel1.de/nc/149636",
-   "date": "2026-11-01T01:51:34.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hadjar"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T05:02:27.846Z"
-  },
-  {
-   "title": "\"War auf Polekurs\": Verstappen hadert mit Norris im Mexiko-Qualifying",
-   "summary": "Max Verstappen sah sich in Mexiko auf Polekurs, doch Verkehr und ein blockiertes Rad kosteten ihn entscheidende Zeit - Dazu kommt eine Strafe",
-   "url": "https://www.formel1.de/nc/149635",
-   "date": "2026-11-01T01:28:06.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "norris"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Regeln",
-   "firstSeen": "2026-11-01T05:02:27.846Z"
-  },
-  {
-   "title": "Leclerc trauert Mexiko-Pole nach: \"Kann nur auf mich selbst wütend sein\"",
-   "summary": "Nach dem Qualifying zum Grossen Preis von Mexiko erklärt Charles Leclerc, wieso er die Poleposition trotz vielversprechender Form nicht einfahren konnte",
-   "url": "https://www.formel1.de/nc/149634",
-   "date": "2026-11-01T00:58:45.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T05:02:27.846Z"
-  },
-  {
-   "title": "Kimi Antonelli P4 im Mexiko-Grid: \"Werde mich mit Melatonin vollpumpen\"",
-   "summary": "Kimi Antonelli räumt ein, dass er beim Qualifying in Mexiko - am Tag vor der möglichen WM-Entscheidung 2026 - nicht optimal performt hat",
-   "url": "https://www.formel1.de/nc/149633",
-   "date": "2026-11-01T00:11:14.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T05:02:27.846Z"
-  },
-  {
-   "title": "Hamilton schreibt Ferrari-Geschichte: \"Diese Liebe ist nicht verschwunden\"",
-   "summary": "Lewis Hamilton holt in Mexiko seine erste Ferrari-Pole, wird fünftältester Pole-Setter der Geschichte und spricht über seine ungebrochene Leidenschaft",
-   "url": "https://www.formel1.de/nc/149632",
-   "date": "2026-11-01T00:09:10.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T05:02:27.846Z"
-  },
-  {
-   "title": "Neun Tausendstel: Lewis Hamilton entscheidet den Mexiko-Krimi für sich!",
-   "summary": "Erst führt Leclerc, dann schlägt Russell zu, und schliesslich jubelt Hamilton über die Pole in Mexiko -während Verstappen nach seiner letzten Runde mit Norris hadert …",
-   "url": "https://www.formel1.de/nc/149630",
-   "date": "2026-10-31T23:13:49.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "leclerc",
-    "russell",
-    "max_verstappen",
-    "norris"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-31T22:49:54.442Z"
-  },
-  {
-   "title": "Nach Haas-Suspendierung: Esteban Ocon wehrt sich gegen Gewaltgerüchte",
-   "summary": "Nach seinem Ausschluss in Mexiko äussert sich Esteban Ocon zum Streit bei Haas: Einen Vorwurf weist er entschieden zurück, seine Zukunft bleibt offen",
-   "url": "https://www.formel1.de/nc/149631",
-   "date": "2026-10-31T23:10:13.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "ocon"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "News",
-   "firstSeen": "2026-11-01T05:02:27.846Z"
-  },
-  {
-   "title": "Hamilton clinches first pole with Ferrari at Mexico City GP",
-   "summary": "Lewis Hamilton has ended a three-year pole position drought in Qualifying at the Mexico City Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/hamilton-clinches-first-pole-with-ferrari-in-qualifying-at-the-mexico-city-gp.4GffzFhlnOxOjbHHMc0AJI",
-   "date": "2026-10-31T22:49:54.442Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-31T22:49:54.442Z"
-  },
-  {
-   "title": "Die Qualifying-, Sprint- und Rennduelle der Formel-1-Saison 2026",
-   "summary": "Der aktuelle Zwischenstand bei den Qualifying- und Rennduellen der Teamkollegen in der Formel-1-Saison 2026",
-   "url": "https://www.formel1.de/nc/146557",
-   "date": "2026-10-31T22:43:40.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-31T22:49:54.442Z"
-  },
-  {
-   "title": "LIVE COVERAGE: Hamilton claims scintillating pole in Mexico City",
-   "summary": "Live coverage of the Formula 1 Qualifying session for the 2026 Mexico City Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-mexico-city-2026.7rsM0FXrllMkwPI44GSR58",
-   "date": "2026-10-31T20:50:34.057Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-10-31T20:50:34.057Z"
-  },
-  {
-   "title": "Nach Fan-Rempler: Isack Hadjar kommt mit Verwarnung davon!",
-   "summary": "Isack Hadjar kommt bei einem Fan-Schubser mit einer Verwarnung davon: Alexander Wurz versteht die Bedrängnis, kritisiert aber den körperlichen Umgang",
-   "url": "https://www.formel1.de/nc/149629",
-   "date": "2026-10-31T19:21:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hadjar"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Regeln",
-   "firstSeen": "2026-10-31T20:50:34.057Z"
-  },
-  {
-   "title": "Norris pips Antonelli to top spot in Mexico City FP3",
-   "summary": "Lando Norris finished fastest in Free Practice 3 ahead of the Mexico City Grand Prix, the McLaren driver just beating Kimi Antonelli and Charles Leclerc to the top spot.",
-   "url": "https://www.formula1.com/en/latest/article/fp3-norris-pips-antonelli-and-leclerc-to-top-spot-in-final-practice-for-mexico-city-gp.1s5lDqpwmCBl5aqSGq4Ffn",
-   "date": "2026-10-31T18:59:16.416Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris",
-    "antonelli",
-    "leclerc"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-31T18:59:16.416Z"
-  },
-  {
-   "title": "AS IT HAPPENED: FP3 for the Mexico City Grand Prix",
-   "summary": "Live coverage of the third Formula 1 practice session for the 2026 Mexico City Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-mexico-city-2026.3Ud38VpRJjlYJc5Gae4PGd",
-   "date": "2026-10-31T18:58:16.416Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-31T18:59:16.416Z"
-  },
-  {
-   "title": "Norris hauchdünn vorn: Drei Teams machen Hoffnung auf Qualifying-Krimi",
-   "summary": "Ferrari und Red Bull haben am Samstag zu kämpfen, während der amtierende und der angehende Weltmeister die Plätze 1 und 2 unter sich ausmachen",
-   "url": "https://www.formel1.de/nc/149628",
-   "date": "2026-10-31T18:41:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "red_bull",
-    "ferrari"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-10-31T18:59:16.416Z"
-  },
-  {
-   "title": "Hirakawa to replace Ocon at Haas for Mexico City Grand Prix",
-   "summary": "Haas have announced Ryo Hirakawa will replace Esteban Ocon for the remainder of the Grand Prix weekend in Mexico City.",
-   "url": "https://www.formula1.com/en/latest/article/hirakawa-to-replace-ocon-at-haas-for-remainder-of-mexico-city-grand-prix-weekend.2cl5jN0g3rZ2pIYQvc00xM",
-   "date": "2026-10-31T16:51:30.107Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "ocon"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Rennen",
-   "firstSeen": "2026-10-31T16:51:30.107Z"
   }
  ]
 }
