@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T07:43:04.625Z",
+ "updatedAt": "2026-11-02T09:22:22.360Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,56 @@
   }
  },
  "items": [
+  {
+   "title": "Keine Interviews: Darum wurde George Russell von der FIA bestraft",
+   "summary": "George Russell erlebt in Mexiko einen bitteren Abend und kassiert eine FIA-Strafe: Wie Toto Wolff Verständnis darauf reagierte und was Nico Rosberg dazu sagte",
+   "url": "https://www.formel1.de/nc/149672",
+   "date": "2026-11-02T08:46:25.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Regeln",
+   "firstSeen": "2026-11-02T09:22:22.337Z"
+  },
+  {
+   "title": "Ein Lied für seinen Opa: Warum Antonelli plötzlich nicht mehr sprechen konnte",
+   "summary": "Erst weint Kimi Antonelli im Cockpit, dann vor versammelter Presse: Warum ausgerechnet das Lied \"Nessun dorma\" den neuen Weltmeister so sehr bewegt",
+   "url": "https://www.formel1.de/nc/149671",
+   "date": "2026-11-02T08:22:18.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Transfer",
+   "firstSeen": "2026-11-02T09:22:22.337Z"
+  },
+  {
+   "title": "Antonelli nach WM-Triumph: Was hinter den Kulissen bei Mercedes wirklich los war",
+   "summary": "Auf dem Weg zum ersten Formel-1-WM-Titel hatte Kimi Antonelli mit einem ungewöhnlichen Problem zu kämpfen: Toto Wolff und sein Vater halfen ihm",
+   "url": "https://www.formel1.de/nc/149669",
+   "date": "2026-11-02T07:45:18.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-02T09:22:22.337Z"
+  },
   {
    "title": "Darum verzichtet Kimi Antonelli 2027 auf die Startnummer 1 des Weltmeisters",
    "summary": "Kimi Antonelli hat sich vorzeitig den WM-Titel 2026 gesichert: Warum der Italiener in der kommenden Saison aber auf die Startnummer 1 an seinem Mercedes verzichtet",
@@ -952,59 +1002,6 @@
    "drivers": [],
    "teams": [],
    "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T05:02:27.846Z"
-  },
-  {
-   "title": "Vasseur on Hamilton’s ‘fantastic job’ in Mexico Qualifying",
-   "summary": "Ferrari Team Principal Fred Vasseur has praised Lewis Hamilton for his Qualifying performance in Mexico City.",
-   "url": "https://www.formula1.com/en/latest/article/vasseur-sets-out-ferraris-approach-to-mexico-city-gp-after-hamiltons-fantastic-job-in-qualifying.aeOT8LBw7vwfZXACZuZNh",
-   "date": "2026-11-01T05:00:27.846Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T05:02:27.846Z"
-  },
-  {
-   "title": "Norris admits McLaren are ‘too slow’ after Mexico Qualifying",
-   "summary": "Lando Norris was left sixth on the grid for the Mexico City Grand Prix after being unable to repeat the lap that had taken him to the top of Q2.",
-   "url": "https://www.formula1.com/en/latest/article/norris-admits-mclaren-are-too-slow-after-he-was-unable-to-repeat-magical-q2-lap.27eAOnAt6RViOkqFEitAft",
-   "date": "2026-11-01T04:59:27.846Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T05:02:27.846Z"
-  },
-  {
-   "title": "Leclerc 'angry with myself' after Mexico Qualifying",
-   "summary": "Charles Leclerc will start the Mexico Grand Prix in P3 while Lewis Hamilton claimed a first pole since 2023.",
-   "url": "https://www.formula1.com/en/latest/article/leclerc-angry-with-myself-after-losing-out-to-ferrari-team-mate-hamilton-in-mexico-city-qualifying.6C1Gik6c58NfUOcaLpJTeM",
-   "date": "2026-11-01T04:58:27.846Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "leclerc",
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-11-01T05:02:27.846Z"
   }
