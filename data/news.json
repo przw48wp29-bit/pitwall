@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T19:12:27.977Z",
+ "updatedAt": "2026-11-02T20:57:21.248Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,39 @@
   }
  },
  "items": [
+  {
+   "title": "Antonelli makes history as Verstappen eyes 2027 glory",
+   "summary": "Antonelli may have become F1’s youngest-ever World Champion in Mexico, but the betting markets are already predicting something different for 2027.",
+   "url": "https://www.formula1.com/en/latest/article/max-verstappen-named-early-favourite-for-2027-title-despite-kimi-antonellis-record-breaking-season.2f4lCLl3YobQIzZd6CEiCu",
+   "date": "2026-11-02T20:57:21.110Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli",
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-02T20:57:21.110Z"
+  },
+  {
+   "title": "5 betting lessons from Antonelli's Mexico title win",
+   "summary": "The 20-year-old is now the youngest-ever World Champion in F1 history.",
+   "url": "https://www.formula1.com/en/latest/article/5-betting-lessons-after-kimi-antonelli-secures-his-first-world-championship-title-in-mexico.52HXp4dLOvtTso5l9xUYhF",
+   "date": "2026-11-02T20:56:21.110Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T20:57:21.110Z"
+  },
   {
    "title": "Antonelli reveals race number he will use to defend title in 2027",
    "summary": "Kimi Antonelli has revealed what race number he will use to defend his Formula 1 drivers' title in 2027, having become World Champion last weekend in the Mexico City Grand Prix.",
@@ -978,34 +1011,6 @@
    "summary": "Our expert betting writers bring you their final predictions and latest odds before the Mexico City Grand Prix.",
    "url": "https://www.formula1.com/en/latest/article/our-final-mexico-city-grand-prix-betting-predictions-before-lights-out.62oXD14Ima1vLzXLErdqI6",
    "date": "2026-11-01T13:07:36.080Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T13:07:36.080Z"
-  },
-  {
-   "title": "What are the tyre strategy options for the Mexico City GP?",
-   "summary": "Matt Youson takes a look at the different pit stop and tyre options that are available to the teams on race day at the Autodromo Hermanos Rodriguez.",
-   "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-mexico-city-gp.22mzBSWEviowqhyGTbfhY",
-   "date": "2026-11-01T13:06:36.080Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T13:07:36.080Z"
-  },
-  {
-   "title": "How F1 drivers and teams have embraced Dia de Muertos",
-   "summary": "With the 2026 Mexico City Grand Prix taking place on Dia de Muertos, discover the traditions behind the special helmets, paddock celebrations and driver activities.",
-   "url": "https://www.formula1.com/en/latest/article/helmets-marigolds-and-mexican-traditions-how-dia-de-muertos-has-made-its-mark-on-f1.71mk7snidhiXd5QlQqQqsN",
-   "date": "2026-11-01T13:05:36.080Z",
    "source": "Formula1.com",
    "sourceId": "f1com",
    "lang": "en",
