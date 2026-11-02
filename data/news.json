@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T13:27:30.302Z",
+ "updatedAt": "2026-11-02T15:09:38.101Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,40 @@
   }
  },
  "items": [
+  {
+   "title": "Bonnington names Antonelli’s top three races in title year",
+   "summary": "Kimi Antonelli’s race engineer Pete Bonnington has shared his highlights from the Italian’s title-winning season.",
+   "url": "https://www.formula1.com/en/latest/article/bonnington-names-antonellis-best-three-races-in-amazing-journey-to-maiden-title.2SMeeXEzL6g3KIb2zUN8AI",
+   "date": "2026-11-02T15:09:38.084Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T15:09:38.084Z"
+  },
+  {
+   "title": "Haas-Suspendierung: Warum die Zeit von Esteban Ocon endgültig abgelaufen ist",
+   "summary": "Zehn Jahre Formel 1, zahlreiche hitzige Teamduelle und nun der Eklat in Mexiko: Warum Esteban Ocon vor dem endgültigen Karriereende stehen könnte",
+   "url": "https://www.formel1.de/nc/149678",
+   "date": "2026-11-02T14:00:48.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "ocon"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "News",
+   "firstSeen": "2026-11-02T15:09:38.084Z"
+  },
   {
    "title": "The records Antonelli has broken on his way to maiden title",
    "summary": "It has been a season of breaking records for Kimi Antonelli, who has rewritten several chapters of the F1 history books en route to his first World Championship.",
@@ -983,43 +1017,6 @@
    "teams": [],
    "team": "red_bull",
    "category": "News",
-   "firstSeen": "2026-11-01T13:07:36.080Z"
-  },
-  {
-   "title": "Nach Quali-Problem: Frustration ist für Alonso \"kaum in Worte zu fassen\"",
-   "summary": "Fernando Alonso muss seinen Aston Martin im Mexiko-Qualifying abstellen und sorgt dann mit einer rätselhaften Aussage für Spekulationen über seinen Start am Sonntag",
-   "url": "https://www.formel1.de/nc/149646",
-   "date": "2026-11-01T12:13:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "alonso"
-   ],
-   "teams": [
-    "aston_martin"
-   ],
-   "team": "aston_martin",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T13:07:36.080Z"
-  },
-  {
-   "title": "Oscar Piastri erlebt Qualifying-Desaster in Mexiko: Teamchef findet deutliche Worte",
-   "summary": "McLaren erlebt in Mexiko ein kleines Qualifying-Debakel: Oscar Piastri und Lando Norris schimpfen über das Auto, Teamchef Andrea Stella übt Kritik an seinen Fahrern",
-   "url": "https://www.formel1.de/nc/149645",
-   "date": "2026-11-01T11:02:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "piastri",
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
    "firstSeen": "2026-11-01T13:07:36.080Z"
   }
  ]
