@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T15:09:38.101Z",
+ "updatedAt": "2026-11-02T17:16:13.350Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,52 @@
   }
  },
  "items": [
+  {
+   "title": "Hirakawa assesses 'dream' F1 debut in Mexico City",
+   "summary": "Ryo Hirakawa admits that making his Formula 1 debut \"was my dream\" after the Japanese driver finished the Mexico City Grand Prix last weekend, eventually being promoted into the points.",
+   "url": "https://www.formula1.com/en/latest/article/today-was-my-dream-hirakawa-really-happy-with-f1-debut-in-mexico-city.2JU1Knkff6nSnfmyb6cCId",
+   "date": "2026-11-02T17:16:13.221Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "ryo_hirakawa"
+   ],
+   "teams": [],
+   "team": "haas",
+   "category": "Rennen",
+   "firstSeen": "2026-11-02T17:16:13.221Z"
+  },
+  {
+   "title": "5 Winners and 5 Losers from Mexico City",
+   "summary": "Lawrence Barretto selects his winners and losers at the Autodromo Hermanos Rodriguez.",
+   "url": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-mexico-city.2bWgqftvDBHiqIs0dXUL3F",
+   "date": "2026-11-02T17:15:13.221Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-02T17:16:13.221Z"
+  },
+  {
+   "title": "Antonelli's incredible journey to his maiden F1 title",
+   "summary": "F1.com charts the journey of Kimi Antonelli's triumphant World Championship-winning season.",
+   "url": "https://www.formula1.com/en/latest/article/from-surviving-setbacks-to-making-history-antonellis-incredible-journey-to-his-maiden-f1-title.7as9Pn0nJF9dFsCv2F6Uis",
+   "date": "2026-11-02T17:14:13.221Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-02T17:16:13.221Z"
+  },
   {
    "title": "Bonnington names Antonelli’s top three races in title year",
    "summary": "Kimi Antonelli’s race engineer Pete Bonnington has shared his highlights from the Italian’s title-winning season.",
@@ -77,7 +123,7 @@
    "firstSeen": "2026-11-02T13:27:30.290Z"
   },
   {
-   "title": "Fahrernoten Mexiko: Podestplatz für Audi-Fahrer Gabriel Bortoleto",
+   "title": "Fahrernoten Mexiko: Gabriel Bortoleto glänzt, Oscar Piastri floppt",
    "summary": "Rennsieger Max Verstappen, Weltmeister Kimi Antonelli und Audi-Fahrer Gabriel Bortoleto teilen sich das Podium der Leserwertung für Mexiko-Stadt 2026",
    "url": "https://www.formel1.de/nc/149677",
    "date": "2026-11-02T12:23:56.000Z",
@@ -86,6 +132,7 @@
    "lang": "de",
    "drivers": [
     "bortoleto",
+    "piastri",
     "max_verstappen",
     "antonelli"
    ],
@@ -968,55 +1015,6 @@
    ],
    "team": "aston_martin",
    "category": "Technik",
-   "firstSeen": "2026-11-01T13:07:36.080Z"
-  },
-  {
-   "title": "Our Mexico City GP Bet Builder selections made",
-   "summary": "We have picked a four-leg Bet Builder for Mexico City, including podium and points-finish selections.",
-   "url": "https://www.formula1.com/en/latest/article/our-mexico-city-grand-prix-bet-builder-selections-made-after-lewis-hamilton-seals-first-ferrari-pole.eaHqG16QfwDZBu9wM8Kiu",
-   "date": "2026-11-01T13:02:36.080Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T13:07:36.080Z"
-  },
-  {
-   "title": "Who is F1’s latest debutant Ryo Hirakawa?",
-   "summary": "F1.com looks at Ryo Hirakawa's trajectory to his maiden Formula 1 race with Haas at the Mexico City Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/who-is-ryo-hirakawa-everything-to-know-about-f1s-latest-debutant-for-haas.mynwoTwej1Oueu2NpAU3k",
-   "date": "2026-11-01T13:01:36.080Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "ryo_hirakawa"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T13:07:36.080Z"
-  },
-  {
-   "title": "Max Verstappen schweigt zu Lawsons Zukunft: \"Das muss ich nicht sagen\"",
-   "summary": "Max Verstappen und Liam Lawson haben ihren Streit nach der Kollision in Mexiko beigelegt, doch bei der Cockpitfrage für 2027 hält sich der Weltmeister bedeckt",
-   "url": "https://www.formel1.de/nc/149647",
-   "date": "2026-11-01T12:45:08.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "lawson"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
    "firstSeen": "2026-11-01T13:07:36.080Z"
   }
  ]
