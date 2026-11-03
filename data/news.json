@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T17:13:08.607Z",
+ "updatedAt": "2026-11-03T19:11:28.583Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,38 @@
   }
  },
  "items": [
+  {
+   "title": "The inside story of Lewis Hamilton’s first F1 test",
+   "summary": "As Lewis Hamilton gears up for this Sunday's Sao Paulo Grand Prix, he will be preparing to make his 400th Grand Prix start in Formula. To mark the milestone, F1.com revisits his first F1 test with McLaren as fellow Briton Alex Lloyd, who he tested alongside that day, recalls his first-hand account of the outing which k",
+   "url": "https://www.formula1.com/en/latest/article/20-years-on-the-inside-story-of-lewis-hamiltons-first-f1-test-with-mclaren.52SbO6oNunu7mGcpWMV8U1",
+   "date": "2026-11-03T19:11:28.568Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-03T19:11:28.568Z"
+  },
+  {
+   "title": "The incredible F1 legends' cars that sold at auction",
+   "summary": "After Ayrton Senna's Honda NSX was sold at auction, we look at some of the remarkable road cars with links to Formula 1 legends that have gone under the hammer.",
+   "url": "https://www.formula1.com/en/latest/article/f1-legends-cars-that-sold-at-auction-after-sennas-honda-sells-for-over-1m.5IOJyw63yjGPZ0sHACG9AP",
+   "date": "2026-11-03T19:10:28.568Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-03T19:11:28.568Z"
+  },
   {
    "title": "What time is the 2026 Sao Paulo GP and how can I watch it?",
    "summary": "Here are all the timings – along with all the additional information you need – for the 20th Grand Prix weekend of the 2026 season from Brazil.",
@@ -24,7 +56,7 @@
    "firstSeen": "2026-11-03T17:13:08.590Z"
   },
   {
-   "title": "'The moments that impressed me most in Antonelli’s title year'",
+   "title": "PALMER: What impressed me most in Antonelli’s title year",
    "summary": "F1 TV analyst and former Renault F1 driver Jolyon Palmer dissects Kimi Antonelli's record-breaking championship campaign.",
    "url": "https://www.formula1.com/en/latest/article/the-key-moments-that-impressed-me-most-in-antonellis-title-campaign.37DKCZ2ntXn8PNuOtMFv8q",
    "date": "2026-11-03T17:12:08.590Z",
@@ -985,37 +1017,6 @@
    "teams": [],
    "team": "mclaren",
    "category": "Rennen",
-   "firstSeen": "2026-11-02T05:17:24.611Z"
-  },
-  {
-   "title": "Kimi Antonelli gibt zu: Russell hatte 2026 mehr Pech als ich",
-   "summary": "Kimi Antonelli erkennt nach seinem WM-Triumph an, dass George Russell 2026 mehr Pech hatte, und erwartet einen starken Konkurrenten 2027",
-   "url": "https://www.formel1.de/nc/149662",
-   "date": "2026-11-02T02:23:29.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "russell"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-02T05:17:24.611Z"
-  },
-  {
-   "title": "Formel-1-Strafpunkte 2026: Die aktuelle Übersicht der Strafen",
-   "summary": "In unserer Übersicht der Formel-1-Strafpunkte zeigen wir dir den aktuellen Stand und wer eine Weisse Weste hat oder kurz vor einer Rennsperre steht",
-   "url": "https://www.formel1.de/nc/146577",
-   "date": "2026-11-02T02:07:59.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
    "firstSeen": "2026-11-02T05:17:24.611Z"
   }
  ]
