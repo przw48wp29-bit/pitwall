@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T19:11:28.583Z",
+ "updatedAt": "2026-11-03T21:00:17.799Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Camara to make F1 debut for Haas in Sao Paulo",
+   "summary": "Rafael Camara’s F1 debut with Haas has been brought forward to the Sao Paulo Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/f2-racer-camara-to-make-f1-debut-at-sao-paulo-grand-prix-as-haas-confirm-ocon-will-not-return.12Qa0tpaMZ9kgnEuGJBKFp",
+   "date": "2026-11-03T21:00:17.784Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Rennen",
+   "firstSeen": "2026-11-03T21:00:17.784Z"
+  },
   {
    "title": "The inside story of Lewis Hamilton’s first F1 test",
    "summary": "As Lewis Hamilton gears up for this Sunday's Sao Paulo Grand Prix, he will be preparing to make his 400th Grand Prix start in Formula. To mark the milestone, F1.com revisits his first F1 test with McLaren as fellow Briton Alex Lloyd, who he tested alongside that day, recalls his first-hand account of the outing which k",
@@ -999,23 +1015,6 @@
     "ferrari"
    ],
    "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-02T05:17:24.611Z"
-  },
-  {
-   "title": "Nach dem Rennen: Zehn-Sekunden-Zeitstrafe gegen Oscar Piastri verhängt",
-   "summary": "Nach dem Grossen Preis von Mexiko wurde Oscar Piastri für eine Kollision mit Arvid Lindblad bestraft und fliegt somit aus den Punkten",
-   "url": "https://www.formel1.de/nc/149663",
-   "date": "2026-11-02T02:42:35.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "piastri",
-    "arvid_lindblad"
-   ],
-   "teams": [],
-   "team": "mclaren",
    "category": "Rennen",
    "firstSeen": "2026-11-02T05:17:24.611Z"
   }
