@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T15:04:22.199Z",
+ "updatedAt": "2026-11-03T17:13:08.607Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,86 @@
   }
  },
  "items": [
+  {
+   "title": "What time is the 2026 Sao Paulo GP and how can I watch it?",
+   "summary": "Here are all the timings – along with all the additional information you need – for the 20th Grand Prix weekend of the 2026 season from Brazil.",
+   "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-sao-paulo-grand-prix-and-how-can-i-watch-it.6hpbTPt6gucIHBH8QztPjb",
+   "date": "2026-11-03T17:13:08.590Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-03T17:13:08.590Z"
+  },
+  {
+   "title": "'The moments that impressed me most in Antonelli’s title year'",
+   "summary": "F1 TV analyst and former Renault F1 driver Jolyon Palmer dissects Kimi Antonelli's record-breaking championship campaign.",
+   "url": "https://www.formula1.com/en/latest/article/the-key-moments-that-impressed-me-most-in-antonellis-title-campaign.37DKCZ2ntXn8PNuOtMFv8q",
+   "date": "2026-11-03T17:12:08.590Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Business",
+   "firstSeen": "2026-11-03T17:13:08.590Z"
+  },
+  {
+   "title": "Who impressed our Power Rankings judges in Mexico City?",
+   "summary": "Find out who featured at the top of the Power Rankings table after the Mexico City Grand Prix weekend.",
+   "url": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-mexico-city-grand-prix.2qjwPGUEuzu27Gnq24ggBU",
+   "date": "2026-11-03T17:11:08.590Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-03T17:13:08.590Z"
+  },
+  {
+   "title": "Lindblad offers verdict on Piastri collision in Mexico",
+   "summary": "Arvid Lindblad has stated he and Oscar Piastri \"were in a genuine fight\" in the closing stages of the Mexico City Grand Prix, with the Racing Bulls driver ultimately crashing out of the race after a collision.",
+   "url": "https://www.formula1.com/en/latest/article/we-were-in-a-genuine-fight-lindblad-offers-verdict-on-piastri-collision-in-mexico-city-grand-prix.30FzCcOAR3jR8jti3SjN2e",
+   "date": "2026-11-03T17:10:08.590Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "arvid_lindblad",
+    "piastri"
+   ],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "Regeln",
+   "firstSeen": "2026-11-03T17:13:08.590Z"
+  },
+  {
+   "title": "\"Überholverbot\" in Mexiko: Lewis Hamilton fordert FIA zum Handeln auf",
+   "summary": "Lewis Hamilton spricht von der schlechtesten Motorprofileinstellung der Formel-1-Geschichte, auch Lando Norris fordert nach Mexiko Konsequenzen",
+   "url": "https://www.formel1.de/nc/149690",
+   "date": "2026-11-03T16:25:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton",
+    "norris"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Regeln",
+   "firstSeen": "2026-11-03T17:13:08.590Z"
+  },
   {
    "title": "F1’s youngest World Champions as Antonelli smashes record",
    "summary": "Aged just 20, Kimi Antonelli has joined an exclusive club of F1 World Champions by clinching the 2026 world title.",
@@ -937,92 +1017,6 @@
    "team": null,
    "category": "Regeln",
    "firstSeen": "2026-11-02T05:17:24.611Z"
-  },
-  {
-   "title": "Frederic Vasseur: Das sagt er nach dem Ferrari-Zoff in Mexiko",
-   "summary": "Nach dem Grossen Preis von Mexiko lässt sich Ferrari-Teamchef zum Duell seiner beiden Fahrer in der ersten Runde noch nicht in die Karten blicken",
-   "url": "https://www.formel1.de/nc/149661",
-   "date": "2026-11-02T01:59:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-02T05:17:24.611Z"
-  },
-  {
-   "title": "Ferrari-Zoff in Mexiko: Hamilton verlangt \"ernsthafte Gespräche\"",
-   "summary": "Lewis Hamilton wirft Ferrari nach dem Mexiko-GP Gesprächsbedarf vor: Der Brite glaubt, dass Charles Leclercs Manöver den möglichen Sieg kostete",
-   "url": "https://www.formel1.de/nc/149659",
-   "date": "2026-11-02T01:15:09.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-02T05:17:24.611Z"
-  },
-  {
-   "title": "Kimi Antonelli: Vor lauter Tränen in der letzten Runde fast die Kontrolle verloren",
-   "summary": "Kurz vor Rennende beim Grand Prix von Mexiko hätte Kimi Antonelli auf dem Weg zur Weltmeisterschaft seinen Silberpfeil vor Tränen von der Strecke geworfen",
-   "url": "https://www.formel1.de/nc/149660",
-   "date": "2026-11-02T01:13:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-02T05:17:24.611Z"
-  },
-  {
-   "title": "Krimi in Mexiko: Verstappen gewinnt, Hamilton tobt, Antonelli Weltmeister!",
-   "summary": "Bei Ferrari fliegen in Mexiko die Fetzen: Lewis Hamilton ist ausser sich und kündigt ernste Gespräche an, während Max Verstappen den Grand Prix gewinnt",
-   "url": "https://www.formel1.de/nc/149658",
-   "date": "2026-11-01T23:25:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "hamilton",
-    "antonelli"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T22:49:55.521Z"
-  },
-  {
-   "title": "Die Qualifying-, Sprint- und Rennduelle der Formel-1-Saison 2026",
-   "summary": "Der aktuelle Zwischenstand bei den Qualifying- und Rennduellen der Teamkollegen in der Formel-1-Saison 2026",
-   "url": "https://www.formel1.de/nc/146557",
-   "date": "2026-11-01T23:18:53.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-10-31T22:49:54.442Z"
   }
  ]
 }
