@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T21:00:17.799Z",
+ "updatedAt": "2026-11-03T22:58:52.584Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,38 @@
   }
  },
  "items": [
+  {
+   "title": "The 5 drivers most likely to win in Sao Paulo",
+   "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Autodromo Jose Carlos Pace.",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-sao-paulo-grand-prix-according-to-the-betting-markets.4bzkRPAjDqrOZ9EH6cwwoB",
+   "date": "2026-11-03T22:58:52.569Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-03T22:58:52.569Z"
+  },
+  {
+   "title": "Esteban Ocon bei Haas endgültig raus: F1-Debüt für Rafael Camara in Brasilien",
+   "summary": "Esteban Ocon wird nicht mehr in das Formel-1-Cockpit von Haas zurückkehren: In Brasilien wird Rafael Camara zu seinem vorzeitigen Debüt kommen",
+   "url": "https://www.formel1.de/nc/149691",
+   "date": "2026-11-03T21:44:02.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "ocon"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Transfer",
+   "firstSeen": "2026-11-03T22:58:52.569Z"
+  },
   {
    "title": "Camara to make F1 debut for Haas in Sao Paulo",
    "summary": "Rafael Camara’s F1 debut with Haas has been brought forward to the Sao Paulo Grand Prix.",
@@ -977,45 +1009,6 @@
    "teams": [],
    "team": "ferrari",
    "category": "Regeln",
-   "firstSeen": "2026-11-02T05:17:24.611Z"
-  },
-  {
-   "title": "Piastri receives post-race penalty at Mexico City GP",
-   "summary": "Oscar Piastri has lost his points from the Mexico City Grand Prix after he was deemed to be at fault in a collision with Racing Bulls' Arvid Lindblad.",
-   "url": "https://www.formula1.com/en/latest/article/piastri-loses-p7-after-being-handed-post-race-penalty-at-mexico-city-gp.5dk3wHeak2yu7xWF0OhsRt",
-   "date": "2026-11-02T05:09:24.611Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "piastri",
-    "arvid_lindblad"
-   ],
-   "teams": [
-    "rb"
-   ],
-   "team": "mclaren",
-   "category": "Regeln",
-   "firstSeen": "2026-11-02T05:17:24.611Z"
-  },
-  {
-   "title": "Verstappen on the move that earned him ‘fantastic’ Mexico win",
-   "summary": "Max Verstappen took advantage of an early tussle between Ferrari's Lewis Hamilton and Charles Leclerc to clinch victory at the Mexico City Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/verstappen-on-the-opportunistic-move-that-earned-him-fantastic-win-at-mexico-city-gp.5C4UF8HgiJdAGfZeXRBbpB",
-   "date": "2026-11-02T05:08:24.611Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen",
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
    "firstSeen": "2026-11-02T05:17:24.611Z"
   }
  ]
