@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T09:06:15.650Z",
+ "updatedAt": "2026-11-03T11:09:23.676Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,72 @@
   }
  },
  "items": [
+  {
+   "title": "Russell shares emotional reflection on 2026 in candid post",
+   "summary": "George Russell has reflected on his challenging 2026 campaign after Mercedes team mate Kimi Antonelli secured the Drivers’ Championship in Mexico City.",
+   "url": "https://www.formula1.com/en/latest/article/russell-shares-emotional-reflection-as-he-admits-2026-was-not-meant-to-be-my-year.5WEyPpcLTknBF3ktFY4cNM",
+   "date": "2026-11-03T11:09:23.561Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "russell",
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-03T11:09:23.561Z"
+  },
+  {
+   "title": "The best images from Antonelli's title-winning celebrations",
+   "summary": "Kimi Antonelli sealed his maiden World Championship title in Mexico City at the age of just 20 and in only his second season in the sport.",
+   "url": "https://www.formula1.com/en/latest/article/gallery-the-best-images-from-antonellis-title-celebrations.3c1keK7GIQDiP4ylcXr6Ox",
+   "date": "2026-11-03T11:08:23.561Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-03T11:09:23.561Z"
+  },
+  {
+   "title": "Siegchance vernichtet: Charles Leclerc bremst bis zur Karkasse",
+   "summary": "Beim Neustart bremste sich Charles Leclerc einen Reifen bis auf die Karkasse runter und geriet so unter starken Druck von Lando Norris",
+   "url": "https://www.formel1.de/nc/149685",
+   "date": "2026-11-03T10:11:25.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc",
+    "norris"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-03T11:09:23.561Z"
+  },
+  {
+   "title": "Zukunft des Motorsports: ADAC weiter Partner von SPORT MARKE MEDIEN",
+   "summary": "\"Alle Player. Alle Perspektiven. Eine Konferenz.\" - Am 30. November und 1. Dezember versammelt SPORT MARKE MEDIEN die Sportbranche wieder in München",
+   "url": "https://www.formel1.de/nc/149684",
+   "date": "2026-11-03T09:27:37.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-03T11:09:23.561Z"
+  },
   {
    "title": "Sao Paulo Grand Prix betting guide and latest odds",
    "summary": "Our experts bring you all the important betting information you need before making your predictions for Interlagos.",
@@ -24,7 +90,7 @@
    "firstSeen": "2026-11-03T09:06:15.631Z"
   },
   {
-   "title": "Red Bulls Schlüssel-Entscheidung hinter Max Verstappens Mexiko-Sieg erklärt",
+   "title": "Red Bulls goldene Entscheidung: So kam Max Verstappen zum Sieg",
    "summary": "Wie Red Bulls entscheidender Strategie-Schachzug Max Verstappen in Mexiko zum Sieg verhalf und was die Strafe gegen Charles Leclerc damit zu tun hatte",
    "url": "https://www.formel1.de/nc/149683",
    "date": "2026-11-03T09:05:09.000Z",
@@ -957,68 +1023,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-11-01T20:51:36.164Z"
-  },
-  {
-   "title": "LIVE COVERAGE: Antonelli becomes youngest ever F1 champion",
-   "summary": "Live coverage of the Formula 1 Gran Premio de la Ciudad de Mexico 2026.",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-gran-premio-de-la-ciudad-de-mexico-2026.5CheEK7oQK2jf98nrc6i8Y",
-   "date": "2026-11-01T20:50:36.164Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-01T20:51:36.164Z"
-  },
-  {
-   "title": "Lewis Hamilton: Hat er die 18-Zoll-Räder jetzt endlich geknackt?",
-   "summary": "Lewis Hamilton erklärt, warum ihm die 18-Zoll-Reifen jahrelang Probleme bereiteten - und weshalb in Mexiko plötzlich alles zusammenpasst",
-   "url": "https://www.formel1.de/nc/149654",
-   "date": "2026-11-01T18:40:52.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-01T18:59:21.639Z"
-  },
-  {
-   "title": "Was Yamahas MotoGP-Boykott für Katar und Abu Dhabi bedeutet",
-   "summary": "Nach dem überraschenden Yamaha-Boykott wächst der Druck auf die Formel 1 - Warum die Rennen in Katar und Abu Dhabi trotzdem wie geplant stattfinden sollen",
-   "url": "https://www.formel1.de/nc/149653",
-   "date": "2026-11-01T18:17:08.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T18:59:21.639Z"
-  },
-  {
-   "title": "Isack Hadjar verteidigt Schubser gegen Fan: Formel 1 ist \"keine Reality-Show\"",
-   "summary": "Isack Hadjar sieht nach seinem Schubser gegen einen Fan keinen Grund für Reue - Ex-Formel-1-Pilot Alexander Wurz versteht den Ärger, kritisiert aber die Reaktion",
-   "url": "https://www.formel1.de/nc/149652",
-   "date": "2026-11-01T17:49:18.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hadjar"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-01T18:59:21.639Z"
   }
  ]
 }
