@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-03T11:09:23.676Z",
+ "updatedAt": "2026-11-03T13:23:28.831Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,58 @@
   }
  },
  "items": [
+  {
+   "title": "Lewis Hamilton kritisiert Leclerc-Verhalten: \"Der Kerl ist 28 Jahre alt ...\"",
+   "summary": "Lewis Hamilton kritisiert die Einstellung von Charles Leclerc, die Ferrari schon häufig Ergebnisse gekostet hat - Tut Ferrari zu wenig, um seine Fahrer zu steuern?",
+   "url": "https://www.formel1.de/nc/149688",
+   "date": "2026-11-03T13:05:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-03T13:23:28.815Z"
+  },
+  {
+   "title": "Hadjar nach Russell-Kollision: \"Ich hätte ihm nicht vertrauen dürfen\"",
+   "summary": "Ein Dreher, ein früher Boxenstopp und viel Verkehr: Isack Hadjar kämpft sich in Mexiko zurück und erklärt, warum er sich auch selbst die Schuld gibt",
+   "url": "https://www.formel1.de/nc/149687",
+   "date": "2026-11-03T11:48:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hadjar",
+    "russell"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-03T13:23:28.815Z"
+  },
+  {
+   "title": "Der kleine Junge auf der Wasserrutsche: Antonelli beendet die Ära der Egoisten",
+   "summary": "Toto Wolff freut sich, dass sich Kimi Antonelli etwas Kindlichkeit bewahrt hat, und sieht dank ihm das Ende der Ära der rücksichtslosen Formel-1-Fahrer gekommen",
+   "url": "https://www.formel1.de/nc/149686",
+   "date": "2026-11-03T11:25:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-03T13:23:28.815Z"
+  },
   {
    "title": "Russell shares emotional reflection on 2026 in candid post",
    "summary": "George Russell has reflected on his challenging 2026 campaign after Mercedes team mate Kimi Antonelli secured the Drivers’ Championship in Mexico City.",
@@ -123,7 +175,7 @@
    "firstSeen": "2026-11-03T09:06:15.631Z"
   },
   {
-   "title": "\"Verdammte Scheisse!\": Valtteri Bottas nach heftigem Abflug bedient",
+   "title": "Nach Unfall: Valtteri Bottas blieb dreieinhalb Minuten im Auto sitzen",
    "summary": "Valtteri Bottas musste nach seinem Unfall in Mexiko ins Medical-Center, konnte aber unverletzt entlassen werden - Cadillac kündigt Aufarbeitung des Vorfalls an",
    "url": "https://www.formel1.de/nc/149681",
    "date": "2026-11-03T07:15:04.000Z",
@@ -976,53 +1028,6 @@
    "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-11-01T22:49:55.521Z"
-  },
-  {
-   "title": "Vettel-Rekord gebrochen: Kimi Antonelli ist Formel-1-Weltmeister 2026!",
-   "summary": "Kimi Antonelli hat den Rekord von Sebastian Vettel gebrochen und sich in seiner erst zweiten Saison zum mit Abstand jüngsten Formel-1-Weltmeister gekrönt",
-   "url": "https://www.formel1.de/nc/149656",
-   "date": "2026-11-01T22:26:44.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-01T22:49:55.521Z"
-  },
-  {
-   "title": "Erklärt: Wieso wurde Charles Leclerc in Mexiko bestraft?",
-   "summary": "Beim Grand Prix von Mexiko wurde Charles Leclerc nach seinem hitzigen Duell mit Lewis Hamilton in der ersten Runde bestraft",
-   "url": "https://www.formel1.de/nc/149655",
-   "date": "2026-11-01T21:44:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc",
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T22:49:55.521Z"
-  },
-  {
-   "title": "OFFICIAL GRID: Who starts where for the Mexico City Grand Prix",
-   "summary": "The full official starting order for the 2026 Mexico City Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-for-the-2026-mexico-city-grand-prix.4AUykgAAZz3GMiI15Fqfir",
-   "date": "2026-11-01T20:51:36.164Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T20:51:36.164Z"
   }
  ]
 }
