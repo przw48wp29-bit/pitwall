@@ -116,15 +116,6 @@
   "titles": 0,
   "first": "2024"
  },
- "hulkenberg": {
-  "seasons": 15,
-  "starts": 273,
-  "wins": 0,
-  "podiums": 1,
-  "poles": 1,
-  "titles": 0,
-  "first": "2010"
- },
  "bortoleto": {
   "seasons": 2,
   "starts": 43,
@@ -133,6 +124,15 @@
   "poles": 0,
   "titles": 0,
   "first": "2025"
+ },
+ "hulkenberg": {
+  "seasons": 15,
+  "starts": 273,
+  "wins": 0,
+  "podiums": 1,
+  "poles": 1,
+  "titles": 0,
+  "first": "2010"
  },
  "ocon": {
   "seasons": 10,
@@ -179,6 +179,15 @@
   "titles": 0,
   "first": "2021"
  },
+ "ryo_hirakawa": {
+  "seasons": 1,
+  "starts": 1,
+  "wins": 0,
+  "podiums": 0,
+  "poles": 0,
+  "titles": 0,
+  "first": "2026"
+ },
  "stroll": {
   "seasons": 10,
   "starts": 210,
@@ -196,15 +205,6 @@
   "poles": 19,
   "titles": 0,
   "first": "2013"
- },
- "ryo_hirakawa": {
-  "seasons": 1,
-  "starts": 1,
-  "wins": 0,
-  "podiums": 0,
-  "poles": 0,
-  "titles": 0,
-  "first": "2026"
  },
  "perez": {
   "seasons": 15,

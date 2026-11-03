@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T20:57:21.248Z",
+ "updatedAt": "2026-11-03T05:39:43.518Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Sebastian Vettel: Warum er Ferrari erst absagte und später doch wechselte",
+   "summary": "Ferrari wollte Sebastian Vettel bereits 2012 verpflichten: Bei einem geheimen Treffen mit Luca di Montezemolo fiel jedoch eine überraschende Entscheidung",
+   "url": "https://www.formel1.de/nc/149680",
+   "date": "2026-11-03T05:23:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-03T05:39:43.517Z"
+  },
   {
    "title": "Antonelli makes history as Verstappen eyes 2027 glory",
    "summary": "Antonelli may have become F1’s youngest-ever World Champion in Mexico, but the betting markets are already predicting something different for 2027.",
@@ -1005,20 +1021,6 @@
    "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-11-01T14:52:06.197Z"
-  },
-  {
-   "title": "Our final Mexico City Grand Prix betting predictions",
-   "summary": "Our expert betting writers bring you their final predictions and latest odds before the Mexico City Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/our-final-mexico-city-grand-prix-betting-predictions-before-lights-out.62oXD14Ima1vLzXLErdqI6",
-   "date": "2026-11-01T13:07:36.080Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-01T13:07:36.080Z"
   }
  ]
 }
