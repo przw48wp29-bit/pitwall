@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T15:05:48.543Z",
+ "updatedAt": "2026-11-04T17:10:48.738Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,114 @@
   }
  },
  "items": [
+  {
+   "title": "Where did it go wrong for Russell – and can he regroup for 2027?",
+   "summary": "F1 TV lead commentator Alex Jacques dissects a season in which Russell has been comprehensively beaten to the title by a less experienced team mate – and looks at what he must do now before next year's campaign.",
+   "url": "https://www.formula1.com/en/latest/article/where-did-it-go-wrong-for-russell-and-can-he-regroup-for-2027.2CNIpJmJWuYCp6J4UbzNPB",
+   "date": "2026-11-04T17:10:48.722Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "russell"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Business",
+   "firstSeen": "2026-11-04T17:10:48.722Z"
+  },
+  {
+   "title": "When could Mercedes win the 2026 Teams' Championship?",
+   "summary": "Mercedes could clinch the 2026 Teams' Championship in Brazil, but what results do they need to secure the title? Here are all the points permutations.",
+   "url": "https://www.formula1.com/en/latest/article/points-permutations-when-could-mercedes-win-the-2026-f1-teams-championship.73hdGVkJl9FHxEvDNlNZKq",
+   "date": "2026-11-04T17:09:48.722Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-04T17:10:48.722Z"
+  },
+  {
+   "title": "Camara concedes ‘there is a lot to learn’ ahead of F1 debut",
+   "summary": "Rafael Camara has shared his initial thoughts on his upcoming debut for Haas at the Sao Paulo Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/camara-concedes-there-is-a-lot-to-learn-ahead-of-special-f1-debut-with-haas-in-sao-paulo.28dp6c9ntdxBu0xmEWAAUm",
+   "date": "2026-11-04T17:08:48.722Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Rennen",
+   "firstSeen": "2026-11-04T17:10:48.722Z"
+  },
+  {
+   "title": "Rosberg opens up on Hamilton relationship after retirement",
+   "summary": "In the latest episode of official podcast F1 Beyond The Grid, Nico Rosberg reflected on his shock retirement and evolved relationship with Lewis Hamilton.",
+   "url": "https://www.formula1.com/en/latest/article/well-just-not-be-best-friends-rosberg-opens-up-on-hamilton-relationship-after-his-sudden-retirement.6x4Chs81Z7ehgVIHmjr4fW",
+   "date": "2026-11-04T17:07:48.722Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-04T17:10:48.722Z"
+  },
+  {
+   "title": "The 5 drivers most likely to qualify fastest in Brazil",
+   "summary": "We have looked at the betting markets for Qualifying at the Autodromo Jose Carlos Pace and assessed the chances of the leading contenders for pole position.",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-sao-paulo.632xqUGo5Z3N5BvznKa5CD",
+   "date": "2026-11-04T17:06:48.722Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-04T17:10:48.722Z"
+  },
+  {
+   "title": "Leclerc-Strafe in Mexiko: \"Überrascht, dass es nur fünf Sekunden waren\"",
+   "summary": "Charles Leclerc spricht über seine Fünf-Sekunden-Strafe in Mexiko und erklärt, dass viele Strecken die Fahrer dazu einladen, \"Grauzonen\" im Reglement auszunutzen",
+   "url": "https://www.formel1.de/nc/149703",
+   "date": "2026-11-04T16:17:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Regeln",
+   "firstSeen": "2026-11-04T17:10:48.722Z"
+  },
+  {
+   "title": "Die Jaguar-Story: Wie Ford mit grossen Ambitionen in der Formel 1 scheiterte",
+   "summary": "Das Jaguar-Team soll im Auftrag von Autohersteller Ford die Formel 1 aufmischen, kommt jedoch in fünf Jahren nie über einzelne Achtungserfolge hinaus",
+   "url": "https://www.formel1.de/nc/149702",
+   "date": "2026-11-04T15:12:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-04T17:10:48.722Z"
+  },
   {
    "title": "QUIZ: How much do you know about Brazilian F1 drivers?",
    "summary": "The Sao Paulo Grand Prix is coming up this weekend – so we've knocked up a quick fire quiz all about Brazilian Formula 1 drivers.",
@@ -38,7 +146,7 @@
    "firstSeen": "2026-11-04T15:05:48.527Z"
   },
   {
-   "title": "What is the weather forecast for the Sao Paulo GP?",
+   "title": "What is the weather forecast for the Sao Paulo Grand Prix?",
    "summary": "The weather forecast is in ahead of the Sao Paulo Grand Prix from the Autodromo Jose Carlos Pace.",
    "url": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2026-sao-paulo-grand-prix.6DTTG84ES6tbC6eISpqnR8",
    "date": "2026-11-04T15:03:48.527Z",
@@ -871,129 +979,6 @@
    "team": "mercedes",
    "category": "Rennen",
    "firstSeen": "2026-11-02T15:09:38.084Z"
-  },
-  {
-   "title": "Haas-Suspendierung: Warum die Zeit von Esteban Ocon endgültig abgelaufen ist",
-   "summary": "Zehn Jahre Formel 1, zahlreiche hitzige Teamduelle und nun der Eklat in Mexiko: Warum Esteban Ocon vor dem endgültigen Karriereende stehen könnte",
-   "url": "https://www.formel1.de/nc/149678",
-   "date": "2026-11-02T14:00:48.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "ocon"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "News",
-   "firstSeen": "2026-11-02T15:09:38.084Z"
-  },
-  {
-   "title": "The records Antonelli has broken on his way to maiden title",
-   "summary": "It has been a season of breaking records for Kimi Antonelli, who has rewritten several chapters of the F1 history books en route to his first World Championship.",
-   "url": "https://www.formula1.com/en/latest/article/in-numbers-the-records-antonelli-has-broken-on-his-way-to-his-maiden-f1-title.2FB9yQ5qD7XzQ418HNlrfN",
-   "date": "2026-11-02T13:27:30.290Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-02T13:27:30.290Z"
-  },
-  {
-   "title": "Russell details ‘frustrating’ opening lap issue in Mexico",
-   "summary": "George Russell has shared his thoughts on the Mexico City Grand Prix, where his team mate Kimi Antonelli put the Drivers’ Championship out of reach for good.",
-   "url": "https://www.formula1.com/en/latest/article/russell-details-frustrating-opening-lap-issue-in-mexico-city-that-cost-him-a-shot-at-victory.3K9bqtqg1bCnFQf9NxWM5J",
-   "date": "2026-11-02T13:26:30.290Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell",
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-02T13:27:30.290Z"
-  },
-  {
-   "title": "Fahrernoten Mexiko: Gabriel Bortoleto glänzt, Oscar Piastri floppt",
-   "summary": "Rennsieger Max Verstappen, Weltmeister Kimi Antonelli und Audi-Fahrer Gabriel Bortoleto teilen sich das Podium der Leserwertung für Mexiko-Stadt 2026",
-   "url": "https://www.formel1.de/nc/149677",
-   "date": "2026-11-02T12:23:56.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bortoleto",
-    "piastri",
-    "max_verstappen",
-    "antonelli"
-   ],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "Rennen",
-   "firstSeen": "2026-11-02T13:27:30.290Z"
-  },
-  {
-   "title": "‘It's a matter of respect’ – Vasseur on Hamilton/Leclerc clash",
-   "summary": "A Mexico City GP that held such promise for Scuderia Ferrari proved to be a painful afternoon for team principal Fred Vasseur.",
-   "url": "https://www.formula1.com/en/latest/article/its-a-matter-of-respect-vasseur-airs-frustrations-over-ferrari-intra-team-clash-in-mexico.33Ed4HMOlbqcaZlQ37hA0F",
-   "date": "2026-11-02T11:13:06.108Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-02T11:13:06.108Z"
-  },
-  {
-   "title": "The Mexico GP issues Antonelli overcame to claim his title",
-   "summary": "Michael Lamonato on how Kimi Antonelli turned a sub-optimal build-up to the Mexico City Grand Prix into title-winning glory.",
-   "url": "https://www.formula1.com/en/latest/article/how-antonelli-drove-through-tears-fears-and-illness-to-claim-his-maiden-title.3LPbRl2JBmLVdc5OKrOTqF",
-   "date": "2026-11-02T11:12:06.108Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-02T11:13:06.108Z"
-  },
-  {
-   "title": "Wer letzte Nacht am besten geschlafen hat: Kimi Antonelli",
-   "summary": "Ein Junge, den einfach jeder mag, ist Formel-1-Weltmeister geworden: Kimi Antonellis Triumph könnt der Beginn einer Ära sein, findet Redakteur Oleg Karpov",
-   "url": "https://www.formel1.de/nc/149676",
-   "date": "2026-11-02T10:45:54.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-02T11:13:06.108Z"
   }
  ]
 }
