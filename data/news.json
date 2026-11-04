@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T07:33:52.502Z",
+ "updatedAt": "2026-11-04T09:12:47.340Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,46 @@
  },
  "items": [
   {
-   "title": "McLaren bringt Formel-1-Updates: Ein Teil ist schon für 2027 gedacht",
+   "title": "Live im TV und Stream: Welche Sender den Grand Prix von Sao Paulo zeigen",
+   "summary": "Alle Informationen zur Formel 1 2026 im TV und Livestream: Wie Du die Saison mit Audi, Ferrari, McLaren, Mercedes, Red Bull und Cadillac live verfolgen kannst!",
+   "url": "https://www.formel1.de/nc/123413",
+   "date": "2026-11-04T08:55:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes",
+    "red_bull",
+    "cadillac",
+    "ferrari",
+    "mclaren",
+    "audi"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-04T09:12:47.325Z"
+  },
+  {
+   "title": "Liam Lawson vor Formel-1-Aus? Warum die Daten für Nikola Tsolov sprechen",
+   "summary": "83 Punkte, WM-Rang neun und trotzdem keine sichere Zukunft: Warum Liam Lawson trotz seiner bislang besten Formel-1-Saison bei Red Bull auf der Abschussliste steht",
+   "url": "https://www.formel1.de/nc/149694",
+   "date": "2026-11-04T07:37:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "lawson"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "rb",
+   "category": "News",
+   "firstSeen": "2026-11-04T09:12:47.325Z"
+  },
+  {
+   "title": "Neue Frontflügel-Idee bei McLaren: Was das Brasilien-Update für 2027 bedeutet",
    "summary": "Trotz des Rückstands auf die Spitze entwickelt McLaren seinen MCL40 weiter: Ein neues Frontflügelkonzept könnte sogar den Grundstein für 2027 legen",
    "url": "https://www.formel1.de/nc/149693",
    "date": "2026-11-04T06:24:04.000Z",
@@ -970,44 +1009,6 @@
    ],
    "team": "ferrari",
    "category": "Rennen",
-   "firstSeen": "2026-11-02T05:17:24.611Z"
-  },
-  {
-   "title": "Alpine duo stripped of Mexico City GP points after penalties",
-   "summary": "Franco Colapinto and Pierre Gasly have lost their top-10 finishes at the Mexico City Grand Prix after receiving penalties following the race.",
-   "url": "https://www.formula1.com/en/latest/article/alpines-gasly-and-colapinto-stripped-of-mexico-city-gp-points-after-post-race-penalties.2wLfobQHufuH1L1aMYPl7h",
-   "date": "2026-11-02T05:12:24.611Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "colapinto",
-    "gasly"
-   ],
-   "teams": [
-    "alpine"
-   ],
-   "team": "alpine",
-   "category": "Rennen",
-   "firstSeen": "2026-11-02T05:17:24.611Z"
-  },
-  {
-   "title": "Wer letzte Nacht am schlechtesten geschlafen hat: Frederic Vasseur",
-   "summary": "Ein wütender Hamilton und ein uneinsichtiger Leclerc: Warum das Ferrari-Drama von Mexiko für Frederic Vasseur zur echten Bewährungsprobe werden könnte",
-   "url": "https://www.formel1.de/nc/149664",
-   "date": "2026-11-02T05:11:50.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
    "firstSeen": "2026-11-02T05:17:24.611Z"
   }
  ]
