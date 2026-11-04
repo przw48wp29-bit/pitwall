@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T13:24:49.021Z",
+ "updatedAt": "2026-11-04T15:05:48.543Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,92 @@
   }
  },
  "items": [
+  {
+   "title": "QUIZ: How much do you know about Brazilian F1 drivers?",
+   "summary": "The Sao Paulo Grand Prix is coming up this weekend – so we've knocked up a quick fire quiz all about Brazilian Formula 1 drivers.",
+   "url": "https://www.formula1.com/en/latest/article/quiz-how-much-do-you-know-about-brazilian-f1-drivers.2vmvtHwIM9JiS7u5cTtu9C",
+   "date": "2026-11-04T15:05:48.527Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-04T15:05:48.527Z"
+  },
+  {
+   "title": "What tyres will the teams have for the Sao Paulo Grand Prix?",
+   "summary": "Pirelli have confirmed the tyre compounds that will be in use for the Sao Paulo Grand Prix weekend at the Autodromo Jose Carlos Pace.",
+   "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-sao-paulo-grand-prix.bjn9KJgqDprqvVr9z7i5V",
+   "date": "2026-11-04T15:04:48.527Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-04T15:05:48.527Z"
+  },
+  {
+   "title": "What is the weather forecast for the Sao Paulo GP?",
+   "summary": "The weather forecast is in ahead of the Sao Paulo Grand Prix from the Autodromo Jose Carlos Pace.",
+   "url": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2026-sao-paulo-grand-prix.6DTTG84ES6tbC6eISpqnR8",
+   "date": "2026-11-04T15:03:48.527Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-04T15:05:48.527Z"
+  },
+  {
+   "title": "Think you're Fan1? Win a VIP trip to Las Vegas",
+   "summary": "Think You're Fan1? Win a VIP Trip to the Las Vegas Grand Prix",
+   "url": "https://www.formula1.com/en/latest/article/think-youre-fan1-win-a-vip-trip-to-las-vegas-quiz-7.75ojGzsdD8ChdZpZOsYyGw",
+   "date": "2026-11-04T15:02:48.527Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-04T15:05:48.527Z"
+  },
+  {
+   "title": "How to stream the 2026 Sao Paulo Grand Prix on F1 TV Premium",
+   "summary": "The 2026 Formula 1 season continues this weekend at the Sao Paulo Grand Prix, held at the Autodromo Jose Carlos Pace. Here are all the details you need to follow the action live on F1 TV.",
+   "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-2026-sao-paulo-grand-prix-on-f1-tv-premium.4rjCzTC5bJOxfxhupS5UFW",
+   "date": "2026-11-04T15:01:48.527Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-04T15:05:48.527Z"
+  },
+  {
+   "title": "Nächster Titel? So wird Mercedes in Brasilien Konstrukteurs-Weltmeister",
+   "summary": "Mercedes hat in Brasilien den ersten Matchball in der Konstrukteurs-WM - So dürfen die Silberpfeile schon am Sonntag über den nächsten Titel jubeln",
+   "url": "https://www.formel1.de/nc/149701",
+   "date": "2026-11-04T14:05:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-04T15:05:48.527Z"
+  },
   {
    "title": "5 storylines we're excited about ahead of the Sao Paulo GP",
    "summary": "Chris Medland runs through the biggest talking points as F1 heads to Sao Paulo for Round 20 of the 2026 season.",
@@ -302,7 +388,7 @@
   },
   {
    "title": "The inside story of Lewis Hamilton’s first F1 test",
-   "summary": "As Lewis Hamilton gears up for this Sunday's Sao Paulo Grand Prix, he will be preparing to make his 400th Grand Prix start in Formula. To mark the milestone, F1.com revisits his first F1 test with McLaren as fellow Briton Alex Lloyd, who he tested alongside that day, recalls his first-hand account of the outing which k",
+   "summary": "As Lewis Hamilton gears up for this Sunday's Sao Paulo Grand Prix, he will be preparing to make his 400th Grand Prix start in Formula 1. To mark the milestone, F1.com revisits his first F1 test with McLaren as fellow Briton Alex Lloyd, who he tested alongside that day, recalls his first-hand account of the outing which",
    "url": "https://www.formula1.com/en/latest/article/20-years-on-the-inside-story-of-lewis-hamiltons-first-f1-test-with-mclaren.52SbO6oNunu7mGcpWMV8U1",
    "date": "2026-11-03T19:11:28.568Z",
    "source": "Formula1.com",
@@ -908,111 +994,6 @@
    "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-11-02T11:13:06.108Z"
-  },
-  {
-   "title": "Toto Wolff verrät: Zwei Sponsoren verliessen Mercedes wegen Kimi Antonelli",
-   "summary": "Zwei Sponsoren kehrten Mercedes wegen Kimi Antonelli den Rücken, doch nach dessen WM-Triumph rechnet Toto Wolff mit den Kritikern seiner Entscheidung ab",
-   "url": "https://www.formel1.de/nc/149675",
-   "date": "2026-11-02T10:14:26.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Business",
-   "firstSeen": "2026-11-02T11:13:06.108Z"
-  },
-  {
-   "title": "Lando Norris überzeugt: McLaren-Pace war gut genug für den Sieg in Mexiko",
-   "summary": "Lando Norris beendet den Grossen Preis von Mexiko als Fünfter, stellt anschliessend allerdings eine mutige These auf: Der Rennsieg am Sonntag wäre möglich gewesen!",
-   "url": "https://www.formel1.de/nc/149674",
-   "date": "2026-11-02T10:13:50.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-11-02T11:13:06.108Z"
-  },
-  {
-   "title": "Formel-1-Zuschauer: So viele sahen die WM-Entscheidung vor Ort in Mexiko",
-   "summary": "Kimi Antonelli ist Formel-1-Weltmeister, und über 400.000 sind live dabei: Die Zuschauerzahlen zum Grand Prix von Mexiko-Stadt 2026",
-   "url": "https://www.formel1.de/nc/146482",
-   "date": "2026-11-02T09:44:08.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-02T11:13:06.108Z"
-  },
-  {
-   "title": "Max Verstappen überzeugt: Ferrari hat den Sieg in Mexiko verschenkt",
-   "summary": "Max Verstappen profitiert vom Ferrari-Zoff zwischen Lewis Hamilton und Charles Leclerc - und gewinnt den Mexiko-GP: So lief das Rennen für den Red-Bull-Piloten",
-   "url": "https://www.formel1.de/nc/149673",
-   "date": "2026-11-02T09:33:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "red_bull",
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-02T11:13:06.108Z"
-  },
-  {
-   "title": "Keine Interviews: Darum wurde George Russell von der FIA bestraft",
-   "summary": "George Russell erlebt in Mexiko einen bitteren Abend und kassiert eine FIA-Strafe: Wie Toto Wolff Verständnis darauf reagierte und was Nico Rosberg dazu sagte",
-   "url": "https://www.formel1.de/nc/149672",
-   "date": "2026-11-02T08:46:25.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Regeln",
-   "firstSeen": "2026-11-02T09:22:22.337Z"
-  },
-  {
-   "title": "Ein Lied für seinen Opa: Warum Antonelli plötzlich nicht mehr sprechen konnte",
-   "summary": "Erst weint Kimi Antonelli im Cockpit, dann vor versammelter Presse: Warum ausgerechnet das Lied \"Nessun dorma\" den neuen Weltmeister so sehr bewegt",
-   "url": "https://www.formel1.de/nc/149671",
-   "date": "2026-11-02T08:22:18.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Transfer",
-   "firstSeen": "2026-11-02T09:22:22.337Z"
   }
  ]
 }
