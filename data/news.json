@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T09:12:47.340Z",
+ "updatedAt": "2026-11-04T11:26:25.027Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,111 @@
   }
  },
  "items": [
+  {
+   "title": "‘Thankfully I’m okay’ – Bottas reacts to Mexico City crash",
+   "summary": "Valtteri Bottas endured a big shunt at the Mexico City Grand Prix, the Finn careering off and into the barriers at high speed midway through the race.",
+   "url": "https://www.formula1.com/en/latest/article/thankfully-im-okay-bottas-reacts-to-mexico-city-grand-prix-crash.z2CM4Jz6qwFerJGjQlaPB",
+   "date": "2026-11-04T11:26:25.008Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "bottas"
+   ],
+   "teams": [],
+   "team": "cadillac",
+   "category": "Rennen",
+   "firstSeen": "2026-11-04T11:26:25.008Z"
+  },
+  {
+   "title": "Why Aston Martin's Mexico City GP ended after five laps",
+   "summary": "Honda have revealed why Fernando Alonso and Lance Stroll both retired after five laps of the Mexico City Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/why-aston-martins-mexico-city-grand-prix-ended-after-five-laps.2j9GYm3FSjAOGu23hmaMTA",
+   "date": "2026-11-04T11:25:25.008Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "alonso",
+    "stroll"
+   ],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "Rennen",
+   "firstSeen": "2026-11-04T11:26:25.008Z"
+  },
+  {
+   "title": "How Mercedes got their front wing upgrade in the sweet spot",
+   "summary": "Mark Hughes and Giorgio Piola divulge how Mercedes managed to get their front wing upgrade to work from Austin onwards.",
+   "url": "https://www.formula1.com/en/latest/article/how-mercedes-got-their-temperamental-front-wing-upgrade-in-the-sweet-spot.1aj2enCvE05FHuszFII7yI",
+   "date": "2026-11-04T11:24:25.008Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Technik",
+   "firstSeen": "2026-11-04T11:26:25.008Z"
+  },
+  {
+   "title": "\"Ich wäre in dieselbe Lücke gefahren\": Audi-Teamchef verteidigt Hülkenberg",
+   "summary": "Oliver Bearman verlor in Mexiko durch eine Kollision mit Nico Hülkenberg wichtige Punkte - Trotzdem zeigt der Haas-Fahrer Verständnis für den Unfall",
+   "url": "https://www.formel1.de/nc/149697",
+   "date": "2026-11-04T10:31:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hulkenberg",
+    "bearman"
+   ],
+   "teams": [
+    "haas",
+    "audi"
+   ],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-11-04T11:26:25.008Z"
+  },
+  {
+   "title": "Freitagseinsatz in Sao Paulo: Warum Cadillac Herta erneut ins Auto setzt",
+   "summary": "Colton Herta fehlt nur noch ein Punkt zur Formel-1-Superlizenz.:Cadillac gibt dem US-Amerikaner in Brasilien deshalb eine weitere Chance im ersten Freien Training",
+   "url": "https://www.formel1.de/nc/149696",
+   "date": "2026-11-04T10:15:35.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "Rennen",
+   "firstSeen": "2026-11-04T11:26:25.008Z"
+  },
+  {
+   "title": "Nur fünf Runden: Warum Aston Martin in Mexiko komplett ausgebremst wurde",
+   "summary": "Aston Martin schaffte in Mexiko nur fünf Rennrunden: Honda hatte die Belastung des ERS-Kühlkreislaufs unterschätzt, doch Fernando Alonso sieht Potenzial",
+   "url": "https://www.formel1.de/nc/149695",
+   "date": "2026-11-04T09:43:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-11-04T11:26:25.008Z"
+  },
   {
    "title": "Live im TV und Stream: Welche Sender den Grand Prix von Sao Paulo zeigen",
    "summary": "Alle Informationen zur Formel 1 2026 im TV und Livestream: Wie Du die Saison mit Audi, Ferrari, McLaren, Mercedes, Red Bull und Cadillac live verfolgen kannst!",
@@ -909,107 +1014,6 @@
    "team": "mercedes",
    "category": "Transfer",
    "firstSeen": "2026-11-02T07:43:04.609Z"
-  },
-  {
-   "title": "Nachträgliche Strafen in Mexiko: Drei Formel-1-Fahrer verlieren ihre Punkte",
-   "summary": "Zwei Alpine-Fahrer verlieren nach dem Mexiko-Grand-Prix ihre WM-Punkte - Besonders kurios: In einem weiteren Zwischenfall kommt Gasly ohne Strafe davon",
-   "url": "https://www.formel1.de/nc/149665",
-   "date": "2026-11-02T06:01:36.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "gasly"
-   ],
-   "teams": [
-    "alpine"
-   ],
-   "team": "alpine",
-   "category": "Regeln",
-   "firstSeen": "2026-11-02T07:43:04.609Z"
-  },
-  {
-   "title": "All the key moments from the 2026 Mexico City Grand Prix",
-   "summary": "The Mexico City Grand Prix once again delivered a memorable weekend, culminating in Kimi Antonelli being crowned F1’s youngest World Champion.",
-   "url": "https://www.formula1.com/en/latest/article/mexico-city-lowdown-all-the-key-moments-as-antonelli-secures-maiden-title-and-verstappen-denies-ferrari-victory.3mPqECWFPlJsdg4jUOZUXz",
-   "date": "2026-11-02T05:17:24.611Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-02T05:17:24.611Z"
-  },
-  {
-   "title": "What the teams said – Race day in Mexico City",
-   "summary": "The drivers and teams report back on all the action at the Autodromo Hermanos Rodriguez for the 2026 Mexico City Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-mexico-city-2026.5jvq4rkRMEYHkdIE7IXwxK",
-   "date": "2026-11-02T05:16:24.611Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-02T05:17:24.611Z"
-  },
-  {
-   "title": "'Unbelievable' – The F1 grid praise new champion Antonelli",
-   "summary": "Drivers across the Formula 1 grid gave their reactions to Kimi Antonelli becoming the youngest ever World Champion.",
-   "url": "https://www.formula1.com/en/latest/article/hes-made-everyone-else-look-silly-the-f1-grid-praise-new-world-champion-kimi-antonelli.4wWSNrdtuPYOnmQSLB78dt",
-   "date": "2026-11-02T05:15:24.611Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-02T05:17:24.611Z"
-  },
-  {
-   "title": "‘People were doubters’ – Wolff on Antonelli’s ‘incredible’ journey",
-   "summary": "Toto Wolff has reflected on Kimi Antonelli's journey with Mercedes after the Italian claimed his maiden Formula 1 title at the Mexico City Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/people-were-doubters-wolff-assesses-antonellis-incredible-journey-to-f1-title-glory.2t6Z3Fg7owWCwnAKjb7Mzl",
-   "date": "2026-11-02T05:14:24.611Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-02T05:17:24.611Z"
-  },
-  {
-   "title": "'Serious talks’ – Hamilton on costly Leclerc battle",
-   "summary": "Lewis Hamilton believes Ferrari \"easily had a car to have P1 and P2\" during the Mexico City Grand Prix, as an opening lap battle with team mate Charles Leclerc potentially cost the team victory.",
-   "url": "https://www.formula1.com/en/latest/article/we-have-to-have-some-serious-talks-hamilton-reflects-on-costly-ferrari-intra-team-battle-in-mexico.20AlOSmTwJkVVJRtw70vIp",
-   "date": "2026-11-02T05:13:24.611Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-02T05:17:24.611Z"
   }
  ]
 }
