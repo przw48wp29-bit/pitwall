@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T05:13:55.530Z",
+ "updatedAt": "2026-11-04T07:33:52.502Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "McLaren bringt Formel-1-Updates: Ein Teil ist schon für 2027 gedacht",
+   "summary": "Trotz des Rückstands auf die Spitze entwickelt McLaren seinen MCL40 weiter: Ein neues Frontflügelkonzept könnte sogar den Grundstein für 2027 legen",
+   "url": "https://www.formel1.de/nc/149693",
+   "date": "2026-11-04T06:24:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Technik",
+   "firstSeen": "2026-11-04T07:33:52.488Z"
+  },
   {
    "title": "Sebastian Vettel verrät: Warum es mit dem Titel bei Ferrari nicht geklappt hat",
    "summary": "Sebastian Vettel hat über seine Zeit bei Ferrari gesprochen und verraten, warum der Traum vom fünften WM-Titel unerfüllt blieb: die Angst zu versagen sei gross gewesen",
@@ -992,22 +1008,6 @@
    ],
    "team": "ferrari",
    "category": "News",
-   "firstSeen": "2026-11-02T05:17:24.611Z"
-  },
-  {
-   "title": "Antonelli’s dad reflects on son’s ‘important’ title triumph",
-   "summary": "Marco Antonelli has opened up about his son’s historic World Championship success at the Mexico City Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/he-makes-himself-stronger-antonellis-dad-reflects-on-sons-important-title-triumph.2jMjsfdy0bakm0FChw4Qk4",
-   "date": "2026-11-02T05:11:24.611Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
    "firstSeen": "2026-11-02T05:17:24.611Z"
   }
  ]
