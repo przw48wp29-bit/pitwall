@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T11:26:25.027Z",
+ "updatedAt": "2026-11-04T13:24:49.021Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,73 @@
   }
  },
  "items": [
+  {
+   "title": "5 storylines we're excited about ahead of the Sao Paulo GP",
+   "summary": "Chris Medland runs through the biggest talking points as F1 heads to Sao Paulo for Round 20 of the 2026 season.",
+   "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-sao-paulo-grand-prix.6Pvk4v10hKccs7IS4X667x",
+   "date": "2026-11-04T13:24:49.008Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-04T13:24:49.008Z"
+  },
+  {
+   "title": "Babyglück: Charles Leclerc ist erstmals Vater geworden",
+   "summary": "Charles Leclerc ist zwischen den Rennen in Mexiko und Brasilien Vater geworden - Tochter Bianca hat am Dienstag vor dem Sao-Paulo-GP das Licht der Welt erblickt",
+   "url": "https://www.formel1.de/nc/149700",
+   "date": "2026-11-04T13:12:58.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-04T13:24:49.008Z"
+  },
+  {
+   "title": "Nach Antonellis WM-Titel: George Russell meldet sich mit emotionaler Botschaft",
+   "summary": "Kimi Antonelli ist Formel-1-Weltmeister, George Russell muss sich geschlagen geben: Der Mercedes-Pilot gratuliert seinem Teamkollegen und zieht Bilanz",
+   "url": "https://www.formel1.de/nc/149699",
+   "date": "2026-11-04T12:45:56.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell",
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-04T13:24:49.008Z"
+  },
+  {
+   "title": "\"Ich würde es nicht tolerieren\": Formel-1-Experte zählt Lewis Hamilton an",
+   "summary": "Nimmt sich Lewis Hamilton bei Ferrari zu viel heraus? Ralf Schumacher fordert, dass das Team den Rekordweltmeister ab sofort an die kurze Leine nehmen muss",
+   "url": "https://www.formel1.de/nc/149698",
+   "date": "2026-11-04T11:54:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-04T13:24:49.008Z"
+  },
   {
    "title": "‘Thankfully I’m okay’ – Bottas reacts to Mexico City crash",
    "summary": "Valtteri Bottas endured a big shunt at the Mexico City Grand Prix, the Finn careering off and into the barriers at high speed midway through the race.",
@@ -946,74 +1013,6 @@
    "team": "mercedes",
    "category": "Transfer",
    "firstSeen": "2026-11-02T09:22:22.337Z"
-  },
-  {
-   "title": "Antonelli nach WM-Triumph: Was hinter den Kulissen bei Mercedes wirklich los war",
-   "summary": "Auf dem Weg zum ersten Formel-1-WM-Titel hatte Kimi Antonelli mit einem ungewöhnlichen Problem zu kämpfen: Toto Wolff und sein Vater halfen ihm",
-   "url": "https://www.formel1.de/nc/149669",
-   "date": "2026-11-02T07:45:18.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-02T09:22:22.337Z"
-  },
-  {
-   "title": "Kimi Antonelli verzichtet 2027 auf die Startnummer 1 - aus diesem Grund",
-   "summary": "Kimi Antonelli hat sich vorzeitig den WM-Titel 2026 gesichert: Warum der Italiener in der kommenden Saison aber auf die Startnummer 1 an seinem Mercedes verzichtet",
-   "url": "https://www.formel1.de/nc/149668",
-   "date": "2026-11-02T07:22:26.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-02T07:43:04.609Z"
-  },
-  {
-   "title": "Kimi Antonelli ist Weltmeister: Wem sein Vater jetzt besonders dankbar ist",
-   "summary": "Nach dem WM-Titel von Kimi Antonelli zeigt sich Marco Antonelli überwältigt: Auf die Frage nach dem Talent seines Sohnes hat er eine amüsante Antwort",
-   "url": "https://www.formel1.de/nc/149667",
-   "date": "2026-11-02T06:42:47.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-02T07:43:04.609Z"
-  },
-  {
-   "title": "\"Geniesse es einfach\": Sebastian Vettel reagiert auf WM-Erfolg von Kimi Antonelli",
-   "summary": "Kimi Antonelli hat den Formel-1-Rekord von Sebastian Vettel geknackt: Der deutsche Weltmeister schickt seinem Nachfolger die Glückwünsche - und einen wichtigen Rat",
-   "url": "https://www.formel1.de/nc/149666",
-   "date": "2026-11-02T06:34:30.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Transfer",
-   "firstSeen": "2026-11-02T07:43:04.609Z"
   }
  ]
 }
