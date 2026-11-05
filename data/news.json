@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T17:26:10.874Z",
+ "updatedAt": "2026-11-05T19:13:30.222Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,123 @@
   }
  },
  "items": [
+  {
+   "title": "Camara explains approach as he prepares for F1 debut",
+   "summary": "Rafael Camara states he will \"focus on things that I can control\" as the Brazilian prepares to make his Formula 1 debut with Haas at his home event in the Sao Paulo Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/focus-on-things-i-can-control-camara-explains-approach-as-he-prepares-for-f1-debut.YTyRpyv4hrReigw7dSIFA",
+   "date": "2026-11-05T19:13:30.205Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Rennen",
+   "firstSeen": "2026-11-05T19:13:30.205Z"
+  },
+  {
+   "title": "Hamilton's incredible F1 records ahead of his 400th GP",
+   "summary": "As Lewis Hamilton prepares for his 400th Grand Prix in Brazil, discover the incredible F1 records he holds, including his number of wins, pole positions and podium finishes.",
+   "url": "https://www.formula1.com/en/latest/article/in-numbers-the-incredible-records-hamilton-holds-ahead-of-his-400th-grand-prix.1yNnQ8vuefRFhQj4AprTh0",
+   "date": "2026-11-05T19:12:30.205Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-05T19:13:30.205Z"
+  },
+  {
+   "title": "Can Hamilton celebrate 400th GP with Brazil win?",
+   "summary": "Formula 1 heads to Brazil this weekend, with Lewis Hamilton becoming only the second driver in history to reach 400 Grand Prix starts.",
+   "url": "https://www.formula1.com/en/latest/article/can-lewis-hamilton-celebrate-400th-grand-prix-appearance-with-sao-paulo-grand-prix-win.6O8sThsqZ2HQ8Pza5yN58m",
+   "date": "2026-11-05T19:11:30.205Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-05T19:13:30.205Z"
+  },
+  {
+   "title": "Remembering Williams' first World Champion Alan Jones",
+   "summary": "David Tremayne takes a look at the incredible life of 1980 World Champion Alan Jones, who has passed away at the age of 80.",
+   "url": "https://www.formula1.com/en/latest/article/obituary-remembering-alan-jones-the-champion-who-took-williams-to-new-heights.6qVxl1O8uJu9kbPiPtfSzo",
+   "date": "2026-11-05T19:10:30.205Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "News",
+   "firstSeen": "2026-11-05T19:13:30.205Z"
+  },
+  {
+   "title": "Antivirus-Witz: Darum fürchtet Verstappen kein Regenrennen in Sao Paulo",
+   "summary": "Max Verstappen hat keine Angst vor neuen Software-Problemen im Regen und spricht über die Verbesserungen, die Red Bull 2026 getätigt hat",
+   "url": "https://www.formel1.de/nc/149720",
+   "date": "2026-11-05T19:01:39.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-05T19:13:30.205Z"
+  },
+  {
+   "title": "Max Verstappen: Ich war am Tag nach meinem ersten Titel noch betrunken",
+   "summary": "Max Verstappen spricht über die Verpflichtungen eines Weltmeisters nach seinem Titel: Er selbst hatte vermutlich noch Restalkohol, von damals war es angenehm",
+   "url": "https://www.formel1.de/nc/149719",
+   "date": "2026-11-05T18:23:18.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-05T19:13:30.205Z"
+  },
+  {
+   "title": "Aston Martin gibt zu: Wussten schon vor Mexiko, dass wir nicht ins Ziel kommen",
+   "summary": "Lance Stroll und Fernando Alonso kamen in Mexiko nur fünf Runden weit: Aston Martin wusste bereits im Vorfeld vom Ausfall, Honda bringt Gegenmassnahmen",
+   "url": "https://www.formel1.de/nc/149718",
+   "date": "2026-11-05T18:05:57.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "stroll",
+    "alonso"
+   ],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-11-05T19:13:30.205Z"
+  },
   {
    "title": "Best value early bets for the Sao Paulo Grand Prix",
    "summary": "We've assessed the latest betting markets and selected our pick of early bets offering the best value at Interlagos.",
@@ -862,118 +979,6 @@
    "team": "haas",
    "category": "Rennen",
    "firstSeen": "2026-11-03T21:00:17.784Z"
-  },
-  {
-   "title": "The inside story of Lewis Hamilton’s first F1 test",
-   "summary": "As Lewis Hamilton gears up for this Sunday's Sao Paulo Grand Prix, he will be preparing to make his 400th Grand Prix start in Formula 1. To mark the milestone, F1.com revisits his first F1 test with McLaren as fellow Briton Alex Lloyd, who he tested alongside that day, recalls his first-hand account of the outing which",
-   "url": "https://www.formula1.com/en/latest/article/20-years-on-the-inside-story-of-lewis-hamiltons-first-f1-test-with-mclaren.52SbO6oNunu7mGcpWMV8U1",
-   "date": "2026-11-03T19:11:28.568Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-03T19:11:28.568Z"
-  },
-  {
-   "title": "The incredible F1 legends' cars that sold at auction",
-   "summary": "After Ayrton Senna's Honda NSX was sold at auction, we look at some of the remarkable road cars with links to Formula 1 legends that have gone under the hammer.",
-   "url": "https://www.formula1.com/en/latest/article/f1-legends-cars-that-sold-at-auction-after-sennas-honda-sells-for-over-1m.5IOJyw63yjGPZ0sHACG9AP",
-   "date": "2026-11-03T19:10:28.568Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-03T19:11:28.568Z"
-  },
-  {
-   "title": "What time is the 2026 Sao Paulo GP and how can I watch it?",
-   "summary": "Here are all the timings – along with all the additional information you need – for the 20th Grand Prix weekend of the 2026 season from Brazil.",
-   "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-sao-paulo-grand-prix-and-how-can-i-watch-it.6hpbTPt6gucIHBH8QztPjb",
-   "date": "2026-11-03T17:13:08.590Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-03T17:13:08.590Z"
-  },
-  {
-   "title": "PALMER: What impressed me most in Antonelli’s title year",
-   "summary": "F1 TV analyst and former Renault F1 driver Jolyon Palmer dissects Kimi Antonelli's record-breaking championship campaign.",
-   "url": "https://www.formula1.com/en/latest/article/the-key-moments-that-impressed-me-most-in-antonellis-title-campaign.37DKCZ2ntXn8PNuOtMFv8q",
-   "date": "2026-11-03T17:12:08.590Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Business",
-   "firstSeen": "2026-11-03T17:13:08.590Z"
-  },
-  {
-   "title": "Who impressed our Power Rankings judges in Mexico City?",
-   "summary": "Find out who featured at the top of the Power Rankings table after the Mexico City Grand Prix weekend.",
-   "url": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-mexico-city-grand-prix.2qjwPGUEuzu27Gnq24ggBU",
-   "date": "2026-11-03T17:11:08.590Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-03T17:13:08.590Z"
-  },
-  {
-   "title": "Lindblad offers verdict on Piastri collision in Mexico",
-   "summary": "Arvid Lindblad has stated he and Oscar Piastri \"were in a genuine fight\" in the closing stages of the Mexico City Grand Prix, with the Racing Bulls driver ultimately crashing out of the race after a collision.",
-   "url": "https://www.formula1.com/en/latest/article/we-were-in-a-genuine-fight-lindblad-offers-verdict-on-piastri-collision-in-mexico-city-grand-prix.30FzCcOAR3jR8jti3SjN2e",
-   "date": "2026-11-03T17:10:08.590Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "arvid_lindblad",
-    "piastri"
-   ],
-   "teams": [
-    "rb"
-   ],
-   "team": "rb",
-   "category": "Regeln",
-   "firstSeen": "2026-11-03T17:13:08.590Z"
-  },
-  {
-   "title": "\"Überholverbot\" in Mexiko: Lewis Hamilton fordert FIA zum Handeln auf",
-   "summary": "Lewis Hamilton spricht von der schlechtesten Motorprofileinstellung der Formel-1-Geschichte, auch Lando Norris fordert nach Mexiko Konsequenzen",
-   "url": "https://www.formel1.de/nc/149690",
-   "date": "2026-11-03T16:25:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "norris"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Regeln",
-   "firstSeen": "2026-11-03T17:13:08.590Z"
   }
  ]
 }
