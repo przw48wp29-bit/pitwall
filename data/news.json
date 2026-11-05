@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T11:17:23.915Z",
+ "updatedAt": "2026-11-05T13:29:35.492Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,85 @@
  },
  "items": [
   {
-   "title": "Mercedes enthüllt: Kimi Antonelli wäre in Mexiko fast ausgefallen",
+   "title": "Facts, stats and trivia ahead of the Sao Paulo Grand Prix",
+   "summary": "As F1 heads to the Autodromo Jose Carlos Pace for the Sao Paulo Grand Prix, Need To Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
+   "url": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-sao-paulo-grand-prix.3w1LZutz0yrGfP2Iz38vd8",
+   "date": "2026-11-05T13:29:34.909Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-05T13:29:34.909Z"
+  },
+  {
+   "title": "Everything you need to know about the Autodromo Jose Carlos Pace",
+   "summary": "Get up to speed with all the key Autodromo Jose Carlos Pace statistics, driving pointers, facts and more.",
+   "url": "https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-autodromo-jose-carlos-pace.409YTahcP9tBxfYEkjAeoD",
+   "date": "2026-11-05T13:28:34.909Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-05T13:29:34.909Z"
+  },
+  {
+   "title": "Mercedes reveal how close Antonelli came to Mexico DNF",
+   "summary": "Kimi Antonelli came dangerously close to retiring from the Mexico City Grand Prix, where a P3 finish helped him secure his maiden title.",
+   "url": "https://www.formula1.com/en/latest/article/right-on-the-edge-of-retirement-mercedes-reveal-how-close-antonelli-came-to-mexico-dnf.7iIZJXxnzN5HEz7WbDb3tl",
+   "date": "2026-11-05T13:27:34.909Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-05T13:29:34.909Z"
+  },
+  {
+   "title": "Play Higher or Lower for your chance to win 2027 GP tickets",
+   "summary": "Guess whether each driver's total career Grand Prix starts are higher or lower than the previous driver's for your chance to win 2027 Grand Prix tickets.",
+   "url": "https://www.formula1.com/en/latest/article/play-our-new-higher-or-lower-game-for-your-chance-to-win-2027-grand-prix-tickets-week9.30ogPEI8S51K84sEfdfynk",
+   "date": "2026-11-05T13:26:34.909Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-05T13:29:34.909Z"
+  },
+  {
+   "title": "Meinung: Warum Esteban Ocon immer zu schlecht wegkommt",
+   "summary": "Esteban Ocon gilt als schnell, kämpferisch und manchmal schwierig: Nach dem Haas-Aus stellt sich die Frage, wie viel ihm sein Ruf geschadet hat",
+   "url": "https://www.formel1.de/nc/149715",
+   "date": "2026-11-05T13:05:16.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "ocon"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "News",
+   "firstSeen": "2026-11-05T13:29:34.909Z"
+  },
+  {
+   "title": "Mercedes enthüllt: Kimi Antonelli stand in Mexiko kurz vor dem Ausfall",
    "summary": "Kimi Antonelli wurde in Mexiko Formel-1-Weltmeister, doch erst nach dem Rennen entdeckte Mercedes ein Problem, das beinahe zum Ausfall geführt hätte",
    "url": "https://www.formel1.de/nc/149714",
    "date": "2026-11-05T10:55:05.000Z",
@@ -908,86 +986,6 @@
    "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-11-03T13:23:28.815Z"
-  },
-  {
-   "title": "Russell shares emotional reflection on 2026 in candid post",
-   "summary": "George Russell has reflected on his challenging 2026 campaign after Mercedes team mate Kimi Antonelli secured the Drivers’ Championship in Mexico City.",
-   "url": "https://www.formula1.com/en/latest/article/russell-shares-emotional-reflection-as-he-admits-2026-was-not-meant-to-be-my-year.5WEyPpcLTknBF3ktFY4cNM",
-   "date": "2026-11-03T11:09:23.561Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell",
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-03T11:09:23.561Z"
-  },
-  {
-   "title": "The best images from Antonelli's title-winning celebrations",
-   "summary": "Kimi Antonelli sealed his maiden World Championship title in Mexico City at the age of just 20 and in only his second season in the sport.",
-   "url": "https://www.formula1.com/en/latest/article/gallery-the-best-images-from-antonellis-title-celebrations.3c1keK7GIQDiP4ylcXr6Ox",
-   "date": "2026-11-03T11:08:23.561Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-03T11:09:23.561Z"
-  },
-  {
-   "title": "Siegchance vernichtet: Charles Leclerc bremst bis zur Karkasse",
-   "summary": "Beim Neustart bremste sich Charles Leclerc einen Reifen bis auf die Karkasse runter und geriet so unter starken Druck von Lando Norris",
-   "url": "https://www.formel1.de/nc/149685",
-   "date": "2026-11-03T10:11:25.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc",
-    "norris"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-03T11:09:23.561Z"
-  },
-  {
-   "title": "Zukunft des Motorsports: ADAC weiter Partner von SPORT MARKE MEDIEN",
-   "summary": "\"Alle Player. Alle Perspektiven. Eine Konferenz.\" - Am 30. November und 1. Dezember versammelt SPORT MARKE MEDIEN die Sportbranche wieder in München",
-   "url": "https://www.formel1.de/nc/149684",
-   "date": "2026-11-03T09:27:37.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-03T11:09:23.561Z"
-  },
-  {
-   "title": "Sao Paulo Grand Prix betting guide and latest odds",
-   "summary": "Our experts bring you all the important betting information you need before making your predictions for Interlagos.",
-   "url": "https://www.formula1.com/en/latest/article/sao-paulo-grand-prix-race-betting-guide-and-what-the-markets-expect-to-happen.3R5CCxfCtap5Fnb1hsQIhr",
-   "date": "2026-11-03T09:06:15.631Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-03T09:06:15.631Z"
   }
  ]
 }
