@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T21:03:51.490Z",
+ "updatedAt": "2026-11-05T22:59:57.289Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,144 @@
   }
  },
  "items": [
+  {
+   "title": "All the stories that got the Sao Paulo paddock talking",
+   "summary": "F1.com's Mike Seymour rounds up all the big talking points ahead of the 2026 Sao Paulo Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-sao-paulo-paddock-talking.1TWHXxrs4N9xUspvYpgb3H",
+   "date": "2026-11-05T22:59:57.195Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-05T22:59:57.195Z"
+  },
+  {
+   "title": "Norris wary of new McLaren upgrades in Sao Paulo",
+   "summary": "McLaren will introduce new upgrades for the Sao Paulo Grand Prix this weekend, with Lando Norris stating he wants \"to believe that we can still make improvements\" to this year's car.",
+   "url": "https://www.formula1.com/en/latest/article/want-to-believe-that-we-can-still-make-improvements-norris-wary-of-new-mclaren-upgrades-in-sao-paulo.6NvdXqDIqBz1Mw1xveJv0k",
+   "date": "2026-11-05T22:58:57.195Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Technik",
+   "firstSeen": "2026-11-05T22:59:57.195Z"
+  },
+  {
+   "title": "Antonelli reveals 'incredible' messages after becoming champion",
+   "summary": "Kimi Antonelli admits that \"the support has been incredible\" since he became Formula 1's youngest World Champion, and has revealed his favourite messages ahead of the Sao Paulo Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/the-support-has-been-incredible-antonelli-reveals-favourite-messages-after-becoming-world-champion.1QUQsQTsVGT4o6W3HoSFHa",
+   "date": "2026-11-05T22:57:57.195Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-05T22:59:57.195Z"
+  },
+  {
+   "title": "Why Russell had ‘to get out’ after Antonelli’s title win",
+   "summary": "Nearly a week on from the Mexico City Grand Prix, George Russell has dissected his immediate reaction to Kimi Antonelli being crowned champion.",
+   "url": "https://www.formula1.com/en/latest/article/i-need-to-get-out-of-here-russell-reveals-aftermath-of-antonellis-title-triumph-in-mexico.3Ufdj6zo0A9AUGZldRezUJ",
+   "date": "2026-11-05T22:56:57.195Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "russell",
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-05T22:59:57.195Z"
+  },
+  {
+   "title": "Hamilton wants Ferrari talks in Brazil after Mexico battle",
+   "summary": "Lewis Hamilton admits that face-to-face talks between himself and Ferrari team mate Charles Leclerc need to take place at the Sao Paulo Grand Prix this weekend after their on-track battle in Mexico.",
+   "url": "https://www.formula1.com/en/latest/article/hamilton-wants-ferrari-talks-ahead-of-sao-paulo-grand-prix-after-intra-team-battle-with-leclerc.3JXGpQWTdOA2a9PiH7NL8X",
+   "date": "2026-11-05T22:55:57.195Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-05T22:59:57.195Z"
+  },
+  {
+   "title": "Lewis Hamilton verrät: So bewahrte er Isack Hadjar vor einer Strafe",
+   "summary": "Lewis Hamilton hätte Isack Hadjar in Mexiko eine Strafe einbrocken können, doch der Ferrari-Star schwieg, und dahinter steckt eine besondere Geschichte …",
+   "url": "https://www.formel1.de/nc/149726",
+   "date": "2026-11-05T22:28:55.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton",
+    "hadjar"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Regeln",
+   "firstSeen": "2026-11-05T22:59:57.195Z"
+  },
+  {
+   "title": "Oliver Bearman & Rafael Camara: Direktes Duell um ein Ferrari-Cockpit?",
+   "summary": "Mit Oliver Bearman und Rafael Camara hat Haas zwei Fahrer aus der Ferrari-Akademie im Auto, die beide darum kämpfen könnten, zur Scuderia aufzusteigen",
+   "url": "https://www.formel1.de/nc/149725",
+   "date": "2026-11-05T21:57:33.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bearman"
+   ],
+   "teams": [
+    "ferrari",
+    "haas"
+   ],
+   "team": "ferrari",
+   "category": "Transfer",
+   "firstSeen": "2026-11-05T22:59:57.195Z"
+  },
+  {
+   "title": "Lewis Hamilton: Schumachers Interlagos-Rekord ist für ihn nicht gut genug",
+   "summary": "Mit einem vierten Sieg in Brasilien würde Lewis Hamilton zu Interlagos-Rekordsieger Michael Schumacher aufschliessen, zufrieden stellt ihn das aber lange nicht",
+   "url": "https://www.formel1.de/nc/149724",
+   "date": "2026-11-05T21:07:40.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-05T22:59:57.195Z"
+  },
   {
    "title": "A 'big surprise to be second' in the standings – Verstappen",
    "summary": "Max Verstappen has reflected on how Red Bull’s turnaround has helped him improve to P2 in the Drivers’ Championship.",
@@ -178,7 +316,7 @@
    "firstSeen": "2026-11-05T19:13:30.205Z"
   },
   {
-   "title": "Antivirus-Witz: Darum fürchtet Verstappen kein Regenrennen in Sao Paulo",
+   "title": "Verstappen scherzt über Regen in Brasilien: \"Virenscanner installiert\"",
    "summary": "Max Verstappen hat keine Angst vor neuen Software-Problemen im Regen und spricht über die Verbesserungen, die Red Bull 2026 getätigt hat",
    "url": "https://www.formel1.de/nc/149720",
    "date": "2026-11-05T19:01:39.000Z",
@@ -841,150 +979,6 @@
    "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-11-04T13:24:49.008Z"
-  },
-  {
-   "title": "\"Ich würde es nicht tolerieren\": Formel-1-Experte zählt Lewis Hamilton an",
-   "summary": "Nimmt sich Lewis Hamilton bei Ferrari zu viel heraus? Ralf Schumacher fordert, dass das Team den Rekordweltmeister ab sofort an die kurze Leine nehmen muss",
-   "url": "https://www.formel1.de/nc/149698",
-   "date": "2026-11-04T11:54:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-04T13:24:49.008Z"
-  },
-  {
-   "title": "‘Thankfully I’m okay’ – Bottas reacts to Mexico City crash",
-   "summary": "Valtteri Bottas endured a big shunt at the Mexico City Grand Prix, the Finn careering off and into the barriers at high speed midway through the race.",
-   "url": "https://www.formula1.com/en/latest/article/thankfully-im-okay-bottas-reacts-to-mexico-city-grand-prix-crash.z2CM4Jz6qwFerJGjQlaPB",
-   "date": "2026-11-04T11:26:25.008Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "bottas"
-   ],
-   "teams": [],
-   "team": "cadillac",
-   "category": "Rennen",
-   "firstSeen": "2026-11-04T11:26:25.008Z"
-  },
-  {
-   "title": "Why Aston Martin's Mexico City GP ended after five laps",
-   "summary": "Honda have revealed why Fernando Alonso and Lance Stroll both retired after five laps of the Mexico City Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/why-aston-martins-mexico-city-grand-prix-ended-after-five-laps.2j9GYm3FSjAOGu23hmaMTA",
-   "date": "2026-11-04T11:25:25.008Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "alonso",
-    "stroll"
-   ],
-   "teams": [
-    "aston_martin"
-   ],
-   "team": "aston_martin",
-   "category": "Rennen",
-   "firstSeen": "2026-11-04T11:26:25.008Z"
-  },
-  {
-   "title": "How Mercedes got their front wing upgrade in the sweet spot",
-   "summary": "Mark Hughes and Giorgio Piola divulge how Mercedes managed to get their front wing upgrade to work from Austin onwards.",
-   "url": "https://www.formula1.com/en/latest/article/how-mercedes-got-their-temperamental-front-wing-upgrade-in-the-sweet-spot.1aj2enCvE05FHuszFII7yI",
-   "date": "2026-11-04T11:24:25.008Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Technik",
-   "firstSeen": "2026-11-04T11:26:25.008Z"
-  },
-  {
-   "title": "\"Ich wäre in dieselbe Lücke gefahren\": Audi-Renndirektor verteidigt Hülkenberg",
-   "summary": "Oliver Bearman verlor in Mexiko durch eine Kollision mit Nico Hülkenberg wichtige Punkte - Trotzdem zeigt der Haas-Fahrer Verständnis für den Unfall",
-   "url": "https://www.formel1.de/nc/149697",
-   "date": "2026-11-04T10:31:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hulkenberg",
-    "bearman"
-   ],
-   "teams": [
-    "haas",
-    "audi"
-   ],
-   "team": "audi",
-   "category": "News",
-   "firstSeen": "2026-11-04T11:26:25.008Z"
-  },
-  {
-   "title": "Freitagseinsatz in Sao Paulo: Warum Cadillac Herta erneut ins Auto setzt",
-   "summary": "Colton Herta fehlt nur noch ein Punkt zur Formel-1-Superlizenz.:Cadillac gibt dem US-Amerikaner in Brasilien deshalb eine weitere Chance im ersten Freien Training",
-   "url": "https://www.formel1.de/nc/149696",
-   "date": "2026-11-04T10:15:35.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "Rennen",
-   "firstSeen": "2026-11-04T11:26:25.008Z"
-  },
-  {
-   "title": "Nur fünf Runden: Warum Aston Martin in Mexiko komplett ausgebremst wurde",
-   "summary": "Aston Martin schaffte in Mexiko nur fünf Rennrunden: Honda hatte die Belastung des ERS-Kühlkreislaufs unterschätzt, doch Fernando Alonso sieht Potenzial",
-   "url": "https://www.formel1.de/nc/149695",
-   "date": "2026-11-04T09:43:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "alonso"
-   ],
-   "teams": [
-    "aston_martin"
-   ],
-   "team": "aston_martin",
-   "category": "News",
-   "firstSeen": "2026-11-04T11:26:25.008Z"
-  },
-  {
-   "title": "Live im TV und Stream: Welche Sender den Grand Prix von Sao Paulo zeigen",
-   "summary": "Alle Informationen zur Formel 1 2026 im TV und Livestream: Wie Du die Saison mit Audi, Ferrari, McLaren, Mercedes, Red Bull und Cadillac live verfolgen kannst!",
-   "url": "https://www.formel1.de/nc/123413",
-   "date": "2026-11-04T08:55:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes",
-    "red_bull",
-    "cadillac",
-    "ferrari",
-    "mclaren",
-    "audi"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-04T09:12:47.325Z"
   }
  ]
 }
