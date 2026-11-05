@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T19:13:30.222Z",
+ "updatedAt": "2026-11-05T21:03:51.490Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,110 @@
   }
  },
  "items": [
+  {
+   "title": "A 'big surprise to be second' in the standings – Verstappen",
+   "summary": "Max Verstappen has reflected on how Red Bull’s turnaround has helped him improve to P2 in the Drivers’ Championship.",
+   "url": "https://www.formula1.com/en/latest/article/verstappen-admits-its-a-big-surprise-to-be-second-in-the-standings-after-red-bulls-difficulties.2mDpAyOIRGjBoGaZMjrCwO",
+   "date": "2026-11-05T21:03:51.475Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-05T21:03:51.475Z"
+  },
+  {
+   "title": "'I don’t know what else they want me to do’– Lawson on his future",
+   "summary": "Liam Lawson has explained how he’s doing everything he can at Racing Bulls in order to retain his seat on the F1 grid.",
+   "url": "https://www.formula1.com/en/latest/article/i-dont-know-what-else-they-want-me-to-do-lawson-elaborates-on-uncertainty-around-his-f1-future.4raO0TJB58aCxyWdLRkOYv",
+   "date": "2026-11-05T21:02:51.475Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "lawson"
+   ],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "Transfer",
+   "firstSeen": "2026-11-05T21:03:51.475Z"
+  },
+  {
+   "title": "Bottas offers update on Cadillac F1 future",
+   "summary": "Valtteri Bottas admits that his Cadillac Formula 1 future \"should be okay\" amid speculation that the Finn will not be retained by the American team next season.",
+   "url": "https://www.formula1.com/en/latest/article/in-my-head-it-should-be-okay-bottas-offers-update-on-cadillac-f1-future-amid-herta-reports.Kr1u7QDCDvIeoyCjP1CBL",
+   "date": "2026-11-05T21:01:51.475Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "bottas"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "Technik",
+   "firstSeen": "2026-11-05T21:03:51.475Z"
+  },
+  {
+   "title": "Oscar Piastri akzeptiert Strafe, aber: Richtlinien schwierig umzusetzen",
+   "summary": "Oscar Piastri findet keine Argumente gegen seine Strafe in Mexiko, findet jedoch, dass die Fahrrichtlinien für manche Passagen angepasst werden sollten",
+   "url": "https://www.formel1.de/nc/149723",
+   "date": "2026-11-05T20:44:02.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "piastri"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "Regeln",
+   "firstSeen": "2026-11-05T21:03:51.475Z"
+  },
+  {
+   "title": "Mit Verstappen angelegt: Lawson hat Auswirkungen davon unterschätzt",
+   "summary": "Liam Lawson ist frustriert, dass er trotz starker Leistungen noch keinen Vertrag für die kommende Formel-1-Saison hat - Verstappen-Kollision hat nicht geholfen",
+   "url": "https://www.formel1.de/nc/149722",
+   "date": "2026-11-05T20:21:23.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "lawson"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Transfer",
+   "firstSeen": "2026-11-05T21:03:51.475Z"
+  },
+  {
+   "title": "Lewis Hamilton bleibt hart: \"Werde mich niemals dafür entschuldigen\"",
+   "summary": "Der Streit zwischen Lewis Hamilton und Charles Leclerc ist noch nicht beigelegt - Jetzt spricht der siebenmalige Weltmeister offen über ein auffälliges Muster",
+   "url": "https://www.formel1.de/nc/149721",
+   "date": "2026-11-05T19:17:59.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-05T21:03:51.475Z"
+  },
   {
    "title": "Camara explains approach as he prepares for F1 debut",
    "summary": "Rafael Camara states he will \"focus on things that I can control\" as the Brazilian prepares to make his Formula 1 debut with Haas at his home event in the Sao Paulo Grand Prix.",
@@ -881,104 +985,6 @@
    "team": "mercedes",
    "category": "Rennen",
    "firstSeen": "2026-11-04T09:12:47.325Z"
-  },
-  {
-   "title": "Liam Lawson vor Formel-1-Aus? Warum die Daten für Nikola Tsolov sprechen",
-   "summary": "83 Punkte, WM-Rang neun und trotzdem keine sichere Zukunft: Warum Liam Lawson trotz seiner bislang besten Formel-1-Saison bei Red Bull auf der Abschussliste steht",
-   "url": "https://www.formel1.de/nc/149694",
-   "date": "2026-11-04T07:37:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "lawson"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "rb",
-   "category": "News",
-   "firstSeen": "2026-11-04T09:12:47.325Z"
-  },
-  {
-   "title": "Neue Frontflügel-Idee bei McLaren: Was das Brasilien-Update für 2027 bedeutet",
-   "summary": "Trotz des Rückstands auf die Spitze entwickelt McLaren seinen MCL40 weiter: Ein neues Frontflügelkonzept könnte sogar den Grundstein für 2027 legen",
-   "url": "https://www.formel1.de/nc/149693",
-   "date": "2026-11-04T06:24:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Technik",
-   "firstSeen": "2026-11-04T07:33:52.488Z"
-  },
-  {
-   "title": "Sebastian Vettel verrät: Warum es mit dem Titel bei Ferrari nicht geklappt hat",
-   "summary": "Sebastian Vettel hat über seine Zeit bei Ferrari gesprochen und verraten, warum der Traum vom fünften WM-Titel unerfüllt blieb: die Angst zu versagen sei gross gewesen",
-   "url": "https://www.formel1.de/nc/149692",
-   "date": "2026-11-04T05:13:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-04T05:13:55.514Z"
-  },
-  {
-   "title": "The 5 drivers most likely to win in Sao Paulo",
-   "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Autodromo Jose Carlos Pace.",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-sao-paulo-grand-prix-according-to-the-betting-markets.4bzkRPAjDqrOZ9EH6cwwoB",
-   "date": "2026-11-03T22:58:52.569Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-03T22:58:52.569Z"
-  },
-  {
-   "title": "Esteban Ocon bei Haas endgültig raus: F1-Debüt für Rafael Camara in Brasilien",
-   "summary": "Esteban Ocon wird nicht mehr in das Formel-1-Cockpit von Haas zurückkehren: In Brasilien wird Rafael Camara zu seinem vorzeitigen Debüt kommen",
-   "url": "https://www.formel1.de/nc/149691",
-   "date": "2026-11-03T21:44:02.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "ocon"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Transfer",
-   "firstSeen": "2026-11-03T22:58:52.569Z"
-  },
-  {
-   "title": "Camara to make F1 debut for Haas in Sao Paulo",
-   "summary": "Rafael Camara’s F1 debut with Haas has been brought forward to the Sao Paulo Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/f2-racer-camara-to-make-f1-debut-at-sao-paulo-grand-prix-as-haas-confirm-ocon-will-not-return.12Qa0tpaMZ9kgnEuGJBKFp",
-   "date": "2026-11-03T21:00:17.784Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Rennen",
-   "firstSeen": "2026-11-03T21:00:17.784Z"
   }
  ]
 }
