@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T07:36:20.855Z",
+ "updatedAt": "2026-11-05T09:17:19.147Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,54 @@
  },
  "items": [
   {
-   "title": "Hommage an Sao Paulo: Sonderlackierung von Audi in Brasilien",
+   "title": "F1 champion Alan Jones passes away, aged 80",
+   "summary": "1980 champion Alan Jones has passed away at the age of 80.",
+   "url": "https://www.formula1.com/en/latest/article/f1-champion-alan-jones-passes-away-aged-80.47VhlGhEpLtaMwCOlLAB3Y",
+   "date": "2026-11-05T09:17:19.127Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-05T09:17:19.127Z"
+  },
+  {
+   "title": "Formel-1-Team Cadillac vor Verkauf: Schlägt Liverpool-Eigentümer zu?",
+   "summary": "Weil Mark Walter möglicherweise Anteile an Cadillac verkaufen muss, droht dem Formel-1-Team ein Eigentümer-Wechsel: Liverpool-Besitzer unter Interessenten",
+   "url": "https://www.formel1.de/nc/149712",
+   "date": "2026-11-05T09:00:06.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "News",
+   "firstSeen": "2026-11-05T09:17:19.127Z"
+  },
+  {
+   "title": "\"Er spricht Italienisch\": Verstappen scherzt über Unterschied zu Antonelli",
+   "summary": "Max Verstappen scherzt über den entscheidenden Unterschied zwischen Kimi Antonelli und sich selbst: \"Er spricht Italienisch!\"",
+   "url": "https://www.formel1.de/nc/149711",
+   "date": "2026-11-05T07:53:03.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-05T09:17:19.127Z"
+  },
+  {
+   "title": "Gehweg in Sao Paulo: Audi mit Sonderlackierung in Brasilien",
    "summary": "Nico Hülkenberg und Gabriel Bortoleto bekommen beim Heimspiel des Brasilianers ein neues Design des Audi R26 spendiert, das eine Hommage an die Metropole ist",
    "url": "https://www.formel1.de/nc/149710",
    "date": "2026-11-05T06:58:16.000Z",
@@ -32,7 +79,7 @@
    "title": "Formel-1-Weltmeister Alan Jones ist tot: Er wurde 80 Jahre alt",
    "summary": "Ferrari wollte ihn, Williams bekam ihn: Alan Jones wurde 1980 Formel-1-Weltmeister - Nun ist der Australier nach kurzer Krankheit im Alter von 80 Jahren gestorben",
    "url": "https://www.formel1.de/nc/149709",
-   "date": "2026-11-05T06:34:31.000Z",
+   "date": "2026-11-05T06:34:00.000Z",
    "source": "Formel1.de",
    "sourceId": "formel1de",
    "lang": "de",
@@ -938,54 +985,6 @@
    "team": "mercedes",
    "category": "Business",
    "firstSeen": "2026-11-03T09:06:15.631Z"
-  },
-  {
-   "title": "Nach Unfall: Valtteri Bottas blieb dreieinhalb Minuten im Auto sitzen",
-   "summary": "Valtteri Bottas musste nach seinem Unfall in Mexiko ins Medical-Center, konnte aber unverletzt entlassen werden - Cadillac kündigt Aufarbeitung des Vorfalls an",
-   "url": "https://www.formel1.de/nc/149681",
-   "date": "2026-11-03T07:15:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bottas"
-   ],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "News",
-   "firstSeen": "2026-11-03T07:29:50.409Z"
-  },
-  {
-   "title": "Die aktuelle Wetterprognose für das Formel-1-Rennen in Sao Paulo",
-   "summary": "Die aktuelle Wettervorschau für das 20. Rennwochenende der Formel-1-Saison 2026, den Grand Prix von Sao Paulo auf dem Autodromo Jose Carlos Pace in Brasilien",
-   "url": "https://www.formel1.de/nc/123255",
-   "date": "2026-11-03T06:11:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-03T07:29:50.409Z"
-  },
-  {
-   "title": "Sebastian Vettel: Warum er Ferrari erst absagte und später doch wechselte",
-   "summary": "Ferrari wollte Sebastian Vettel bereits 2012 verpflichten: Bei einem geheimen Treffen mit Luca di Montezemolo fiel jedoch eine überraschende Entscheidung",
-   "url": "https://www.formel1.de/nc/149680",
-   "date": "2026-11-03T05:23:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-03T05:39:43.517Z"
   }
  ]
 }
