@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T19:15:34.766Z",
+ "updatedAt": "2026-11-05T05:14:40.312Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,20 @@
   }
  },
  "items": [
+  {
+   "title": "Er fuhr 98 Formel-1-Rennen: Heute produziert er Bio-Eier im grossen Stil",
+   "summary": "Pedro Diniz brachte viel Sponsorgeld mit, aber nie einen Podestplatz: Heute baut der Brasilianer auf 2.300 Hektar eine Bio-Landwirtschaft auf",
+   "url": "https://www.formel1.de/nc/149707",
+   "date": "2026-11-05T05:12:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-05T05:14:40.296Z"
+  },
   {
    "title": "Our early Bet Builder picks for Brazil",
    "summary": "Our expert betting writers have picked a four-leg Bet Builder for the Sao Paulo Grand Prix, two podium finishes, a top six selection and a driver with points potential.",
@@ -965,22 +979,6 @@
    "teams": [],
    "team": "mercedes",
    "category": "Rennen",
-   "firstSeen": "2026-11-02T19:12:27.961Z"
-  },
-  {
-   "title": "Der Moment, als \"Bono\" erstmals den Rohdiamanten in Antonelli gesehen hat",
-   "summary": "Kimi Antonelli ist Formel-1-Weltmeister 2026: Sein Renningenieur Peter Bonnington verrät nun, wann ihm der junge Italiener als \"Rohdiamant\" erstmals aufgefallen ist",
-   "url": "https://www.formel1.de/nc/149679",
-   "date": "2026-11-02T17:33:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
    "firstSeen": "2026-11-02T19:12:27.961Z"
   }
  ]
