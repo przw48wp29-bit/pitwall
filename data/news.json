@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T05:14:40.312Z",
+ "updatedAt": "2026-11-05T07:36:20.855Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,61 @@
   }
  },
  "items": [
+  {
+   "title": "Hommage an Sao Paulo: Sonderlackierung von Audi in Brasilien",
+   "summary": "Nico Hülkenberg und Gabriel Bortoleto bekommen beim Heimspiel des Brasilianers ein neues Design des Audi R26 spendiert, das eine Hommage an die Metropole ist",
+   "url": "https://www.formel1.de/nc/149710",
+   "date": "2026-11-05T06:58:16.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hulkenberg",
+    "bortoleto"
+   ],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-11-05T07:36:20.735Z"
+  },
+  {
+   "title": "Formel-1-Weltmeister Alan Jones ist tot: Er wurde 80 Jahre alt",
+   "summary": "Ferrari wollte ihn, Williams bekam ihn: Alan Jones wurde 1980 Formel-1-Weltmeister - Nun ist der Australier nach kurzer Krankheit im Alter von 80 Jahren gestorben",
+   "url": "https://www.formel1.de/nc/149709",
+   "date": "2026-11-05T06:34:31.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "williams",
+    "ferrari"
+   ],
+   "team": "williams",
+   "category": "News",
+   "firstSeen": "2026-11-05T07:36:20.735Z"
+  },
+  {
+   "title": "Ferrari-Duell mit Folgen: Warum Montoya jetzt Konsequenzen fordert",
+   "summary": "Ferrari verspielt in Mexiko eine mögliche Siegchance - Juan Pablo Montoya fordert Konsequenzen für Lewis Hamilton und Charles Leclerc",
+   "url": "https://www.formel1.de/nc/149708",
+   "date": "2026-11-05T06:25:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-05T07:36:20.735Z"
+  },
   {
    "title": "Er fuhr 98 Formel-1-Rennen: Heute produziert er Bio-Eier im grossen Stil",
    "summary": "Pedro Diniz brachte viel Sponsorgeld mit, aber nie einen Podestplatz: Heute baut der Brasilianer auf 2.300 Hektar eine Bio-Landwirtschaft auf",
@@ -931,55 +986,6 @@
    "team": "ferrari",
    "category": "News",
    "firstSeen": "2026-11-03T05:39:43.517Z"
-  },
-  {
-   "title": "Antonelli makes history as Verstappen eyes 2027 glory",
-   "summary": "Antonelli may have become F1’s youngest-ever World Champion in Mexico, but the betting markets are already predicting something different for 2027.",
-   "url": "https://www.formula1.com/en/latest/article/max-verstappen-named-early-favourite-for-2027-title-despite-kimi-antonellis-record-breaking-season.2f4lCLl3YobQIzZd6CEiCu",
-   "date": "2026-11-02T20:57:21.110Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli",
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-02T20:57:21.110Z"
-  },
-  {
-   "title": "5 betting lessons from Antonelli's Mexico title win",
-   "summary": "The 20-year-old is now the youngest-ever World Champion in F1 history.",
-   "url": "https://www.formula1.com/en/latest/article/5-betting-lessons-after-kimi-antonelli-secures-his-first-world-championship-title-in-mexico.52HXp4dLOvtTso5l9xUYhF",
-   "date": "2026-11-02T20:56:21.110Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-02T20:57:21.110Z"
-  },
-  {
-   "title": "Antonelli reveals race number he will use to defend title in 2027",
-   "summary": "Kimi Antonelli has revealed what race number he will use to defend his Formula 1 drivers' title in 2027, having become World Champion last weekend in the Mexico City Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/antonelli-reveals-what-race-number-he-will-use-to-defend-formula-1-title-in-2027.3GBWpLc1FUNDolu43D8Llu",
-   "date": "2026-11-02T19:12:27.961Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-02T19:12:27.961Z"
   }
  ]
 }
