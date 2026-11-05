@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T15:13:33.152Z",
+ "updatedAt": "2026-11-05T17:26:10.874Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,64 @@
   }
  },
  "items": [
+  {
+   "title": "Best value early bets for the Sao Paulo Grand Prix",
+   "summary": "We've assessed the latest betting markets and selected our pick of early bets offering the best value at Interlagos.",
+   "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-sao-paulo-grand-prix.3yJRpEDLMRWsN3G4UcfnoO",
+   "date": "2026-11-05T17:26:10.854Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-05T17:26:10.854Z"
+  },
+  {
+   "title": "Fluxa Cross to make F1 ACADEMY debut as Las Vegas Wild Card",
+   "summary": "F1 ACADEMY have announced that Luna Fluxa Cross will make her series debut as the Wild Card entry for the 2026 season finale in Las Vegas.",
+   "url": "https://www.formula1.com/en/latest/article/mercedes-junior-luna-fluxa-cross-to-make-f1-academy-debut-as-las-vegas-wild-card.5OvTeCLa83Orw8Qh1cgYC5",
+   "date": "2026-11-05T17:25:10.854Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-05T17:26:10.854Z"
+  },
+  {
+   "title": "LIVE COVERAGE: Build-up to the Sao Paulo GP weekend",
+   "summary": "Live coverage of all the build-up ahead of the 2026 Sao Paulo Grand Prix weekend in Brazil.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-brazil-2026.c4SLvTtMWKmpWpKa8OQeF",
+   "date": "2026-11-05T17:24:10.854Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-05T17:26:10.854Z"
+  },
+  {
+   "title": "Gänsehaut bei Antonelli: Was er auf Sennas Anwesen erleben durfte",
+   "summary": "Ein Besuch, der ihn für immer begleiten wird: Zwei Tage nach seinem ersten WM-Titel erfüllt sich Kimi Antonelli in Brasilien einen ganz persönlichen Traum",
+   "url": "https://www.formel1.de/nc/149717",
+   "date": "2026-11-05T15:25:01.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-05T17:26:10.854Z"
+  },
   {
    "title": "Weltmeister nur durch Glück? \"Müssen sich die anderen an der Nase nehmen!\"",
    "summary": "Hat Kimi Antonelli seinen WM-Titel nur den neuen Formel-1-Regeln zu verdanken? Alexander Wurz und Allan McNish erklären, warum die Kritiker falsch liegen …",
@@ -916,76 +974,6 @@
    "team": "ferrari",
    "category": "Regeln",
    "firstSeen": "2026-11-03T17:13:08.590Z"
-  },
-  {
-   "title": "F1’s youngest World Champions as Antonelli smashes record",
-   "summary": "Aged just 20, Kimi Antonelli has joined an exclusive club of F1 World Champions by clinching the 2026 world title.",
-   "url": "https://www.formula1.com/en/latest/article/f1s-youngest-world-champions-as-antonelli-smashes-the-record.4otUr4h4wmWd6VmIEaNjzV",
-   "date": "2026-11-03T15:04:22.184Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-03T15:04:22.184Z"
-  },
-  {
-   "title": "Siegerfoto für die Ewigkeit: Antonelli plant Ehrenplatz mit eigenem Rahmen",
-   "summary": "Kimi Antonelli möchte sich das Bild mit Max Verstappen und Lewis Hamilton einrahmen lassen und zu Hause gut sichtbar an die Wand hängen",
-   "url": "https://www.formel1.de/nc/149689",
-   "date": "2026-11-03T14:07:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "max_verstappen",
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-03T15:04:22.184Z"
-  },
-  {
-   "title": "Lewis Hamilton kritisiert Leclerc-Verhalten: \"Der Kerl ist 28 Jahre alt ...\"",
-   "summary": "Lewis Hamilton kritisiert die Einstellung von Charles Leclerc, die Ferrari schon häufig Ergebnisse gekostet hat - Tut Ferrari zu wenig, um seine Fahrer zu steuern?",
-   "url": "https://www.formel1.de/nc/149688",
-   "date": "2026-11-03T13:05:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-03T13:23:28.815Z"
-  },
-  {
-   "title": "Hadjar nach Russell-Kollision: \"Ich hätte ihm nicht vertrauen dürfen\"",
-   "summary": "Ein Dreher, ein früher Boxenstopp und viel Verkehr: Isack Hadjar kämpft sich in Mexiko zurück und erklärt, warum er sich auch selbst die Schuld gibt",
-   "url": "https://www.formel1.de/nc/149687",
-   "date": "2026-11-03T11:48:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hadjar",
-    "russell"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-03T13:23:28.815Z"
   }
  ]
 }
