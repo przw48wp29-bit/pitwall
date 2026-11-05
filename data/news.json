@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T13:29:35.492Z",
+ "updatedAt": "2026-11-05T15:13:33.152Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Weltmeister nur durch Glück? \"Müssen sich die anderen an der Nase nehmen!\"",
+   "summary": "Hat Kimi Antonelli seinen WM-Titel nur den neuen Formel-1-Regeln zu verdanken? Alexander Wurz und Allan McNish erklären, warum die Kritiker falsch liegen …",
+   "url": "https://www.formel1.de/nc/149716",
+   "date": "2026-11-05T14:20:54.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Regeln",
+   "firstSeen": "2026-11-05T15:13:32.911Z"
+  },
   {
    "title": "Facts, stats and trivia ahead of the Sao Paulo Grand Prix",
    "summary": "As F1 heads to the Autodromo Jose Carlos Pace for the Sao Paulo Grand Prix, Need To Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
@@ -70,7 +86,7 @@
    "firstSeen": "2026-11-05T13:29:34.909Z"
   },
   {
-   "title": "Meinung: Warum Esteban Ocon immer zu schlecht wegkommt",
+   "title": "Esteban Ocon und sein schwieriger Ruf: Die andere Seite des F1-Siegers",
    "summary": "Esteban Ocon gilt als schnell, kämpferisch und manchmal schwierig: Nach dem Haas-Aus stellt sich die Frage, wie viel ihm sein Ruf geschadet hat",
    "url": "https://www.formel1.de/nc/149715",
    "date": "2026-11-05T13:05:16.000Z",
@@ -617,7 +633,7 @@
    "firstSeen": "2026-11-04T11:26:25.008Z"
   },
   {
-   "title": "\"Ich wäre in dieselbe Lücke gefahren\": Audi-Teamchef verteidigt Hülkenberg",
+   "title": "\"Ich wäre in dieselbe Lücke gefahren\": Audi-Renndirektor verteidigt Hülkenberg",
    "summary": "Oliver Bearman verlor in Mexiko durch eine Kollision mit Nico Hülkenberg wichtige Punkte - Trotzdem zeigt der Haas-Fahrer Verständnis für den Unfall",
    "url": "https://www.formel1.de/nc/149697",
    "date": "2026-11-04T10:31:00.000Z",
@@ -968,22 +984,6 @@
    ],
    "teams": [],
    "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-03T13:23:28.815Z"
-  },
-  {
-   "title": "Der kleine Junge auf der Wasserrutsche: Antonelli beendet die Ära der Egoisten",
-   "summary": "Toto Wolff freut sich, dass sich Kimi Antonelli etwas Kindlichkeit bewahrt hat, und sieht dank ihm das Ende der Ära der rücksichtslosen Formel-1-Fahrer gekommen",
-   "url": "https://www.formel1.de/nc/149686",
-   "date": "2026-11-03T11:25:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-11-03T13:23:28.815Z"
   }
