@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-05T09:17:19.147Z",
+ "updatedAt": "2026-11-05T11:17:23.915Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,42 @@
   }
  },
  "items": [
+  {
+   "title": "Mercedes enthüllt: Kimi Antonelli wäre in Mexiko fast ausgefallen",
+   "summary": "Kimi Antonelli wurde in Mexiko Formel-1-Weltmeister, doch erst nach dem Rennen entdeckte Mercedes ein Problem, das beinahe zum Ausfall geführt hätte",
+   "url": "https://www.formel1.de/nc/149714",
+   "date": "2026-11-05T10:55:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-05T11:17:23.898Z"
+  },
+  {
+   "title": "Kommentar: Hamilton muss \"ernste Gespräche\" führen - auch mit sich selbst",
+   "summary": "Lewis Hamilton forderte nach dem Rennen in Mexiko \"ernste Gespräche\" bei Ferrari, dabei sollte er sich auch an die eigene Nase packen",
+   "url": "https://www.formel1.de/nc/149713",
+   "date": "2026-11-05T09:46:57.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-05T11:17:23.898Z"
+  },
   {
    "title": "F1 champion Alan Jones passes away, aged 80",
    "summary": "1980 champion Alan Jones has passed away at the age of 80.",
@@ -24,7 +60,7 @@
    "firstSeen": "2026-11-05T09:17:19.127Z"
   },
   {
-   "title": "Formel-1-Team Cadillac vor Verkauf: Schlägt Liverpool-Eigentümer zu?",
+   "title": "Gerüchte um den Verkauf von Cadillacs Formel-1-Team",
    "summary": "Weil Mark Walter möglicherweise Anteile an Cadillac verkaufen muss, droht dem Formel-1-Team ein Eigentümer-Wechsel: Liverpool-Besitzer unter Interessenten",
    "url": "https://www.formel1.de/nc/149712",
    "date": "2026-11-05T09:00:06.000Z",
@@ -506,7 +542,7 @@
    "title": "\"Ich wäre in dieselbe Lücke gefahren\": Audi-Teamchef verteidigt Hülkenberg",
    "summary": "Oliver Bearman verlor in Mexiko durch eine Kollision mit Nico Hülkenberg wichtige Punkte - Trotzdem zeigt der Haas-Fahrer Verständnis für den Unfall",
    "url": "https://www.formel1.de/nc/149697",
-   "date": "2026-11-04T10:31:04.000Z",
+   "date": "2026-11-04T10:31:00.000Z",
    "source": "Formel1.de",
    "sourceId": "formel1de",
    "lang": "de",
@@ -951,39 +987,6 @@
    "teams": [],
    "team": null,
    "category": "Rennen",
-   "firstSeen": "2026-11-03T09:06:15.631Z"
-  },
-  {
-   "title": "Red Bulls goldene Entscheidung: So kam Max Verstappen zum Sieg",
-   "summary": "Wie Red Bulls entscheidender Strategie-Schachzug Max Verstappen in Mexiko zum Sieg verhalf und was die Strafe gegen Charles Leclerc damit zu tun hatte",
-   "url": "https://www.formel1.de/nc/149683",
-   "date": "2026-11-03T09:05:09.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "leclerc"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Regeln",
-   "firstSeen": "2026-11-03T09:06:15.631Z"
-  },
-  {
-   "title": "TV-Quoten Mexiko: Wie viele die WM-Entscheidung im Fernsehen sahen",
-   "summary": "Die Quoten zur WM-Entscheidung in der Formel-1-Fahrerwertung: Wie viele Zuschauer die \"Krönung\" von Kimi Antonelli live im Fernsehen verfolgten",
-   "url": "https://www.formel1.de/nc/149682",
-   "date": "2026-11-03T08:03:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Business",
    "firstSeen": "2026-11-03T09:06:15.631Z"
   }
  ]
