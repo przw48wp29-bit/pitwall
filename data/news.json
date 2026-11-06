@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T05:45:16.634Z",
+ "updatedAt": "2026-11-06T07:33:05.063Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,26 @@
   }
  },
  "items": [
+  {
+   "title": "Carlos Sainz betont: Gute Erinnerungen an Racing gegen Charles Leclerc",
+   "summary": "Carlos Sainz hatte im Gegensatz zu Lewis Hamilton keine Probleme mit Charles Leclerc als Teamkollege bei Ferrari - Harte Duelle im Kampf um den Sieg normal",
+   "url": "https://www.formel1.de/nc/149728",
+   "date": "2026-11-06T06:45:52.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "sainz",
+    "leclerc",
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "williams",
+   "category": "Rennen",
+   "firstSeen": "2026-11-06T07:33:04.897Z"
+  },
   {
    "title": "Erklärt: Wie jung ein Formel-1-Weltmeister sein kann",
    "summary": "Ein Formel-1-Weltmeister mit gerade einmal 17 Jahren? Was zunächst unmöglich klingt, ist laut FIA-Reglement unter bestimmten Voraussetzungen tatsächlich erlaubt",
@@ -956,22 +976,6 @@
    "drivers": [],
    "teams": [],
    "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-04T13:24:49.008Z"
-  },
-  {
-   "title": "Babyglück: Charles Leclerc ist erstmals Vater geworden",
-   "summary": "Charles Leclerc ist zwischen den Rennen in Mexiko und Brasilien Vater geworden - Tochter Bianca hat am Dienstag vor dem Sao-Paulo-GP das Licht der Welt erblickt",
-   "url": "https://www.formel1.de/nc/149700",
-   "date": "2026-11-04T13:12:58.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [],
-   "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-11-04T13:24:49.008Z"
   }
