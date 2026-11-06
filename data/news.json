@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T11:14:49.195Z",
+ "updatedAt": "2026-11-06T13:25:03.584Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,52 @@
   }
  },
  "items": [
+  {
+   "title": "Which rookies are getting FP1 outings in Brazil?",
+   "summary": "Six full-time drivers will make way for junior, test and reserve drivers during FP1 at the Autodromo Jose Carlos Pace, whilst another rookie makes his debut",
+   "url": "https://www.formula1.com/en/latest/article/which-rookie-drivers-are-getting-fp1-outings-at-the-sao-paulo-grand-prix.3DAnL1BS38Gu5KKzU70aBJ",
+   "date": "2026-11-06T13:25:03.561Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-11-06T13:25:03.561Z"
+  },
+  {
+   "title": "Piastri leads F1 community in tributes to Alan Jones",
+   "summary": "Oscar Piastri joined other members of the paddock in remembering Williams’ first World Champion, Alan Jones.",
+   "url": "https://www.formula1.com/en/latest/article/a-life-that-should-be-celebrated-piastri-leads-tributes-to-alan-jones-after-f1-champion-passes-away.7KCspK6xXT5mgKjUOyPu0f",
+   "date": "2026-11-06T13:24:03.561Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "piastri"
+   ],
+   "teams": [
+    "williams"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-11-06T13:25:03.561Z"
+  },
+  {
+   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
+   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
+   "url": "https://www.formel1.de/nc/146408",
+   "date": "2026-11-06T11:20:02.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-11-06T13:25:03.561Z"
+  },
   {
    "title": "Alan Permane handed Racing Bulls Team Principal renewal",
    "summary": "Alan Permane has signed a long-term contract extension that will see him remain Team Principal and Co-CEO Sporting of Racing Bulls through to the end of 2031.",
@@ -945,50 +991,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-11-04T17:10:48.722Z"
-  },
-  {
-   "title": "Leclerc-Strafe in Mexiko: \"Überrascht, dass es nur fünf Sekunden waren\"",
-   "summary": "Charles Leclerc spricht über seine Fünf-Sekunden-Strafe in Mexiko und erklärt, dass viele Strecken die Fahrer dazu einladen, \"Grauzonen\" im Reglement auszunutzen",
-   "url": "https://www.formel1.de/nc/149703",
-   "date": "2026-11-04T16:17:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Regeln",
-   "firstSeen": "2026-11-04T17:10:48.722Z"
-  },
-  {
-   "title": "Die Jaguar-Story: Wie Ford mit grossen Ambitionen in der Formel 1 scheiterte",
-   "summary": "Das Jaguar-Team soll im Auftrag von Autohersteller Ford die Formel 1 aufmischen, kommt jedoch in fünf Jahren nie über einzelne Achtungserfolge hinaus",
-   "url": "https://www.formel1.de/nc/149702",
-   "date": "2026-11-04T15:12:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-04T17:10:48.722Z"
-  },
-  {
-   "title": "QUIZ: How much do you know about Brazilian F1 drivers?",
-   "summary": "The Sao Paulo Grand Prix is coming up this weekend – so we've knocked up a quick fire quiz all about Brazilian Formula 1 drivers.",
-   "url": "https://www.formula1.com/en/latest/article/quiz-how-much-do-you-know-about-brazilian-f1-drivers.2vmvtHwIM9JiS7u5cTtu9C",
-   "date": "2026-11-04T15:05:48.527Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-04T15:05:48.527Z"
   }
  ]
 }
