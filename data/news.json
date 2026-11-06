@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T09:11:58.611Z",
+ "updatedAt": "2026-11-06T11:14:49.195Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,54 @@
   }
  },
  "items": [
+  {
+   "title": "Alan Permane handed Racing Bulls Team Principal renewal",
+   "summary": "Alan Permane has signed a long-term contract extension that will see him remain Team Principal and Co-CEO Sporting of Racing Bulls through to the end of 2031.",
+   "url": "https://www.formula1.com/en/latest/article/alan-permane-signs-deal-to-stay-as-racing-bulls-team-principal-through-to-2031.cuuzgpmUrpg3TLeF14TRy",
+   "date": "2026-11-06T11:14:49.180Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "Transfer",
+   "firstSeen": "2026-11-06T11:14:49.180Z"
+  },
+  {
+   "title": "Vasseur: Gut für die Formel 1, dass sechs bis acht Fahrer gewinnen können",
+   "summary": "Dass an der Spitze eine grosse Abwechslung herrscht, sieht Ferrari-Teamchef Frederic Vasseur als positiv an - Aber: Abstand zum Rest des Feldes ist gewachsen",
+   "url": "https://www.formel1.de/nc/149733",
+   "date": "2026-11-06T10:37:53.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-06T11:14:49.180Z"
+  },
+  {
+   "title": "Bis 2031: Racing Bulls verlängern mit Teamchef Alan Permane",
+   "summary": "Alan Permane bleibt bis 2031 Formel-1-Teamchef bei Racing Bulls: Unter dem Briten feiern die Jungbullen die erfolgreichste Saison der Teamgeschichte",
+   "url": "https://www.formel1.de/nc/149732",
+   "date": "2026-11-06T09:33:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "News",
+   "firstSeen": "2026-11-06T11:14:49.180Z"
+  },
   {
    "title": "Kimi Antonelli: Erst durch das T-Shirt wurde der WM-Titel real",
    "summary": "Kimi Antonelli konnte den Gewinn seines WM-Titels einige Zeit lang nicht begreifen: Erst ein T-Shirt in Sao Paulo machte die Angelegenheit für ihn sichtbar",
@@ -418,9 +466,9 @@
   },
   {
    "title": "Max Verstappen: Ich war am Tag nach meinem ersten Titel noch betrunken",
-   "summary": "Max Verstappen spricht über die Verpflichtungen eines Weltmeisters nach seinem Titel: Er selbst hatte vermutlich noch Restalkohol, von damals war es angenehm",
+   "summary": "Max Verstappen spricht über die Verpflichtungen eines Weltmeisters nach seinem Titel: Er selbst hatte vermutlich noch Restalkohol, von daher war es angenehm",
    "url": "https://www.formel1.de/nc/149719",
-   "date": "2026-11-05T18:23:18.000Z",
+   "date": "2026-11-05T18:23:00.000Z",
    "source": "Formel1.de",
    "sourceId": "formel1de",
    "lang": "de",
@@ -933,48 +981,6 @@
    "summary": "The Sao Paulo Grand Prix is coming up this weekend – so we've knocked up a quick fire quiz all about Brazilian Formula 1 drivers.",
    "url": "https://www.formula1.com/en/latest/article/quiz-how-much-do-you-know-about-brazilian-f1-drivers.2vmvtHwIM9JiS7u5cTtu9C",
    "date": "2026-11-04T15:05:48.527Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-04T15:05:48.527Z"
-  },
-  {
-   "title": "What tyres will the teams have for the Sao Paulo Grand Prix?",
-   "summary": "Pirelli have confirmed the tyre compounds that will be in use for the Sao Paulo Grand Prix weekend at the Autodromo Jose Carlos Pace.",
-   "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-sao-paulo-grand-prix.bjn9KJgqDprqvVr9z7i5V",
-   "date": "2026-11-04T15:04:48.527Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-04T15:05:48.527Z"
-  },
-  {
-   "title": "What is the weather forecast for the Sao Paulo Grand Prix?",
-   "summary": "The weather forecast is in ahead of the Sao Paulo Grand Prix from the Autodromo Jose Carlos Pace.",
-   "url": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2026-sao-paulo-grand-prix.6DTTG84ES6tbC6eISpqnR8",
-   "date": "2026-11-04T15:03:48.527Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-04T15:05:48.527Z"
-  },
-  {
-   "title": "Think you're Fan1? Win a VIP trip to Las Vegas",
-   "summary": "Think You're Fan1? Win a VIP Trip to the Las Vegas Grand Prix",
-   "url": "https://www.formula1.com/en/latest/article/think-youre-fan1-win-a-vip-trip-to-las-vegas-quiz-7.75ojGzsdD8ChdZpZOsYyGw",
-   "date": "2026-11-04T15:02:48.527Z",
    "source": "Formula1.com",
    "sourceId": "f1com",
    "lang": "en",
