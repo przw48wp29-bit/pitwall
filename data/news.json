@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T19:10:48.667Z",
+ "updatedAt": "2026-11-06T20:58:57.960Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,78 @@
  },
  "items": [
   {
-   "title": "LIVE COVERAGE: Second practice in Sao Paulo",
+   "title": "Komatsu on why fast-tracking Camara was a ‘tough decision’",
+   "summary": "Rafael Camara has been given an earlier-than-expected debut at the Sao Paulo Grand Prix – but Haas Team Principal Ayao Komatsu has conceded that the decision was not a straightforward one.",
+   "url": "https://www.formula1.com/en/latest/article/komatsu-explains-why-fast-tracking-camara-into-haas-seat-was-a-tough-decision-after-hirakawa-performance.6N8NbSuekc1oGCylHgVZ2g",
+   "date": "2026-11-06T20:58:57.946Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Rennen",
+   "firstSeen": "2026-11-06T20:58:57.946Z"
+  },
+  {
+   "title": "Antonelli tops the times from Norris in Sao Paulo FP2",
+   "summary": "Mercedes' Kimi Antonelli returned to P1 during FP2 at Interlagos, leading Lando Norris and Max Verstappen.",
+   "url": "https://www.formula1.com/en/latest/article/fp2-antonelli-tops-the-times-from-norris-in-second-practice-at-sao-paulo-gp.27XFbTG9Lji18qmtHbCJUA",
+   "date": "2026-11-06T20:57:57.946Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli",
+    "norris",
+    "max_verstappen"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-06T20:58:57.946Z"
+  },
+  {
+   "title": "Von wegen WM-Kater: Kimi Antonelli Schnellster am Freitag in Brasilien",
+   "summary": "Während Nico Hülkenberg nur zuschauen kann, klagen Verstappen und Hamilton über Probleme - und Kimi Antonelli fährt Freitagsbestzeit in Sao Paulo",
+   "url": "https://www.formel1.de/nc/149744",
+   "date": "2026-11-06T20:00:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli",
+    "hulkenberg",
+    "max_verstappen",
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-06T20:58:57.946Z"
+  },
+  {
+   "title": "Verstappen erklärt seine Funk-Ausbrüche: \"Ich bin nie zufrieden\"",
+   "summary": "Max Verstappen erklärt seine deutliche Funk-Kritik, spricht über Probleme mit Gangwechseln und Lenkung und sieht Fortschritte bei Red Bulls Kommunikation",
+   "url": "https://www.formel1.de/nc/149743",
+   "date": "2026-11-06T19:12:17.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-06T20:58:57.946Z"
+  },
+  {
+   "title": "AS IT HAPPENED: Second practice in Sao Paulo",
    "summary": "Live coverage of the second Formula 1 practice session ahead of the 2026 Sao Paulo Grand Prix in Brazil.",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-brazil-2026.55F7KTtVUfyntiKo9q9nhn",
    "date": "2026-11-06T19:10:48.579Z",
@@ -936,74 +1007,6 @@
    "team": "mercedes",
    "category": "Rennen",
    "firstSeen": "2026-11-05T13:29:34.909Z"
-  },
-  {
-   "title": "Play Higher or Lower for your chance to win 2027 GP tickets",
-   "summary": "Guess whether each driver's total career Grand Prix starts are higher or lower than the previous driver's for your chance to win 2027 Grand Prix tickets.",
-   "url": "https://www.formula1.com/en/latest/article/play-our-new-higher-or-lower-game-for-your-chance-to-win-2027-grand-prix-tickets-week9.30ogPEI8S51K84sEfdfynk",
-   "date": "2026-11-05T13:26:34.909Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-05T13:29:34.909Z"
-  },
-  {
-   "title": "Esteban Ocon und sein schwieriger Ruf: Die andere Seite des F1-Siegers",
-   "summary": "Esteban Ocon gilt als schnell, kämpferisch und manchmal schwierig: Nach dem Haas-Aus stellt sich die Frage, wie viel ihm sein Ruf geschadet hat",
-   "url": "https://www.formel1.de/nc/149715",
-   "date": "2026-11-05T13:05:16.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "ocon"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "News",
-   "firstSeen": "2026-11-05T13:29:34.909Z"
-  },
-  {
-   "title": "Mercedes enthüllt: Kimi Antonelli stand in Mexiko kurz vor dem Ausfall",
-   "summary": "Kimi Antonelli wurde in Mexiko Formel-1-Weltmeister, doch erst nach dem Rennen entdeckte Mercedes ein Problem, das beinahe zum Ausfall geführt hätte",
-   "url": "https://www.formel1.de/nc/149714",
-   "date": "2026-11-05T10:55:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-05T11:17:23.898Z"
-  },
-  {
-   "title": "Kommentar: Hamilton muss \"ernste Gespräche\" führen - auch mit sich selbst",
-   "summary": "Lewis Hamilton forderte nach dem Rennen in Mexiko \"ernste Gespräche\" bei Ferrari, dabei sollte er sich auch an die eigene Nase packen",
-   "url": "https://www.formel1.de/nc/149713",
-   "date": "2026-11-05T09:46:57.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-05T11:17:23.898Z"
   }
  ]
 }
