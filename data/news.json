@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T07:33:05.063Z",
+ "updatedAt": "2026-11-06T09:11:58.611Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,55 @@
   }
  },
  "items": [
+  {
+   "title": "Kimi Antonelli: Erst durch das T-Shirt wurde der WM-Titel real",
+   "summary": "Kimi Antonelli konnte den Gewinn seines WM-Titels einige Zeit lang nicht begreifen: Erst ein T-Shirt in Sao Paulo machte die Angelegenheit für ihn sichtbar",
+   "url": "https://www.formel1.de/nc/149731",
+   "date": "2026-11-06T09:06:39.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-06T09:11:58.596Z"
+  },
+  {
+   "title": "Max Verstappen: Manche wollen vielleicht gar nicht so beliebt sein wie Senna",
+   "summary": "Max Verstappen und Fernando Alonso philosophieren über das Standing von Formel-1-Legende Ayrton Senna - Der Niederländer hat nicht vor, so beliebt zu werden",
+   "url": "https://www.formel1.de/nc/149730",
+   "date": "2026-11-06T08:28:47.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "alonso"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-06T09:11:58.596Z"
+  },
+  {
+   "title": "Pierre Gasly: Wenn du Helmut Marko überlebt hast, haut dich nichts mehr um!",
+   "summary": "Pierr Gasly hat in Brasilien keine Angst vor Anfeindungen von Franco Colapintos Fans - Er sagt: Im Vergleich zu Helmut Marko sei alles andere kein Druck",
+   "url": "https://www.formel1.de/nc/149729",
+   "date": "2026-11-06T07:37:14.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "gasly"
+   ],
+   "teams": [],
+   "team": "alpine",
+   "category": "News",
+   "firstSeen": "2026-11-06T09:11:58.596Z"
+  },
   {
    "title": "Carlos Sainz betont: Gute Erinnerungen an Racing gegen Charles Leclerc",
    "summary": "Carlos Sainz hatte im Gegensatz zu Lewis Hamilton keine Probleme mit Charles Leclerc als Teamkollege bei Ferrari - Harte Duelle im Kampf um den Sieg normal",
@@ -934,50 +983,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-11-04T15:05:48.527Z"
-  },
-  {
-   "title": "How to stream the 2026 Sao Paulo Grand Prix on F1 TV Premium",
-   "summary": "The 2026 Formula 1 season continues this weekend at the Sao Paulo Grand Prix, held at the Autodromo Jose Carlos Pace. Here are all the details you need to follow the action live on F1 TV.",
-   "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-2026-sao-paulo-grand-prix-on-f1-tv-premium.4rjCzTC5bJOxfxhupS5UFW",
-   "date": "2026-11-04T15:01:48.527Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-04T15:05:48.527Z"
-  },
-  {
-   "title": "Nächster Titel? So wird Mercedes in Brasilien Konstrukteurs-Weltmeister",
-   "summary": "Mercedes hat in Brasilien den ersten Matchball in der Konstrukteurs-WM - So dürfen die Silberpfeile schon am Sonntag über den nächsten Titel jubeln",
-   "url": "https://www.formel1.de/nc/149701",
-   "date": "2026-11-04T14:05:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-04T15:05:48.527Z"
-  },
-  {
-   "title": "5 storylines we're excited about ahead of the Sao Paulo GP",
-   "summary": "Chris Medland runs through the biggest talking points as F1 heads to Sao Paulo for Round 20 of the 2026 season.",
-   "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-sao-paulo-grand-prix.6Pvk4v10hKccs7IS4X667x",
-   "date": "2026-11-04T13:24:49.008Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-04T13:24:49.008Z"
   }
  ]
 }
