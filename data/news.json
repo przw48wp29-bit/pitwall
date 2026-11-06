@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T15:01:18.821Z",
+ "updatedAt": "2026-11-06T17:07:12.685Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,150 @@
   }
  },
  "items": [
+  {
+   "title": "Camara looking to learn from Bearman on surprise F1 debut",
+   "summary": "Rafael Camara will be watching his fellow Ferrari Driver Academy colleague Ollie Bearman closely as the two team up at Haas for the first time this weekend.",
+   "url": "https://www.formula1.com/en/latest/article/camara-looking-to-learn-from-bearman-on-surprise-f1-debut-in-brazil.5d47nAelIarNkqGhVsTedK",
+   "date": "2026-11-06T17:07:12.470Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "bearman"
+   ],
+   "teams": [
+    "ferrari",
+    "haas"
+   ],
+   "team": "haas",
+   "category": "News",
+   "firstSeen": "2026-11-06T17:07:12.470Z"
+  },
+  {
+   "title": "Norris leads Antonelli and Verstappen in Sao Paulo FP1",
+   "summary": "Lando Norris finished fastest in Free Practice 1 ahead of the Sao Paulo Grand Prix, the McLaren driver beating Kimi Antonelli and Max Verstappen to top spot.",
+   "url": "https://www.formula1.com/en/latest/article/fp1-norris-leads-antonelli-and-verstappen-in-opening-sao-paulo-gp-practice-session.3GXL3rAROwHsLxnxn9hReY",
+   "date": "2026-11-06T17:06:12.470Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris",
+    "antonelli",
+    "max_verstappen"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-11-06T17:07:12.470Z"
+  },
+  {
+   "title": "AS IT HAPPENED: First practice for the Sao Paulo GP",
+   "summary": "Live coverage of the first Formula 1 practice session for the 2026 Sao Paulo Grand Prix in Brazil.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-brazil-2026.CYzUtCJCISC6hBcDRrctB",
+   "date": "2026-11-06T17:05:12.470Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-06T17:07:12.470Z"
+  },
+  {
+   "title": "Russell takes grid penalty at Sao Paulo Grand Prix",
+   "summary": "Mercedes' George Russell has spoken about why the decision has been made to serve an engine penalty at the Sao Paulo Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/well-try-and-come-back-through-russell-set-for-grid-penalty-at-sao-paulo-grand-prix.6hsUcdvDTFFezGL53SAODZ",
+   "date": "2026-11-06T17:04:12.470Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "russell"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Regeln",
+   "firstSeen": "2026-11-06T17:07:12.470Z"
+  },
+  {
+   "title": "Bearman doesn’t see Camara’s debut ‘as a shoot-out’",
+   "summary": "Ollie Bearman has looked ahead to Rafael Camara’s debut with Haas, with the Briton preparing to step into a leading role at the team.",
+   "url": "https://www.formula1.com/en/latest/article/eyes-are-going-to-be-on-us-bearman-declares-he-doesnt-see-camaras-debut-as-a-shoot-out.3KzdtXT52S9iQVC3ifgoYb",
+   "date": "2026-11-06T17:03:12.470Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "bearman"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "News",
+   "firstSeen": "2026-11-06T17:07:12.470Z"
+  },
+  {
+   "title": "Startplatzstrafe für Russell: Macht er es wie Hamilton 2021?",
+   "summary": "George Russell muss beim Grand Prix von Brasilien fünf Plätze in der Startaufstellung zurück - Die Rückversetzung war bereits einkalkuliert",
+   "url": "https://www.formel1.de/nc/149737",
+   "date": "2026-11-06T16:50:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell",
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-06T17:07:12.470Z"
+  },
+  {
+   "title": "FT1 Brasilien: Norris fährt Bestzeit, Überraschung durch Alpine-Junior",
+   "summary": "Lando Norris vor Kimi Antonelli im ersten Freien Training in Interlagos, aber die grosse Überraschung war Alpine-Freitagsfahrer Gabriele Mini auf Platz 7",
+   "url": "https://www.formel1.de/nc/149736",
+   "date": "2026-11-06T16:36:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris",
+    "antonelli"
+   ],
+   "teams": [
+    "alpine"
+   ],
+   "team": "alpine",
+   "category": "Rennen",
+   "firstSeen": "2026-11-06T17:07:12.470Z"
+  },
+  {
+   "title": "Ferrari vor heikler Aussprache: Reichen Gentleman-Regeln nicht mehr?",
+   "summary": "Nach dem Mexiko-Zoff müssen Hamilton, Leclerc und Vasseur Regeln finden: Chandhok fordert Anpassung, Collins sogar Konsequenzen bei Verstössen",
+   "url": "https://www.formel1.de/nc/149735",
+   "date": "2026-11-06T16:22:26.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Regeln",
+   "firstSeen": "2026-11-06T17:07:12.470Z"
+  },
   {
    "title": "Which rookies are getting FP1 outings in Brazil?",
    "summary": "Six full-time drivers will make way for junior, test and reserve drivers during FP1 at the Autodromo Jose Carlos Pace, whilst another rookie makes his debut",
@@ -862,135 +1006,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-11-04T19:15:34.751Z"
-  },
-  {
-   "title": "Warum ein Rücktritt für Toto Wolff auch weiterhin kein Thema ist",
-   "summary": "Auch nach dem WM-Triumph von Kimi Antonelli will Toto Wolff Mercedes-Teamchef bleiben - Einige Aufgaben hat der Österreicher aber bereits abgegeben",
-   "url": "https://www.formel1.de/nc/149706",
-   "date": "2026-11-04T19:02:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-04T19:15:34.751Z"
-  },
-  {
-   "title": "Spontanes Saisonfinale in Imola? Zwei Wochen Vorlauf würden reichen",
-   "summary": "Laut Allan McNish wäre es kein Problem, das Saisonfinale auch kurzfristig noch zu verlegen - Aktuell geht er aber davon aus, dass Katar und Abu Dhabi stattfinden",
-   "url": "https://www.formel1.de/nc/149705",
-   "date": "2026-11-04T18:17:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-04T19:15:34.751Z"
-  },
-  {
-   "title": "Haas: Warum Bearman in der Luft hängt - und was Ferrari damit zu tun hat",
-   "summary": "Oliver Bearman wurde von Haas noch immer nicht für die Saison 2027 bestätigt - Die Verzögerungen hängen mit seiner langfristigen Zukunft bei Ferrari zusammen",
-   "url": "https://www.formel1.de/nc/149704",
-   "date": "2026-11-04T17:31:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bearman"
-   ],
-   "teams": [
-    "ferrari",
-    "haas"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-04T19:15:34.751Z"
-  },
-  {
-   "title": "Where did it go wrong for Russell – and can he regroup for 2027?",
-   "summary": "F1 TV lead commentator Alex Jacques dissects a season in which Russell has been comprehensively beaten to the title by a less experienced team mate – and looks at what he must do now before next year's campaign.",
-   "url": "https://www.formula1.com/en/latest/article/where-did-it-go-wrong-for-russell-and-can-he-regroup-for-2027.2CNIpJmJWuYCp6J4UbzNPB",
-   "date": "2026-11-04T17:10:48.722Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Business",
-   "firstSeen": "2026-11-04T17:10:48.722Z"
-  },
-  {
-   "title": "When could Mercedes win the 2026 Teams' Championship?",
-   "summary": "Mercedes could clinch the 2026 Teams' Championship in Brazil, but what results do they need to secure the title? Here are all the points permutations.",
-   "url": "https://www.formula1.com/en/latest/article/points-permutations-when-could-mercedes-win-the-2026-f1-teams-championship.73hdGVkJl9FHxEvDNlNZKq",
-   "date": "2026-11-04T17:09:48.722Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-04T17:10:48.722Z"
-  },
-  {
-   "title": "Camara concedes ‘there is a lot to learn’ ahead of F1 debut",
-   "summary": "Rafael Camara has shared his initial thoughts on his upcoming debut for Haas at the Sao Paulo Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/camara-concedes-there-is-a-lot-to-learn-ahead-of-special-f1-debut-with-haas-in-sao-paulo.28dp6c9ntdxBu0xmEWAAUm",
-   "date": "2026-11-04T17:08:48.722Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Rennen",
-   "firstSeen": "2026-11-04T17:10:48.722Z"
-  },
-  {
-   "title": "Rosberg opens up on Hamilton relationship after retirement",
-   "summary": "In the latest episode of official podcast F1 Beyond The Grid, Nico Rosberg reflected on his shock retirement and evolved relationship with Lewis Hamilton.",
-   "url": "https://www.formula1.com/en/latest/article/well-just-not-be-best-friends-rosberg-opens-up-on-hamilton-relationship-after-his-sudden-retirement.6x4Chs81Z7ehgVIHmjr4fW",
-   "date": "2026-11-04T17:07:48.722Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-04T17:10:48.722Z"
-  },
-  {
-   "title": "The 5 drivers most likely to qualify fastest in Brazil",
-   "summary": "We have looked at the betting markets for Qualifying at the Autodromo Jose Carlos Pace and assessed the chances of the leading contenders for pole position.",
-   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-sao-paulo.632xqUGo5Z3N5BvznKa5CD",
-   "date": "2026-11-04T17:06:48.722Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-04T17:10:48.722Z"
   }
  ]
 }
