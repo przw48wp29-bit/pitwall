@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T17:07:12.685Z",
+ "updatedAt": "2026-11-06T19:10:48.667Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,148 @@
   }
  },
  "items": [
+  {
+   "title": "LIVE COVERAGE: Second practice in Sao Paulo",
+   "summary": "Live coverage of the second Formula 1 practice session ahead of the 2026 Sao Paulo Grand Prix in Brazil.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-brazil-2026.55F7KTtVUfyntiKo9q9nhn",
+   "date": "2026-11-06T19:10:48.579Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-06T19:10:48.579Z"
+  },
+  {
+   "title": "Nico Hülkenberg: Bortoleto und ich \"sind auf der gleichen Wellenlänge\"",
+   "summary": "Nico Hülkenberg betont sein gutes Verhältnis zu Gabriel Bortoleto und hat sich bei Oliver Bearman wegen des Unfalls in Mexiko entschuldigt",
+   "url": "https://www.formel1.de/nc/149742",
+   "date": "2026-11-06T19:05:44.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hulkenberg",
+    "bortoleto",
+    "bearman"
+   ],
+   "teams": [],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-11-06T19:10:48.579Z"
+  },
+  {
+   "title": "Antonelli über Online-Debatte: Musste mich auch an neue Autos anpassen",
+   "summary": "Der neue F1-Weltmeister Kimi Antonelli reagiert auf die Debatte, ob ihm der Titel durch die neue Fahrzeuggeneration zugefallen sei - Er habe selbst hart gearbeitet",
+   "url": "https://www.formel1.de/nc/149741",
+   "date": "2026-11-06T19:05:35.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-06T19:10:48.579Z"
+  },
+  {
+   "title": "Rosberg kritisiert Ferrari im Umgang mit Hamilton und Leclerc",
+   "summary": "Nico Rosberg, selbst aus mehreren Jahren Stallkrieg mit Lewis Hamilton gekennzeichnet, übt scharfe Kritik an Ferrari - Was verbessert werden muss",
+   "url": "https://www.formel1.de/nc/149740",
+   "date": "2026-11-06T18:02:59.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-06T19:10:48.579Z"
+  },
+  {
+   "title": "Formel-1-Motorenstrafen 2026: Die Übersicht",
+   "summary": "Die verwendeten Motorenteile während der Saison 2026 in der Übersicht: Wann welchem Formel-1-Fahrer eine Strafe droht",
+   "url": "https://www.formel1.de/nc/146406",
+   "date": "2026-11-06T17:52:27.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-11-06T19:10:48.579Z"
+  },
+  {
+   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
+   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
+   "url": "https://www.formel1.de/nc/146408",
+   "date": "2026-11-06T17:45:47.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-11-06T13:25:03.561Z"
+  },
+  {
+   "title": "Alonso & Verstappen: 24 Rennen pro Saison sind \"am Limit\"",
+   "summary": "Fernando Alonso und Max Verstappen halten 24 Rennen für grenzwertig und kritisieren Belastung, Reiseplanung sowie die lange Zeit fernab der Familie",
+   "url": "https://www.formel1.de/nc/149739",
+   "date": "2026-11-06T17:40:24.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "alonso",
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "aston_martin",
+   "category": "Rennen",
+   "firstSeen": "2026-11-06T19:10:48.579Z"
+  },
+  {
+   "title": "Ralf Schumacher zieht über Colton Herta her: \"Hat in der F1 nichts zu suchen\"",
+   "summary": "Colton Herta hat endlich seine Superlizenz für die Formel 1, doch Ralf Schumacher hält den Amerikaner für völlig ungeeignet und teilt heftig gegen ihn aus",
+   "url": "https://www.formel1.de/nc/149738",
+   "date": "2026-11-06T17:21:08.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-06T19:10:48.579Z"
+  },
+  {
+   "title": "Neue Frontflügel-Idee bei McLaren: Was das Brasilien-Update für 2027 bedeutet",
+   "summary": "Trotz des Rückstands auf die Spitze entwickelt McLaren seinen MCL40 weiter: Ein neues Frontflügelkonzept könnte sogar den Grundstein für 2027 legen",
+   "url": "https://www.formel1.de/nc/149693",
+   "date": "2026-11-06T17:11:08.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Technik",
+   "firstSeen": "2026-11-06T19:10:48.579Z"
+  },
   {
    "title": "Camara looking to learn from Bearman on surprise F1 debut",
    "summary": "Rafael Camara will be watching his fellow Ferrari Driver Academy colleague Ollie Bearman closely as the two team up at Haas for the first time this weekend.",
@@ -183,20 +325,6 @@
    ],
    "team": "mclaren",
    "category": "News",
-   "firstSeen": "2026-11-06T13:25:03.561Z"
-  },
-  {
-   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
-   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
-   "url": "https://www.formel1.de/nc/146408",
-   "date": "2026-11-06T11:20:02.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Transfer",
    "firstSeen": "2026-11-06T13:25:03.561Z"
   },
   {
@@ -876,136 +1004,6 @@
    "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-11-05T11:17:23.898Z"
-  },
-  {
-   "title": "F1 champion Alan Jones passes away, aged 80",
-   "summary": "1980 champion Alan Jones has passed away at the age of 80.",
-   "url": "https://www.formula1.com/en/latest/article/f1-champion-alan-jones-passes-away-aged-80.47VhlGhEpLtaMwCOlLAB3Y",
-   "date": "2026-11-05T09:17:19.127Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-05T09:17:19.127Z"
-  },
-  {
-   "title": "Gerüchte um den Verkauf von Cadillacs Formel-1-Team",
-   "summary": "Weil Mark Walter möglicherweise Anteile an Cadillac verkaufen muss, droht dem Formel-1-Team ein Eigentümer-Wechsel: Liverpool-Besitzer unter Interessenten",
-   "url": "https://www.formel1.de/nc/149712",
-   "date": "2026-11-05T09:00:06.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "News",
-   "firstSeen": "2026-11-05T09:17:19.127Z"
-  },
-  {
-   "title": "\"Er spricht Italienisch\": Verstappen scherzt über Unterschied zu Antonelli",
-   "summary": "Max Verstappen scherzt über den entscheidenden Unterschied zwischen Kimi Antonelli und sich selbst: \"Er spricht Italienisch!\"",
-   "url": "https://www.formel1.de/nc/149711",
-   "date": "2026-11-05T07:53:03.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-05T09:17:19.127Z"
-  },
-  {
-   "title": "Gehweg in Sao Paulo: Audi mit Sonderlackierung in Brasilien",
-   "summary": "Nico Hülkenberg und Gabriel Bortoleto bekommen beim Heimspiel des Brasilianers ein neues Design des Audi R26 spendiert, das eine Hommage an die Metropole ist",
-   "url": "https://www.formel1.de/nc/149710",
-   "date": "2026-11-05T06:58:16.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hulkenberg",
-    "bortoleto"
-   ],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "News",
-   "firstSeen": "2026-11-05T07:36:20.735Z"
-  },
-  {
-   "title": "Formel-1-Weltmeister Alan Jones ist tot: Er wurde 80 Jahre alt",
-   "summary": "Ferrari wollte ihn, Williams bekam ihn: Alan Jones wurde 1980 Formel-1-Weltmeister - Nun ist der Australier nach kurzer Krankheit im Alter von 80 Jahren gestorben",
-   "url": "https://www.formel1.de/nc/149709",
-   "date": "2026-11-05T06:34:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "williams",
-    "ferrari"
-   ],
-   "team": "williams",
-   "category": "News",
-   "firstSeen": "2026-11-05T07:36:20.735Z"
-  },
-  {
-   "title": "Ferrari-Duell mit Folgen: Warum Montoya jetzt Konsequenzen fordert",
-   "summary": "Ferrari verspielt in Mexiko eine mögliche Siegchance - Juan Pablo Montoya fordert Konsequenzen für Lewis Hamilton und Charles Leclerc",
-   "url": "https://www.formel1.de/nc/149708",
-   "date": "2026-11-05T06:25:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-05T07:36:20.735Z"
-  },
-  {
-   "title": "Er fuhr 98 Formel-1-Rennen: Heute produziert er Bio-Eier im grossen Stil",
-   "summary": "Pedro Diniz brachte viel Sponsorgeld mit, aber nie einen Podestplatz: Heute baut der Brasilianer auf 2.300 Hektar eine Bio-Landwirtschaft auf",
-   "url": "https://www.formel1.de/nc/149707",
-   "date": "2026-11-05T05:12:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-05T05:14:40.296Z"
-  },
-  {
-   "title": "Our early Bet Builder picks for Brazil",
-   "summary": "Our expert betting writers have picked a four-leg Bet Builder for the Sao Paulo Grand Prix, two podium finishes, a top six selection and a driver with points potential.",
-   "url": "https://www.formula1.com/en/latest/article/our-early-bet-builder-selections-for-the-sao-paulo-grand-prix.2muJoFsivUdZaVn0ujetRf",
-   "date": "2026-11-04T19:15:34.751Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-04T19:15:34.751Z"
   }
  ]
 }
