@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-06T20:58:57.960Z",
+ "updatedAt": "2026-11-06T22:55:28.889Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,201 @@
   }
  },
  "items": [
+  {
+   "title": "Red Bull ‘looking into quite a few changes’ for Verstappen",
+   "summary": "Max Verstappen endured problems with his downshifts and steering during the first day of action at Interlagos.",
+   "url": "https://www.formula1.com/en/latest/article/schmitz-confirms-red-bull-looking-into-quite-a-few-changes-following-verstappens-sao-paulo-issues.mt1q9B8dzsQIDHkp5YFUs",
+   "date": "2026-11-06T22:55:28.875Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-06T22:55:28.875Z"
+  },
+  {
+   "title": "What the teams said – Friday in Brazil",
+   "summary": "The drivers and teams report back from Friday practice at the Autodromo Jose Carlos Pace ahead of the 2026 Sao Paulo Grand Prix in Brazil.",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-brazil-2026.4WPgQlfi6v476KUJTYZeFM",
+   "date": "2026-11-06T22:54:28.875Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-06T22:55:28.875Z"
+  },
+  {
+   "title": "Ferrari have 'plenty to work on' in Brazil – Leclerc",
+   "summary": "Charles Leclerc believes Ferrari has \"plenty to work on\" as the team tries to find performance after Friday practice ahead of the Sao Paulo Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/leclerc-concedes-theres-plenty-to-work-on-for-ferrari-ahead-of-sao-paulo-gp.2cWYwXJTouoM7r1LMyyhKr",
+   "date": "2026-11-06T22:53:28.875Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-06T22:55:28.875Z"
+  },
+  {
+   "title": "Antonelli explains Sao Paulo mindset as new World Champion",
+   "summary": "Kimi Antonelli has outlined his refreshed approach to the Sao Paulo Grand Prix after he wrapped up the title last week in Mexico City.",
+   "url": "https://www.formula1.com/en/latest/article/im-trying-to-enjoy-more-antonelli-explains-his-mindset-in-sao-paulo-as-the-new-world-champion.1iucwqkOBiexeg1SJiMP27",
+   "date": "2026-11-06T22:52:28.875Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-06T22:55:28.875Z"
+  },
+  {
+   "title": "McLaren 'seemed to gain performance' with upgrades – Norris",
+   "summary": "Lando Norris believes that McLaren \"seemed to gain performance\" during Friday practice ahead of the Sao Paulo Grand Prix, with the team having brought several upgrades this weekend.",
+   "url": "https://www.formula1.com/en/latest/article/we-seemed-to-gain-performance-norris-offers-update-on-mclarens-upgrades-in-sao-paulo.6fULeVhwADSsEp722opGBk",
+   "date": "2026-11-06T22:51:28.875Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Technik",
+   "firstSeen": "2026-11-06T22:55:28.875Z"
+  },
+  {
+   "title": "‘Ferrari comes first’ – Vasseur confirms Hamilton/Leclerc talks",
+   "summary": "Ferrari boss Fred Vasseur reveals details of talks with Lewis Hamilton and Charles Leclerc after their Mexico GP battle, as Toto Wolff weighs in.",
+   "url": "https://www.formula1.com/en/latest/article/im-not-asking-them-to-be-best-friends-vasseur-confirms-hamilton-and-leclerc-talks-after-mexico-battle.4ijCE2voRopz229owYCphO",
+   "date": "2026-11-06T22:50:28.875Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-06T22:55:28.875Z"
+  },
+  {
+   "title": "Toto Wolff und das Deja-vu bei Ferrari: Eskalation ist manchmal notwendig!",
+   "summary": "Das Duell zwischen Charles Leclerc und Lewis Hamilton erinnert Toto Wolff an die eskalierenden Spannungen zwischen Hamilton und Nico Rosberg",
+   "url": "https://www.formel1.de/nc/149748",
+   "date": "2026-11-06T22:48:40.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc",
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-06T22:55:28.875Z"
+  },
+  {
+   "title": "McLaren-Upgrade eine \"angenehme Überraschung\": Bleibt es auch am Auto?",
+   "summary": "Lando Norris konnte mit dem McLaren im ersten Training die Bestzeit erzielen und lobt die Upgrades: Finale Entscheidung über Einsatz noch nicht gefallen",
+   "url": "https://www.formel1.de/nc/149747",
+   "date": "2026-11-06T22:18:22.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Technik",
+   "firstSeen": "2026-11-06T22:55:28.875Z"
+  },
+  {
+   "title": "Von wegen WM-Kater: Kimi Antonelli Schnellster am Freitag in Brasilien",
+   "summary": "Kimi Antonelli fährt in Brasilien die Bestzeit vor Norris und Verstappen, Nico Hülkenberg erlebt bei Audi dagegen einen Freitag zum Vergessen",
+   "url": "https://www.formel1.de/nc/149744",
+   "date": "2026-11-06T22:08:32.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli",
+    "norris",
+    "max_verstappen",
+    "hulkenberg"
+   ],
+   "teams": [
+    "audi"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-06T20:58:57.946Z"
+  },
+  {
+   "title": "Vasseur findet Berichte übertrieben: Sie haben sich nicht einmal berührt!",
+   "summary": "Ferrari-Teamchef Frederic Vasseur findet, dass aus dem Mexiko-Zwischenfall mehr gemacht wird als nötig - Zwei Alphatiere im Team nimmt der Rennstall bewusst hin",
+   "url": "https://www.formel1.de/nc/149746",
+   "date": "2026-11-06T21:53:17.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-06T22:55:28.875Z"
+  },
+  {
+   "title": "Toto Wolff verrät: Vasseur zahlte eine Million für F1-Cockpit von Ocon",
+   "summary": "Mercedes-Motorsportchef Toto Wolff verrät, dass Frederic Vasseur einst eine Million Dollar aus eigener Tasche bezahlte, um Esteban Ocon in die Formel 1 zu bekommen",
+   "url": "https://www.formel1.de/nc/149745",
+   "date": "2026-11-06T21:02:08.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "ocon"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "haas",
+   "category": "Transfer",
+   "firstSeen": "2026-11-06T22:55:28.875Z"
+  },
   {
    "title": "Komatsu on why fast-tracking Camara was a ‘tough decision’",
    "summary": "Rafael Camara has been given an earlier-than-expected debut at the Sao Paulo Grand Prix – but Haas Team Principal Ayao Komatsu has conceded that the decision was not a straightforward one.",
@@ -43,25 +238,6 @@
    ],
    "team": "mercedes",
    "category": "Rennen",
-   "firstSeen": "2026-11-06T20:58:57.946Z"
-  },
-  {
-   "title": "Von wegen WM-Kater: Kimi Antonelli Schnellster am Freitag in Brasilien",
-   "summary": "Während Nico Hülkenberg nur zuschauen kann, klagen Verstappen und Hamilton über Probleme - und Kimi Antonelli fährt Freitagsbestzeit in Sao Paulo",
-   "url": "https://www.formel1.de/nc/149744",
-   "date": "2026-11-06T20:00:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "hulkenberg",
-    "max_verstappen",
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
    "firstSeen": "2026-11-06T20:58:57.946Z"
   },
   {
@@ -852,161 +1028,6 @@
    "team": "red_bull",
    "category": "News",
    "firstSeen": "2026-11-05T19:13:30.205Z"
-  },
-  {
-   "title": "Max Verstappen: Ich war am Tag nach meinem ersten Titel noch betrunken",
-   "summary": "Max Verstappen spricht über die Verpflichtungen eines Weltmeisters nach seinem Titel: Er selbst hatte vermutlich noch Restalkohol, von daher war es angenehm",
-   "url": "https://www.formel1.de/nc/149719",
-   "date": "2026-11-05T18:23:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-05T19:13:30.205Z"
-  },
-  {
-   "title": "Aston Martin gibt zu: Wussten schon vor Mexiko, dass wir nicht ins Ziel kommen",
-   "summary": "Lance Stroll und Fernando Alonso kamen in Mexiko nur fünf Runden weit: Aston Martin wusste bereits im Vorfeld vom Ausfall, Honda bringt Gegenmassnahmen",
-   "url": "https://www.formel1.de/nc/149718",
-   "date": "2026-11-05T18:05:57.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "stroll",
-    "alonso"
-   ],
-   "teams": [
-    "aston_martin"
-   ],
-   "team": "aston_martin",
-   "category": "News",
-   "firstSeen": "2026-11-05T19:13:30.205Z"
-  },
-  {
-   "title": "Best value early bets for the Sao Paulo Grand Prix",
-   "summary": "We've assessed the latest betting markets and selected our pick of early bets offering the best value at Interlagos.",
-   "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-sao-paulo-grand-prix.3yJRpEDLMRWsN3G4UcfnoO",
-   "date": "2026-11-05T17:26:10.854Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-05T17:26:10.854Z"
-  },
-  {
-   "title": "Fluxa Cross to make F1 ACADEMY debut as Las Vegas Wild Card",
-   "summary": "F1 ACADEMY have announced that Luna Fluxa Cross will make her series debut as the Wild Card entry for the 2026 season finale in Las Vegas.",
-   "url": "https://www.formula1.com/en/latest/article/mercedes-junior-luna-fluxa-cross-to-make-f1-academy-debut-as-las-vegas-wild-card.5OvTeCLa83Orw8Qh1cgYC5",
-   "date": "2026-11-05T17:25:10.854Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-05T17:26:10.854Z"
-  },
-  {
-   "title": "LIVE COVERAGE: Build-up to the Sao Paulo GP weekend",
-   "summary": "Live coverage of all the build-up ahead of the 2026 Sao Paulo Grand Prix weekend in Brazil.",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-brazil-2026.c4SLvTtMWKmpWpKa8OQeF",
-   "date": "2026-11-05T17:24:10.854Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-05T17:26:10.854Z"
-  },
-  {
-   "title": "Gänsehaut bei Antonelli: Was er auf Sennas Anwesen erleben durfte",
-   "summary": "Ein Besuch, der ihn für immer begleiten wird: Zwei Tage nach seinem ersten WM-Titel erfüllt sich Kimi Antonelli in Brasilien einen ganz persönlichen Traum",
-   "url": "https://www.formel1.de/nc/149717",
-   "date": "2026-11-05T15:25:01.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-05T17:26:10.854Z"
-  },
-  {
-   "title": "Weltmeister nur durch Glück? \"Müssen sich die anderen an der Nase nehmen!\"",
-   "summary": "Hat Kimi Antonelli seinen WM-Titel nur den neuen Formel-1-Regeln zu verdanken? Alexander Wurz und Allan McNish erklären, warum die Kritiker falsch liegen …",
-   "url": "https://www.formel1.de/nc/149716",
-   "date": "2026-11-05T14:20:54.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Regeln",
-   "firstSeen": "2026-11-05T15:13:32.911Z"
-  },
-  {
-   "title": "Facts, stats and trivia ahead of the Sao Paulo Grand Prix",
-   "summary": "As F1 heads to the Autodromo Jose Carlos Pace for the Sao Paulo Grand Prix, Need To Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
-   "url": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-sao-paulo-grand-prix.3w1LZutz0yrGfP2Iz38vd8",
-   "date": "2026-11-05T13:29:34.909Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-05T13:29:34.909Z"
-  },
-  {
-   "title": "Everything you need to know about the Autodromo Jose Carlos Pace",
-   "summary": "Get up to speed with all the key Autodromo Jose Carlos Pace statistics, driving pointers, facts and more.",
-   "url": "https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-autodromo-jose-carlos-pace.409YTahcP9tBxfYEkjAeoD",
-   "date": "2026-11-05T13:28:34.909Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-05T13:29:34.909Z"
-  },
-  {
-   "title": "Mercedes reveal how close Antonelli came to Mexico DNF",
-   "summary": "Kimi Antonelli came dangerously close to retiring from the Mexico City Grand Prix, where a P3 finish helped him secure his maiden title.",
-   "url": "https://www.formula1.com/en/latest/article/right-on-the-edge-of-retirement-mercedes-reveal-how-close-antonelli-came-to-mexico-dnf.7iIZJXxnzN5HEz7WbDb3tl",
-   "date": "2026-11-05T13:27:34.909Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-05T13:29:34.909Z"
   }
  ]
 }
