@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T07:19:13.260Z",
+ "updatedAt": "2026-11-07T09:02:08.634Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,86 @@
   }
  },
  "items": [
+  {
+   "title": "What could shake-up the Interlagos betting markets?",
+   "summary": "After the lights go out in Sao Paulo, clued-up bettors will be poised to make smart betting decisions in real time markets.",
+   "url": "https://www.formula1.com/en/latest/article/what-could-turn-the-race-on-its-head-during-the-sao-paulo-grand-prix.6KujQenlA32et55AiQrTyB",
+   "date": "2026-11-07T09:02:08.620Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-07T09:02:08.620Z"
+  },
+  {
+   "title": "Permane gives update on Racing Bulls driver decision process",
+   "summary": "Alan Permane believes that \"the right decision will be made\" when Racing Bulls finally confirms its 2027 driver line-up, with the team \"trying to apply a little bit of science\" before making any announcement.",
+   "url": "https://www.formula1.com/en/latest/article/the-right-decision-will-be-made-permane-gives-update-on-driver-decision-process-at-racing-bulls.2kgfMJB54MrzV3I94KJHrG",
+   "date": "2026-11-07T09:01:08.620Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "Technik",
+   "firstSeen": "2026-11-07T09:02:08.620Z"
+  },
+  {
+   "title": "Can Mercedes keep their rivals at bay in Sao Paulo?",
+   "summary": "F1.com assesses the data to find out who looks to be the favourites after the first day on track at the Sao Paulo Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/can-mercedes-keep-their-rivals-at-bay-in-sao-paulo.7eVy5I4aTwZqm4N1WE2rBX",
+   "date": "2026-11-07T09:00:08.620Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-07T09:02:08.620Z"
+  },
+  {
+   "title": "Lewis Hamilton: Wollte nie so verbittert werden wie die anderen alten Fahrer",
+   "summary": "Lewis Hamilton verfolgt die Entwicklung der ganz jungen Formel-1-Fahrer mit grosser Begeisterung - Für das Verhalten einiger Kollegen hat er allerdings wenig Verständnis",
+   "url": "https://www.formel1.de/nc/149752",
+   "date": "2026-11-07T08:33:20.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-07T09:02:08.620Z"
+  },
+  {
+   "title": "Red Bull erklärt: Warum Max Verstappen das Freitagstraining vorzeitig beendet hat",
+   "summary": "Max Verstappen hat das Brasilien-Training vorzeitig beendet: Chefstrategin Hannah Schmitz, warum der Red-Bull-Pilot seinen Longrun am Freitag abgebrochen hat",
+   "url": "https://www.formel1.de/nc/149751",
+   "date": "2026-11-07T07:21:49.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-11-07T09:02:08.620Z"
+  },
   {
    "title": "Kimi Antonelli nach WM-Titel: Papa, darf ich mir jetzt ein Auto kaufen?",
    "summary": "Formel-1-Weltmeister Kimi Antonelli will sich für seinen frisch gewonnenen Titel belohnen - Warum er sich dabei überwinden muss",
@@ -947,88 +1027,6 @@
    "team": "cadillac",
    "category": "Technik",
    "firstSeen": "2026-11-05T21:03:51.475Z"
-  },
-  {
-   "title": "Oscar Piastri akzeptiert Strafe, aber: Richtlinien schwierig umzusetzen",
-   "summary": "Oscar Piastri findet keine Argumente gegen seine Strafe in Mexiko, findet jedoch, dass die Fahrrichtlinien für manche Passagen angepasst werden sollten",
-   "url": "https://www.formel1.de/nc/149723",
-   "date": "2026-11-05T20:44:02.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "piastri"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "Regeln",
-   "firstSeen": "2026-11-05T21:03:51.475Z"
-  },
-  {
-   "title": "Mit Verstappen angelegt: Lawson hat Auswirkungen davon unterschätzt",
-   "summary": "Liam Lawson ist frustriert, dass er trotz starker Leistungen noch keinen Vertrag für die kommende Formel-1-Saison hat - Verstappen-Kollision hat nicht geholfen",
-   "url": "https://www.formel1.de/nc/149722",
-   "date": "2026-11-05T20:21:23.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "lawson"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Transfer",
-   "firstSeen": "2026-11-05T21:03:51.475Z"
-  },
-  {
-   "title": "Lewis Hamilton bleibt hart: \"Werde mich niemals dafür entschuldigen\"",
-   "summary": "Der Streit zwischen Lewis Hamilton und Charles Leclerc ist noch nicht beigelegt - Jetzt spricht der siebenmalige Weltmeister offen über ein auffälliges Muster",
-   "url": "https://www.formel1.de/nc/149721",
-   "date": "2026-11-05T19:17:59.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-05T21:03:51.475Z"
-  },
-  {
-   "title": "Camara explains approach as he prepares for F1 debut",
-   "summary": "Rafael Camara states he will \"focus on things that I can control\" as the Brazilian prepares to make his Formula 1 debut with Haas at his home event in the Sao Paulo Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/focus-on-things-i-can-control-camara-explains-approach-as-he-prepares-for-f1-debut.YTyRpyv4hrReigw7dSIFA",
-   "date": "2026-11-05T19:13:30.205Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Rennen",
-   "firstSeen": "2026-11-05T19:13:30.205Z"
-  },
-  {
-   "title": "Hamilton's incredible F1 records ahead of his 400th GP",
-   "summary": "As Lewis Hamilton prepares for his 400th Grand Prix in Brazil, discover the incredible F1 records he holds, including his number of wins, pole positions and podium finishes.",
-   "url": "https://www.formula1.com/en/latest/article/in-numbers-the-incredible-records-hamilton-holds-ahead-of-his-400th-grand-prix.1yNnQ8vuefRFhQj4AprTh0",
-   "date": "2026-11-05T19:12:30.205Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-05T19:13:30.205Z"
   }
  ]
 }
