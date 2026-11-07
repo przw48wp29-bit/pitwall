@@ -24,7 +24,8 @@ import { fileURLToPath } from 'node:url';
 import { TEAMS } from '../assets/js/config.js';
 import { compactStrategy } from '../assets/js/data.js';
 import { buildICS } from '../assets/js/features.js';
-import { parseEntryTable, mergeContracts } from '../assets/js/wiki-grid.js';
+import { parseEntryTable, mergeContracts, parseSeasonEntries, teamIdOf, driverIdOf } from '../assets/js/wiki-grid.js';
+import { applyRoles, keepPrevious, racesFromEntries, knownFromEntries } from '../assets/js/roster.js';
 import { updateNews } from './news.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -84,35 +85,86 @@ async function racesAll(p) {
   return [...out.values()].sort((a, b) => a.round - b.round);
 }
 
+// Meldeliste der laufenden Saison aus Wikipedia: wer ist fuer welche Runden
+// gemeldet. Einzige Gratisquelle, die auch kommende Rennen abdeckt. Faellt sie
+// aus, arbeitet der Rest einfach mit den Ergebnissen weiter – dann fehlt nur
+// ein Debuetant bis zu seinem ersten Rennen.
+async function seasonEntries(season) {
+  const title = `${season} Formula One World Championship`;
+  try {
+    const url = `https://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&rvslots=main&format=json&formatversion=2&titles=${encodeURIComponent(title)}`;
+    const page = (await getJSON(url)).query?.pages?.[0];
+    if (!page || page.missing) throw new Error(`Artikel "${title}" fehlt`);
+    const rows = parseSeasonEntries(page.revisions[0].slots.main.content);
+    // Fahrer-IDs gegen alle Fahrer abgleichen, die Jolpica fuer die Saison
+    // kennt – dort stehen auch Debuetanten schon drin, nur ohne Wertung.
+    const all = (await J(`${season}/drivers.json?limit=100`)).DriverTable.Drivers;
+    const roster = all.map(d => ({ driverId: d.driverId, familyName: d.familyName }));
+    const byId = new Map(all.map(d => [d.driverId, d]));
+    const out = [];
+    for (const r of rows) {
+      const team = teamIdOf(r.entrant);
+      const id = driverIdOf(r.driver, roster);
+      if (!team || !id || !r.rounds?.length) continue;
+      const d = byId.get(id);
+      out.push({ id, team, rounds: r.rounds, number: d?.permanentNumber || r.number || null,
+        givenName: d?.givenName || r.driver.split(' ').slice(0, -1).join(' '),
+        familyName: d?.familyName || r.driver.split(' ').at(-1),
+        // Land und Artikel braucht nur ein Debuetant – bei ihm hat Jolpica
+        // ausser dem Namen nichts. Die URL holt spaeter das Portraet (media()).
+        nationality: d?.nationality || null,
+        country: r.country || null,
+        url: d?.url || (r.wiki ? `https://en.wikipedia.org/wiki/${encodeURIComponent(r.wiki.replace(/ /g, '_'))}` : null) });
+    }
+    // Zu wenige Cockpits heisst: die Tabelle sieht anders aus als erwartet.
+    if (out.length < 16) throw new Error(`nur ${out.length} Meldungen gelesen – Tabelle veraendert?`);
+    const last = Math.max(...out.flatMap(e => e.rounds));
+    log(`Meldeliste ${season}: ${out.length} Eintraege, zuletzt Runde ${last} (${out.filter(e => e.rounds.includes(last)).length} Fahrer gemeldet).`);
+    return out;
+  } catch (e) {
+    log('Meldeliste fehlgeschlagen, nutze Ergebnisse:', e.message);
+    return [];
+  }
+}
+
 async function snapshot() {
   log('Jolpica-Snapshot …');
   const sched = await J('current.json?limit=100');
   const ds = await J('current/driverStandings.json');
   const cs = await J('current/constructorStandings.json');
-  const last = await J('current/last/results.json').catch(() => null);
   const dl = ds.StandingsTable.StandingsLists[0];
   const cl = cs.StandingsTable.StandingsLists[0];
-  const lastRace = last?.RaceTable.Races[0];
-  if (lastRace) {
-    const cur = new Map(lastRace.Results.map(r => [r.Driver.driverId, r.Constructor.constructorId]));
-    for (const s of dl?.DriverStandings || []) {
-      const t = cur.get(s.Driver.driverId);
-      s.active = !!t;
-      if (t) s.Constructors.sort((a, b) => (a.constructorId === t) - (b.constructorId === t));
-    }
-  }
   const results = {
     races: await racesAll('current/results'),
     sprints: await racesAll('current/sprint'),
     quali: await racesAll('current/qualifying'),
   };
+  // Wer faehrt am kommenden Wochenende? Das steht nicht in den Ergebnissen –
+  // dort taucht ein Fahrer erst am Montag auf. Die Meldeliste im Wikipedia-
+  // Artikel zur laufenden Saison nennt ihn samt Runden schon vorher.
+  const entries = await seasonEntries(sched.RaceTable.season);
+  const races = entries.length ? racesFromEntries(entries) : results.races;
+  const known = knownFromEntries(entries);
+  const drivers = applyRoles(dl?.DriverStandings || [], races, { known });
   const core = {
     season: sched.RaceTable.season,
     schedule: sched.RaceTable.Races,
     standingsRound: +(dl?.round || 0),
-    drivers: dl?.DriverStandings || [],
+    drivers,
+    entries,
     constructors: cl?.ConstructorStandings || [],
   };
+
+  // Sicherung: Ab dem 1. Januar zeigt Jolpica auf die neue Saison und liefert
+  // wochenlang nichts, bis das erste Rennen gefahren ist. Ohne diese Bremse
+  // wuerde der taegliche Lauf die gute season.json mit leeren Listen
+  // ueberschreiben – und damit auch den Rueckfall der Website zerstoeren.
+  const prev = await readJSON('season.json');
+  if (keepPrevious(core, prev?.core)) {
+    log(`Saison ${core.season}: noch keine Daten bei Jolpica (${core.schedule.length} Rennen, ${drivers.length} Fahrer) – season.json bleibt unveraendert.`);
+    return { core: prev.core, results: prev.results };
+  }
+  if (!drivers.length) log('Warnung: keine Fahrerdaten und kein brauchbarer alter Stand – season.json wird trotzdem geschrieben.');
   await writeJSON('season.json', { generatedAt: new Date().toISOString(), core, results });
   return { core, results };
 }
