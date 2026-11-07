@@ -2,6 +2,7 @@
 // cached sie im Browser und fällt auf den täglichen Snapshot in /data zurück.
 
 import { API, TEAMS } from './config.js';
+import { applyRoles, provisionalGrid, racesFromEntries, knownFromEntries } from './roster.js';
 
 const mem = new Map();
 
@@ -73,31 +74,49 @@ export function loadCore(season = 'current') {
   if (corePromise) return corePromise;
   corePromise = (async () => {
     try {
-      const [sched, ds, cs, last] = await Promise.all([
+      const [sched, ds, cs, last, snap] = await Promise.all([
         J(`${season}.json?limit=100`),
         J(`${season}/driverStandings.json`),
         J(`${season}/constructorStandings.json`),
         J(`${season}/last/results.json`).catch(() => null),
+        fetchJSON('data/season.json', { ttl: 5 * 60e3 }).catch(() => null),
       ]);
       const dl = ds.StandingsTable.StandingsLists[0];
       const cl = cs.StandingsTable.StandingsLists[0];
-      // Jolpica sortiert die Teams eines Fahrers nicht chronologisch. Das
-      // aktuelle Team kommt aus dem letzten Rennen und wird ans Ende gestellt.
+      const year = sched.RaceTable.season;
+
+      // Wer sitzt gerade im Cockpit? Erste Wahl ist die Meldeliste aus dem
+      // Tagesschnappschuss (Wikipedia, siehe update.mjs): Sie kennt auch das
+      // kommende Wochenende und damit Fahrer, die noch nie gestartet sind.
+      // Ohne sie bleiben die Rennergebnisse – dann fehlt ein Debuetant bis zu
+      // seinem ersten Rennen, aber die Seite funktioniert.
+      const sameSeason = snap?.core?.season === year;
+      const entries = sameSeason ? snap.core.entries || [] : [];
       const lastRace = last?.RaceTable.Races[0];
-      if (lastRace) {
-        const cur = new Map(lastRace.Results.map(r => [r.Driver.driverId, r.Constructor.constructorId]));
-        for (const s of dl?.DriverStandings || []) {
-          const t = cur.get(s.Driver.driverId);
-          s.active = !!t;
-          if (t) s.Constructors.sort((a, b) => (a.constructorId === t) - (b.constructorId === t));
-        }
+      let field = entries.length ? racesFromEntries(entries) : null;
+      if (!field) {
+        field = sameSeason ? [...(snap.results?.races || [])] : [];
+        if (lastRace && !field.some(r => +r.round === +lastRace.round)) field.push(lastRace);
       }
+
+      let drivers = applyRoles(dl?.DriverStandings || [], field, { known: knownFromEntries(entries) });
+
+      // Saisonwechsel: Jolpica kennt die neue Saison erst ab dem ersten Rennen.
+      // Bis dahin zeigen wir die Startliste aus den Vertraegen (Wikipedia).
+      let provisional = false;
+      if (!drivers.length) {
+        const ed = await loadEditorial();
+        drivers = provisionalGrid(ed?.contracts, year, snap?.core?.drivers || []);
+        provisional = drivers.length > 0;
+      }
+
       return {
         live: true,
-        season: sched.RaceTable.season,
+        season: year,
         schedule: sched.RaceTable.Races,
         standingsRound: +(dl?.round || 0),
-        drivers: dl?.DriverStandings || [],
+        drivers,
+        provisional,
         constructors: cl?.ConstructorStandings || [],
       };
     } catch (err) {
