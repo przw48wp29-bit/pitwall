@@ -31,4 +31,7 @@ jobs:
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+          # Von Hand gestartet immer den vollen Abgleich machen, nicht nur die
+          # Resultat-Pruefung – sonst wartet man bis zur naechsten vollen Stunde.
+          FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '' }}
         run: node scripts/tippspiel.mjs
