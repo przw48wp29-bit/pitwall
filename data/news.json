@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T19:00:28.001Z",
+ "updatedAt": "2026-11-07T20:52:58.753Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,16 +10,53 @@
  },
  "items": [
   {
-   "title": "LIVE COVERAGE: Qualifying red-flagged in Brazil as rain pours",
+   "title": "Norris clinches pole in rain-affected Sao Paolo Qualifying",
+   "summary": "Lando Norris sealed his third consecutive pole position at Interlagos as he thrived in the wet Qualifying session.",
+   "url": "https://www.formula1.com/en/latest/article/norris-beats-russell-to-pole-position-in-dramatic-rain-affected-sao-paolo-qualifying.2V60rhlQjdS5my1uFrOKUH",
+   "date": "2026-11-07T20:52:58.733Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-11-07T20:52:58.733Z"
+  },
+  {
+   "title": "Verrücktes Regen-Qualifying: George Russell tobt nach Pole von Lando Norris",
+   "summary": "Lando Norris sichert sich die Poleposition in Sao Paulo, doch der grosse Aufreger des Regen-Qualifyings ist ein Funkspruch zwischen George Russell und Mercedes",
+   "url": "https://www.formel1.de/nc/149763",
+   "date": "2026-11-07T20:49:43.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell",
+    "norris"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-07T20:52:58.733Z"
+  },
+  {
+   "title": "LIVE COVERAGE: Norris takes pole in wet Sao Paulo Qualifying",
    "summary": "Live coverage of the Formula 1 Qualifying session for the 2026 Sao Paulo Grand Prix in Brazil.",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-brazil-2026.3f1u3JidkKoZ1jnhWOuAi8",
    "date": "2026-11-07T19:00:27.991Z",
    "source": "Formula1.com",
    "sourceId": "f1com",
    "lang": "en",
-   "drivers": [],
+   "drivers": [
+    "norris"
+   ],
    "teams": [],
-   "team": null,
+   "team": "mclaren",
    "category": "Rennen",
    "firstSeen": "2026-11-07T19:00:27.991Z"
   },
@@ -987,38 +1024,6 @@
    "team": "mclaren",
    "category": "News",
    "firstSeen": "2026-11-06T13:25:03.561Z"
-  },
-  {
-   "title": "Alan Permane handed Racing Bulls Team Principal renewal",
-   "summary": "Alan Permane has signed a long-term contract extension that will see him remain Team Principal and Co-CEO Sporting of Racing Bulls through to the end of 2031.",
-   "url": "https://www.formula1.com/en/latest/article/alan-permane-signs-deal-to-stay-as-racing-bulls-team-principal-through-to-2031.cuuzgpmUrpg3TLeF14TRy",
-   "date": "2026-11-06T11:14:49.180Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "rb"
-   ],
-   "team": "rb",
-   "category": "Transfer",
-   "firstSeen": "2026-11-06T11:14:49.180Z"
-  },
-  {
-   "title": "Vasseur: Gut für die Formel 1, dass sechs bis acht Fahrer gewinnen können",
-   "summary": "Dass an der Spitze eine grosse Abwechslung herrscht, sieht Ferrari-Teamchef Frederic Vasseur als positiv an - Aber: Abstand zum Rest des Feldes ist gewachsen",
-   "url": "https://www.formel1.de/nc/149733",
-   "date": "2026-11-06T10:37:53.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-06T11:14:49.180Z"
   }
  ]
 }
