@@ -46,18 +46,28 @@ async function rest(path, { method = 'GET', body, prefer } = {}) {
 }
 
 // ---------------------------------------------------------------------------
-// Läuft alle 10 Minuten (siehe tippspiel.yml). Kalender und Fahrerfeld ändern
-// sich fast nie – das reicht stündlich (volle Stunde). Resultate sollen aber
-// möglichst schnell nach einer Session da sein: die Prüfung dafür läuft daher
-// jedes Mal, wenn gerade eine Session (Quali/Sprint/Rennen) höchstens 3 Stunden
-// zurückliegt ("heisses Fenster"); ausserhalb bleibt es beim Stundentakt.
+// Läuft laut Zeitplan alle 10 Minuten (siehe tippspiel.yml). Kalender und
+// Fahrerfeld ändern sich selten – das reicht etwa stündlich. Resultate sollen
+// aber schnell nach einer Session da sein: die Prüfung dafür läuft jedes Mal,
+// wenn eine Session (Quali/Sprint/Rennen) höchstens 3 Stunden zurückliegt
+// ("heisses Fenster").
 const now = new Date();
-// Kalender und Fahrerfeld nur zur vollen Stunde – das aendert sich selten.
-// FORCE=1 erzwingt es trotzdem: Ohne das waere ein manueller Start ("Run
-// workflow") wirkungslos, weil er fast nie genau zur Minute 0 laeuft. Genau
-// das stand am 07.11.2026 im Weg, als ein neu gemeldeter Fahrer sofort ins
-// Tippspiel sollte.
-const isHourly = now.getUTCMinutes() === 0 || process.env.FORCE === '1';
+
+// ACHTUNG: Hier stand `now.getUTCMinutes() === 0`. GitHub startet geplante Jobs
+// aber NICHT punktgenau – gemessen am 07.11.2026 lagen die Starts bei Minute
+// 43, 09, 29, 50, 03, 14, 38, 04, 21, 39, 59, 11. Die Minute 0 kam nie vor.
+// Damit lief der Kalender- und Fahrerabgleich praktisch nie, und ausserhalb
+// eines Rennwochenendes brach das Skript sogar sofort ab.
+// Darum jetzt zeitbasiert: nachsehen, wann zuletzt abgeglichen wurde
+// (events.updated_at setzt nur dieser Abgleich), und nach 50 Minuten wieder.
+const SYNC_EVERY = 50 * 60e3;
+const lastSync = await rest('events?select=updated_at&order=updated_at.desc&limit=1')
+  .then(r => r?.[0]?.updated_at ? Date.parse(r[0].updated_at) : 0)
+  .catch(() => 0);
+const isHourly = process.env.FORCE === '1' || Date.now() - lastSync > SYNC_EVERY;
+log(isHourly
+  ? `Abgleich faellig (zuletzt ${lastSync ? new Date(lastSync).toISOString() : 'nie'}).`
+  : `Abgleich erst wieder in ${Math.ceil((SYNC_EVERY - (Date.now() - lastSync)) / 60e3)} Minuten.`);
 let season;
 
 if (isHourly) {
@@ -162,7 +172,7 @@ const recent = await rest(`events?season=eq.${season}&status=eq.scheduled&and=(r
 // oder Rennen), wird jetzt alle 10 Minuten geprüft statt nur stündlich.
 const SESSION_KEYS = ['quali_start', 'sprint_quali_start', 'sprint_start', 'race_start'];
 const hot = (recent || []).some(ev => SESSION_KEYS.some(k => ev[k] && Date.parse(ev[k]) <= Date.now() && Date.now() - Date.parse(ev[k]) < 3 * 3600e3));
-if (!hot && !isHourly) { log('Kein Rennwochenende gerade im Gang – nächste Resultat-Prüfung zur vollen Stunde.'); process.exit(0); }
+if (!hot && !isHourly) { log('Kein Rennwochenende gerade im Gang und Abgleich noch nicht faellig – nichts zu tun.'); process.exit(0); }
 
 for (const ev of recent || []) {
   const get = async kind => (await jolpica(`${season}/${ev.round}/${kind}.json`)).RaceTable.Races[0] || null;
