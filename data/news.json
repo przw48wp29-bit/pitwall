@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T14:54:45.985Z",
+ "updatedAt": "2026-11-07T16:53:51.646Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,81 @@
   }
  },
  "items": [
+  {
+   "title": "Verstappen beats Antonelli and Norris in Sao Paulo FP3",
+   "summary": "Max Verstappen finished fastest in Free Practice 3 ahead of the Sao Paulo Grand Prix, the Red Bull driver beating Kimi Antonelli and Lando Norris to the top of the leaderboard.",
+   "url": "https://www.formula1.com/en/latest/article/fp3-verstappen-fastest-from-antonelli-and-norris-ahead-of-sao-paulo-grand-prix.43ghT9dACzjrhxyjTBgKct",
+   "date": "2026-11-07T16:53:51.631Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen",
+    "antonelli",
+    "norris"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-11-07T16:53:51.631Z"
+  },
+  {
+   "title": "Hamilton, Leclerc and Verstappen set for Brazil grid drops",
+   "summary": "Lewis Hamilton, Charles Leclerc and Max Verstappen will take grid drops at this weekend’s Sao Paulo Grand Prix after Ferrari and Red Bull changed power unit components within their cars.",
+   "url": "https://www.formula1.com/en/latest/article/hamilton-leclerc-and-verstappen-set-for-sao-paulo-grand-prix-penalties-after-power-unit-changes.7B5CuFFCN1F6Txc8YwcEhd",
+   "date": "2026-11-07T16:52:51.631Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton",
+    "leclerc",
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull",
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Technik",
+   "firstSeen": "2026-11-07T16:53:51.631Z"
+  },
+  {
+   "title": "Verstappen-Bestzeit in Brasilien: Warum er trotzdem keine Pole holen kann",
+   "summary": "Max Verstappen schlägt Kimi Antonelli im letzten Training von Sao Paulo, doch ein Motorwechsel macht die Hoffnungen auf die Poleposition zunichte",
+   "url": "https://www.formel1.de/nc/149760",
+   "date": "2026-11-07T15:38:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Technik",
+   "firstSeen": "2026-11-07T16:53:51.631Z"
+  },
+  {
+   "title": "Motorwechsel: Verstappen, beide Ferraris und Russell mit Gridstrafen",
+   "summary": "Max Verstappen kassiert eine Motorstrafe und startet in Brasilien von hinten: Auch beide Ferraris und George Russell mit Rückversetzungen",
+   "url": "https://www.formel1.de/nc/149759",
+   "date": "2026-11-07T15:33:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "russell"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Technik",
+   "firstSeen": "2026-11-07T16:53:51.631Z"
+  },
   {
    "title": "F1 to race in Sao Paulo through to 2035 following new deal",
    "summary": "A new agreement will see Brazil’s renowned Interlagos circuit remain on the Formula 1 calendar through 2035.",
@@ -38,7 +113,7 @@
    "firstSeen": "2026-11-07T14:54:45.844Z"
   },
   {
-   "title": "LIVE COVERAGE: Third practice in Sao Paulo",
+   "title": "AS IT HAPPENED: Third practice in Sao Paulo",
    "summary": "Live coverage of the third Formula 1 practice session ahead of the 2026 Sao Paulo Grand Prix in Brazil.",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-brazil-2026.2bZye9K2vj2FHjUqPupvAU",
    "date": "2026-11-07T14:52:45.844Z",
@@ -60,6 +135,7 @@
    "sourceId": "formel1de",
    "lang": "de",
    "drivers": [
+    "rafael_camara",
     "ryo_hirakawa"
    ],
    "teams": [
@@ -239,7 +315,9 @@
    "source": "Formula1.com",
    "sourceId": "f1com",
    "lang": "en",
-   "drivers": [],
+   "drivers": [
+    "rafael_camara"
+   ],
    "teams": [
     "haas"
    ],
@@ -947,68 +1025,6 @@
    "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-11-06T07:33:04.897Z"
-  },
-  {
-   "title": "Erklärt: Wie jung ein Formel-1-Weltmeister sein kann",
-   "summary": "Ein Formel-1-Weltmeister mit gerade einmal 17 Jahren? Was zunächst unmöglich klingt, ist laut FIA-Reglement unter bestimmten Voraussetzungen tatsächlich erlaubt",
-   "url": "https://www.formel1.de/nc/149727",
-   "date": "2026-11-06T05:22:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
-   "firstSeen": "2026-11-06T05:45:16.633Z"
-  },
-  {
-   "title": "All the stories that got the Sao Paulo paddock talking",
-   "summary": "F1.com's Mike Seymour rounds up all the big talking points ahead of the 2026 Sao Paulo Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-sao-paulo-paddock-talking.1TWHXxrs4N9xUspvYpgb3H",
-   "date": "2026-11-05T22:59:57.195Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-05T22:59:57.195Z"
-  },
-  {
-   "title": "Norris wary of new McLaren upgrades in Sao Paulo",
-   "summary": "McLaren will introduce new upgrades for the Sao Paulo Grand Prix this weekend, with Lando Norris stating he wants \"to believe that we can still make improvements\" to this year's car.",
-   "url": "https://www.formula1.com/en/latest/article/want-to-believe-that-we-can-still-make-improvements-norris-wary-of-new-mclaren-upgrades-in-sao-paulo.6NvdXqDIqBz1Mw1xveJv0k",
-   "date": "2026-11-05T22:58:57.195Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Technik",
-   "firstSeen": "2026-11-05T22:59:57.195Z"
-  },
-  {
-   "title": "Antonelli reveals 'incredible' messages after becoming champion",
-   "summary": "Kimi Antonelli admits that \"the support has been incredible\" since he became Formula 1's youngest World Champion, and has revealed his favourite messages ahead of the Sao Paulo Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/the-support-has-been-incredible-antonelli-reveals-favourite-messages-after-becoming-world-champion.1QUQsQTsVGT4o6W3HoSFHa",
-   "date": "2026-11-05T22:57:57.195Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-05T22:59:57.195Z"
   }
  ]
 }
