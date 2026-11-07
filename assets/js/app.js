@@ -139,21 +139,51 @@ function podiumMini(race) {
 const contractFor = (ed, id) => (ed?.contracts || []).find(c => c.driverId === id);
 const teamOf = s => s.Constructors.at(-1).constructorId;
 
+// Wie der Fahrer gerade im Cockpit steht (assets/js/roster.js). Der Hinweis
+// steht neben dem Vertrags-Badge, nicht statt ihm: Ein Fahrer kann fuer naechste
+// Saison unterschrieben haben und trotzdem gerade nicht im Auto sitzen.
+const nameOfDriver = (core, id) => {
+  const d = core?.drivers?.find(x => x.Driver.driverId === id)?.Driver;
+  return d ? `${d.givenName} ${d.familyName}` : null;
+};
+// Aufstellung eines Teams: wer gerade faehrt – plus der Stammfahrer, der
+// gerade ersetzt wird. Ihn wegzulassen waere irrefuehrend: Man saehe nicht,
+// warum da auf einmal ein unbekannter Name steht.
+// In die WM-Tabelle gehoert nur, wer auch gewertet ist. Ein Fahrer, der erst
+// am Wochenende sein Debuet gibt, hat noch keinen Rang – er stuende sonst mit
+// leerer Position unter den Letzten.
+const ranked = core => core.drivers.filter(d => !d.newcomer);
+
+const lineupOf = (core, id) => core.drivers.filter(d =>
+  teamOf(d) === id && (d.active !== false || d.replacedBy));
+
+function roleTag(s, core) {
+  if (s.role === 'ersatz') {
+    const f = s.standsInFor && nameOfDriver(core, s.standsInFor);
+    return tag(f ? `Ersatz für ${f}` : 'Ersatzfahrer', 'warn');
+  }
+  if (s.role === 'raus' || s.active === false) {
+    const b = s.replacedBy && nameOfDriver(core, s.replacedBy);
+    return tag(b ? `ersetzt durch ${b}` : 'Kein Stammplatz');
+  }
+  return '';
+}
+
 // Fahrerkarte: einheitliches Action-Foto des Autos + rundes Porträt.
-function driverCard(s, ed, { size = '' } = {}) {
+function driverCard(s, ed, { size = '', core = null } = {}) {
   const D = s.Driver, tid = teamOf(s), T = team(tid);
   const c = contractFor(ed, D.driverId);
-  return `<a class="driver-card ${size}" href="#/driver/${D.driverId}" ${teamStyle(tid)} data-search="${esc((D.givenName + ' ' + D.familyName + ' ' + T.short + ' ' + D.code).toLowerCase())}" data-team="${tid}">
+  return `<a class="driver-card ${size} ${s.role === 'raus' || s.active === false ? 'out' : ''}" href="#/driver/${D.driverId}" ${teamStyle(tid)} data-search="${esc((D.givenName + ' ' + D.familyName + ' ' + T.short + ' ' + D.code).toLowerCase())}" data-team="${tid}">
     <div class="dc-photo">${img('driverCars', D.driverId, null, { width: 800, alt: `${D.familyName} im ${T.car}`, fallback: 'cars:' + tid })}</div>
     <div class="dc-shade"></div>
-    <div class="dc-top"><span class="dc-pos">P${s.position || '–'}</span>${natFlag(D.nationality, 14)}</div>
+    <div class="dc-top"><span class="dc-pos">P${s.position || '–'}</span>${natFlag(D.nationality, 14) || countryFlag(D.country, 14)}</div>
     <div class="dc-info">
       <div class="dc-num">${esc(D.permanentNumber || '')}</div>
       <div class="dc-first">${esc(D.givenName)}</div><div class="dc-last">${esc(D.familyName)}</div>
       <div class="dc-team">${esc(T.short)}</div>
     </div>
     <div class="dc-ava">${img('drivers', D.driverId, D.url, { width: 330, alt: '' })}</div>
-    <div class="dc-foot"><span class="dc-pts">${s.points} <small>PKT</small></span>${c ? contractTag(c) : s.active === false ? tag('Kein Stammplatz') : ''}</div>
+    <div class="dc-foot"><span class="dc-pts">${s.points} <small>PKT</small></span>${roleTag(s, core)}${c ? contractTag(c) : ''}</div>
   </a>`;
 }
 
@@ -226,7 +256,7 @@ async function home() {
   then(() => T.homeTipCard(document.getElementById('tipcard')));
   return `<div id="tipcard" class="tipcard-slot"></div>${hero}
   <section class="section grid g-main">
-    <div class="card">${cardHead('Fahrer-WM', '<a class="muted" href="#/standings" style="font-size:13px">Komplett ›</a>')}${tableOf(core.drivers.slice(0, 10).map(s => standingRow(s, maxD)).join(''))}</div>
+    <div class="card">${cardHead('Fahrer-WM', '<a class="muted" href="#/standings" style="font-size:13px">Komplett ›</a>')}${tableOf(ranked(core).slice(0, 10).map(s => standingRow(s, maxD)).join(''))}</div>
     <div class="stack">
       ${titleBox}
       <div class="card">${cardHead('Konstrukteurs-WM', '<a class="muted" href="#/standings?c" style="font-size:13px">Komplett ›</a>')}${tableOf(core.constructors.slice(0, 6).map(s => constructorRow(s, maxC)).join(''))}</div>
@@ -239,7 +269,7 @@ async function home() {
     ${latestUpg ? `<div><div class="section-head"><h2>Neue Teile · ${esc(raceShort(latestUpg.race))}</h2><a class="link" href="#/upgrades">Alle Upgrades</a></div><div class="stack">${latestUpg.list.filter(u => u.items?.length).slice(0, 4).map(u => upgradeCard(u)).join('')}</div></div>` : ''}
   </section>
   ${prog?.storylines?.length ? `<section class="section">${sectionHead('Storylines')}<div class="grid g3">${prog.storylines.map(s => `<div class="card card-pad story"><h3>${esc(s.title)}</h3><p class="muted" style="margin:8px 0 0;font-size:14px">${esc(s.text)}</p></div>`).join('')}</div></section>` : ''}
-  <section class="section">${sectionHead('Drivers', '#/drivers')}<div class="grid g4">${core.drivers.slice(0, 4).map(s => driverCard(s, ed)).join('')}</div></section>
+  <section class="section">${sectionHead('Drivers', '#/drivers')}<div class="grid g4">${core.drivers.slice(0, 4).map(s => driverCard(s, ed, { core })).join('')}</div></section>
   <section class="section grid g3 quick">
     <a class="quick-card" href="#/simulator"><span class="qi">🧮</span><b>WM-Simulator</b><span>Wer wird Weltmeister, wenn …?</span></a>
     <a class="quick-card" href="#/compare"><span class="qi">⚖️</span><b>Fahrervergleich</b><span>Zwei Fahrer im direkten Duell</span></a>
@@ -383,7 +413,7 @@ async function standings() {
   const showC = location.hash.includes('?c');
   const maxD = +core.drivers[0]?.points || 1, maxC = +core.constructors[0]?.points || 1;
   const t = tabs([
-    { id: 'd', label: 'Fahrer', html: `<div class="card">${tableOf(core.drivers.map(s => standingRow(s, maxD)).join(''), '<thead><tr><th>Pos</th><th>Fahrer</th><th class="hide-sm"></th><th class="r hide-sm">Siege</th><th class="r">Pkt</th></tr></thead>')}</div>` },
+    { id: 'd', label: 'Fahrer', html: `<div class="card">${tableOf(ranked(core).map(s => standingRow(s, maxD)).join(''), '<thead><tr><th>Pos</th><th>Fahrer</th><th class="hide-sm"></th><th class="r hide-sm">Siege</th><th class="r">Pkt</th></tr></thead>')}</div>` },
     { id: 'c', label: 'Konstrukteure', html: `<div class="card">${tableOf(core.constructors.map(s => constructorRow(s, maxC)).join(''), '<thead><tr><th>Pos</th><th>Team</th><th class="hide-sm"></th><th class="r hide-sm">Siege</th><th class="r">Pkt</th></tr></thead>')}</div>` },
   ], { active: showC ? 1 : 0 });
   then(async () => {
@@ -426,8 +456,8 @@ async function drivers() {
   return `${pageHead(`F1 Drivers ${esc(core.season)}`, 'Alle Fahrer der aktuellen Saison, sortiert nach WM-Stand. Das Badge zeigt den Vertragsstatus für die nächste Saison.', '', '<a class="btn ghost small" href="#/compare">Fahrer vergleichen</a>')}
     <div class="toolbar"><input class="input" id="q" type="search" placeholder="Fahrer, Team oder Kürzel suchen…"></div>
     <div class="chips"><button class="chip active" data-tf="">Alle</button>${teamsIn.map(t => `<button class="chip" data-tf="${t}" ${teamStyle(t)}><span class="dot"></span>${esc(team(t).short)}</button>`).join('')}</div>
-    <div class="grid g3">${active.map(s => driverCard(s, ed)).join('')}</div>
-    ${others.length ? `<section class="section">${sectionHead('Weitere Fahrer dieser Saison')}<div class="grid g3">${others.map(s => driverCard(s, ed)).join('')}</div></section>` : ''}`;
+    <div class="grid g3">${active.map(s => driverCard(s, ed, { core })).join('')}</div>
+    ${others.length ? `<section class="section">${sectionHead('Weitere Fahrer dieser Saison')}<div class="grid g3">${others.map(s => driverCard(s, ed, { core })).join('')}</div></section>` : ''}`;
 }
 
 async function driverDetail(id) {
@@ -555,7 +585,7 @@ async function teamDetail(id) {
   if (!s) return notFound();
   const T = team(id);
   const info = ed?.teamInfo?.[id] || {};
-  const ds = core.drivers.filter(d => d.active !== false && teamOf(d) === id);
+  const ds = lineupOf(core, id);
   const res = await loadResults().catch(() => null);
   const ups = (ed?.upgrades || []).filter(u => u.team === id).sort((a, b) => b.round - a.round);
   const news = ((await loadNews().catch(() => null))?.items || []).filter(n => n.team === id || (n.teams || []).includes(id));
@@ -587,7 +617,7 @@ async function teamDetail(id) {
     <section class="section"><div class="facts f4">
       ${[['Auto', info.car || T.car], ['Power Unit', info.powerUnit || T.pu], ['Teamchef', info.principal || T.principal], ['Basis', info.base || T.base], ['Siege', s.wins], ['Podien', podiums], ['Poles', poles], ['Neue Teile', partCount]].map(([k, v]) => `<div class="fact"><div class="k">${k}</div><div class="v ${typeof v === 'string' && v.length > 6 ? 'small' : ''}">${esc(v === '' || v == null ? '–' : v)}</div></div>`).join('')}
     </div>${info.note ? `<p class="prose mt">${esc(info.note)}</p>` : ''}</section>
-    <section class="section">${sectionHead('Fahrer')}<div class="grid g2">${ds.map(d => driverCard(d, ed)).join('')}</div></section>
+    <section class="section">${sectionHead('Fahrer')}<div class="grid g2">${ds.map(d => driverCard(d, ed, { core })).join('')}</div></section>
     ${perRace.length ? `<section class="section"><div class="card">${cardHead('Punkte pro Wochenende')}<div class="card-pad">${barChart(perRace, { color: T.color })}</div></div></section>` : ''}
     <section class="section">${sectionHead('Upgrades ' + esc(core.season), '#/upgrades')}${ups.length ? `<div class="stack">${ups.map(u => upgradeCard(u, { showRace: true })).join('')}</div>` : empty('Keine Upgrades erfasst.')}</section>
     ${news.length ? `<section class="section">${sectionHead('News')}<div class="grid g3">${news.slice(0, 6).map(n => newsCard(n)).join('')}</div></section>` : ''}`;
@@ -905,7 +935,7 @@ async function boot() {
       ? `Live-Daten · Tagesupdate ${upd ? fmtDate(upd, { day: 'numeric', month: 'short' }) + ', ' + fmtTime(upd) : 'ausstehend'}`
       : `Offline-Snapshot vom ${fmtDate(new Date(core.snapshotAt))}`;
     const t = document.getElementById('ticker');
-    t.innerHTML = core.drivers.filter(s => s.active !== false).map(s => `<a class="ticker-chip" href="#/driver/${s.Driver.driverId}" ${teamStyle(teamOf(s))} title="${esc(s.Driver.givenName + ' ' + s.Driver.familyName)}"><span class="av">${img('drivers', s.Driver.driverId, s.Driver.url, { width: 120 })}</span><span><b>${s.position}</b>${esc(s.Driver.code)}</span></a>`).join('');
+    t.innerHTML = core.drivers.filter(s => s.active !== false).map(s => `<a class="ticker-chip" href="#/driver/${s.Driver.driverId}" ${teamStyle(teamOf(s))} title="${esc(s.Driver.givenName + ' ' + s.Driver.familyName)}"><span class="av">${img('drivers', s.Driver.driverId, s.Driver.url, { width: 120 })}</span><span><b>${s.position || ''}</b>${esc(s.Driver.code || '')}</span></a>`).join('');
     hydrateImages(t);
     const tickLive = () => document.querySelector('.nav-live').classList.toggle('is-live', !!liveSession(core));
     tickLive(); setInterval(tickLive, 60e3);
