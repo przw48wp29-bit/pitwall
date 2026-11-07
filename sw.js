@@ -4,14 +4,21 @@
 // - Daten (data/*.json, APIs): zuerst Netz, bei Offline der letzte Stand
 // - Bilder: Cache, sobald einmal geladen
 
-const VERSION = 'pitwall-v5';
+const VERSION = 'pitwall-v6';
+// WICHTIG: Jedes Modul, das die Seite fest importiert, gehoert hier hinein –
+// sonst fehlt es offline. Nur dynamisch nachgeladene (tipp/dev.js, tipp/pg.js)
+// und reine Node-Module (wiki-grid.js) bleiben draussen. Nach jeder Aenderung
+// VERSION hochzaehlen, damit die Besucher den alten Zwischenspeicher loswerden.
+// Geprueft vom Test «Service Worker kennt alle fest importierten Module».
 const SHELL = [
   './', 'index.html', 'manifest.webmanifest',
   'assets/css/style.css', 'assets/css/tipp.css',
   'assets/js/app.js', 'assets/js/config.js', 'assets/js/data.js', 'assets/js/ui.js', 'assets/js/stats.js',
   'assets/js/shared.js', 'assets/js/charts.js', 'assets/js/features.js', 'assets/js/news-feed.js',
+  'assets/js/roster.js',
   'assets/js/tipp/api.js', 'assets/js/tipp/common.js', 'assets/js/tipp/views.js', 'assets/js/tipp/form.js',
   'assets/js/tipp/rules.js', 'assets/js/tipp/sync.js', 'assets/js/tipp/ranking.js', 'assets/js/tipp/standings.js',
+  'assets/js/tipp/reactions.js', 'assets/js/tipp/titles.js',
   'assets/icons/icon.svg', 'assets/icons/icon-192.png',
 ];
 
