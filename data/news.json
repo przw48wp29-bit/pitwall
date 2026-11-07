@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T05:04:12.526Z",
+ "updatedAt": "2026-11-07T07:19:13.260Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Kimi Antonelli nach WM-Titel: Papa, darf ich mir jetzt ein Auto kaufen?",
+   "summary": "Formel-1-Weltmeister Kimi Antonelli will sich für seinen frisch gewonnenen Titel belohnen - Warum er sich dabei überwinden muss",
+   "url": "https://www.formel1.de/nc/149750",
+   "date": "2026-11-07T06:01:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-07T07:19:13.246Z"
+  },
   {
    "title": "Camara reflects on 'very special' F1 weekend debut",
    "summary": "Rafael Camara got his first taste behind the wheel of a 2026 F1 car as he gears up for his debut Grand Prix with Haas.",
@@ -1003,22 +1019,6 @@
    "summary": "As Lewis Hamilton prepares for his 400th Grand Prix in Brazil, discover the incredible F1 records he holds, including his number of wins, pole positions and podium finishes.",
    "url": "https://www.formula1.com/en/latest/article/in-numbers-the-incredible-records-hamilton-holds-ahead-of-his-400th-grand-prix.1yNnQ8vuefRFhQj4AprTh0",
    "date": "2026-11-05T19:12:30.205Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-05T19:13:30.205Z"
-  },
-  {
-   "title": "Can Hamilton celebrate 400th GP with Brazil win?",
-   "summary": "Formula 1 heads to Brazil this weekend, with Lewis Hamilton becoming only the second driver in history to reach 400 Grand Prix starts.",
-   "url": "https://www.formula1.com/en/latest/article/can-lewis-hamilton-celebrate-400th-grand-prix-appearance-with-sao-paulo-grand-prix-win.6O8sThsqZ2HQ8Pza5yN58m",
-   "date": "2026-11-05T19:11:30.205Z",
    "source": "Formula1.com",
    "sourceId": "f1com",
    "lang": "en",
