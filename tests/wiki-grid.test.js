@@ -3,7 +3,7 @@
 // nur mit gekürzten Fussnoten.
 
 import { suite, assert } from './harness.js';
-import { parseEntryTable, teamIdOf, driverIdOf, mergeContracts } from '../assets/js/wiki-grid.js';
+import { parseEntryTable, teamIdOf, driverIdOf, mergeContracts, parseSeasonEntries, parseRounds, entryRaces } from '../assets/js/wiki-grid.js';
 
 const ROSTER = [
   { driverId: 'max_verstappen', familyName: 'Verstappen', team: 'red_bull' },
@@ -89,6 +89,54 @@ export default async function wikiGridTests({ readText }) {
     const twice = mergeContracts(once, entries, ROSTER, { season: 2027 });
     assert.deepEqual(twice, once, 'zweiter Lauf ändert nichts');
     assert.equal(twice.find(c => c.driverId === 'camara').sources.length, 1);
+  });
+
+  // --- Meldeliste der laufenden Saison (Spalte «Rounds») ---
+  const season2026 = await readText('tests/fixtures/wiki-2026-entries.txt');
+  const entries = parseSeasonEntries(season2026);
+  const of = team => entries.filter(e => e.entrant === team);
+
+  t('Rundenangaben lesen: Bereiche, Listen, Fussnoten', () => {
+    assert.deepEqual(parseRounds('20'), [20]);
+    assert.deepEqual(parseRounds('1–5'), [1, 2, 3, 4, 5], 'Gedankenstrich');
+    assert.deepEqual(parseRounds('1-3'), [1, 2, 3], 'Bindestrich');
+    assert.deepEqual(parseRounds('1–3, 7'), [1, 2, 3, 7], 'Liste aus Bereich und Einzelrunde');
+    assert.deepEqual(parseRounds('1–2{{efn|irgendein Hinweis mit [[Link]]}}'), [1, 2], 'Fussnote stoert nicht');
+    assert.deepEqual(parseRounds(''), []);
+  });
+
+  t('Meldeliste: mehrere Fahrer pro Team-Zeile, mit Runden', () => {
+    const haas = of('Haas');
+    assert.deepEqual(haas.map(e => e.driver), ['Esteban Ocon', 'Ryo Hirakawa', 'Rafael Câmara', 'Oliver Bearman']);
+    assert.deepEqual(haas.map(e => e.number), ['31', '50', '51', '87'], 'Nummern bleiben den Fahrern zugeordnet');
+    assert.deepEqual(haas.find(e => e.driver === 'Rafael Câmara').rounds, [20], 'Debuetant ist fuer Runde 20 gemeldet');
+    assert.equal(haas.find(e => e.driver === 'Esteban Ocon').rounds.length, 19, 'Ocon 1–19');
+    assert.deepEqual(of('Racing Bulls').find(e => e.driver === 'Liam Lawson').rounds.slice(-3), [18, 19, 20]);
+    assert.deepEqual(of('Racing Bulls').find(e => e.driver === 'Yuki Tsunoda').rounds, [12, 13, 14], 'Luecke mittendrin');
+  });
+
+  t('Meldeliste: Teams mit zwei festen Fahrern', () => {
+    assert.deepEqual(of('Ferrari').map(e => e.driver), ['Charles Leclerc', 'Lewis Hamilton']);
+    assert.ok(of('Ferrari').every(e => e.rounds.length === 20), 'beide ueber die ganze Saison');
+  });
+
+  t('Meldeliste wird zu Pseudo-Rennen für die Rollenlogik', () => {
+    const roster = [
+      { driverId: 'ocon', familyName: 'Ocon' }, { driverId: 'bearman', familyName: 'Bearman' },
+      { driverId: 'ryo_hirakawa', familyName: 'Hirakawa' }, { driverId: 'rafael_camara', familyName: 'Camara' },
+    ];
+    const races = entryRaces(of('Haas'), roster);
+    assert.equal(races.length, 20, 'eine Runde je gemeldetem Rennen');
+    assert.equal(races.at(-1).round, '20');
+    assert.deepEqual(races.at(-1).Results.map(r => r.Driver.driverId).sort(), ['bearman', 'rafael_camara'],
+      'fuer Runde 20 sind genau Bearman und Câmara gemeldet');
+    assert.ok(races.at(-1).Results.every(r => r.Constructor.constructorId === 'haas'));
+  });
+
+  t('Fehlender Abschnitt: leer statt Absturz', () => {
+    assert.deepEqual(parseSeasonEntries(''), []);
+    assert.deepEqual(parseSeasonEntries('== Entries ==\nkein Tabellenanfang'), []);
+    assert.deepEqual(entryRaces([], []), []);
   });
 
   return t;
