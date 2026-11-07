@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T09:02:08.634Z",
+ "updatedAt": "2026-11-07T10:56:19.449Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,38 @@
   }
  },
  "items": [
+  {
+   "title": "Warum Daniel Ricciardo dem Paddock der Formel 1 seit zwei Jahren fernbleibt",
+   "summary": "Daniel Ricciardo hat sich nach seiner aktiven Karriere zurückgezogen: Der Australier ist sich nicht sicher, ob er überhaupt noch einmal ins Formel-1-Paddock zurückkehrt",
+   "url": "https://www.formel1.de/nc/149755",
+   "date": "2026-11-07T10:50:38.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-07T10:56:19.437Z"
+  },
+  {
+   "title": "George Russell: In 14 Rennen hatte ich Probleme, nur sechs Rennen liefen glatt",
+   "summary": "Nur sechs Rennen ohne Probleme und immer wieder technische Rückschläge bei Mercedes: George Russell zieht eine ernüchternde Bilanz seiner Formel-1-Saison 2026",
+   "url": "https://www.formel1.de/nc/149753",
+   "date": "2026-11-07T09:44:38.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-07T10:56:19.437Z"
+  },
   {
    "title": "What could shake-up the Interlagos betting markets?",
    "summary": "After the lights go out in Sao Paulo, clued-up bettors will be poised to make smart betting decisions in real time markets.",
@@ -990,42 +1022,6 @@
    ],
    "team": "red_bull",
    "category": "News",
-   "firstSeen": "2026-11-05T21:03:51.475Z"
-  },
-  {
-   "title": "'I don’t know what else they want me to do’– Lawson on his future",
-   "summary": "Liam Lawson has explained how he’s doing everything he can at Racing Bulls in order to retain his seat on the F1 grid.",
-   "url": "https://www.formula1.com/en/latest/article/i-dont-know-what-else-they-want-me-to-do-lawson-elaborates-on-uncertainty-around-his-f1-future.4raO0TJB58aCxyWdLRkOYv",
-   "date": "2026-11-05T21:02:51.475Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "lawson"
-   ],
-   "teams": [
-    "rb"
-   ],
-   "team": "rb",
-   "category": "Transfer",
-   "firstSeen": "2026-11-05T21:03:51.475Z"
-  },
-  {
-   "title": "Bottas offers update on Cadillac F1 future",
-   "summary": "Valtteri Bottas admits that his Cadillac Formula 1 future \"should be okay\" amid speculation that the Finn will not be retained by the American team next season.",
-   "url": "https://www.formula1.com/en/latest/article/in-my-head-it-should-be-okay-bottas-offers-update-on-cadillac-f1-future-amid-herta-reports.Kr1u7QDCDvIeoyCjP1CBL",
-   "date": "2026-11-05T21:01:51.475Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "bottas"
-   ],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "Technik",
    "firstSeen": "2026-11-05T21:03:51.475Z"
   }
  ]
