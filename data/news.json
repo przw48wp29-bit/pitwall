@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T10:56:19.449Z",
+ "updatedAt": "2026-11-07T13:10:03.244Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,40 @@
   }
  },
  "items": [
+  {
+   "title": "Racing-Bulls-Teamchef \"versteht Frust\" über verzögerte Fahrerentscheidung",
+   "summary": "Die Fahrerfrage für 2027 bei Racing Bulls ist weiterhin ungeklärt: Teamchef Alan Permane musste sich jetzt kritischen Fragen stellen und kann \"den Frust verstehen\"",
+   "url": "https://www.formel1.de/nc/149757",
+   "date": "2026-11-07T12:30:56.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "News",
+   "firstSeen": "2026-11-07T13:10:03.223Z"
+  },
+  {
+   "title": "\"Auto sehr schlecht\": Charles Leclerc übt Kritik nach schwierigem Brasilien-Freitag",
+   "summary": "Ferrari erlebt einen schwierigen Brasilien-Freitag: Charles Leclerc spricht von einem der \"schlechtesten Fahrgefühle\" der Saison - Teamchef Vasseur bleibt zuversichtlich",
+   "url": "https://www.formel1.de/nc/149756",
+   "date": "2026-11-07T11:28:15.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-07T13:10:03.223Z"
+  },
   {
    "title": "Warum Daniel Ricciardo dem Paddock der Formel 1 seit zwei Jahren fernbleibt",
    "summary": "Daniel Ricciardo hat sich nach seiner aktiven Karriere zurückgezogen: Der Australier ist sich nicht sicher, ob er überhaupt noch einmal ins Formel-1-Paddock zurückkehrt",
@@ -989,40 +1023,6 @@
    "team": "ferrari",
    "category": "Transfer",
    "firstSeen": "2026-11-05T22:59:57.195Z"
-  },
-  {
-   "title": "Lewis Hamilton: Schumachers Interlagos-Rekord ist für ihn nicht gut genug",
-   "summary": "Mit einem vierten Sieg in Brasilien würde Lewis Hamilton zu Interlagos-Rekordsieger Michael Schumacher aufschliessen, zufrieden stellt ihn das aber lange nicht",
-   "url": "https://www.formel1.de/nc/149724",
-   "date": "2026-11-05T21:07:40.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-05T22:59:57.195Z"
-  },
-  {
-   "title": "A 'big surprise to be second' in the standings – Verstappen",
-   "summary": "Max Verstappen has reflected on how Red Bull’s turnaround has helped him improve to P2 in the Drivers’ Championship.",
-   "url": "https://www.formula1.com/en/latest/article/verstappen-admits-its-a-big-surprise-to-be-second-in-the-standings-after-red-bulls-difficulties.2mDpAyOIRGjBoGaZMjrCwO",
-   "date": "2026-11-05T21:03:51.475Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-05T21:03:51.475Z"
   }
  ]
 }
