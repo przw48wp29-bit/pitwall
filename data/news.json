@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T13:10:03.244Z",
+ "updatedAt": "2026-11-07T14:54:45.985Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,66 @@
   }
  },
  "items": [
+  {
+   "title": "F1 to race in Sao Paulo through to 2035 following new deal",
+   "summary": "A new agreement will see Brazil’s renowned Interlagos circuit remain on the Formula 1 calendar through 2035.",
+   "url": "https://www.formula1.com/en/latest/article/formula-1-to-race-in-sao-paulo-through-to-2035-following-new-five-year-contract-extension.3RBVXeLDp6NMDUQSAIX8TL",
+   "date": "2026-11-07T14:54:45.844Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-07T14:54:45.844Z"
+  },
+  {
+   "title": "Best Qualifying bets before the Sao Paulo GP",
+   "summary": "Our expert betting writers share their top picks for Qualifying at the Autódromo José Carlos Pace.",
+   "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-before-the-sao-paulo-grand-prix-in-brazil.3En9aemw37NmvZWqLBL1TM",
+   "date": "2026-11-07T14:53:45.844Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-07T14:54:45.844Z"
+  },
+  {
+   "title": "LIVE COVERAGE: Third practice in Sao Paulo",
+   "summary": "Live coverage of the third Formula 1 practice session ahead of the 2026 Sao Paulo Grand Prix in Brazil.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-brazil-2026.2bZye9K2vj2FHjUqPupvAU",
+   "date": "2026-11-07T14:52:45.844Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-07T14:54:45.844Z"
+  },
+  {
+   "title": "Haas-Teamchef verrät: Darum fährt Rafael Camara in Brasilien - und nicht Hirakawa",
+   "summary": "Haas-Teamchef Ayao Komatsu erläutert die Hintergründe, warum Rafael Camara sein Formel-1-Debüt fahren darf - und Ryo Hirakawa keine zweite Chance bekommt",
+   "url": "https://www.formel1.de/nc/149758",
+   "date": "2026-11-07T13:48:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "ryo_hirakawa"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "News",
+   "firstSeen": "2026-11-07T14:54:45.844Z"
+  },
   {
    "title": "Racing-Bulls-Teamchef \"versteht Frust\" über verzögerte Fahrerentscheidung",
    "summary": "Die Fahrerfrage für 2027 bei Racing Bulls ist weiterhin ungeklärt: Teamchef Alan Permane musste sich jetzt kritischen Fragen stellen und kann \"den Frust verstehen\"",
@@ -948,80 +1008,6 @@
    "teams": [],
    "team": "mercedes",
    "category": "Rennen",
-   "firstSeen": "2026-11-05T22:59:57.195Z"
-  },
-  {
-   "title": "Why Russell had ‘to get out’ after Antonelli’s title win",
-   "summary": "Nearly a week on from the Mexico City Grand Prix, George Russell has dissected his immediate reaction to Kimi Antonelli being crowned champion.",
-   "url": "https://www.formula1.com/en/latest/article/i-need-to-get-out-of-here-russell-reveals-aftermath-of-antonellis-title-triumph-in-mexico.3Ufdj6zo0A9AUGZldRezUJ",
-   "date": "2026-11-05T22:56:57.195Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell",
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-05T22:59:57.195Z"
-  },
-  {
-   "title": "Hamilton wants Ferrari talks in Brazil after Mexico battle",
-   "summary": "Lewis Hamilton admits that face-to-face talks between himself and Ferrari team mate Charles Leclerc need to take place at the Sao Paulo Grand Prix this weekend after their on-track battle in Mexico.",
-   "url": "https://www.formula1.com/en/latest/article/hamilton-wants-ferrari-talks-ahead-of-sao-paulo-grand-prix-after-intra-team-battle-with-leclerc.3JXGpQWTdOA2a9PiH7NL8X",
-   "date": "2026-11-05T22:55:57.195Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-05T22:59:57.195Z"
-  },
-  {
-   "title": "Lewis Hamilton verrät: So bewahrte er Isack Hadjar vor einer Strafe",
-   "summary": "Lewis Hamilton hätte Isack Hadjar in Mexiko eine Strafe einbrocken können, doch der Ferrari-Star schwieg, und dahinter steckt eine besondere Geschichte …",
-   "url": "https://www.formel1.de/nc/149726",
-   "date": "2026-11-05T22:28:55.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "hadjar"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Regeln",
-   "firstSeen": "2026-11-05T22:59:57.195Z"
-  },
-  {
-   "title": "Oliver Bearman & Rafael Camara: Direktes Duell um ein Ferrari-Cockpit?",
-   "summary": "Mit Oliver Bearman und Rafael Camara hat Haas zwei Fahrer aus der Ferrari-Akademie im Auto, die beide darum kämpfen könnten, zur Scuderia aufzusteigen",
-   "url": "https://www.formel1.de/nc/149725",
-   "date": "2026-11-05T21:57:33.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bearman"
-   ],
-   "teams": [
-    "ferrari",
-    "haas"
-   ],
-   "team": "ferrari",
-   "category": "Transfer",
    "firstSeen": "2026-11-05T22:59:57.195Z"
   }
  ]
