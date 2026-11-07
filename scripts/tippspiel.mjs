@@ -9,6 +9,8 @@
 
 import { API } from '../assets/js/config.js';
 import { eventsFromSchedule, driversFromStandings, resultsFromSources } from '../assets/js/tipp/sync.js';
+import { roles, WINDOW, racesFromEntries, knownFromEntries } from '../assets/js/roster.js';
+import fs from 'node:fs/promises';
 
 const BASE = (process.env.SUPABASE_URL || '').replace(/\/+$/, '');
 const KEY = process.env.SUPABASE_SERVICE_KEY || '';
@@ -60,21 +62,46 @@ if (isHourly) {
   if (races.length < 5) throw new Error(`Kalender ${season} unvollständig (${races.length} Rennen) – Abbruch, um nichts zu löschen.`);
   const events = eventsFromSchedule(races).map(e => ({ ...e, status: 'scheduled', updated_at: new Date().toISOString() }));
 
-  // Fahrer: aktuelles Team und "aktiv" aus den letzten drei Rennen.
+  // Fahrer: aktuelles Team und "aktiv" nach derselben Regel wie die Website
+  // (assets/js/roster.js). Erste Wahl ist die Meldeliste aus data/season.json –
+  // nur sie kennt das kommende Wochenende. Sonst koennte man einen Fahrer, der
+  // am Sonntag erstmals startet, gar nicht tippen. Faellt sie aus, zaehlen wie
+  // bisher die letzten Rennen.
   const ds = await jolpica('current/driverStandings.json');
   const standings = ds.StandingsTable.StandingsLists[0]?.DriverStandings || [];
-  const done = races.filter(r => Date.parse(`${r.date}T${r.time || '12:00:00Z'}`) + 3 * 3600e3 < Date.now());
-  const teamOf = new Map();
-  const active = new Set();
-  for (const r of done.slice(-3).reverse()) {
-    const res = (await jolpica(`${season}/${r.round}/results.json`)).RaceTable.Races[0]?.Results || [];
-    for (const x of res) {
-      active.add(x.Driver.driverId);
-      if (!teamOf.has(x.Driver.driverId)) teamOf.set(x.Driver.driverId, x.Constructor.constructorId);
+  const snap = await fs.readFile(new URL('../data/season.json', import.meta.url), 'utf8')
+    .then(JSON.parse).catch(() => null);
+  const entries = snap?.core?.season === season ? snap.core.entries || [] : [];
+
+  let recent;
+  if (entries.length) {
+    recent = racesFromEntries(entries);
+    log(`Meldeliste aus season.json: ${entries.length} Eintraege.`);
+  } else {
+    recent = [];
+    const done = races.filter(r => Date.parse(`${r.date}T${r.time || '12:00:00Z'}`) + 3 * 3600e3 < Date.now());
+    for (const r of done.slice(-WINDOW)) {
+      const race = (await jolpica(`${season}/${r.round}/results.json`)).RaceTable.Races[0];
+      if (race) recent.push(race);
     }
+    log('Keine Meldeliste – Fahrerfeld aus den letzten Rennen.');
   }
+
+  const byDriver = roles(recent);
+  const active = new Set([...byDriver.values()].filter(x => x.role !== 'raus').map(x => x.driverId));
   let drivers = driversFromStandings(season, standings, active.size ? active : null)
-    .map(d => ({ ...d, team_id: teamOf.get(d.driver_id) || d.team_id }));
+    .map(d => ({ ...d, team_id: byDriver.get(d.driver_id)?.team || d.team_id }));
+
+  // Gemeldete Fahrer, die Jolpica noch nicht in der Wertung hat (Debuetanten).
+  const have = new Set(drivers.map(d => d.driver_id));
+  const known = knownFromEntries(entries);
+  for (const r of byDriver.values()) {
+    if (have.has(r.driverId) || r.role === 'raus') continue;
+    const k = known.get(r.driverId);
+    drivers.push({ season: +season, driver_id: r.driverId, code: null,
+      given_name: k?.givenName || '', family_name: k?.familyName || r.driverId,
+      team_id: r.team, number: k?.permanentNumber || null, active: true });
+  }
 
   // Saisonstart: noch keine Wertung → Fahrer der Vorsaison übernehmen, bis das
   // erste Rennen gefahren ist (dann kommen die echten Daten von Jolpica).
