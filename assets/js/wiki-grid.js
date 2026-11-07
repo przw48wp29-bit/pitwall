@@ -120,6 +120,9 @@ export function mergeContracts(prev = [], entries = [], roster = [], { season = 
       ...old,
       driverId: id,
       name: old.name || e.driver,
+      // Die Startnummer brauchen wir fuer das vorlaeufige Feld am Saisonanfang
+      // (roster.js), wenn es zu einem Neuling noch keine Jolpica-Daten gibt.
+      number: e.number ?? old.number ?? null,
       currentTeam: old.currentTeam ?? roster.find(d => d.driverId === id)?.team ?? null,
       team2027: team,
       status: 'bestätigt',
@@ -141,3 +144,120 @@ const withSource = (list, source) => {
   const keep = (list || []).filter(s => s?.url && !/wikipedia\.org/i.test(s.url));
   return [...keep, source];
 };
+
+// ---------------------------------------------------------------------------
+// Startliste der laufenden Saison (mit Spalte «Rounds»)
+// ---------------------------------------------------------------------------
+// Der Artikel zur laufenden Saison fuehrt pro Team alle Fahrer des Jahres in
+// EINER Zeile, mit <br> getrennt, und dazu die Runden, fuer die sie gemeldet
+// sind – auch fuer kommende. Nur so erfaehrt die Seite vor dem Rennen, wer am
+// Wochenende faehrt. Aus den Ergebnissen allein kaeme ein Debuetant nie vor.
+//
+// Beispiel Haas 2026:
+//   Nummern  31<br>50<br>51<br>87
+//   Fahrer   Ocon<br>Hirakawa<br>Câmara<br>Bearman
+//   Runden   1–19{{efn|…}}<br>19<br>20<br>1–20
+//
+// Gibt zurueck: [{ entrant, number, driver, rounds: [20] }]
+
+const stripTemplates = s => {
+  let out = String(s);
+  // Vorlagen koennen verschachtelt sein ({{nowrap|{{flagg|…}}}}), darum in
+  // Runden von innen nach aussen aufloesen statt mit einem gierigen Muster.
+  for (let i = 0; i < 6; i++) {
+    const next = out.replace(/\{\{[^{}]*\}\}/g, '');
+    if (next === out) break;
+    out = next;
+  }
+  return out;
+};
+
+// «1–11, 15–20» -> [1,…,11,15,…,20]. Bindestrich und Gedankenstrich gelten beide.
+export function parseRounds(cell, maxRound = 30) {
+  const txt = stripTemplates(cell).replace(/\[\[[^\]|]*\|?([^\]]*)\]\]/g, '$1');
+  const out = new Set();
+  for (const part of txt.split(',')) {
+    const m = part.trim().match(/^(\d+)\s*[–—-]\s*(\d+)$/);
+    if (m) { for (let i = +m[1]; i <= Math.min(+m[2], maxRound); i++) out.add(i); continue; }
+    const one = part.trim().match(/^(\d+)$/);
+    if (one) out.add(+one[1]);
+  }
+  return [...out].sort((a, b) => a - b);
+}
+
+export function parseSeasonEntries(wikitext, { maxRound = 30 } = {}) {
+  const text = String(wikitext || '');
+  const start = text.indexOf('== Entries ==');
+  if (start < 0) return [];
+  const open = text.indexOf('{|', start);
+  const end = text.indexOf('\n|}', open);
+  if (open < 0 || end < 0) return [];
+  const table = text.slice(open, end)
+    .replace(/<ref[^>]*\/>/gi, '')
+    .replace(/<ref[^>]*>[\s\S]*?<\/ref>/gi, '');
+
+  const out = [];
+  for (const row of table.split('\n|-')) {
+    const name = row.match(/data-sort-value="([^"]+)"/);
+    if (!name) continue;
+    const entrant = name[1].trim();
+    const lines = row.split('\n').filter(l => l.trim());
+    const numIdx = lines.findIndex(l => /text-align:\s*center/i.test(l) && /\d/.test(l));
+    if (numIdx < 0 || numIdx + 1 >= lines.length) continue;
+
+    // Vorsicht: Eine Zelle kann mit einer Vorlage beginnen, die selbst Pipes
+    // enthaelt ({{flagg|cnxa|France}}). Darum nur einen echten Attribut-Vorsatz
+    // abschneiden (style="…"|, align="…"|) – erkennbar am «=» ohne Klammern.
+    const cellBody = l => {
+      const m = String(l).match(/^\|([^|{}]*=[^|{}]*)\|/);
+      return m ? String(l).slice(m[0].length) : String(l).replace(/^\|\s*/, '');
+    };
+    const numbers = cellBody(lines[numIdx]).split(/<br\s*\/?>/i).map(x => stripTemplates(x).trim());
+    const drivers = cellBody(lines[numIdx + 1]).split(/<br\s*\/?>/i).map(x => driverFromCell('|' + x));
+    // Die Rundenspalte steht direkt danach; fehlt sie (Artikel zur naechsten
+    // Saison), gilt der Fahrer fuer die ganze Saison.
+    const roundsLine = lines[numIdx + 2] && /align=\s*"?center/i.test(lines[numIdx + 2]) ? lines[numIdx + 2] : null;
+    const rounds = roundsLine
+      ? cellBody(roundsLine).split(/<br\s*\/?>/i).map(x => parseRounds(x, maxRound))
+      : [];
+
+    // Land und Artikelname je Fahrer: fuer Flagge und Portraet eines Debuetanten,
+    // zu dem Jolpica ausser dem Namen noch gar nichts hat.
+    const cells = cellBody(lines[numIdx + 1]).split(/<br\s*\/?>/i);
+    drivers.forEach((driver, i) => {
+      if (!driver) return;
+      const raw = cells[i] || '';
+      const flagM = raw.match(/\{\{\s*flagg?\s*\|[^|}]*\|\s*([^|}]+?)\s*\}\}/i)
+        || raw.match(/\{\{\s*flagicon\s*\|\s*([^|}]+?)\s*\}\}/i);
+      const linkM = raw.match(/\[\[([^\]|]+?)(?:\|[^\]]*)?\]\]\s*$/);
+      out.push({
+        entrant,
+        number: /^\d+$/.test(numbers[i] || '') ? numbers[i] : null,
+        driver,
+        country: flagM ? flagM[1].trim() : null,
+        wiki: linkM ? linkM[1].trim() : driver,
+        rounds: rounds[i] || null,
+      });
+    });
+  }
+  return out;
+}
+
+// Macht aus der Startliste «Pseudo-Rennen» in der Form der Jolpica-Ergebnisse.
+// Damit beurteilt dieselbe geprueften Regel in roster.js, wer Stammfahrer und
+// wer Ersatz ist – nur eben auf Basis der Meldungen statt der Ergebnisse. Das
+// ist der Unterschied, der einen Debuetanten ueberhaupt sichtbar macht: In den
+// Ergebnissen steht er erst am Montag, in den Meldungen schon am Donnerstag.
+export function entryRaces(entries = [], roster = []) {
+  const byRound = new Map();
+  for (const e of entries) {
+    const team = teamIdOf(e.entrant);
+    const id = driverIdOf(e.driver, roster);
+    if (!team || !id || !e.rounds?.length) continue;
+    for (const r of e.rounds) {
+      if (!byRound.has(r)) byRound.set(r, { round: String(r), Results: [] });
+      byRound.get(r).Results.push({ Driver: { driverId: id }, Constructor: { constructorId: team } });
+    }
+  }
+  return [...byRound.values()].sort((a, b) => +a.round - +b.round);
+}
