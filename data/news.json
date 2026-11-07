@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T16:53:51.646Z",
+ "updatedAt": "2026-11-07T19:00:28.001Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,102 @@
   }
  },
  "items": [
+  {
+   "title": "LIVE COVERAGE: Qualifying red-flagged in Brazil as rain pours",
+   "summary": "Live coverage of the Formula 1 Qualifying session for the 2026 Sao Paulo Grand Prix in Brazil.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-brazil-2026.3f1u3JidkKoZ1jnhWOuAi8",
+   "date": "2026-11-07T19:00:27.991Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-07T19:00:27.991Z"
+  },
+  {
+   "title": "Hamilton set for further grid penalty in Sao Paulo",
+   "summary": "Lewis Hamilton is set to start the Sao Paulo Grand Prix from the back of the grid as the Ferrari driver serves more grid penalties.",
+   "url": "https://www.formula1.com/en/latest/article/hamilton-set-to-start-at-back-of-the-grid-after-further-penalty-ahead-of-sao-paulo-grand-prix.5SFs44M6cNSDvUBCWE9FWZ",
+   "date": "2026-11-07T18:59:27.991Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Regeln",
+   "firstSeen": "2026-11-07T19:00:27.991Z"
+  },
+  {
+   "title": "Teamchef Komatsu über Ocons Haas-Aus: \"Alle waren überrascht\"",
+   "summary": "Ayao Komatsu berichtet von der Überraschung im Haas-Team nach Esteban Ocons Aus: Oliver Bearman blickt derweil gespannt auf Rookie Rafael Camara",
+   "url": "https://www.formel1.de/nc/149762",
+   "date": "2026-11-07T17:57:55.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bearman",
+    "rafael_camara"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Transfer",
+   "firstSeen": "2026-11-07T19:00:27.991Z"
+  },
+  {
+   "title": "Motorwechsel: Verstappen, beide Ferraris und Russell mit Gridstrafen",
+   "summary": "Max Verstappen kassiert eine Motorstrafe und startet in Brasilien von hinten: Auch beide Ferraris und George Russell mit Rückversetzungen",
+   "url": "https://www.formel1.de/nc/149759",
+   "date": "2026-11-07T17:47:23.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "russell"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Technik",
+   "firstSeen": "2026-11-07T16:53:51.631Z"
+  },
+  {
+   "title": "Formel-1-Kalender 2027: Welche Strecken raus sind und welche neu dazukommen",
+   "summary": "Die Übersicht zum Formel-1-Kalender 2027 mit allen bestätigten Rennstrecken, Austragungsorten und Änderungen im Vergleich zu den Vorjahren",
+   "url": "https://www.formel1.de/nc/145649",
+   "date": "2026-11-07T17:29:39.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Business",
+   "firstSeen": "2026-11-07T19:00:27.991Z"
+  },
+  {
+   "title": "Formel 1 bleibt bis 2035 in Brasilien: Neuer Vertrag für Sao Paulo",
+   "summary": "Die Formel 1 verlängert den Vertrag mit Sao Paulo bis 2035: Interlagos soll weiter modernisiert werden und bleibt langfristig im Kalender",
+   "url": "https://www.formel1.de/nc/149761",
+   "date": "2026-11-07T16:58:36.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-11-07T19:00:27.991Z"
+  },
   {
    "title": "Verstappen beats Antonelli and Norris in Sao Paulo FP3",
    "summary": "Max Verstappen finished fastest in Free Practice 3 ahead of the Sao Paulo Grand Prix, the Red Bull driver beating Kimi Antonelli and Lando Norris to the top of the leaderboard.",
@@ -30,7 +126,7 @@
    "firstSeen": "2026-11-07T16:53:51.631Z"
   },
   {
-   "title": "Hamilton, Leclerc and Verstappen set for Brazil grid drops",
+   "title": "Hamilton, Leclerc and Verstappen take Brazil grid drops",
    "summary": "Lewis Hamilton, Charles Leclerc and Max Verstappen will take grid drops at this weekend’s Sao Paulo Grand Prix after Ferrari and Red Bull changed power unit components within their cars.",
    "url": "https://www.formula1.com/en/latest/article/hamilton-leclerc-and-verstappen-set-for-sao-paulo-grand-prix-penalties-after-power-unit-changes.7B5CuFFCN1F6Txc8YwcEhd",
    "date": "2026-11-07T16:52:51.631Z",
@@ -61,23 +157,6 @@
    "drivers": [
     "max_verstappen",
     "antonelli"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Technik",
-   "firstSeen": "2026-11-07T16:53:51.631Z"
-  },
-  {
-   "title": "Motorwechsel: Verstappen, beide Ferraris und Russell mit Gridstrafen",
-   "summary": "Max Verstappen kassiert eine Motorstrafe und startet in Brasilien von hinten: Auch beide Ferraris und George Russell mit Rückversetzungen",
-   "url": "https://www.formel1.de/nc/149759",
-   "date": "2026-11-07T15:33:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "russell"
    ],
    "teams": [],
    "team": "red_bull",
@@ -940,91 +1019,6 @@
    "team": "ferrari",
    "category": "News",
    "firstSeen": "2026-11-06T11:14:49.180Z"
-  },
-  {
-   "title": "Bis 2031: Racing Bulls verlängern mit Teamchef Alan Permane",
-   "summary": "Alan Permane bleibt bis 2031 Formel-1-Teamchef bei Racing Bulls: Unter dem Briten feiern die Jungbullen die erfolgreichste Saison der Teamgeschichte",
-   "url": "https://www.formel1.de/nc/149732",
-   "date": "2026-11-06T09:33:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "rb"
-   ],
-   "team": "rb",
-   "category": "News",
-   "firstSeen": "2026-11-06T11:14:49.180Z"
-  },
-  {
-   "title": "Kimi Antonelli: Erst durch das T-Shirt wurde der WM-Titel real",
-   "summary": "Kimi Antonelli konnte den Gewinn seines WM-Titels einige Zeit lang nicht begreifen: Erst ein T-Shirt in Sao Paulo machte die Angelegenheit für ihn sichtbar",
-   "url": "https://www.formel1.de/nc/149731",
-   "date": "2026-11-06T09:06:39.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-06T09:11:58.596Z"
-  },
-  {
-   "title": "Max Verstappen: Manche wollen vielleicht gar nicht so beliebt sein wie Senna",
-   "summary": "Max Verstappen und Fernando Alonso philosophieren über das Standing von Formel-1-Legende Ayrton Senna - Der Niederländer hat nicht vor, so beliebt zu werden",
-   "url": "https://www.formel1.de/nc/149730",
-   "date": "2026-11-06T08:28:47.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "alonso"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-06T09:11:58.596Z"
-  },
-  {
-   "title": "Pierre Gasly: Wenn du Helmut Marko überlebt hast, haut dich nichts mehr um!",
-   "summary": "Pierr Gasly hat in Brasilien keine Angst vor Anfeindungen von Franco Colapintos Fans - Er sagt: Im Vergleich zu Helmut Marko sei alles andere kein Druck",
-   "url": "https://www.formel1.de/nc/149729",
-   "date": "2026-11-06T07:37:14.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "gasly"
-   ],
-   "teams": [],
-   "team": "alpine",
-   "category": "News",
-   "firstSeen": "2026-11-06T09:11:58.596Z"
-  },
-  {
-   "title": "Nach Hamilton-Kommentar: Sainz hatte kein Problem mit Leclerc",
-   "summary": "Carlos Sainz hatte im Gegensatz zu Lewis Hamilton keine Probleme mit Charles Leclerc als Teamkollege bei Ferrari - Harte Duelle im Kampf um den Sieg normal",
-   "url": "https://www.formel1.de/nc/149728",
-   "date": "2026-11-06T06:45:52.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "sainz",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-06T07:33:04.897Z"
   }
  ]
 }
