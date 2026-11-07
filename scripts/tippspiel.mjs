@@ -52,7 +52,12 @@ async function rest(path, { method = 'GET', body, prefer } = {}) {
 // jedes Mal, wenn gerade eine Session (Quali/Sprint/Rennen) höchstens 3 Stunden
 // zurückliegt ("heisses Fenster"); ausserhalb bleibt es beim Stundentakt.
 const now = new Date();
-const isHourly = now.getUTCMinutes() === 0;
+// Kalender und Fahrerfeld nur zur vollen Stunde – das aendert sich selten.
+// FORCE=1 erzwingt es trotzdem: Ohne das waere ein manueller Start ("Run
+// workflow") wirkungslos, weil er fast nie genau zur Minute 0 laeuft. Genau
+// das stand am 07.11.2026 im Weg, als ein neu gemeldeter Fahrer sofort ins
+// Tippspiel sollte.
+const isHourly = now.getUTCMinutes() === 0 || process.env.FORCE === '1';
 let season;
 
 if (isHourly) {
