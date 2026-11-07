@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T20:52:58.753Z",
+ "updatedAt": "2026-11-07T22:51:24.724Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,123 @@
   }
  },
  "items": [
+  {
+   "title": "What the teams said – Qualifying in Brazil",
+   "summary": "The drivers and teams report back from final practice and Qualifying at the Autodromo Jose Carlos Pace ahead of the 2026 Sao Paulo Grand Prix in Brazil.",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-brazil-2026.1mHPYet4OKECujD4Pc1l1r",
+   "date": "2026-11-07T22:51:24.713Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-07T22:51:24.713Z"
+  },
+  {
+   "title": "Lawson concedes he 'didn't quite maximise' his Q3 effort",
+   "summary": "Liam Lawson will look forward to a second-row start in Sunday's Sao Paulo Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/lawson-concedes-he-didnt-quite-maximise-his-q3-effort-despite-looking-forward-to-p3-start-in-sao-paulo.3gr3fXY0IntEj7l7rKzUk4",
+   "date": "2026-11-07T22:50:24.713Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "lawson"
+   ],
+   "teams": [],
+   "team": "rb",
+   "category": "Rennen",
+   "firstSeen": "2026-11-07T22:51:24.713Z"
+  },
+  {
+   "title": "Norris details how he excelled in wet Sao Paulo Qualifying",
+   "summary": "In challenging weather conditions, Lando Norris clinched pole position for the Sao Paulo Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/i-couldnt-have-done-any-more-norris-details-how-he-excelled-in-wet-sao-paulo-qualifying.3eF92OS2BRHYCcvImW3HeI",
+   "date": "2026-11-07T22:49:24.713Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-11-07T22:51:24.713Z"
+  },
+  {
+   "title": "'First Q3 of the season feels good' in Brazil – Alonso",
+   "summary": "Fernando Alonso admits that \"the first Q3 of the season feels good\", as the Aston Martin driver finished ninth quickest in a wet Qualifying ahead of the Sao Paulo Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/first-q3-of-the-season-feels-good-alonso-has-feet-on-the-ground-after-best-qualifying-of-the-season-in-brazil.4OATD4hn8zsO4htkxOYBBE",
+   "date": "2026-11-07T22:48:24.713Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "Rennen",
+   "firstSeen": "2026-11-07T22:51:24.713Z"
+  },
+  {
+   "title": "Verstappen sets out goal from back of the grid in Sao Paulo",
+   "summary": "Max Verstappen will face the task of climbing through the field at the Sao Paulo Grand Prix, with the Red Bull driver giving his take on his prospects after Qualifying.",
+   "url": "https://www.formula1.com/en/latest/article/maybe-its-the-best-place-to-take-it-verstappen-sets-out-goal-from-back-of-the-grid-in-sao-paulo.3Q4PjMuHO5GVxoRFTwhggD",
+   "date": "2026-11-07T22:47:24.713Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-11-07T22:51:24.713Z"
+  },
+  {
+   "title": "\"Ich habe die Premier League geschaut\": Verstappen spricht über die Regenpause",
+   "summary": "In der Regenpause während der Qualifikation zum Grand Prix von Brasilien hat sich Max Verstappen ein wenig mit dem englischen Fussball abgelenkt",
+   "url": "https://www.formel1.de/nc/149765",
+   "date": "2026-11-07T22:17:54.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-11-07T22:51:24.713Z"
+  },
+  {
+   "title": "Russell tobt nach verpasster Pole: \"Das war eine Runde für Platz eins\"",
+   "summary": "George Russell glaubt, Mercedes habe ihn in Brasilien die Pole gekostet: Nach einem Funkmissverständnis landete er hinter Lando Norris und hofft auf Regen im Rennen",
+   "url": "https://www.formel1.de/nc/149764",
+   "date": "2026-11-07T22:16:10.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell",
+    "norris"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-07T22:51:24.713Z"
+  },
   {
    "title": "Norris clinches pole in rain-affected Sao Paolo Qualifying",
    "summary": "Lando Norris sealed his third consecutive pole position at Interlagos as he thrived in the wet Qualifying session.",
@@ -29,7 +146,7 @@
    "title": "Verrücktes Regen-Qualifying: George Russell tobt nach Pole von Lando Norris",
    "summary": "Lando Norris sichert sich die Poleposition in Sao Paulo, doch der grosse Aufreger des Regen-Qualifyings ist ein Funkspruch zwischen George Russell und Mercedes",
    "url": "https://www.formel1.de/nc/149763",
-   "date": "2026-11-07T20:49:43.000Z",
+   "date": "2026-11-07T20:49:00.000Z",
    "source": "Formel1.de",
    "sourceId": "formel1de",
    "lang": "de",
@@ -45,7 +162,7 @@
    "firstSeen": "2026-11-07T20:52:58.733Z"
   },
   {
-   "title": "LIVE COVERAGE: Norris takes pole in wet Sao Paulo Qualifying",
+   "title": "AS IT HAPPENED: Norris takes pole in wet Sao Paulo Qualifying",
    "summary": "Live coverage of the Formula 1 Qualifying session for the 2026 Sao Paulo Grand Prix in Brazil.",
    "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-brazil-2026.3f1u3JidkKoZ1jnhWOuAi8",
    "date": "2026-11-07T19:00:27.991Z",
@@ -901,129 +1018,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-11-06T17:07:12.470Z"
-  },
-  {
-   "title": "Russell takes grid penalty at Sao Paulo Grand Prix",
-   "summary": "Mercedes' George Russell has spoken about why the decision has been made to serve an engine penalty at the Sao Paulo Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/well-try-and-come-back-through-russell-set-for-grid-penalty-at-sao-paulo-grand-prix.6hsUcdvDTFFezGL53SAODZ",
-   "date": "2026-11-06T17:04:12.470Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Regeln",
-   "firstSeen": "2026-11-06T17:07:12.470Z"
-  },
-  {
-   "title": "Bearman doesn’t see Camara’s debut ‘as a shoot-out’",
-   "summary": "Ollie Bearman has looked ahead to Rafael Camara’s debut with Haas, with the Briton preparing to step into a leading role at the team.",
-   "url": "https://www.formula1.com/en/latest/article/eyes-are-going-to-be-on-us-bearman-declares-he-doesnt-see-camaras-debut-as-a-shoot-out.3KzdtXT52S9iQVC3ifgoYb",
-   "date": "2026-11-06T17:03:12.470Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "bearman"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "News",
-   "firstSeen": "2026-11-06T17:07:12.470Z"
-  },
-  {
-   "title": "Startplatzstrafe für Russell: Macht er es wie Hamilton 2021?",
-   "summary": "George Russell muss beim Grand Prix von Brasilien fünf Plätze in der Startaufstellung zurück - Die Rückversetzung war bereits einkalkuliert",
-   "url": "https://www.formel1.de/nc/149737",
-   "date": "2026-11-06T16:50:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell",
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-06T17:07:12.470Z"
-  },
-  {
-   "title": "FT1 Brasilien: Norris fährt Bestzeit, Überraschung durch Alpine-Junior",
-   "summary": "Lando Norris vor Kimi Antonelli im ersten Freien Training in Interlagos, aber die grosse Überraschung war Alpine-Freitagsfahrer Gabriele Mini auf Platz 7",
-   "url": "https://www.formel1.de/nc/149736",
-   "date": "2026-11-06T16:36:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris",
-    "antonelli"
-   ],
-   "teams": [
-    "alpine"
-   ],
-   "team": "alpine",
-   "category": "Rennen",
-   "firstSeen": "2026-11-06T17:07:12.470Z"
-  },
-  {
-   "title": "Ferrari vor heikler Aussprache: Reichen Gentleman-Regeln nicht mehr?",
-   "summary": "Nach dem Mexiko-Zoff müssen Hamilton, Leclerc und Vasseur Regeln finden: Chandhok fordert Anpassung, Collins sogar Konsequenzen bei Verstössen",
-   "url": "https://www.formel1.de/nc/149735",
-   "date": "2026-11-06T16:22:26.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Regeln",
-   "firstSeen": "2026-11-06T17:07:12.470Z"
-  },
-  {
-   "title": "Which rookies are getting FP1 outings in Brazil?",
-   "summary": "Six full-time drivers will make way for junior, test and reserve drivers during FP1 at the Autodromo Jose Carlos Pace, whilst another rookie makes his debut",
-   "url": "https://www.formula1.com/en/latest/article/which-rookie-drivers-are-getting-fp1-outings-at-the-sao-paulo-grand-prix.3DAnL1BS38Gu5KKzU70aBJ",
-   "date": "2026-11-06T13:25:03.561Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Transfer",
-   "firstSeen": "2026-11-06T13:25:03.561Z"
-  },
-  {
-   "title": "Piastri leads F1 community in tributes to Alan Jones",
-   "summary": "Oscar Piastri joined other members of the paddock in remembering Williams’ first World Champion, Alan Jones.",
-   "url": "https://www.formula1.com/en/latest/article/a-life-that-should-be-celebrated-piastri-leads-tributes-to-alan-jones-after-f1-champion-passes-away.7KCspK6xXT5mgKjUOyPu0f",
-   "date": "2026-11-06T13:24:03.561Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "piastri"
-   ],
-   "teams": [
-    "williams"
-   ],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-11-06T13:25:03.561Z"
   }
  ]
 }
