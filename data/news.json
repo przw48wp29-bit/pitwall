@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T09:03:21.964Z",
+ "updatedAt": "2026-11-08T10:57:20.574Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,118 @@
   }
  },
  "items": [
+  {
+   "title": "Hamilton's remarkable projects away from F1",
+   "summary": "Discover Lewis Hamilton's life beyond Formula 1, including his music career, Hollywood ventures, fashion influence, gaming appearances and trading cards.",
+   "url": "https://www.formula1.com/en/latest/article/beyond-the-track-hamiltons-remarkable-projects-away-from-f1-as-he-marks-400-grand-prix-starts.2EHQU6DAJjIFgT7OfB5iHf",
+   "date": "2026-11-08T10:57:20.454Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-08T10:57:20.454Z"
+  },
+  {
+   "title": "Rivals pay tribute as Hamilton reaches 400 F1 starts",
+   "summary": "The Sao Paulo Grand Prix represents a milestone for Lewis Hamilton as the Ferrari driver reaches his 400th Formula 1 race this weekend.",
+   "url": "https://www.formula1.com/en/latest/article/rivals-pay-tribute-as-lewis-hamilton-reaches-400-formula-1-starts-at-sao-paulo-grand-prix.7ahLqNwTWm8Nze2o9hteZB",
+   "date": "2026-11-08T10:56:20.454Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-08T10:57:20.454Z"
+  },
+  {
+   "title": "How F1 fans can avoid emotional betting in Brazil",
+   "summary": "Safer gambling is important, so we’ve flagged some key areas where you should keep a cool head when betting during Sunday's race.",
+   "url": "https://www.formula1.com/en/latest/article/how-f1-fans-can-avoid-emotional-betting-during-the-sao-paulo-grand-prix.5pWFgryIkSrF37ZBxPQrPQ",
+   "date": "2026-11-08T10:55:20.454Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-08T10:57:20.454Z"
+  },
+  {
+   "title": "What are the tyre strategy options for the Sao Paulo GP?",
+   "summary": "Matt Youson takes a look at the different pit stop and tyre options that are available to the teams on race day at the Autodromo Jose Carlos Pace.",
+   "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-sao-paulo-gp.1VKxBiV7J8p5OfDdK0NShA",
+   "date": "2026-11-08T10:54:20.454Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-08T10:57:20.454Z"
+  },
+  {
+   "title": "Katar und Abu Dhabi: Toto Wolff zeigt kein Verständnis für Panikmache",
+   "summary": "Zwei Formel-1-Rennen im Nahen Osten stehen bevor, und die Sicherheitslage bleibt angespannt - Was Toto Wolff über mögliche Risiken und einen Boykott sagt",
+   "url": "https://www.formel1.de/nc/149777",
+   "date": "2026-11-08T10:51:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-08T10:57:20.454Z"
+  },
+  {
+   "title": "Toto Wolff: Kimi Antonelli soll ein bisschen so werden wie Gianni Agnelli",
+   "summary": "Der erste WM-Titel von Kimi Antonelli ist sicher, doch Mercedes-Teamchef Toto Wolff hat Wünsche für die Zukunft: Der Italiener soll \"sein ganzes Leben relevant bleiben\"",
+   "url": "https://www.formel1.de/nc/149776",
+   "date": "2026-11-08T10:22:11.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-08T10:57:20.454Z"
+  },
+  {
+   "title": "Sergio Perez: Vom Abstellgleis zu einem der absoluten Topverdiener der Formel 1",
+   "summary": "Sergio Perez hat seinen Vertrag mit Cadillac langfristig verlängert und soll finanziell mächtig zugelegt haben - Frage nach seinem Teamkollegen ist weiter offen",
+   "url": "https://www.formel1.de/nc/149775",
+   "date": "2026-11-08T09:33:36.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "perez"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "Transfer",
+   "firstSeen": "2026-11-08T10:57:20.454Z"
+  },
   {
    "title": "Oscar Piastri erklärt, was zum Debakel im Brasilien-Qualifying führte",
    "summary": "Oscar Piastri erlebte im verregneten Brasilien-Qualifying eine Enttäuschung, als er schon in Q2 vorzeitig ausschied: Der McLaren-Pilot erklärt den bitteren Grund dafür",
@@ -28,7 +140,7 @@
    "firstSeen": "2026-11-08T09:03:21.949Z"
   },
   {
-   "title": "Charles Leclerc: Regen ist immer Ferraris grösste Schwäche",
+   "title": "Charles Leclerc rätselt: Warum kann Ferrari keinen Regen?",
    "summary": "Obwohl er früher im Regen immer gut war, scheint Charles Leclerc bei Ferrari immer gehandicapt zu sein - Steckt ein generelles Regenproblem dahinter?",
    "url": "https://www.formel1.de/nc/149773",
    "date": "2026-11-08T08:18:12.000Z",
@@ -884,133 +996,6 @@
    ],
    "team": "ferrari",
    "category": "Rennen",
-   "firstSeen": "2026-11-06T22:55:28.875Z"
-  },
-  {
-   "title": "Antonelli explains Sao Paulo mindset as new World Champion",
-   "summary": "Kimi Antonelli has outlined his refreshed approach to the Sao Paulo Grand Prix after he wrapped up the title last week in Mexico City.",
-   "url": "https://www.formula1.com/en/latest/article/im-trying-to-enjoy-more-antonelli-explains-his-mindset-in-sao-paulo-as-the-new-world-champion.1iucwqkOBiexeg1SJiMP27",
-   "date": "2026-11-06T22:52:28.875Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-06T22:55:28.875Z"
-  },
-  {
-   "title": "McLaren 'seemed to gain performance' with upgrades – Norris",
-   "summary": "Lando Norris believes that McLaren \"seemed to gain performance\" during Friday practice ahead of the Sao Paulo Grand Prix, with the team having brought several upgrades this weekend.",
-   "url": "https://www.formula1.com/en/latest/article/we-seemed-to-gain-performance-norris-offers-update-on-mclarens-upgrades-in-sao-paulo.6fULeVhwADSsEp722opGBk",
-   "date": "2026-11-06T22:51:28.875Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Technik",
-   "firstSeen": "2026-11-06T22:55:28.875Z"
-  },
-  {
-   "title": "‘Ferrari comes first’ – Vasseur confirms Hamilton/Leclerc talks",
-   "summary": "Ferrari boss Fred Vasseur reveals details of talks with Lewis Hamilton and Charles Leclerc after their Mexico GP battle, as Toto Wolff weighs in.",
-   "url": "https://www.formula1.com/en/latest/article/im-not-asking-them-to-be-best-friends-vasseur-confirms-hamilton-and-leclerc-talks-after-mexico-battle.4ijCE2voRopz229owYCphO",
-   "date": "2026-11-06T22:50:28.875Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-06T22:55:28.875Z"
-  },
-  {
-   "title": "Toto Wolff und das Deja-vu bei Ferrari: Eskalation ist manchmal notwendig!",
-   "summary": "Das Duell zwischen Charles Leclerc und Lewis Hamilton erinnert Toto Wolff an die eskalierenden Spannungen zwischen Hamilton und Nico Rosberg",
-   "url": "https://www.formel1.de/nc/149748",
-   "date": "2026-11-06T22:48:40.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc",
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-06T22:55:28.875Z"
-  },
-  {
-   "title": "McLaren-Upgrade eine \"angenehme Überraschung\": Bleibt es auch am Auto?",
-   "summary": "Lando Norris konnte mit dem McLaren im ersten Training die Bestzeit erzielen und lobt die Upgrades: Finale Entscheidung über Einsatz noch nicht gefallen",
-   "url": "https://www.formel1.de/nc/149747",
-   "date": "2026-11-06T22:18:22.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Technik",
-   "firstSeen": "2026-11-06T22:55:28.875Z"
-  },
-  {
-   "title": "Von wegen WM-Kater: Kimi Antonelli Schnellster am Freitag in Brasilien",
-   "summary": "Kimi Antonelli fährt in Brasilien die Bestzeit vor Norris und Verstappen, Nico Hülkenberg erlebt bei Audi dagegen einen Freitag zum Vergessen",
-   "url": "https://www.formel1.de/nc/149744",
-   "date": "2026-11-06T22:08:32.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "norris",
-    "max_verstappen",
-    "hulkenberg"
-   ],
-   "teams": [
-    "audi"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-06T20:58:57.946Z"
-  },
-  {
-   "title": "Vasseur findet Berichte übertrieben: Sie haben sich nicht einmal berührt!",
-   "summary": "Ferrari-Teamchef Frederic Vasseur findet, dass aus dem Mexiko-Zwischenfall mehr gemacht wird als nötig - Zwei Alphatiere im Team nimmt der Rennstall bewusst hin",
-   "url": "https://www.formel1.de/nc/149746",
-   "date": "2026-11-06T21:53:17.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
    "firstSeen": "2026-11-06T22:55:28.875Z"
   }
  ]
