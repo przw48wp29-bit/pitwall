@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T05:05:58.529Z",
+ "updatedAt": "2026-11-08T05:36:40.048Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,22 @@
   }
  },
  "items": [
+  {
+   "title": "Unsere Redakteure bewerten: Was war Kimi Antonellis beste Leistung 2026?",
+   "summary": "Kimi Antonelli hat auf seinem Weg zum Formel-1-Weltmeistertitel 2026 zahlreiche herausragende Leistungen gezeigt: Aber welche war seine beste?",
+   "url": "https://www.formel1.de/nc/149769",
+   "date": "2026-11-08T05:30:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-08T05:36:40.047Z"
+  },
   {
    "title": "Camara disappointed after crash in debut Qualifying",
    "summary": "Rafael Camara was disappointed after crashing in his debut Qualifying session ahead of the Sao Paulo Grand Prix.",
@@ -1000,25 +1016,6 @@
    ],
    "teams": [],
    "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-06T19:10:48.579Z"
-  },
-  {
-   "title": "Rosberg kritisiert Ferrari im Umgang mit Hamilton und Leclerc",
-   "summary": "Nico Rosberg, selbst aus mehreren Jahren Stallkrieg mit Lewis Hamilton gekennzeichnet, übt scharfe Kritik an Ferrari - Was verbessert werden muss",
-   "url": "https://www.formel1.de/nc/149740",
-   "date": "2026-11-06T18:02:59.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
    "category": "News",
    "firstSeen": "2026-11-06T19:10:48.579Z"
   }

@@ -750,7 +750,8 @@
      "url": "https://en.wikipedia.org/wiki/2027_Formula_One_World_Championship"
     }
    ],
-   "name": "George Russell"
+   "name": "George Russell",
+   "number": "63"
   },
   {
    "driverId": "hamilton",
@@ -769,7 +770,8 @@
      "url": "https://en.wikipedia.org/wiki/2027_Formula_One_World_Championship"
     }
    ],
-   "name": "Lewis Hamilton"
+   "name": "Lewis Hamilton",
+   "number": "44"
   },
   {
    "driverId": "leclerc",
@@ -787,7 +789,8 @@
      "url": "https://en.wikipedia.org/wiki/2027_Formula_One_World_Championship"
     }
    ],
-   "name": "Charles Leclerc"
+   "name": "Charles Leclerc",
+   "number": "16"
   },
   {
    "driverId": "norris",
@@ -805,7 +808,8 @@
      "url": "https://en.wikipedia.org/wiki/2027_Formula_One_World_Championship"
     }
    ],
-   "name": "Lando Norris"
+   "name": "Lando Norris",
+   "number": "4"
   },
   {
    "driverId": "piastri",
@@ -823,7 +827,8 @@
      "url": "https://en.wikipedia.org/wiki/2027_Formula_One_World_Championship"
     }
    ],
-   "name": "Oscar Piastri"
+   "name": "Oscar Piastri",
+   "number": "81"
   },
   {
    "driverId": "max_verstappen",
@@ -842,7 +847,8 @@
      "url": "https://en.wikipedia.org/wiki/2027_Formula_One_World_Championship"
     }
    ],
-   "name": "Max Verstappen"
+   "name": "Max Verstappen",
+   "number": "3"
   },
   {
    "driverId": "hadjar",
@@ -860,7 +866,8 @@
      "url": "https://en.wikipedia.org/wiki/2027_Formula_One_World_Championship"
     }
    ],
-   "name": "Isack Hadjar"
+   "name": "Isack Hadjar",
+   "number": "6"
   },
   {
    "driverId": "alonso",
@@ -879,7 +886,8 @@
      "url": "https://en.wikipedia.org/wiki/2027_Formula_One_World_Championship"
     }
    ],
-   "name": "Fernando Alonso"
+   "name": "Fernando Alonso",
+   "number": "14"
   },
   {
    "driverId": "stroll",
@@ -897,7 +905,8 @@
      "url": "https://en.wikipedia.org/wiki/2027_Formula_One_World_Championship"
     }
    ],
-   "name": "Lance Stroll"
+   "name": "Lance Stroll",
+   "number": "18"
   },
   {
    "driverId": "gasly",
@@ -915,7 +924,8 @@
      "url": "https://en.wikipedia.org/wiki/2027_Formula_One_World_Championship"
     }
    ],
-   "name": "Pierre Gasly"
+   "name": "Pierre Gasly",
+   "number": "10"
   },
   {
    "driverId": "colapinto",
@@ -933,7 +943,8 @@
      "url": "https://en.wikipedia.org/wiki/2027_Formula_One_World_Championship"
     }
    ],
-   "name": "Franco Colapinto"
+   "name": "Franco Colapinto",
+   "number": "43"
   },
   {
    "driverId": "albon",
@@ -951,7 +962,8 @@
      "url": "https://en.wikipedia.org/wiki/2027_Formula_One_World_Championship"
     }
    ],
-   "name": "Alexander Albon"
+   "name": "Alexander Albon",
+   "number": "23"
   },
   {
    "driverId": "sainz",
@@ -970,7 +982,8 @@
      "url": "https://en.wikipedia.org/wiki/2027_Formula_One_World_Championship"
     }
    ],
-   "name": "Carlos Sainz Jr."
+   "name": "Carlos Sainz Jr.",
+   "number": "55"
   },
   {
    "driverId": "hulkenberg",
@@ -989,7 +1002,8 @@
      "url": "https://en.wikipedia.org/wiki/2027_Formula_One_World_Championship"
     }
    ],
-   "name": "Nico Hülkenberg"
+   "name": "Nico Hülkenberg",
+   "number": "27"
   },
   {
    "driverId": "bortoleto",
@@ -1007,7 +1021,8 @@
      "url": "https://en.wikipedia.org/wiki/2027_Formula_One_World_Championship"
     }
    ],
-   "name": "Gabriel Bortoleto"
+   "name": "Gabriel Bortoleto",
+   "number": "5"
   },
   {
    "driverId": "perez",
@@ -1025,7 +1040,8 @@
      "url": "https://en.wikipedia.org/wiki/2027_Formula_One_World_Championship"
     }
    ],
-   "name": "Sergio Pérez"
+   "name": "Sergio Pérez",
+   "number": "11"
   },
   {
    "driverId": "bottas",
@@ -1043,7 +1059,8 @@
      "url": "https://en.wikipedia.org/wiki/2027_Formula_One_World_Championship"
     }
    ],
-   "name": "Valtteri Bottas"
+   "name": "Valtteri Bottas",
+   "number": "77"
   },
   {
    "driverId": "bearman",
@@ -1104,6 +1121,20 @@
    "driverId": "camara",
    "name": "Rafael Câmara",
    "currentTeam": null,
+   "team2027": "haas",
+   "status": "bestätigt",
+   "sources": [
+    {
+     "name": "Wikipedia: 2027 Formula One World Championship",
+     "url": "https://en.wikipedia.org/wiki/2027_Formula_One_World_Championship"
+    }
+   ]
+  },
+  {
+   "driverId": "rafael_camara",
+   "name": "Rafael Câmara",
+   "number": "50",
+   "currentTeam": "haas",
    "team2027": "haas",
    "status": "bestätigt",
    "sources": [
@@ -1345,5 +1376,5 @@
   ],
   "pu": {}
  },
- "contractsUpdatedAt": "2026-10-16T08:34:47.030Z"
+ "contractsUpdatedAt": "2026-11-08T05:36:40.167Z"
 }
