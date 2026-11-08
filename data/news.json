@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T10:57:20.574Z",
+ "updatedAt": "2026-11-08T13:09:48.016Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,50 @@
   }
  },
  "items": [
+  {
+   "title": "Our final Sao Paulo Grand Prix betting predictions",
+   "summary": "Our expert betting writers bring you their final predictions and latest odds before the Sao Paulo Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/our-final-sao-paulo-grand-prix-betting-predictions-before-lights-out-in-brazil.FfeJ90d5ka32Pf2Hx8RhX",
+   "date": "2026-11-08T13:09:48.001Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-08T13:09:48.001Z"
+  },
+  {
+   "title": "Our Sao Paulo GP Bet Builder selections made",
+   "summary": "We have picked a four-leg Bet Builder for Sao Paulo, including podium and top-six finish selections.",
+   "url": "https://www.formula1.com/en/latest/article/our-sao-paulo-grand-prix-bet-builder-selections-after-lando-norris-storms-to-pole-in-brazil.49xfUowVYgSd8fL1AnlpFV",
+   "date": "2026-11-08T13:08:48.001Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-08T13:09:48.001Z"
+  },
+  {
+   "title": "Brasilien-Update bei McLaren: Teamchef Stella zieht positive Zwischenbilanz",
+   "summary": "McLaren-Teamchef Andrea Stella zieht eine erfreuliche Zwischenbilanz: Der neue Frontflügel, der in Brasilien sein Debüt feiert, hat Fahrbarkeit des MCL40 verbessert",
+   "url": "https://www.formel1.de/nc/149778",
+   "date": "2026-11-08T11:46:03.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Technik",
+   "firstSeen": "2026-11-08T13:09:48.001Z"
+  },
   {
    "title": "Hamilton's remarkable projects away from F1",
    "summary": "Discover Lewis Hamilton's life beyond Formula 1, including his music career, Hollywood ventures, fashion influence, gaming appearances and trading cards.",
@@ -72,7 +116,7 @@
    "firstSeen": "2026-11-08T10:57:20.454Z"
   },
   {
-   "title": "Katar und Abu Dhabi: Toto Wolff zeigt kein Verständnis für Panikmache",
+   "title": "Toto Wolff über Angst vor Katar: \"Wenn du nicht willst, bleib zu Hause\"",
    "summary": "Zwei Formel-1-Rennen im Nahen Osten stehen bevor, und die Sicherheitslage bleibt angespannt - Was Toto Wolff über mögliche Risiken und einen Boykott sagt",
    "url": "https://www.formel1.de/nc/149777",
    "date": "2026-11-08T10:51:04.000Z",
@@ -947,56 +991,6 @@
    "team": "ferrari",
    "category": "Rennen",
    "firstSeen": "2026-11-07T05:04:12.412Z"
-  },
-  {
-   "title": "Red Bull ‘looking into quite a few changes’ for Verstappen",
-   "summary": "Max Verstappen endured problems with his downshifts and steering during the first day of action at Interlagos.",
-   "url": "https://www.formula1.com/en/latest/article/schmitz-confirms-red-bull-looking-into-quite-a-few-changes-following-verstappens-sao-paulo-issues.mt1q9B8dzsQIDHkp5YFUs",
-   "date": "2026-11-06T22:55:28.875Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-06T22:55:28.875Z"
-  },
-  {
-   "title": "What the teams said – Friday in Brazil",
-   "summary": "The drivers and teams report back from Friday practice at the Autodromo Jose Carlos Pace ahead of the 2026 Sao Paulo Grand Prix in Brazil.",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-brazil-2026.4WPgQlfi6v476KUJTYZeFM",
-   "date": "2026-11-06T22:54:28.875Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-06T22:55:28.875Z"
-  },
-  {
-   "title": "Ferrari have 'plenty to work on' in Brazil – Leclerc",
-   "summary": "Charles Leclerc believes Ferrari has \"plenty to work on\" as the team tries to find performance after Friday practice ahead of the Sao Paulo Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/leclerc-concedes-theres-plenty-to-work-on-for-ferrari-ahead-of-sao-paulo-gp.2cWYwXJTouoM7r1LMyyhKr",
-   "date": "2026-11-06T22:53:28.875Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-06T22:55:28.875Z"
   }
  ]
 }
