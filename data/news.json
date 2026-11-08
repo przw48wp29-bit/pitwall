@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T13:09:48.016Z",
+ "updatedAt": "2026-11-08T14:53:19.313Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,37 @@
   }
  },
  "items": [
+  {
+   "title": "\"Versuche, irgendwie zu gewinnen\": So sieht der Plan von Lewis Hamilton aus",
+   "summary": "Lewis Hamilton und Max Verstappen müssen den Grossen Preis von Sao Paulo vom Ende des Feldes starten: Eine Strategie für ihre Aufholjagd haben beide aber nicht",
+   "url": "https://www.formel1.de/nc/149781",
+   "date": "2026-11-08T14:24:15.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton",
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-08T14:53:19.182Z"
+  },
+  {
+   "title": "Pirelli zufrieden: \"Keine Lücke\" zwischen Full-Wet-Regenreifen und Intermediate",
+   "summary": "Für Pirelli war das Regen-Qualifying in Brasilien ein wichtiges Testfeld: Zum ersten Mal sind Full-Wet-Regenreifen über einen längeren Zeitraum zum Einsatz gekommen",
+   "url": "https://www.formel1.de/nc/149780",
+   "date": "2026-11-08T13:11:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-08T14:53:19.182Z"
+  },
   {
    "title": "Our final Sao Paulo Grand Prix betting predictions",
    "summary": "Our expert betting writers bring you their final predictions and latest odds before the Sao Paulo Grand Prix.",
@@ -954,43 +985,6 @@
    "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-11-07T07:19:13.246Z"
-  },
-  {
-   "title": "Camara reflects on 'very special' F1 weekend debut",
-   "summary": "Rafael Camara got his first taste behind the wheel of a 2026 F1 car as he gears up for his debut Grand Prix with Haas.",
-   "url": "https://www.formula1.com/en/latest/article/camara-reflects-on-very-special-first-f1-outing-as-he-gears-up-for-haas-debut-in-sao-paulo.7FQp0PWMq4lsDsDAoosi4t",
-   "date": "2026-11-07T05:04:12.412Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "rafael_camara"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Rennen",
-   "firstSeen": "2026-11-07T05:04:12.412Z"
-  },
-  {
-   "title": "Longruns Brasilien: Antonelli dominiert, Ferrari erlebt Debakel",
-   "summary": "Kimi Antonelli dominiert im zweiten Brasilien-Training auch in den Longruns, während Ferrari massive Probleme hat - Ist Mercedes übehraupt zu schlagen?",
-   "url": "https://www.formel1.de/nc/149749",
-   "date": "2026-11-06T22:59:09.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes",
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-07T05:04:12.412Z"
   }
  ]
 }
