@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T14:53:19.313Z",
+ "updatedAt": "2026-11-08T16:53:31.463Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,48 @@
   }
  },
  "items": [
+  {
+   "title": "OFFICIAL GRID: Who starts where for the Sao Paulo Grand Prix",
+   "summary": "The full official starting order for the 2026 Sao Paulo Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-for-the-2026-sao-paulo-grand-prix.5Xx3QRgvo5BHgAm6lZRbZr",
+   "date": "2026-11-08T16:53:31.449Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-08T16:53:31.449Z"
+  },
+  {
+   "title": "LIVE COVERAGE: All the action from the Sao Paulo Grand Prix",
+   "summary": "Live coverage of the Formula 1 MSC Cruises Grande Premio de Sao Paulo 2026 in Brazil.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.1yG2rNPUND8MpWa1F0mFES",
+   "date": "2026-11-08T16:52:31.449Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-08T16:53:31.449Z"
+  },
+  {
+   "title": "Formel-1-Motorenstrafen 2026: Die Übersicht",
+   "summary": "Die verwendeten Motorenteile während der Saison 2026 in der Übersicht: Wann welchem Formel-1-Fahrer eine Strafe droht",
+   "url": "https://www.formel1.de/nc/146406",
+   "date": "2026-11-08T16:32:27.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-11-08T07:20:58.141Z"
+  },
   {
    "title": "\"Versuche, irgendwie zu gewinnen\": So sieht der Plan von Lewis Hamilton aus",
    "summary": "Lewis Hamilton und Max Verstappen müssen den Grossen Preis von Sao Paulo vom Ende des Feldes starten: Eine Strategie für ihre Aufholjagd haben beide aber nicht",
@@ -276,20 +318,6 @@
    "teams": [],
    "team": null,
    "category": "Rennen",
-   "firstSeen": "2026-11-08T07:20:58.141Z"
-  },
-  {
-   "title": "Formel-1-Motorenstrafen 2026: Die Übersicht",
-   "summary": "Die verwendeten Motorenteile während der Saison 2026 in der Übersicht: Wann welchem Formel-1-Fahrer eine Strafe droht",
-   "url": "https://www.formel1.de/nc/146406",
-   "date": "2026-11-08T07:00:13.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
    "firstSeen": "2026-11-08T07:20:58.141Z"
   },
   {
@@ -951,40 +979,6 @@
    "team": "ferrari",
    "category": "News",
    "firstSeen": "2026-11-07T09:02:08.620Z"
-  },
-  {
-   "title": "Red Bull erklärt: Warum Max Verstappen das Freitagstraining vorzeitig beendet hat",
-   "summary": "Max Verstappen hat das Brasilien-Training vorzeitig beendet: Chefstrategin Hannah Schmitz, warum der Red-Bull-Pilot seinen Longrun am Freitag abgebrochen hat",
-   "url": "https://www.formel1.de/nc/149751",
-   "date": "2026-11-07T07:21:49.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-07T09:02:08.620Z"
-  },
-  {
-   "title": "Kimi Antonelli nach WM-Titel: Papa, darf ich mir jetzt ein Auto kaufen?",
-   "summary": "Formel-1-Weltmeister Kimi Antonelli will sich für seinen frisch gewonnenen Titel belohnen - Warum er sich dabei überwinden muss",
-   "url": "https://www.formel1.de/nc/149750",
-   "date": "2026-11-07T06:01:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-07T07:19:13.246Z"
   }
  ]
 }
