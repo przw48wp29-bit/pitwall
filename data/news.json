@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T07:20:58.153Z",
+ "updatedAt": "2026-11-08T09:03:21.964Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,7 +10,59 @@
  },
  "items": [
   {
-   "title": "Erinnerungen an 2010: Nico Hülkenberg in Brasilien auf P4 der Startaufstellung",
+   "title": "Oscar Piastri erklärt, was zum Debakel im Brasilien-Qualifying führte",
+   "summary": "Oscar Piastri erlebte im verregneten Brasilien-Qualifying eine Enttäuschung, als er schon in Q2 vorzeitig ausschied: Der McLaren-Pilot erklärt den bitteren Grund dafür",
+   "url": "https://www.formel1.de/nc/149774",
+   "date": "2026-11-08T09:01:52.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "piastri"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-11-08T09:03:21.949Z"
+  },
+  {
+   "title": "Charles Leclerc: Regen ist immer Ferraris grösste Schwäche",
+   "summary": "Obwohl er früher im Regen immer gut war, scheint Charles Leclerc bei Ferrari immer gehandicapt zu sein - Steckt ein generelles Regenproblem dahinter?",
+   "url": "https://www.formel1.de/nc/149773",
+   "date": "2026-11-08T08:18:12.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-08T09:03:21.949Z"
+  },
+  {
+   "title": "Kalte Reifen und keine Energie: Darum gab's keine Alonso-Sensation in Q3",
+   "summary": "Fernando Alonso schafft in Brasilien zum ersten Mal in diesem Jahr den Sprung in Q3, verpasst die Sensation am Ende aber deutlich: Deshalb ging der Versuch in die Hose",
+   "url": "https://www.formel1.de/nc/149772",
+   "date": "2026-11-08T08:17:12.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [],
+   "team": "aston_martin",
+   "category": "Rennen",
+   "firstSeen": "2026-11-08T09:03:21.949Z"
+  },
+  {
+   "title": "Hülkenberg überrascht in Brasilien: Der beste Startplatz seit Silverstone 2020",
    "summary": "Nico Hülkenberg fährt im Brasilien-Qualifying auf den vierten Startplatz und weckt damit Erinnerungen an die Saison 2010: Damals raste der Deutsche sogar zur Pole",
    "url": "https://www.formel1.de/nc/149771",
    "date": "2026-11-08T07:20:34.000Z",
@@ -54,7 +106,7 @@
    "firstSeen": "2026-11-08T07:20:58.141Z"
   },
   {
-   "title": "\"Er wollte sie unbedingt\": Verständnis für Russell-Ärger nach verpasster Pole",
+   "title": "Blick in die Daten: Hätte George Russell ohne Abbruch die Pole geholt?",
    "summary": "Durch eine Gridstrafe wäre George Russell ohnehin nicht von der Pole gestartet, aber die Daten zeigen, wie knapp er am psychologisch wichtigen Erfolg vorbeischrammte",
    "url": "https://www.formel1.de/nc/149770",
    "date": "2026-11-08T06:49:19.000Z",
@@ -960,60 +1012,6 @@
    "team": "ferrari",
    "category": "News",
    "firstSeen": "2026-11-06T22:55:28.875Z"
-  },
-  {
-   "title": "Toto Wolff verrät: Vasseur zahlte eine Million für F1-Cockpit von Ocon",
-   "summary": "Mercedes-Motorsportchef Toto Wolff verrät, dass Frederic Vasseur einst eine Million Dollar aus eigener Tasche bezahlte, um Esteban Ocon in die Formel 1 zu bekommen",
-   "url": "https://www.formel1.de/nc/149745",
-   "date": "2026-11-06T21:02:08.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "ocon"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "haas",
-   "category": "Transfer",
-   "firstSeen": "2026-11-06T22:55:28.875Z"
-  },
-  {
-   "title": "Komatsu on why fast-tracking Camara was a ‘tough decision’",
-   "summary": "Rafael Camara has been given an earlier-than-expected debut at the Sao Paulo Grand Prix – but Haas Team Principal Ayao Komatsu has conceded that the decision was not a straightforward one.",
-   "url": "https://www.formula1.com/en/latest/article/komatsu-explains-why-fast-tracking-camara-into-haas-seat-was-a-tough-decision-after-hirakawa-performance.6N8NbSuekc1oGCylHgVZ2g",
-   "date": "2026-11-06T20:58:57.946Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Rennen",
-   "firstSeen": "2026-11-06T20:58:57.946Z"
-  },
-  {
-   "title": "Antonelli tops the times from Norris in Sao Paulo FP2",
-   "summary": "Mercedes' Kimi Antonelli returned to P1 during FP2 at Interlagos, leading Lando Norris and Max Verstappen.",
-   "url": "https://www.formula1.com/en/latest/article/fp2-antonelli-tops-the-times-from-norris-in-second-practice-at-sao-paulo-gp.27XFbTG9Lji18qmtHbCJUA",
-   "date": "2026-11-06T20:57:57.946Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli",
-    "norris",
-    "max_verstappen"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-06T20:58:57.946Z"
   }
  ]
 }
