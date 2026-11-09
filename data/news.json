@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T12:57:18.627Z",
+ "updatedAt": "2026-11-09T23:27:28.311Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,122 @@
   }
  },
  "items": [
+  {
+   "title": "The best images from Mercedes' title celebrations",
+   "summary": "Mercedes sealed the Teams' Championship in Sao Paulo on Sunday after a double points finish from George Russell and Kimi Antonelli.",
+   "url": "https://www.formula1.com/en/latest/article/gallery-the-best-images-from-mercedes-title-celebrations-2026.1GRUyTDIodPm4vvlVEydw5",
+   "date": "2026-11-09T23:27:28.296Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "russell",
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-09T23:27:28.296Z"
+  },
+  {
+   "title": "5 Winners and 5 Losers from Sao Paulo",
+   "summary": "Lawrence Barretto selects his winners and losers at the Autodromo Jose Carlos Pace.",
+   "url": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-sao-paulo.3fmqE8g482DzZTO98sG7Bf",
+   "date": "2026-11-09T23:26:28.296Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-09T23:27:28.296Z"
+  },
+  {
+   "title": "Rivals congratulate Mercedes on Constructors' Championship",
+   "summary": "Mercedes' wait for another Constructors' Championship ended last weekend, as the German manufacturer achieved the feat at the Sao Paulo Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/rivals-congratulate-mercedes-on-2026-constructors-championship-after-sao-paulo-gp.5mQ3BkVs5HLP8LE8PduoWY",
+   "date": "2026-11-09T23:25:28.296Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-09T23:27:28.296Z"
+  },
+  {
+   "title": "Kommentar: Wie die Formel 1 ihre Kritiker eines Besseren belehrte",
+   "summary": "Die Formel 1 sollte im Regenchaos versinken, doch beim Grand Prix von Sao Paulo kam alles anders, und die Schwarzmaler wurden eines Besseren belehrt",
+   "url": "https://www.formel1.de/nc/149802",
+   "date": "2026-11-09T16:30:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-09T23:27:28.296Z"
+  },
+  {
+   "title": "Erst Teamorder, dann Entschuldigung: Was bei Hadjar und Verstappen los war",
+   "summary": "Isack Hadjar fährt eines seiner besten Rennen für Red Bull, trotzdem muss er für Max Verstappen Platz machen - und wartet anschliessend auf eine Erklärung des Teams …",
+   "url": "https://www.formel1.de/nc/149800",
+   "date": "2026-11-09T14:39:02.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hadjar",
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-11-09T23:27:28.296Z"
+  },
+  {
+   "title": "Fahrernoten Brasilien: Sieg und Tabellenführung für Max Verstappen",
+   "summary": "Wachablösung an der Tabellenspitze der Leserwertung: Kimi Antonelli verliert den ersten Platz, Nico Hülkenberg glänzt als Vierter in Sao Paulo",
+   "url": "https://www.formel1.de/nc/149801",
+   "date": "2026-11-09T14:16:36.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "antonelli",
+    "hulkenberg"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-11-09T23:27:28.296Z"
+  },
+  {
+   "title": "Wer letzte Nacht am besten geschlafen hat: Toto Wolff",
+   "summary": "Mercedes ist wieder Formel-1-Weltmeister: Warum der grösste Erfolg von Toto Wolff nicht nur in den 17 WM-Titeln liegt, sondern auch im Umgang mit seinem Team",
+   "url": "https://www.formel1.de/nc/149799",
+   "date": "2026-11-09T13:25:07.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-09T23:27:28.296Z"
+  },
   {
    "title": "How Verstappen outperformed Red Bull’s simulations in Brazil",
    "summary": "Laurent Mekies has praised Max Verstappen for his sublime recovery from P21 to P2 at the Sao Paulo Grand Prix.",
@@ -879,120 +995,6 @@
    "team": "mclaren",
    "category": "Rennen",
    "firstSeen": "2026-11-08T09:03:21.949Z"
-  },
-  {
-   "title": "Charles Leclerc rätselt: Warum kann Ferrari keinen Regen?",
-   "summary": "Obwohl er früher im Regen immer gut war, scheint Charles Leclerc bei Ferrari immer gehandicapt zu sein - Steckt ein generelles Regenproblem dahinter?",
-   "url": "https://www.formel1.de/nc/149773",
-   "date": "2026-11-08T08:18:12.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-08T09:03:21.949Z"
-  },
-  {
-   "title": "Kalte Reifen und keine Energie: Darum gab's keine Alonso-Sensation in Q3",
-   "summary": "Fernando Alonso schafft in Brasilien zum ersten Mal in diesem Jahr den Sprung in Q3, verpasst die Sensation am Ende aber deutlich: Deshalb ging der Versuch in die Hose",
-   "url": "https://www.formel1.de/nc/149772",
-   "date": "2026-11-08T08:17:12.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "alonso"
-   ],
-   "teams": [],
-   "team": "aston_martin",
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T09:03:21.949Z"
-  },
-  {
-   "title": "Hülkenberg überrascht in Brasilien: Der beste Startplatz seit Silverstone 2020",
-   "summary": "Nico Hülkenberg fährt im Brasilien-Qualifying auf den vierten Startplatz und weckt damit Erinnerungen an die Saison 2010: Damals raste der Deutsche sogar zur Pole",
-   "url": "https://www.formel1.de/nc/149771",
-   "date": "2026-11-08T07:20:34.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hulkenberg"
-   ],
-   "teams": [],
-   "team": "audi",
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T07:20:58.141Z"
-  },
-  {
-   "title": "Blick in die Daten: Hätte George Russell ohne Abbruch die Pole geholt?",
-   "summary": "Durch eine Gridstrafe wäre George Russell ohnehin nicht von der Pole gestartet, aber die Daten zeigen, wie knapp er am psychologisch wichtigen Erfolg vorbeischrammte",
-   "url": "https://www.formel1.de/nc/149770",
-   "date": "2026-11-08T06:49:19.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T07:20:58.141Z"
-  },
-  {
-   "title": "Unsere Redakteure bewerten: Was war Kimi Antonellis beste Leistung 2026?",
-   "summary": "Kimi Antonelli hat auf seinem Weg zum Formel-1-Weltmeistertitel 2026 zahlreiche herausragende Leistungen gezeigt: Aber welche war seine beste?",
-   "url": "https://www.formel1.de/nc/149769",
-   "date": "2026-11-08T05:30:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-08T05:36:40.047Z"
-  },
-  {
-   "title": "Camara disappointed after crash in debut Qualifying",
-   "summary": "Rafael Camara was disappointed after crashing in his debut Qualifying session ahead of the Sao Paulo Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/camara-disappointed-after-crashing-in-debut-qualifying-session-at-interlagos.43LN93l0g5l5n6VMNHSV7F",
-   "date": "2026-11-08T05:05:58.506Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "rafael_camara"
-   ],
-   "teams": [],
-   "team": "haas",
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T05:05:58.506Z"
-  },
-  {
-   "title": "Russell rues ‘misjudgement’ that cost him Sao Paulo pole",
-   "summary": "George Russell has explained why he was so frustrated to miss out on pole position for the Sao Paulo Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/this-seasons-just-not-meant-to-be-russell-rues-misjudgement-that-cost-him-sao-paulo-pole.47Tk9mPuyw8ERY7SqWIvPv",
-   "date": "2026-11-08T05:04:58.506Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T05:05:58.506Z"
   }
  ]
 }
