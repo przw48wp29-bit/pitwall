@@ -270,16 +270,6 @@
    "h": 2608,
    "curated": true
   },
-  "hamilton": {
-   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/FIA_F1_Austria_2026_Nr._44_Hamilton_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._44_Hamilton_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/FIA_F1_Austria_2026_Nr._44_Hamilton_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._44_Hamilton_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-   "file": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._44_Hamilton_(1).jpg",
-   "credit": "Lukas Raich",
-   "license": "CC BY-SA 4.0",
-   "w": 5273,
-   "h": 2636,
-   "curated": true
-  },
   "russell": {
    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/FIA_F1_Austria_2026_Nr._63_Russell_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._63_Russell_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
    "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/FIA_F1_Austria_2026_Nr._63_Russell_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._63_Russell_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -288,6 +278,16 @@
    "license": "CC BY-SA 4.0",
    "w": 5299,
    "h": 2650,
+   "curated": true
+  },
+  "hamilton": {
+   "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/FIA_F1_Austria_2026_Nr._44_Hamilton_%281%29.jpg/960px-FIA_F1_Austria_2026_Nr._44_Hamilton_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/FIA_F1_Austria_2026_Nr._44_Hamilton_%281%29.jpg/1920px-FIA_F1_Austria_2026_Nr._44_Hamilton_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "file": "https://commons.wikimedia.org/wiki/File:FIA_F1_Austria_2026_Nr._44_Hamilton_(1).jpg",
+   "credit": "Lukas Raich",
+   "license": "CC BY-SA 4.0",
+   "w": 5273,
+   "h": 2636,
    "curated": true
   },
   "leclerc": {

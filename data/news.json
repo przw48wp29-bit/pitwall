@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T01:45:04.091Z",
+ "updatedAt": "2026-11-09T05:50:40.282Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,38 @@
   }
  },
  "items": [
+  {
+   "title": "Fernando Alonso: Im Regen war der Aston Martin \"phänomenal\"",
+   "summary": "Fernando Alonso wird in Sao Paulo nur Zwölfter, spricht aber vom besten Aston-Martin-Rennen 2026: Vor allem eine Eigenschaft seines Autos begeistert ihn",
+   "url": "https://www.formel1.de/nc/149791",
+   "date": "2026-11-09T05:37:14.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "Rennen",
+   "firstSeen": "2026-11-09T05:50:40.281Z"
+  },
+  {
+   "title": "Formel-1-Zuschauer: So viele sahen das Regenrennen in Sao Paulo",
+   "summary": "Wie viele Zuschauer das Formel-1-Regenrennen vor Ort in Sao Paulo gesehen haben und wo Brasilien damit im internationalen Vergleich steht",
+   "url": "https://www.formel1.de/nc/146482",
+   "date": "2026-11-09T04:49:58.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Business",
+   "firstSeen": "2026-11-09T05:50:40.281Z"
+  },
   {
    "title": "All the key moments from the 2026 Sao Paulo Grand Prix",
    "summary": "Lando Norris claimed victory in a wet thriller at the Sao Paulo Grand Prix, while Mercedes did enough to secure the 2026 Constructors' Championship last weekend.",
@@ -956,41 +988,6 @@
     "red_bull"
    ],
    "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-07T22:51:24.713Z"
-  },
-  {
-   "title": "\"Ich habe die Premier League geschaut\": Verstappen spricht über die Regenpause",
-   "summary": "In der Regenpause während der Qualifikation zum Grand Prix von Brasilien hat sich Max Verstappen ein wenig mit dem englischen Fussball abgelenkt",
-   "url": "https://www.formel1.de/nc/149765",
-   "date": "2026-11-07T22:17:54.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-07T22:51:24.713Z"
-  },
-  {
-   "title": "Russell tobt nach verpasster Pole: \"Das war eine Runde für Platz eins\"",
-   "summary": "George Russell glaubt, Mercedes habe ihn in Brasilien die Pole gekostet: Nach einem Funkmissverständnis landete er hinter Lando Norris und hofft auf Regen im Rennen",
-   "url": "https://www.formel1.de/nc/149764",
-   "date": "2026-11-07T22:16:10.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell",
-    "norris"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
    "category": "Rennen",
    "firstSeen": "2026-11-07T22:51:24.713Z"
   }
