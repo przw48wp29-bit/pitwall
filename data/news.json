@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T22:12:07.324Z",
+ "updatedAt": "2026-11-09T01:45:04.091Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -10,8 +10,158 @@
  },
  "items": [
   {
+   "title": "All the key moments from the 2026 Sao Paulo Grand Prix",
+   "summary": "Lando Norris claimed victory in a wet thriller at the Sao Paulo Grand Prix, while Mercedes did enough to secure the 2026 Constructors' Championship last weekend.",
+   "url": "https://www.formula1.com/en/latest/article/sao-paulo-lowdown-all-the-key-moments-as-mercedes-secures-constructors-title-and-norris-wins-in-the-rain.2VjsvSp3rejjziq7VbVVOr",
+   "date": "2026-11-09T01:45:04.075Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-11-09T01:45:04.075Z"
+  },
+  {
+   "title": "How Lawson stated his case with a brilliant Brazilian weekend",
+   "summary": "Lawson, who does not have a confirmed seat with Racing Bulls next season, finished P7 in Sao Paulo after starting on the second row.",
+   "url": "https://www.formula1.com/en/latest/article/how-lawson-stated-his-case-with-a-brilliant-brazilian-weekend.6pFeRcXLYj8qdZZt23LdhV",
+   "date": "2026-11-09T01:44:04.075Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "lawson"
+   ],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "Transfer",
+   "firstSeen": "2026-11-09T01:45:04.075Z"
+  },
+  {
+   "title": "Antonelli ‘grateful’ for team glory amid Brazil frustration",
+   "summary": "Kimi Antonelli was keen to prioritise Mercedes’ triumph in the Constructors’ Championship over his Sao Paulo Grand Prix performance.",
+   "url": "https://www.formula1.com/en/latest/article/they-helped-me-achieve-this-dream-antonelli-grateful-for-mercedes-glory-amid-brazil-frustration.3ZVoYyfjzeFZKrW0bUfXUn",
+   "date": "2026-11-09T01:43:04.075Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-09T01:45:04.075Z"
+  },
+  {
+   "title": "What the teams said – Race day in Brazil",
+   "summary": "The drivers and teams report back from the Autodromo Jose Carlos Pace after the 2026 Sao Paulo Grand Prix in Brazil.",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-brazil-2026.6WRrgNQ7FDoFnwzxR9Vjw7",
+   "date": "2026-11-09T01:42:04.075Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-09T01:45:04.075Z"
+  },
+  {
+   "title": "Wolff already thinking about 2027 despite constructors' win",
+   "summary": "Mercedes Team Principal Toto Wolff says he is already thinking about 2027 despite winning the Constructors' Championship in Brazil.",
+   "url": "https://www.formula1.com/en/latest/article/wolff-already-thinking-about-2027-despite-constructors-championship-win-in-brazil.21aGFbwHKbhjkcmpeYVrZV",
+   "date": "2026-11-09T01:41:04.075Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-09T01:45:04.075Z"
+  },
+  {
+   "title": "Unsafe Release: Darum wurde Antonelli in Brasilien nachträglich bestraft",
+   "summary": "Kimi Antonelli kassiert nach einem Unsafe Release eine Zeitstrafe: Seinen fünften Platz beim Sao-Paulo-Grand-Prix behält der neue Weltmeister trotzdem",
+   "url": "https://www.formel1.de/nc/149790",
+   "date": "2026-11-09T01:24:06.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-09T01:45:04.075Z"
+  },
+  {
+   "title": "Toto Wolff bestätigt: Jetzt fährt Antonelli für Russells P2",
+   "summary": "Toto Wolff will George Russell im WM-Kampf um Platz zwei unterstützen und schliesst dafür eine Bevorzugung gegenüber Weltmeister Kimi Antonelli nicht aus",
+   "url": "https://www.formel1.de/nc/149789",
+   "date": "2026-11-09T00:14:34.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli",
+    "russell"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-09T01:45:04.075Z"
+  },
+  {
+   "title": "Platz sieben weg: Leclerc erhält für Lawson-Kollision Zeitstrafe",
+   "summary": "Charles Leclerc wird nach seiner Kollision mit Liam Lawson bestraft und verliert Platz sieben beim Grossen Preis von Sao Paulo nachträglich",
+   "url": "https://www.formel1.de/nc/149788",
+   "date": "2026-11-08T22:56:11.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc",
+    "lawson"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-09T01:45:04.075Z"
+  },
+  {
+   "title": "\"Wie Tag und Nacht\": Max Verstappen will Probleme im Auto verstehen",
+   "summary": "Zum dritten Mal in Folge zeigte Max Verstappen in Brasilien eine tolle Aufholjagd: Zum Sieg reichte es jedoch nicht, auch weil sein Auto auf Slicks plötzlich zickte",
+   "url": "https://www.formel1.de/nc/149787",
+   "date": "2026-11-08T22:28:20.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-11-09T01:45:04.075Z"
+  },
+  {
    "title": "Leclerc and Hamilton lament ‘horrendous’ Sao Paulo GP",
-   "summary": "Charles Leclerc and Lewis Hamilton only scored eight points between them at the Sao Paulo Grand Prix, marking a disappointing race for Ferrari.",
+   "summary": "Charles Leclerc and Lewis Hamilton only scored six points between them at the Sao Paulo Grand Prix, marking a disappointing race for Ferrari.",
    "url": "https://www.formula1.com/en/latest/article/a-complete-disaster-leclerc-and-hamilton-lament-horrendous-ferrari-performance-in-sao-paulo.sdZmqEEwBaoAC8OmBxvYh",
    "date": "2026-11-08T22:12:07.308Z",
    "source": "Formula1.com",
@@ -843,159 +993,6 @@
    "team": "mercedes",
    "category": "Rennen",
    "firstSeen": "2026-11-07T22:51:24.713Z"
-  },
-  {
-   "title": "Norris clinches pole in rain-affected Sao Paolo Qualifying",
-   "summary": "Lando Norris sealed his third consecutive pole position at Interlagos as he thrived in the wet Qualifying session.",
-   "url": "https://www.formula1.com/en/latest/article/norris-beats-russell-to-pole-position-in-dramatic-rain-affected-sao-paolo-qualifying.2V60rhlQjdS5my1uFrOKUH",
-   "date": "2026-11-07T20:52:58.733Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-11-07T20:52:58.733Z"
-  },
-  {
-   "title": "Verrücktes Regen-Qualifying: George Russell tobt nach Pole von Lando Norris",
-   "summary": "Lando Norris sichert sich die Poleposition in Sao Paulo, doch der grosse Aufreger des Regen-Qualifyings ist ein Funkspruch zwischen George Russell und Mercedes",
-   "url": "https://www.formel1.de/nc/149763",
-   "date": "2026-11-07T20:49:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell",
-    "norris"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-07T20:52:58.733Z"
-  },
-  {
-   "title": "AS IT HAPPENED: Norris takes pole in wet Sao Paulo Qualifying",
-   "summary": "Live coverage of the Formula 1 Qualifying session for the 2026 Sao Paulo Grand Prix in Brazil.",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-brazil-2026.3f1u3JidkKoZ1jnhWOuAi8",
-   "date": "2026-11-07T19:00:27.991Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-11-07T19:00:27.991Z"
-  },
-  {
-   "title": "Hamilton set for further grid penalty in Sao Paulo",
-   "summary": "Lewis Hamilton is set to start the Sao Paulo Grand Prix from the back of the grid as the Ferrari driver serves more grid penalties.",
-   "url": "https://www.formula1.com/en/latest/article/hamilton-set-to-start-at-back-of-the-grid-after-further-penalty-ahead-of-sao-paulo-grand-prix.5SFs44M6cNSDvUBCWE9FWZ",
-   "date": "2026-11-07T18:59:27.991Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Regeln",
-   "firstSeen": "2026-11-07T19:00:27.991Z"
-  },
-  {
-   "title": "Teamchef Komatsu über Ocons Haas-Aus: \"Alle waren überrascht\"",
-   "summary": "Ayao Komatsu berichtet von der Überraschung im Haas-Team nach Esteban Ocons Aus: Oliver Bearman blickt derweil gespannt auf Rookie Rafael Camara",
-   "url": "https://www.formel1.de/nc/149762",
-   "date": "2026-11-07T17:57:55.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bearman",
-    "rafael_camara"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Transfer",
-   "firstSeen": "2026-11-07T19:00:27.991Z"
-  },
-  {
-   "title": "Motorwechsel: Verstappen, beide Ferraris und Russell mit Gridstrafen",
-   "summary": "Max Verstappen kassiert eine Motorstrafe und startet in Brasilien von hinten: Auch beide Ferraris und George Russell mit Rückversetzungen",
-   "url": "https://www.formel1.de/nc/149759",
-   "date": "2026-11-07T17:47:23.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "russell"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Technik",
-   "firstSeen": "2026-11-07T16:53:51.631Z"
-  },
-  {
-   "title": "Formel-1-Kalender 2027: Welche Strecken raus sind und welche neu dazukommen",
-   "summary": "Die Übersicht zum Formel-1-Kalender 2027 mit allen bestätigten Rennstrecken, Austragungsorten und Änderungen im Vergleich zu den Vorjahren",
-   "url": "https://www.formel1.de/nc/145649",
-   "date": "2026-11-07T17:29:39.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Business",
-   "firstSeen": "2026-11-07T19:00:27.991Z"
-  },
-  {
-   "title": "Formel 1 bleibt bis 2035 in Brasilien: Neuer Vertrag für Sao Paulo",
-   "summary": "Die Formel 1 verlängert den Vertrag mit Sao Paulo bis 2035: Interlagos soll weiter modernisiert werden und bleibt langfristig im Kalender",
-   "url": "https://www.formel1.de/nc/149761",
-   "date": "2026-11-07T16:58:36.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Transfer",
-   "firstSeen": "2026-11-07T19:00:27.991Z"
-  },
-  {
-   "title": "Verstappen beats Antonelli and Norris in Sao Paulo FP3",
-   "summary": "Max Verstappen finished fastest in Free Practice 3 ahead of the Sao Paulo Grand Prix, the Red Bull driver beating Kimi Antonelli and Lando Norris to the top of the leaderboard.",
-   "url": "https://www.formula1.com/en/latest/article/fp3-verstappen-fastest-from-antonelli-and-norris-ahead-of-sao-paulo-grand-prix.43ghT9dACzjrhxyjTBgKct",
-   "date": "2026-11-07T16:53:51.631Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen",
-    "antonelli",
-    "norris"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-07T16:53:51.631Z"
   }
  ]
 }
