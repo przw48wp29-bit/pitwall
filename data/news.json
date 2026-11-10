@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T12:43:00.915Z",
+ "updatedAt": "2026-11-10T20:51:29.444Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,168 @@
   }
  },
  "items": [
+  {
+   "title": "PALMER: Why Norris’ Sao Paulo victory was one of his best ever wins",
+   "summary": "Races like the Sao Paulo Grand Prix show everybody why Lando Norris is a World Champion, writes former Renault F1 driver Jolyon Palmer.",
+   "url": "https://www.formula1.com/en/latest/article/why-norris-sao-paulo-victory-was-one-of-his-best-ever-wins.3hyiRlbfztlQekIw1WuvWd",
+   "date": "2026-11-10T20:51:29.421Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-11-10T20:51:29.421Z"
+  },
+  {
+   "title": "Who impressed our Power Rankings judges in Sao Paulo?",
+   "summary": "Find out who featured at the top of the Power Rankings table after the Sao Paulo Grand Prix weekend.",
+   "url": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-2026-sao-paulo-grand-prix.4dgXaQOufQtljKWj7Q7Yhs",
+   "date": "2026-11-10T20:50:29.421Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-10T20:51:29.421Z"
+  },
+  {
+   "title": "F1 ACADEMY announces 2027 calendar",
+   "summary": "F1 ACADEMY has revealed its calendar for the 2027 campaign, with the all-female series’ fifth season featuring seven rounds.",
+   "url": "https://www.formula1.com/en/latest/article/f1-academy-unveils-calendar-for-2027-season.1mYuyMEiCaWyI8pAfg5K0O",
+   "date": "2026-11-10T20:49:29.421Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Business",
+   "firstSeen": "2026-11-10T20:51:29.421Z"
+  },
+  {
+   "title": "Camara experiences every condition in ‘tricky’ Haas debut",
+   "summary": "While Rafael Camara saw the chequered flag in a “tricky” debut race for Haas, the Brazilian faced the tough task of navigating his first Grand Prix and in changeable conditions.",
+   "url": "https://www.formula1.com/en/latest/article/camara-experiences-every-condition-going-in-tricky-haas-debut.40TC0zRX2AaMmtJ50RsCYH",
+   "date": "2026-11-10T20:48:29.421Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "rafael_camara"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Rennen",
+   "firstSeen": "2026-11-10T20:51:29.421Z"
+  },
+  {
+   "title": "Kritik an Pirelli-Regenreifen: \"Funktionieren nicht besonders gut\"",
+   "summary": "Die meisten Formel-1-Fahrer sind mit den 2026er-Regenreifen nicht zufrieden - Brasilien-Sieger Lando Norris ist weniger kritisch, sieht aber auch Probleme",
+   "url": "https://www.formel1.de/nc/149815",
+   "date": "2026-11-10T17:58:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-11-10T20:51:29.421Z"
+  },
+  {
+   "title": "Ferrari: Hamilton und Leclerc machten Witze nach dem Krisengespräch",
+   "summary": "Nach dem Streit zwischen Hamilton und Leclerc hat Ferrari-Teamchef Vasseur beide Fahrer zum Gespräch gebeten: Jetzt berichtet er über das Ergebnis",
+   "url": "https://www.formel1.de/nc/149814",
+   "date": "2026-11-10T16:55:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-10T20:51:29.421Z"
+  },
+  {
+   "title": "Formel-1-Kalender 2026: Saisonfinale definitiv nicht in Imola",
+   "summary": "Die Formel 1 hat den Organisatoren in Imola mitgeteilt, dass ihre Dienste nicht benötigt werden - Die Rennen in Katar und Abu Dhabi sollen stattfinden",
+   "url": "https://www.formel1.de/nc/149813",
+   "date": "2026-11-10T15:44:19.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-10T20:51:29.421Z"
+  },
+  {
+   "title": "Warum übergehen die Teams Formel-2-Meister bei der Cockpitvergabe?",
+   "summary": "Drei der vergangenen vier Formel-2-Meister haben es nicht in die Formel 1 geschafft - Isack Hadjar erklärt, warum die Ergebnisse in der Nachwuchsserie fast egal sind",
+   "url": "https://www.formel1.de/nc/149812",
+   "date": "2026-11-10T15:31:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hadjar"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-10T20:51:29.421Z"
+  },
+  {
+   "title": "Verstappen ahnte es schon vor dem Start: Was ihm in Brasilien sofort auffiel",
+   "summary": "Von P21 auf P2: Max Verstappen übertraf in Brasilien selbst die Erwartungen von Red Bull - Teamchef Laurent Mekies erklärt, warum das niemand vorhersah",
+   "url": "https://www.formel1.de/nc/149811",
+   "date": "2026-11-10T14:27:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-10T20:51:29.421Z"
+  },
+  {
+   "title": "Warum sich Toto Wolff nicht mit Frank Williams vergleichen will",
+   "summary": "Mercedes-Teamchef Toto Wolff hat bei den WM-Titeln mit Formel-1-Legenden gleichgezogen, doch der Österreicher will sich mit ihnen nicht auf eine Stufe stellen",
+   "url": "https://www.formel1.de/nc/149810",
+   "date": "2026-11-10T13:15:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes",
+    "williams"
+   ],
+   "team": "williams",
+   "category": "News",
+   "firstSeen": "2026-11-10T20:51:29.421Z"
+  },
   {
    "title": "Why McLaren went the opposite way to Mercedes' front wing",
    "summary": "Mark Hughes and Giorgio Piola investigate the front wing switch that helped McLaren's Lando Norris win the Sao Paulo Grand Prix.",
@@ -857,166 +1019,6 @@
    "team": "mclaren",
    "category": "Rennen",
    "firstSeen": "2026-11-08T22:12:07.308Z"
-  },
-  {
-   "title": "Norris zerlegt Champagner und läuft in Feuerwerk: Podium-Panne geht viral",
-   "summary": "Lando Norris gewinnt in Brasilien souverän, doch auf dem Podium geht sein Champagner-Trick schief: Flasche zerbricht, Feuerwerk sorgt für zusätzliche Lacher",
-   "url": "https://www.formel1.de/nc/149785",
-   "date": "2026-11-08T21:31:32.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T22:12:07.308Z"
-  },
-  {
-   "title": "Starker Start, schwaches Ende: Warum Hamiltons Aufholjagd verpuffte",
-   "summary": "Lewis Hamilton stürmte in Brasilien von P20 auf P9, doch Reifenprobleme, ein zusätzlicher Stopp und ein verpasster Funkspruch kosteten weitere Positionen",
-   "url": "https://www.formel1.de/nc/149784",
-   "date": "2026-11-08T20:54:44.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-08T22:12:07.308Z"
-  },
-  {
-   "title": "Dreher in der Boxengasse: Mercedes rätselt über plötzliche Stabilitätsprobleme",
-   "summary": "Kurz nach dem Wechsel auf Slicks ging für beide Mercedes-Piloten ein gutes Ergebnis verloren: Beide Fahrer drehten sich, George Russell dabei sogar in der Boxengasse",
-   "url": "https://www.formel1.de/nc/149783",
-   "date": "2026-11-08T20:48:31.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-08T22:12:07.308Z"
-  },
-  {
-   "title": "Verstappen-Feuerwerk in Brasilien - doch Norris hat die perfekte Antwort!",
-   "summary": "Mercedes strauchelt in Brasilien, fixiert am Ende aber doch die Konstrukteurs-WM - Max Verstappen legt im Regen erneut aufsehenerregende Aufholjagd hin",
-   "url": "https://www.formel1.de/nc/149782",
-   "date": "2026-11-08T19:56:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "norris"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-08T22:12:07.308Z"
-  },
-  {
-   "title": "Formel-1-Strafpunkte 2026: Die aktuelle Übersicht der Strafen",
-   "summary": "In unserer Übersicht der Formel-1-Strafpunkte zeigen wir dir den aktuellen Stand und wer eine Weisse Weste hat oder kurz vor einer Rennsperre steht",
-   "url": "https://www.formel1.de/nc/146577",
-   "date": "2026-11-08T19:37:09.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
-   "firstSeen": "2026-11-08T22:12:07.308Z"
-  },
-  {
-   "title": "Die Qualifying-, Sprint- und Rennduelle der Formel-1-Saison 2026",
-   "summary": "Der aktuelle Zwischenstand bei den Qualifying- und Rennduellen der Teamkollegen in der Formel-1-Saison 2026",
-   "url": "https://www.formel1.de/nc/146557",
-   "date": "2026-11-08T19:06:36.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T07:20:58.141Z"
-  },
-  {
-   "title": "OFFICIAL GRID: Who starts where for the Sao Paulo Grand Prix",
-   "summary": "The full official starting order for the 2026 Sao Paulo Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-for-the-2026-sao-paulo-grand-prix.5Xx3QRgvo5BHgAm6lZRbZr",
-   "date": "2026-11-08T16:53:31.449Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T16:53:31.449Z"
-  },
-  {
-   "title": "AS IT HAPPENED: Norris wins Sao Paulo GP as Mercedes take Constructors'",
-   "summary": "Live coverage of the Formula 1 MSC Cruises Grande Premio de Sao Paulo 2026 in Brazil.",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-msc-cruises-grande-premio-de-sao-paulo-2026.1yG2rNPUND8MpWa1F0mFES",
-   "date": "2026-11-08T16:52:31.449Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T16:53:31.449Z"
-  },
-  {
-   "title": "Formel-1-Motorenstrafen 2026: Die Übersicht",
-   "summary": "Die verwendeten Motorenteile während der Saison 2026 in der Übersicht: Wann welchem Formel-1-Fahrer eine Strafe droht",
-   "url": "https://www.formel1.de/nc/146406",
-   "date": "2026-11-08T16:32:27.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
-   "firstSeen": "2026-11-08T07:20:58.141Z"
-  },
-  {
-   "title": "\"Versuche, irgendwie zu gewinnen\": So sieht der Plan von Lewis Hamilton aus",
-   "summary": "Lewis Hamilton und Max Verstappen müssen den Grossen Preis von Sao Paulo vom Ende des Feldes starten: Eine Strategie für ihre Aufholjagd haben beide aber nicht",
-   "url": "https://www.formel1.de/nc/149781",
-   "date": "2026-11-08T14:24:15.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-08T14:53:19.182Z"
   }
  ]
 }
