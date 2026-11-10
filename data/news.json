@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T23:27:28.311Z",
+ "updatedAt": "2026-11-10T12:43:00.915Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,216 @@
   }
  },
  "items": [
+  {
+   "title": "Why McLaren went the opposite way to Mercedes' front wing",
+   "summary": "Mark Hughes and Giorgio Piola investigate the front wing switch that helped McLaren's Lando Norris win the Sao Paulo Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/why-mclaren-went-the-opposite-way-to-mercedes-on-their-front-wing.6adMZ9ne0eiXVRofKcPgF8",
+   "date": "2026-11-10T12:43:00.900Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [
+    "mercedes",
+    "mclaren"
+   ],
+   "team": "mercedes",
+   "category": "Regeln",
+   "firstSeen": "2026-11-10T12:43:00.900Z"
+  },
+  {
+   "title": "Alonso credits ‘phenomenal’ car after strong drive in Brazil",
+   "summary": "After a difficult time of it in Mexico City, Aston Martin bounced back strongly in Brazil as Fernando Alonso finished 12th at Interlagos, just missing out on a rare chance to score points.",
+   "url": "https://www.formula1.com/en/latest/article/alonso-credits-phenomenal-car-after-strong-showing-in-sao-paulo.7d9xmDFQhJ3IRqGx0xuFHK",
+   "date": "2026-11-10T12:42:00.900Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-11-10T12:43:00.900Z"
+  },
+  {
+   "title": "P10 in Sao Paulo GP 'the maximum possible' – Hulkenberg",
+   "summary": "Nico Hulkenberg believes that P10 and the final point on offer was \"the maximum possible\" in the Sao Paulo Grand Prix, the Audi driver having recovered from a 10-second penalty.",
+   "url": "https://www.formula1.com/en/latest/article/the-maximum-possible-hulkenberg-on-audis-fight-for-points-in-sao-paulo-grand-prix.1KO1iL7LzQm3Cfl0CGspws",
+   "date": "2026-11-10T12:41:00.900Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "hulkenberg"
+   ],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "Regeln",
+   "firstSeen": "2026-11-10T12:43:00.900Z"
+  },
+  {
+   "title": "5 betting lessons learnt after Norris wins in Brazil",
+   "summary": "The battle for race wins remains wide open heading into the season-closing triple header.",
+   "url": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-learnt-after-lando-norris-wins-the-sao-paulo-grand-prix-in-brazil.5yqAHXsmHN6KYWGDkNYvUt",
+   "date": "2026-11-10T12:40:00.900Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-11-10T12:43:00.900Z"
+  },
+  {
+   "title": "Keine Änderungen: FIA veröffentlicht finale ADUO-Ergebnisse 2026",
+   "summary": "Nach der dritten Analysephase in der laufenden Formel-1-Saison 2026 gibt es keine Änderungen an den ADUO-Zuteilungen für die Motorenhersteller",
+   "url": "https://www.formel1.de/nc/149809",
+   "date": "2026-11-10T12:10:24.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-11-10T12:43:00.900Z"
+  },
+  {
+   "title": "Unbekannte F1-Regel: Haas könnte gezwungen sein, mit Hirakawa zu fahren",
+   "summary": "Haas darf in der Formel-1-Saison 2026 keinen neuen Fahrer mehr einsetzen - Nach dem Debüt von Rafael Camara hat man das Limit einer unbekannten Regel erreicht",
+   "url": "https://www.formel1.de/nc/149808",
+   "date": "2026-11-10T11:51:35.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "ryo_hirakawa",
+    "rafael_camara"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Regeln",
+   "firstSeen": "2026-11-10T12:43:00.900Z"
+  },
+  {
+   "title": "Keine Pace: Was hinter Ferraris jahrelanger Regen-Krise steckt",
+   "summary": "Ferrari kämpft seit Jahren im Regen: In Brasilien offenbarten Reifenprobleme erneut massive Pace-Verluste, die Leclerc und Hamilton ausbremsten",
+   "url": "https://www.formel1.de/nc/149807",
+   "date": "2026-11-10T10:45:58.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc",
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-10T12:43:00.900Z"
+  },
+  {
+   "title": "Zwei Unfälle und Letzter: Warum das Camara-Debüt trotzdem \"positiv\" war",
+   "summary": "Rafael Camara erlebt ein schwieriges Formel-1-Debüt - Mit dem Endergebnis ist er selbst nicht zufrieden, Mut macht jedoch seine grundsätzliche Pace am Wochenende",
+   "url": "https://www.formel1.de/nc/149806",
+   "date": "2026-11-10T09:16:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "rafael_camara"
+   ],
+   "teams": [],
+   "team": "haas",
+   "category": "News",
+   "firstSeen": "2026-11-10T12:43:00.900Z"
+  },
+  {
+   "title": "Audi versteht Hülkenberg-Strafe nicht: \"Sehr strittige Situation\"",
+   "summary": "Nico Hülkenberg erhielt in Brasilien zehn Sekunden Strafe: Audi-Renndirektor Allan McNish erklärt, warum das Team die FIA-Entscheidung für strittig hält",
+   "url": "https://www.formel1.de/nc/149805",
+   "date": "2026-11-10T08:03:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hulkenberg"
+   ],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "Regeln",
+   "firstSeen": "2026-11-10T12:43:00.900Z"
+  },
+  {
+   "title": "Live im TV und Stream: Welche Sender den Grand Prix von Las Vegas zeigen",
+   "summary": "Alle Informationen zur Formel 1 2026 im TV und Livestream: Wie Du die Saison mit Audi, Ferrari, McLaren, Mercedes, Red Bull und Cadillac live verfolgen kannst!",
+   "url": "https://www.formel1.de/nc/123413",
+   "date": "2026-11-10T07:11:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes",
+    "red_bull",
+    "cadillac",
+    "ferrari",
+    "mclaren",
+    "audi"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-10T12:43:00.900Z"
+  },
+  {
+   "title": "Warum sich Oscar Piastri wirklich von Mark Webber getrennt hat",
+   "summary": "Warum haben Oscar Piastri und Mark Webber ihre Zusammenarbeit beendet? Die Hintergründe reichen von Papaya-Regeln bis zu Webbers Red-Bull-Vergangenheit",
+   "url": "https://www.formel1.de/nc/149804",
+   "date": "2026-11-10T06:22:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "piastri"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "mclaren",
+   "category": "Regeln",
+   "firstSeen": "2026-11-10T12:43:00.900Z"
+  },
+  {
+   "title": "TV-Quoten Brasilien: Formel 1 trotz entschiedener WM gefragt",
+   "summary": "Starke Quoten trotz entschiedener Formel-1-WM: Sky übertrifft seinen Saisonschnitt, ServusTV erzielt das zweitbeste Saisonergebnis in Österreich",
+   "url": "https://www.formel1.de/nc/149803",
+   "date": "2026-11-10T05:36:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Business",
+   "firstSeen": "2026-11-10T12:43:00.900Z"
+  },
   {
    "title": "The best images from Mercedes' title celebrations",
    "summary": "Mercedes sealed the Teams' Championship in Sao Paulo on Sunday after a double points finish from George Russell and Kimi Antonelli.",
@@ -807,194 +1017,6 @@
    "team": "ferrari",
    "category": "News",
    "firstSeen": "2026-11-08T14:53:19.182Z"
-  },
-  {
-   "title": "Pirelli zufrieden: \"Keine Lücke\" zwischen Full-Wet-Regenreifen und Intermediate",
-   "summary": "Für Pirelli war das Regen-Qualifying in Brasilien ein wichtiges Testfeld: Zum ersten Mal sind Full-Wet-Regenreifen über einen längeren Zeitraum zum Einsatz gekommen",
-   "url": "https://www.formel1.de/nc/149780",
-   "date": "2026-11-08T13:11:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T14:53:19.182Z"
-  },
-  {
-   "title": "Our final Sao Paulo Grand Prix betting predictions",
-   "summary": "Our expert betting writers bring you their final predictions and latest odds before the Sao Paulo Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/our-final-sao-paulo-grand-prix-betting-predictions-before-lights-out-in-brazil.FfeJ90d5ka32Pf2Hx8RhX",
-   "date": "2026-11-08T13:09:48.001Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T13:09:48.001Z"
-  },
-  {
-   "title": "Our Sao Paulo GP Bet Builder selections made",
-   "summary": "We have picked a four-leg Bet Builder for Sao Paulo, including podium and top-six finish selections.",
-   "url": "https://www.formula1.com/en/latest/article/our-sao-paulo-grand-prix-bet-builder-selections-after-lando-norris-storms-to-pole-in-brazil.49xfUowVYgSd8fL1AnlpFV",
-   "date": "2026-11-08T13:08:48.001Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T13:09:48.001Z"
-  },
-  {
-   "title": "Brasilien-Update bei McLaren: Teamchef Stella zieht positive Zwischenbilanz",
-   "summary": "McLaren-Teamchef Andrea Stella zieht eine erfreuliche Zwischenbilanz: Der neue Frontflügel, der in Brasilien sein Debüt feiert, hat Fahrbarkeit des MCL40 verbessert",
-   "url": "https://www.formel1.de/nc/149778",
-   "date": "2026-11-08T11:46:03.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Technik",
-   "firstSeen": "2026-11-08T13:09:48.001Z"
-  },
-  {
-   "title": "Hamilton's remarkable projects away from F1",
-   "summary": "Discover Lewis Hamilton's life beyond Formula 1, including his music career, Hollywood ventures, fashion influence, gaming appearances and trading cards.",
-   "url": "https://www.formula1.com/en/latest/article/beyond-the-track-hamiltons-remarkable-projects-away-from-f1-as-he-marks-400-grand-prix-starts.2EHQU6DAJjIFgT7OfB5iHf",
-   "date": "2026-11-08T10:57:20.454Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-08T10:57:20.454Z"
-  },
-  {
-   "title": "Rivals pay tribute as Hamilton reaches 400 F1 starts",
-   "summary": "The Sao Paulo Grand Prix represents a milestone for Lewis Hamilton as the Ferrari driver reaches his 400th Formula 1 race this weekend.",
-   "url": "https://www.formula1.com/en/latest/article/rivals-pay-tribute-as-lewis-hamilton-reaches-400-formula-1-starts-at-sao-paulo-grand-prix.7ahLqNwTWm8Nze2o9hteZB",
-   "date": "2026-11-08T10:56:20.454Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T10:57:20.454Z"
-  },
-  {
-   "title": "How F1 fans can avoid emotional betting in Brazil",
-   "summary": "Safer gambling is important, so we’ve flagged some key areas where you should keep a cool head when betting during Sunday's race.",
-   "url": "https://www.formula1.com/en/latest/article/how-f1-fans-can-avoid-emotional-betting-during-the-sao-paulo-grand-prix.5pWFgryIkSrF37ZBxPQrPQ",
-   "date": "2026-11-08T10:55:20.454Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T10:57:20.454Z"
-  },
-  {
-   "title": "What are the tyre strategy options for the Sao Paulo GP?",
-   "summary": "Matt Youson takes a look at the different pit stop and tyre options that are available to the teams on race day at the Autodromo Jose Carlos Pace.",
-   "url": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-sao-paulo-gp.1VKxBiV7J8p5OfDdK0NShA",
-   "date": "2026-11-08T10:54:20.454Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T10:57:20.454Z"
-  },
-  {
-   "title": "Toto Wolff über Angst vor Katar: \"Wenn du nicht willst, bleib zu Hause\"",
-   "summary": "Zwei Formel-1-Rennen im Nahen Osten stehen bevor, und die Sicherheitslage bleibt angespannt - Was Toto Wolff über mögliche Risiken und einen Boykott sagt",
-   "url": "https://www.formel1.de/nc/149777",
-   "date": "2026-11-08T10:51:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T10:57:20.454Z"
-  },
-  {
-   "title": "Toto Wolff: Kimi Antonelli soll ein bisschen so werden wie Gianni Agnelli",
-   "summary": "Der erste WM-Titel von Kimi Antonelli ist sicher, doch Mercedes-Teamchef Toto Wolff hat Wünsche für die Zukunft: Der Italiener soll \"sein ganzes Leben relevant bleiben\"",
-   "url": "https://www.formel1.de/nc/149776",
-   "date": "2026-11-08T10:22:11.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-08T10:57:20.454Z"
-  },
-  {
-   "title": "Sergio Perez: Vom Abstellgleis zu einem der absoluten Topverdiener der Formel 1",
-   "summary": "Sergio Perez hat seinen Vertrag mit Cadillac langfristig verlängert und soll finanziell mächtig zugelegt haben - Frage nach seinem Teamkollegen ist weiter offen",
-   "url": "https://www.formel1.de/nc/149775",
-   "date": "2026-11-08T09:33:36.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "perez"
-   ],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "Transfer",
-   "firstSeen": "2026-11-08T10:57:20.454Z"
-  },
-  {
-   "title": "Oscar Piastri erklärt, was zum Debakel im Brasilien-Qualifying führte",
-   "summary": "Oscar Piastri erlebte im verregneten Brasilien-Qualifying eine Enttäuschung, als er schon in Q2 vorzeitig ausschied: Der McLaren-Pilot erklärt den bitteren Grund dafür",
-   "url": "https://www.formel1.de/nc/149774",
-   "date": "2026-11-08T09:01:52.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "piastri"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T09:03:21.949Z"
   }
  ]
 }
