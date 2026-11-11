@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T20:51:29.444Z",
+ "updatedAt": "2026-11-11T11:55:05.003Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,144 @@
   }
  },
  "items": [
+  {
+   "title": "Bearman relieved ‘horrible three weeks’ for Haas are over",
+   "summary": "Ollie Bearman finished 17th in Sao Paulo on Sunday and afterwards cut a despondent figure as he revealed how pleased he was to be heading home after a tough triple header.",
+   "url": "https://www.formula1.com/en/latest/article/bearman-relieved-horrible-three-weeks-for-haas-are-over.2DZIcOEVILLVUfQT00bStA",
+   "date": "2026-11-11T11:55:04.989Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "bearman"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "News",
+   "firstSeen": "2026-11-11T11:55:04.989Z"
+  },
+  {
+   "title": "‘He was immediately fast’ – Antonelli’s junior racing boss on his early potential",
+   "summary": "Rene Rosin ran Antonelli from F4 up to F2 with the legendary PREMA Racing team, and says the potential was clear from the young Italian's earliest days in the sport.",
+   "url": "https://www.formula1.com/en/latest/article/he-was-immediately-fast-antonellis-junior-racing-boss-on-his-early-potential.3Hy1WZWp1lMwf0VTncC2xB",
+   "date": "2026-11-11T11:54:04.989Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-11T11:55:04.989Z"
+  },
+  {
+   "title": "3 drivers to watch in the early Las Vegas GP markets",
+   "summary": "Lando Norris returned to the top step of the podium in Brazil, but what did the Sao Paulo Grand Prix signal in the markets ahead of the trip to Las Vegas?",
+   "url": "https://www.formula1.com/en/latest/article/3-drivers-to-watch-closely-in-the-early-las-vegas-grand-prix-betting-markets.7jgVWNjbZFmirJ9nK704a",
+   "date": "2026-11-11T11:53:04.989Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-11-11T11:55:04.989Z"
+  },
+  {
+   "title": "Mekies stellt klar: Wer über die Zukunft von Liam Lawson entscheidet",
+   "summary": "Red-Bull-Teamchef Laurent Mekies lobt Liam Lawson für seine starke Saison 2026, doch bei der Entscheidung über dessen Zukunft hält er sich bewusst zurück",
+   "url": "https://www.formel1.de/nc/149820",
+   "date": "2026-11-11T11:23:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "lawson"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "rb",
+   "category": "News",
+   "firstSeen": "2026-11-11T11:55:04.989Z"
+  },
+  {
+   "title": "Andrea Stella: Startphase von Verstappen und Hamilton war \"einfach unglaublich\"",
+   "summary": "Die Aufholjagd von Max Verstappen beeindruckte auch McLaren-Teamchef Andrea Stella: Vor allem die ersten Runden des Rennens seien \"einfach unglaublich\" gewesen",
+   "url": "https://www.formel1.de/nc/149819",
+   "date": "2026-11-11T10:11:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "hamilton"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-11T11:55:04.989Z"
+  },
+  {
+   "title": "Nach Regen-Chaos in Brasilien: Wie gefährlich ist die Formel 1 von 2026 wirklich?",
+   "summary": "Vor dem Brasilien-Grand-Prix gab es grosse Bedenken wegen der neuen Formel-1-Autos im Regen: Was sich bewahrheitete und wo die Probleme tatsächlich liegen",
+   "url": "https://www.formel1.de/nc/149818",
+   "date": "2026-11-11T09:03:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-11T11:55:04.989Z"
+  },
+  {
+   "title": "Haas verschenkt wichtige WM-Punkte: Bearman rechnet mit seinem Team ab",
+   "summary": "Haas verliert in Brasilien wichtige WM-Punkte im Duell mit Audi: Oliver Bearman ist nach Platz 17 frustriert und kritisiert die Boxenstopps seines Teams",
+   "url": "https://www.formel1.de/nc/149817",
+   "date": "2026-11-11T07:50:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bearman"
+   ],
+   "teams": [
+    "haas",
+    "audi"
+   ],
+   "team": "haas",
+   "category": "News",
+   "firstSeen": "2026-11-11T11:55:04.989Z"
+  },
+  {
+   "title": "Lance Stroll: 13. Ausfall des Jahres gibt Honda Rätsel auf",
+   "summary": "Aston-Martin-Pilot Lance Stroll wurde am Sonntag in Brasilien erneut von einem Batterieproblem erwischt - Die Ursache dafür ist laut Honda noch nicht bekannt",
+   "url": "https://www.formel1.de/nc/149816",
+   "date": "2026-11-11T05:31:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "stroll"
+   ],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-11-11T11:55:04.989Z"
+  },
   {
    "title": "PALMER: Why Norris’ Sao Paulo victory was one of his best ever wins",
    "summary": "Races like the Sao Paulo Grand Prix show everybody why Lando Norris is a World Champion, writes former Renault F1 driver Jolyon Palmer.",
@@ -879,144 +1017,6 @@
     "ferrari"
    ],
    "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T22:12:07.308Z"
-  },
-  {
-   "title": "Leclerc and Antonelli hit with post-race penalties in Brazil",
-   "summary": "Charles Leclerc has lost his finishing position of P7 in Sao Paulo after receiving a penalty from the stewards.",
-   "url": "https://www.formula1.com/en/latest/article/leclerc-hit-with-post-race-penalty-for-sao-paulo-collision-with-lawson.scK3PbeAxR70InNjz1ph3",
-   "date": "2026-11-08T22:11:07.308Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "leclerc",
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Regeln",
-   "firstSeen": "2026-11-08T22:12:07.308Z"
-  },
-  {
-   "title": "'No idea what happened on that pit exit' spin – Russell",
-   "summary": "George Russell admits he has \"no idea what happened on that pit exit\" after suffering a spin in the Sao Paulo Grand Prix, but has hailed Mercedes' performance this year after the team secured the Constructors' Championship.",
-   "url": "https://www.formula1.com/en/latest/article/no-idea-what-happened-on-that-pit-exit-russell-reflects-on-spin-and-mercedes-title-win-in-sao-paulo.1C1TWOL9x9TBOkYyNxid7F",
-   "date": "2026-11-08T22:10:07.308Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T22:12:07.308Z"
-  },
-  {
-   "title": "Verstappen reflects on 'challenging' P21 to podium charge",
-   "summary": "Max Verstappen admits he \"overtook a lot of cars\" in a wet Sao Paulo Grand Prix, the Dutchman storming to the podium from the back of the grid as Red Bull claimed a double rostrum.",
-   "url": "https://www.formula1.com/en/latest/article/verstappen-reflects-on-challenging-sao-paulo-gp-as-he-charges-from-p21-to-the-podium.4g4jMP9fsJQwWOCfDLitK9",
-   "date": "2026-11-08T22:09:07.308Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T22:12:07.308Z"
-  },
-  {
-   "title": "Norris delighted to ‘give back’ to McLaren in Sao Paulo win",
-   "summary": "Lando Norris bounced back from a challenging start to triumph at the Sao Paulo Grand Prix, taking McLaren back to the top for the first time since Round 12.",
-   "url": "https://www.formula1.com/en/latest/article/i-just-kept-it-cool-norris-delighted-to-give-something-back-to-mclaren-with-sao-paulo-win.5nqTdIq8oTW6NDdnwWBSdi",
-   "date": "2026-11-08T22:08:07.308Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T22:12:07.308Z"
-  },
-  {
-   "title": "Why this title victory is one of Toto Wolff’s greatest triumphs",
-   "summary": "F1 Hall of Fame journalist David Tremayne on Mercedes' return as Constructors' Champions.",
-   "url": "https://www.formula1.com/en/latest/article/why-this-mercedes-title-victory-is-one-of-toto-wolffs-greatest-triumphs.520nWmdi7JAxC4ALa8HnPd",
-   "date": "2026-11-08T22:07:07.308Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-08T22:12:07.308Z"
-  },
-  {
-   "title": "Max Verstappen is your Sao Paulo GP Driver of the Day",
-   "summary": "Max Verstappen picks up the Driver of the Day vote for the 2026 Sao Paulo Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/driver-of-the-day-verstappen-gets-fan-vote-for-p21-to-podium-performance-in-sao-paulo.6lAa8RxSlJMqHxsNM0rAKF",
-   "date": "2026-11-08T22:06:07.308Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T22:12:07.308Z"
-  },
-  {
-   "title": "Norris wins wet Sao Paulo GP thriller as Mercedes claim title",
-   "summary": "Lando Norris beat Max Verstappen to victory in a wet thriller in the Sao Paulo Grand Prix, as Mercedes clinched the 2026 Constructors' Championship.",
-   "url": "https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI",
-   "date": "2026-11-08T22:05:07.308Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris",
-    "max_verstappen"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T22:12:07.308Z"
-  },
-  {
-   "title": "Lando Norris: Geduld war der Schlüssel zum Sieg in Brasilien",
-   "summary": "Lando Norris hat sich den Rennsieg in Brasilien gesichert und dabei Geduld bewiesen: Die musste er auch in den vergangenen Wochen haben, doch Arbeit zahlt sich aus",
-   "url": "https://www.formel1.de/nc/149786",
-   "date": "2026-11-08T22:02:38.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [],
-   "team": "mclaren",
    "category": "Rennen",
    "firstSeen": "2026-11-08T22:12:07.308Z"
   }
