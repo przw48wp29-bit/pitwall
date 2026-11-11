@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T11:55:05.003Z",
+ "updatedAt": "2026-11-11T19:40:03.282Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,160 @@
   }
  },
  "items": [
+  {
+   "title": "Ricciardo reacts to his best career moments",
+   "summary": "Former Red Bull and McLaren racer Daniel Ricciardo sat down with F1 to take a look back at his career highlights, from his sublime Monaco victory to unforgettable 'shoey' celebration.",
+   "url": "https://www.formula1.com/en/latest/article/i-know-f1-is-serious-but-we-can-still-make-it-fun-ricciardo-reacts-to-his-best-career-moments.NaM7kMUTZmxIzbRrJPoHY",
+   "date": "2026-11-11T19:40:03.268Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "red_bull",
+    "mclaren"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-11T19:40:03.268Z"
+  },
+  {
+   "title": "Bruno Senna recounts Antonelli’s visit to his family farm",
+   "summary": "In the latest episode of official podcast F1 Beyond The Grid, Bruno Senna opened up on Kimi Antonelli's emotional visit to the family estate of three-time champion Ayrton Senna.",
+   "url": "https://www.formula1.com/en/latest/article/it-showed-why-hes-a-world-champion-bruno-senna-recounts-antonellis-visit-to-his-family-farm.29P3uPrOthkJo2tTjljCwW",
+   "date": "2026-11-11T19:39:03.268Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-11T19:40:03.268Z"
+  },
+  {
+   "title": "Where do Mercedes rank among Teams' Championship winners",
+   "summary": "The Sao Paulo Grand Prix last weekend proved to be a day of celebration for Mercedes, as the German manufacturer secured the 2026 Constructors' Championship.",
+   "url": "https://www.formula1.com/en/latest/article/where-do-mercedes-rank-in-the-list-of-constructors-championship-winners.4Cr98XypZEcBtcbsBqOtEB",
+   "date": "2026-11-11T19:38:03.268Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-11T19:40:03.268Z"
+  },
+  {
+   "title": "Lando Norris: Sieg in Brasilien \"eine meiner besten Leistungen überhaupt\"",
+   "summary": "Der 14. Grand-Prix-Sieg von Lando Norris war \"einer seiner besten\" Erfolge : Warum das Rennen in Brasilien \"alles andere als einfach\" war - und was sein Teamchef sagt",
+   "url": "https://www.formel1.de/nc/149826",
+   "date": "2026-11-11T18:05:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-11-11T19:40:03.268Z"
+  },
+  {
+   "title": "Mercedes erklärt Ursache für Kimi Antonellis Dreher in Brasilien",
+   "summary": "Das Mercedes-Team erklärt die Ursachen für Kimi Antonellis Probleme mit dem Fahrverhalten seines Autos beim Grand Prix von Sao Paulo in Brasilien",
+   "url": "https://www.formel1.de/nc/149825",
+   "date": "2026-11-11T17:01:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-11T19:40:03.268Z"
+  },
+  {
+   "title": "Lewis Hamilton besucht Hilfsorganisationen an der Grenze zum Gazastreifen",
+   "summary": "Lewis Hamilton reist nur zwei Tage nach dem Grand Prix von Sao Paulo an die Grenze zum Gazastreifen und informiert sich über die humanitäre Hilfe vor Ort",
+   "url": "https://www.formel1.de/nc/149824",
+   "date": "2026-11-11T14:17:46.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-11T19:40:03.268Z"
+  },
+  {
+   "title": "Arvid Lindblad erneut ohne Punkte: Was in Brasilien genau schiefgelaufen ist",
+   "summary": "Arvid Lindblad bleibt in Brasilien zum vierten Mal in Folge ohne Punkte: Was beim Racing-Bulls-Piloten zuletzt schiefgelaufen ist - und warum er trotzdem zufrieden ist",
+   "url": "https://www.formel1.de/nc/149823",
+   "date": "2026-11-11T13:28:43.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "arvid_lindblad"
+   ],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "News",
+   "firstSeen": "2026-11-11T19:40:03.268Z"
+  },
+  {
+   "title": "Mit der Pace \"ziemlich zufrieden\", aber: Bortoleto hadert mit Brasilien-Heimspiel",
+   "summary": "Audi-Pilot Gabriel Bortoleto ist mit der Pace in Sao Paulo \"ziemlich zufrieden\", geht aber trotzdem leer aus: Warum der Brasilianer beim Heimspiel ohne WM-Punkt bleibt",
+   "url": "https://www.formel1.de/nc/149822",
+   "date": "2026-11-11T12:33:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bortoleto"
+   ],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-11-11T19:40:03.268Z"
+  },
+  {
+   "title": "Verstappen kritisiert Ferraris Fahrerwahl: \"Dann bekommt man genau das\"",
+   "summary": "Max Verstappen hat eine klare Meinung zur Fahrerpaarung von Ferrari: Der Red-Bull-Star erklärt, warum er Hamilton und Leclerc niemals gemeinsam verpflichtet hätte",
+   "url": "https://www.formel1.de/nc/149821",
+   "date": "2026-11-11T12:31:27.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [
+    "red_bull",
+    "ferrari"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-11T19:40:03.268Z"
+  },
   {
    "title": "Bearman relieved ‘horrible three weeks’ for Haas are over",
    "summary": "Ollie Bearman finished 17th in Sao Paulo on Sunday and afterwards cut a despondent figure as he revealed how pleased he was to be heading home after a tough triple header.",
@@ -868,157 +1022,6 @@
    "team": "mclaren",
    "category": "Rennen",
    "firstSeen": "2026-11-09T01:45:04.075Z"
-  },
-  {
-   "title": "How Lawson stated his case with a brilliant Brazilian weekend",
-   "summary": "Lawson, who does not have a confirmed seat with Racing Bulls next season, finished P7 in Sao Paulo after starting on the second row.",
-   "url": "https://www.formula1.com/en/latest/article/how-lawson-stated-his-case-with-a-brilliant-brazilian-weekend.6pFeRcXLYj8qdZZt23LdhV",
-   "date": "2026-11-09T01:44:04.075Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "lawson"
-   ],
-   "teams": [
-    "rb"
-   ],
-   "team": "rb",
-   "category": "Transfer",
-   "firstSeen": "2026-11-09T01:45:04.075Z"
-  },
-  {
-   "title": "Antonelli ‘grateful’ for team glory amid Brazil frustration",
-   "summary": "Kimi Antonelli was keen to prioritise Mercedes’ triumph in the Constructors’ Championship over his Sao Paulo Grand Prix performance.",
-   "url": "https://www.formula1.com/en/latest/article/they-helped-me-achieve-this-dream-antonelli-grateful-for-mercedes-glory-amid-brazil-frustration.3ZVoYyfjzeFZKrW0bUfXUn",
-   "date": "2026-11-09T01:43:04.075Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-09T01:45:04.075Z"
-  },
-  {
-   "title": "What the teams said – Race day in Brazil",
-   "summary": "The drivers and teams report back from the Autodromo Jose Carlos Pace after the 2026 Sao Paulo Grand Prix in Brazil.",
-   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-brazil-2026.6WRrgNQ7FDoFnwzxR9Vjw7",
-   "date": "2026-11-09T01:42:04.075Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-09T01:45:04.075Z"
-  },
-  {
-   "title": "Wolff already thinking about 2027 despite constructors' win",
-   "summary": "Mercedes Team Principal Toto Wolff says he is already thinking about 2027 despite winning the Constructors' Championship in Brazil.",
-   "url": "https://www.formula1.com/en/latest/article/wolff-already-thinking-about-2027-despite-constructors-championship-win-in-brazil.21aGFbwHKbhjkcmpeYVrZV",
-   "date": "2026-11-09T01:41:04.075Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-09T01:45:04.075Z"
-  },
-  {
-   "title": "Unsafe Release: Darum wurde Antonelli in Brasilien nachträglich bestraft",
-   "summary": "Kimi Antonelli kassiert nach einem Unsafe Release eine Zeitstrafe: Seinen fünften Platz beim Sao-Paulo-Grand-Prix behält der neue Weltmeister trotzdem",
-   "url": "https://www.formel1.de/nc/149790",
-   "date": "2026-11-09T01:24:06.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-09T01:45:04.075Z"
-  },
-  {
-   "title": "Toto Wolff bestätigt: Jetzt fährt Antonelli für Russells P2",
-   "summary": "Toto Wolff will George Russell im WM-Kampf um Platz zwei unterstützen und schliesst dafür eine Bevorzugung gegenüber Weltmeister Kimi Antonelli nicht aus",
-   "url": "https://www.formel1.de/nc/149789",
-   "date": "2026-11-09T00:14:34.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "russell"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-09T01:45:04.075Z"
-  },
-  {
-   "title": "Platz sieben weg: Leclerc erhält für Lawson-Kollision Zeitstrafe",
-   "summary": "Charles Leclerc wird nach seiner Kollision mit Liam Lawson bestraft und verliert Platz sieben beim Grossen Preis von Sao Paulo nachträglich",
-   "url": "https://www.formel1.de/nc/149788",
-   "date": "2026-11-08T22:56:11.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc",
-    "lawson"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-09T01:45:04.075Z"
-  },
-  {
-   "title": "\"Wie Tag und Nacht\": Max Verstappen will Probleme im Auto verstehen",
-   "summary": "Zum dritten Mal in Folge zeigte Max Verstappen in Brasilien eine tolle Aufholjagd: Zum Sieg reichte es jedoch nicht, auch weil sein Auto auf Slicks plötzlich zickte",
-   "url": "https://www.formel1.de/nc/149787",
-   "date": "2026-11-08T22:28:20.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-09T01:45:04.075Z"
-  },
-  {
-   "title": "Leclerc and Hamilton lament ‘horrendous’ Sao Paulo GP",
-   "summary": "Charles Leclerc and Lewis Hamilton only scored six points between them at the Sao Paulo Grand Prix, marking a disappointing race for Ferrari.",
-   "url": "https://www.formula1.com/en/latest/article/a-complete-disaster-leclerc-and-hamilton-lament-horrendous-ferrari-performance-in-sao-paulo.sdZmqEEwBaoAC8OmBxvYh",
-   "date": "2026-11-08T22:12:07.308Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "leclerc",
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-08T22:12:07.308Z"
   }
  ]
 }
