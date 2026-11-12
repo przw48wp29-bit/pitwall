@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T12:49:36.663Z",
+ "updatedAt": "2026-11-12T21:29:05.086Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,180 @@
   }
  },
  "items": [
+  {
+   "title": "Why the F1 driver market might produce one last twist",
+   "summary": "Following Racing Bulls’ confirmation of their unchanged driver line-up, Lawrence Barretto dissects everything that’s still left to play for on the 2027 grid.",
+   "url": "https://www.formula1.com/en/latest/article/analysis-why-the-f1-driver-market-might-produce-one-last-twist-for-2027.6t7AwtqfHWkDqSgQZ3ElQ3",
+   "date": "2026-11-12T21:29:04.953Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "Rennen",
+   "firstSeen": "2026-11-12T21:29:04.953Z"
+  },
+  {
+   "title": "Trivia: False Start",
+   "summary": "",
+   "url": "https://www.formula1.com/en/latest/article/trivia-false-start.403Q768qyuqJKKSGfQE9C1",
+   "date": "2026-11-12T21:28:04.953Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-12T21:29:04.953Z"
+  },
+  {
+   "title": "Tsolov to serve as Red Bull and Racing Bulls reserve driver",
+   "summary": "Formula 2 racer Nikola Tsolov will step up to a role as Red Bull and Racing Bulls’ reserve driver next season.",
+   "url": "https://www.formula1.com/en/latest/article/tsolov-to-join-red-bull-and-racing-bulls-as-reserve-driver-for-2027.390fvkyiS2t5fnyVjvxqFq",
+   "date": "2026-11-12T21:27:04.953Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "rb",
+    "red_bull"
+   ],
+   "team": "rb",
+   "category": "News",
+   "firstSeen": "2026-11-12T21:29:04.953Z"
+  },
+  {
+   "title": "Russell launches new karting academy for young racers",
+   "summary": "Mercedes driver George Russell has founded a karting academy to support and develop the next generation of young racers.",
+   "url": "https://www.formula1.com/en/latest/article/karting-is-where-it-all-started-for-me-russell-launches-new-academy-to-develop-young-racers.5kVDwrQLjkeQ8bYLZ5sqQ2",
+   "date": "2026-11-12T21:26:04.953Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "russell"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-12T21:29:04.953Z"
+  },
+  {
+   "title": "Why Racing Bulls stuck with Lawson and Lindblad",
+   "summary": "Racing Bulls have retained Liam Lawson and Arvid Lindblad for 2027, but with Red Bull junior Nikola Tsolov pushing for promotion, Lawrence Barretto looks at why they decided against a change?",
+   "url": "https://www.formula1.com/en/latest/article/analysis-why-racing-bulls-stuck-with-lawson-and-lindblad-for-2027.5qokKr7EMWk8s3SNCSPwC",
+   "date": "2026-11-12T21:25:04.953Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "lawson",
+    "arvid_lindblad"
+   ],
+   "teams": [
+    "rb",
+    "red_bull"
+   ],
+   "team": "rb",
+   "category": "News",
+   "firstSeen": "2026-11-12T21:29:04.953Z"
+  },
+  {
+   "title": "Lewis Hamilton stürzt in Sportler-Ranking ab: Ferrari-Teamkollege zieht vorbei",
+   "summary": "2025 war Lewis Hamilton noch der vermarktbarste Sportler der Welt, jetzt liegt er nur noch auf Rang 22 - und hinter Ferrari-Teamkollege Charles Leclerc",
+   "url": "https://www.formel1.de/nc/149838",
+   "date": "2026-11-12T18:36:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton",
+    "leclerc"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-12T21:29:04.953Z"
+  },
+  {
+   "title": "Kimi Antonelli löst Versprechen ein: Mit gefärbten Haaren bei WM-Feier",
+   "summary": "Der neue Formel-1-Weltmeister Kimi Antonelli erschien mit grün-weiss-rotem Haar zur Party in Brackley, wo Mercedes mit den Mitarbeitern die beiden WM-Titel feierte",
+   "url": "https://www.formel1.de/nc/149837",
+   "date": "2026-11-12T17:22:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-12T21:29:04.953Z"
+  },
+  {
+   "title": "Formel-1-Weltmeister erklärt: Darum muss Ferrari alles auf Hamilton setzen",
+   "summary": "Damon Hill fordert Ferrari dazu auf, Lewis Hamilton zur Nummer 1 zu machen - Ohne eine klare Positionierung sieht der Weltmeister von 1996 keine Chance auf die WM",
+   "url": "https://www.formel1.de/nc/149836",
+   "date": "2026-11-12T16:16:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-12T21:29:04.953Z"
+  },
+  {
+   "title": "Racing Bulls: Wie Liam Lawson sein Formel-1-Cockpit gerettet hat",
+   "summary": "Wir werfen einen Blick auf die Zahlen, die dafür gesorgt haben, dass Liam Lawson auch in der Formel-1-Saison 2027 weiterhin für die Racing Bulls fahren darf",
+   "url": "https://www.formel1.de/nc/149835",
+   "date": "2026-11-12T14:54:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "lawson"
+   ],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "Transfer",
+   "firstSeen": "2026-11-12T21:29:04.953Z"
+  },
+  {
+   "title": "Seltener Formel-1-Williams von Ayrton Senna wird versteigert",
+   "summary": "Ein Williams FW16, mit dem Ayrton Senna in der Formel-1-Saison 1994 gefahren ist, soll in New York versteigert werden",
+   "url": "https://www.formel1.de/nc/149834",
+   "date": "2026-11-12T13:33:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "News",
+   "firstSeen": "2026-11-12T21:29:04.953Z"
+  },
   {
    "title": "Lawson and Lindblad to remain at Racing Bulls for 2027",
    "summary": "Racing Bulls will retain their current pairing of Liam Lawson and Arvid Lindblad for the upcoming 2027 season.",
@@ -29,7 +203,7 @@
    "firstSeen": "2026-11-12T12:49:36.648Z"
   },
   {
-   "title": "Cadillac: Auch Frederik Vesti als Ersatz für Valtteri Bottas im Gespräch",
+   "title": "Cadillac: Diese Fahrer könnten Valtteri Bottas ersetzen",
    "summary": "Die Zukunft von Valtteri Bottas bei Cadillac bleibt weiterhin offen - TWG setzt auf Colton Herta, doch als Alternative gewinnt auch Frederik Vesti an Bedeutung",
    "url": "https://www.formel1.de/nc/149833",
    "date": "2026-11-12T12:41:05.000Z",
@@ -860,173 +1034,6 @@
    "team": null,
    "category": "News",
    "firstSeen": "2026-11-09T23:27:28.296Z"
-  },
-  {
-   "title": "Rivals congratulate Mercedes on Constructors' Championship",
-   "summary": "Mercedes' wait for another Constructors' Championship ended last weekend, as the German manufacturer achieved the feat at the Sao Paulo Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/rivals-congratulate-mercedes-on-2026-constructors-championship-after-sao-paulo-gp.5mQ3BkVs5HLP8LE8PduoWY",
-   "date": "2026-11-09T23:25:28.296Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-09T23:27:28.296Z"
-  },
-  {
-   "title": "Kommentar: Wie die Formel 1 ihre Kritiker eines Besseren belehrte",
-   "summary": "Die Formel 1 sollte im Regenchaos versinken, doch beim Grand Prix von Sao Paulo kam alles anders, und die Schwarzmaler wurden eines Besseren belehrt",
-   "url": "https://www.formel1.de/nc/149802",
-   "date": "2026-11-09T16:30:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-09T23:27:28.296Z"
-  },
-  {
-   "title": "Erst Teamorder, dann Entschuldigung: Was bei Hadjar und Verstappen los war",
-   "summary": "Isack Hadjar fährt eines seiner besten Rennen für Red Bull, trotzdem muss er für Max Verstappen Platz machen - und wartet anschliessend auf eine Erklärung des Teams …",
-   "url": "https://www.formel1.de/nc/149800",
-   "date": "2026-11-09T14:39:02.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hadjar",
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-09T23:27:28.296Z"
-  },
-  {
-   "title": "Fahrernoten Brasilien: Sieg und Tabellenführung für Max Verstappen",
-   "summary": "Wachablösung an der Tabellenspitze der Leserwertung: Kimi Antonelli verliert den ersten Platz, Nico Hülkenberg glänzt als Vierter in Sao Paulo",
-   "url": "https://www.formel1.de/nc/149801",
-   "date": "2026-11-09T14:16:36.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "antonelli",
-    "hulkenberg"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-09T23:27:28.296Z"
-  },
-  {
-   "title": "Wer letzte Nacht am besten geschlafen hat: Toto Wolff",
-   "summary": "Mercedes ist wieder Formel-1-Weltmeister: Warum der grösste Erfolg von Toto Wolff nicht nur in den 17 WM-Titeln liegt, sondern auch im Umgang mit seinem Team",
-   "url": "https://www.formel1.de/nc/149799",
-   "date": "2026-11-09T13:25:07.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-09T23:27:28.296Z"
-  },
-  {
-   "title": "How Verstappen outperformed Red Bull’s simulations in Brazil",
-   "summary": "Laurent Mekies has praised Max Verstappen for his sublime recovery from P21 to P2 at the Sao Paulo Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/mekies-explains-how-verstappen-outperformed-red-bulls-own-simulations-in-brazil.1ps87tyvjdEf23vDCaDXOZ",
-   "date": "2026-11-09T12:57:18.514Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-09T12:57:18.514Z"
-  },
-  {
-   "title": "Stella reveals how McLaren triumphed at Interlagos",
-   "summary": "McLaren Team Principal Andrea Stella has explained how McLaren made the right calls to seal Lando Norris' victory at the Sao Paulo Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/technically-a-very-interesting-race-stella-reveals-how-norris-and-mclaren-triumphed-at-interlagos.SRa4ORrmm9CcPqhwssoum",
-   "date": "2026-11-09T12:56:18.514Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-11-09T12:57:18.514Z"
-  },
-  {
-   "title": "Piastri and management team mutually terminate agreement",
-   "summary": "Oscar Piastri and his management team directed by Mark and Ann Webber have mutually terminated their agreement.",
-   "url": "https://www.formula1.com/en/latest/article/piastri-and-management-team-mutually-terminate-agreement.a59N6pYIBGSiFmwMY1Xkk",
-   "date": "2026-11-09T12:55:18.514Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "piastri"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-11-09T12:57:18.514Z"
-  },
-  {
-   "title": "Vasseur explains Ferrari’s tyre struggles in Brazil",
-   "summary": "Team Principal Fred Vasseur has outlined Ferrari's difficulties with getting their tyres into the right window during the Sao Paulo Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/if-youre-not-in-the-right-spot-youre-nowhere-vasseur-explains-ferraris-brazil-tyre-struggles.4BJ7k41PfxDI31jhSg9RU",
-   "date": "2026-11-09T12:54:18.514Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-09T12:57:18.514Z"
-  },
-  {
-   "title": "The 110 seconds that almost won Verstappen the Sao Paulo GP",
-   "summary": "Michael Lamonato looks at how Max Verstappen's wet-weather skill carried him from 21st on the grid into contention at Interlagos – and what stopped him turning a rapid opening into victory.",
-   "url": "https://www.formula1.com/en/latest/article/the-110-seconds-that-almost-won-verstappen-the-sao-paulo-grand-prix.1ekcYv2HICNUBqf0ZhUylV",
-   "date": "2026-11-09T12:53:18.514Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-09T12:57:18.514Z"
   }
  ]
 }
