@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T19:40:03.282Z",
+ "updatedAt": "2026-11-12T12:49:36.663Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,161 @@
   }
  },
  "items": [
+  {
+   "title": "Lawson and Lindblad to remain at Racing Bulls for 2027",
+   "summary": "Racing Bulls will retain their current pairing of Liam Lawson and Arvid Lindblad for the upcoming 2027 season.",
+   "url": "https://www.formula1.com/en/latest/article/lawson-and-lindblad-to-remain-at-racing-bulls-for-2027-as-team-confirm-unchanged-line-up.1vwKafZKAx8zw2Tb4B8fPx",
+   "date": "2026-11-12T12:49:36.648Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "lawson",
+    "arvid_lindblad"
+   ],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "News",
+   "firstSeen": "2026-11-12T12:49:36.648Z"
+  },
+  {
+   "title": "Cadillac: Auch Frederik Vesti als Ersatz für Valtteri Bottas im Gespräch",
+   "summary": "Die Zukunft von Valtteri Bottas bei Cadillac bleibt weiterhin offen - TWG setzt auf Colton Herta, doch als Alternative gewinnt auch Frederik Vesti an Bedeutung",
+   "url": "https://www.formel1.de/nc/149833",
+   "date": "2026-11-12T12:41:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bottas"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "Rennen",
+   "firstSeen": "2026-11-12T12:49:36.648Z"
+  },
+  {
+   "title": "Übersicht: Die Fahrer und Teams der Formel-1-Saison 2027",
+   "summary": "Der aktuelle Ausblick auf die Formel-1-Saison 2027 mit allen bisher bestätigten Fahrern und Teams sowie allen Fahrerwechseln",
+   "url": "https://www.formel1.de/nc/148077",
+   "date": "2026-11-12T11:36:12.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-12T12:49:36.648Z"
+  },
+  {
+   "title": "Kein Platz für Tsolov: Racing Bulls bestätigen Lawson und Lindblad",
+   "summary": "Die Racing Bulls setzen auch in der Formel-1-Saison 2027 auf Liam Lawson und Arvid Lindblad - Für Red-Bull-Junior Nikola Tsolov ist damit kein Cockpit frei",
+   "url": "https://www.formel1.de/nc/149832",
+   "date": "2026-11-12T11:24:54.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "lawson",
+    "arvid_lindblad"
+   ],
+   "teams": [
+    "rb",
+    "red_bull"
+   ],
+   "team": "rb",
+   "category": "Transfer",
+   "firstSeen": "2026-11-12T12:49:36.648Z"
+  },
+  {
+   "title": "Formel-E-Teamboss stichelt: \"Formel 1 gehört ins Museum!\"",
+   "summary": "Die Formel 1 gehört ins Museum, meint Milliardär Andrew Forrest: Er fordert ein Duell mit der Formel E, doch wie stehen die Chancen der Elektroserie?",
+   "url": "https://www.formel1.de/nc/149831",
+   "date": "2026-11-12T10:51:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-12T12:49:36.648Z"
+  },
+  {
+   "title": "Knallhartes Russell-Urteil: Er ist der Rubens Barrichello für Kimi Antonelli!",
+   "summary": "Ralf Schumacher denkt, dass George Russell bei Mercedes intern auch in den kommenden Jahren keine Chance gegen Neu-Weltmeister Kimi Antonelli haben wird",
+   "url": "https://www.formel1.de/nc/149830",
+   "date": "2026-11-12T09:44:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell",
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Regeln",
+   "firstSeen": "2026-11-12T12:49:36.648Z"
+  },
+  {
+   "title": "Norris siegt in Brasilien, aber McLaren warnt: \"Noch nicht gut genug\"",
+   "summary": "McLaren dominiert in Brasilien, doch Norris und Stella relativieren den Erfolg: Ein entscheidender Faktor könnte den wahren Leistungsstand verschleiern",
+   "url": "https://www.formel1.de/nc/149829",
+   "date": "2026-11-12T08:34:28.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-11-12T12:49:36.648Z"
+  },
+  {
+   "title": "Patrick Friesacher fährt Irland-Route im Vettel-Auto in unter 20 Minuten",
+   "summary": "Mit dem WM-Auto von Sebastian Vettel über einen irischen Bergpass: Ex-Formel-1-Pilot Patrick Friesacher tritt gegen die Navi-App an - und gewinnt",
+   "url": "https://www.formel1.de/nc/149828",
+   "date": "2026-11-12T07:13:36.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-12T12:49:36.648Z"
+  },
+  {
+   "title": "Warum Audi in der Formel 1 nie doppelt punktet: McNish erklärt das Problem",
+   "summary": "Nico Hülkenberg und Gabriel Bortoleto haben noch nie gemeinsam für Audi gepunktet: Allan McNish erklärt die Gründe und einen besonderen Vorteil",
+   "url": "https://www.formel1.de/nc/149827",
+   "date": "2026-11-12T05:12:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hulkenberg",
+    "bortoleto"
+   ],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-11-12T12:49:36.648Z"
+  },
   {
    "title": "Ricciardo reacts to his best career moments",
    "summary": "Former Red Bull and McLaren racer Daniel Ricciardo sat down with F1 to take a look back at his career highlights, from his sublime Monaco victory to unforgettable 'shoey' celebration.",
@@ -872,156 +1027,6 @@
    "team": "red_bull",
    "category": "Rennen",
    "firstSeen": "2026-11-09T12:57:18.514Z"
-  },
-  {
-   "title": "Überraschung: RTL zeigt zusätzliches Formel-1-Rennen 2026 im Free-TV",
-   "summary": "Überraschende Änderung im Formel-1-TV-Programm: RTL zeigt 2026 ein zusätzliches Rennen live im Free-TV, auch das Qualifying wird übertragen",
-   "url": "https://www.formel1.de/nc/149798",
-   "date": "2026-11-09T11:45:38.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-09T12:57:18.514Z"
-  },
-  {
-   "title": "Wann Mercedes die Formel-1-WM 2026 wirklich entschieden hat",
-   "summary": "Mercedes ist Formel-1-Weltmeister 2026, obwohl Ferrari und Red Bull zuletzt mehr Punkte holten: Eine Analyse zeigt, wann der Titel tatsächlich entschieden wurde",
-   "url": "https://www.formel1.de/nc/149797",
-   "date": "2026-11-09T11:23:26.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes",
-    "red_bull",
-    "ferrari"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-09T12:57:18.514Z"
-  },
-  {
-   "title": "Nach sieben Jahren ist Schluss: Oscar Piastri und Mark Webber trennen sich",
-   "summary": "Oscar Piastri und Mark Webber beenden nach sieben Jahren ihre Zusammenarbeit: Schon zu Beginn der Formel-1-Saison 2026 hatte sich einiges verändert",
-   "url": "https://www.formel1.de/nc/149796",
-   "date": "2026-11-09T09:54:44.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "piastri"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-11-09T12:57:18.514Z"
-  },
-  {
-   "title": "Wer letzte Nacht am schlechtesten geschlafen hat: Fernando Alonso",
-   "summary": "Nach P12 in Interlagos: Eine Kolumne über den vielleicht besten Fahrer der Formel-1-Geschichte, der \"nur\" zwei WM-Titel gewonnen hat …",
-   "url": "https://www.formel1.de/nc/149795",
-   "date": "2026-11-09T09:27:06.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "alonso"
-   ],
-   "teams": [],
-   "team": "aston_martin",
-   "category": "News",
-   "firstSeen": "2026-11-09T12:57:18.514Z"
-  },
-  {
-   "title": "Ralf Schumacher: \"Lewis Hamilton ist einfach nicht schnell genug\"",
-   "summary": "Ist Lewis Hamilton noch gut genug für die Formel-1-Spitze? Ralf Schumacher äussert Zweifel und stellt auch Ferrari-Teamkollege Charles Leclerc infrage",
-   "url": "https://www.formel1.de/nc/149794",
-   "date": "2026-11-09T08:58:06.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-09T12:57:18.514Z"
-  },
-  {
-   "title": "Sao Paulo 2026: Wie Norris Antonelli den sicher geglaubten Sieg entriss",
-   "summary": "Kimi Antonelli sah in Sao Paulo lange wie der sichere Sieger aus, doch Fehler, Reifenwechsel und eine clevere Strategie brachten Lando Norris nach vorne",
-   "url": "https://www.formel1.de/nc/149793",
-   "date": "2026-11-09T07:43:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris",
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-11-09T12:57:18.514Z"
-  },
-  {
-   "title": "Fernando Alonso schwärmt von Aston Martin: \"Das Auto war phänomenal\"",
-   "summary": "Fernando Alonso wird in Sao Paulo nur Zwölfter, spricht aber vom besten Aston-Martin-Rennen 2026: Vor allem eine Eigenschaft seines Autos begeistert ihn",
-   "url": "https://www.formel1.de/nc/149791",
-   "date": "2026-11-09T05:37:14.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "alonso"
-   ],
-   "teams": [
-    "aston_martin"
-   ],
-   "team": "aston_martin",
-   "category": "Rennen",
-   "firstSeen": "2026-11-09T05:50:40.281Z"
-  },
-  {
-   "title": "Formel-1-Zuschauer: So viele sahen das Regenrennen in Sao Paulo",
-   "summary": "Wie viele Zuschauer das Formel-1-Regenrennen vor Ort in Sao Paulo gesehen haben und wo Brasilien damit im internationalen Vergleich steht",
-   "url": "https://www.formel1.de/nc/146482",
-   "date": "2026-11-09T04:49:58.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Business",
-   "firstSeen": "2026-11-09T05:50:40.281Z"
-  },
-  {
-   "title": "All the key moments from the 2026 Sao Paulo Grand Prix",
-   "summary": "Lando Norris claimed victory in a wet thriller at the Sao Paulo Grand Prix, while Mercedes did enough to secure the 2026 Constructors' Championship last weekend.",
-   "url": "https://www.formula1.com/en/latest/article/sao-paulo-lowdown-all-the-key-moments-as-mercedes-secures-constructors-title-and-norris-wins-in-the-rain.2VjsvSp3rejjziq7VbVVOr",
-   "date": "2026-11-09T01:45:04.075Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-11-09T01:45:04.075Z"
   }
  ]
 }
