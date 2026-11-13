@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T12:18:17.792Z",
+ "updatedAt": "2026-11-13T19:51:42.851Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,154 @@
   }
  },
  "items": [
+  {
+   "title": "Lawson's top-six hopes after new Racing Bulls deal",
+   "summary": "Liam Lawson's future at Racing Bulls has been decided, but how far is he from breaking into the top-six betting markets?",
+   "url": "https://www.formula1.com/en/latest/article/the-extra-gear-liam-lawsons-top-six-hopes-examined-after-securing-new-racing-bulls-deal.4FuO5PyKE8vCtfqm1OyxrJ",
+   "date": "2026-11-13T19:51:42.673Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "lawson"
+   ],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "News",
+   "firstSeen": "2026-11-13T19:51:42.673Z"
+  },
+  {
+   "title": "Piastri on his tough 2026 and why it could make him stronger",
+   "summary": "McLaren's Oscar Piastri opens up about his difficulties in 2026 and why he hopes he can be better for them.",
+   "url": "https://www.formula1.com/en/latest/article/exclusive-piastri-on-taming-the-mcl40-redefining-success-and-why-a-tough-2026-could-make-him-stronger.qz9mVgFRNxNey7waRfq83",
+   "date": "2026-11-13T19:50:42.673Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "piastri"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-11-13T19:51:42.673Z"
+  },
+  {
+   "title": "Antonelli names his biggest threat for 2027 title defence",
+   "summary": "Kimi Antonelli has outlined his expectations for the competitive picture in 2027 – his first season as reigning World Champion.",
+   "url": "https://www.formula1.com/en/latest/article/antonelli-identifies-which-driver-poses-the-biggest-threat-to-his-title-defence-in-2027.6qjcpNnf8IerbXck8NpB05",
+   "date": "2026-11-13T19:49:42.673Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-13T19:51:42.673Z"
+  },
+  {
+   "title": "Why are F1 drivers obsessed with padel?",
+   "summary": "Padel has become increasingly popular among F1 drivers, with Aston Martin the latest team to embrace the sport through a new racket collection.",
+   "url": "https://www.formula1.com/en/latest/article/why-f1-drivers-love-padel-as-aston-martin-become-the-latest-to-embrace-the-sport.2n2jOtb63TbalovQuHIIUi",
+   "date": "2026-11-13T19:48:42.673Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-11-13T19:51:42.673Z"
+  },
+  {
+   "title": "110 Kilo beim Flachbankdrücken: Toto Wolff verrät sein Fitnessgeheimnis",
+   "summary": "Toto Wolff stemmt beim Bankdrücken 110 Kilogramm und setzt auf klare Fitnessregeln, doch bei Ernährung und Supplements überrascht der Mercedes-Chef",
+   "url": "https://www.formel1.de/nc/149850",
+   "date": "2026-11-13T18:11:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-13T19:51:42.673Z"
+  },
+  {
+   "title": "Übersicht: Die Test- und Ersatzfahrer der Formel 1 2027",
+   "summary": "Ein Blick in die \"zweite Reihe\" der Formel-1-Teams in der Saison 2027: Welche Test- und Ersatzfahrer bei Red Bull, Mercedes, Ferrari und Co. unter Vertrag stehen",
+   "url": "https://www.formel1.de/nc/149849",
+   "date": "2026-11-13T17:13:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes",
+    "red_bull",
+    "ferrari"
+   ],
+   "team": "mercedes",
+   "category": "Transfer",
+   "firstSeen": "2026-11-13T19:51:42.673Z"
+  },
+  {
+   "title": "Bei Mercedes gelernt: Toto Wolff verrät seine wichtigste Lebensweisheit",
+   "summary": "Bevor Toto Wolff sich ein Urteil über andere erlaubt, stellt er eine ungewöhnliche Bedingung: Was der Mercedes-Teamchef über Menschen gelernt hat",
+   "url": "https://www.formel1.de/nc/149848",
+   "date": "2026-11-13T16:02:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Regeln",
+   "firstSeen": "2026-11-13T19:51:42.673Z"
+  },
+  {
+   "title": "Fährt Kimi Antonelli bald ein Formel-1-Auto von Ayrton Senna?",
+   "summary": "Bruno Senna hofft, Formel-1-Weltmeister Kimi Antonelli im kommenden Jahr die Möglichkeit zu geben, eines der historischen Autos von Ayrton Senna zu fahren",
+   "url": "https://www.formel1.de/nc/149847",
+   "date": "2026-11-13T14:55:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-13T19:51:42.673Z"
+  },
+  {
+   "title": "Grosjean zieht nach 23 Jahren einen Schlussstrich: \"Das will ich nicht mehr\"",
+   "summary": "Romain Grosjean hat genug vom Formelsport: Nach einer enttäuschenden IndyCar-Saison erklärt er, warum er künftig andere Prioritäten setzen will",
+   "url": "https://www.formel1.de/nc/149846",
+   "date": "2026-11-13T13:34:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-13T19:51:42.673Z"
+  },
   {
    "title": "Toto Wolff's journey from Williams to nine F1 titles",
    "summary": "Discover Toto Wolff's journey from professional racing driver to team boss at Mercedes, where he has overseen nine Constructors' Championships, equalling Sir Frank Williams.",
@@ -877,161 +1025,6 @@
    "team": "mclaren",
    "category": "News",
    "firstSeen": "2026-11-10T20:51:29.421Z"
-  },
-  {
-   "title": "Ferrari: Hamilton und Leclerc machten Witze nach dem Krisengespräch",
-   "summary": "Nach dem Streit zwischen Hamilton und Leclerc hat Ferrari-Teamchef Vasseur beide Fahrer zum Gespräch gebeten: Jetzt berichtet er über das Ergebnis",
-   "url": "https://www.formel1.de/nc/149814",
-   "date": "2026-11-10T16:55:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-10T20:51:29.421Z"
-  },
-  {
-   "title": "Formel-1-Kalender 2026: Saisonfinale definitiv nicht in Imola",
-   "summary": "Die Formel 1 hat den Organisatoren in Imola mitgeteilt, dass ihre Dienste nicht benötigt werden - Die Rennen in Katar und Abu Dhabi sollen stattfinden",
-   "url": "https://www.formel1.de/nc/149813",
-   "date": "2026-11-10T15:44:19.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-10T20:51:29.421Z"
-  },
-  {
-   "title": "Warum übergehen die Teams Formel-2-Meister bei der Cockpitvergabe?",
-   "summary": "Drei der vergangenen vier Formel-2-Meister haben es nicht in die Formel 1 geschafft - Isack Hadjar erklärt, warum die Ergebnisse in der Nachwuchsserie fast egal sind",
-   "url": "https://www.formel1.de/nc/149812",
-   "date": "2026-11-10T15:31:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hadjar"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-10T20:51:29.421Z"
-  },
-  {
-   "title": "Verstappen ahnte es schon vor dem Start: Was ihm in Brasilien sofort auffiel",
-   "summary": "Von P21 auf P2: Max Verstappen übertraf in Brasilien selbst die Erwartungen von Red Bull - Teamchef Laurent Mekies erklärt, warum das niemand vorhersah",
-   "url": "https://www.formel1.de/nc/149811",
-   "date": "2026-11-10T14:27:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-10T20:51:29.421Z"
-  },
-  {
-   "title": "Warum sich Toto Wolff nicht mit Frank Williams vergleichen will",
-   "summary": "Mercedes-Teamchef Toto Wolff hat bei den WM-Titeln mit Formel-1-Legenden gleichgezogen, doch der Österreicher will sich mit ihnen nicht auf eine Stufe stellen",
-   "url": "https://www.formel1.de/nc/149810",
-   "date": "2026-11-10T13:15:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes",
-    "williams"
-   ],
-   "team": "williams",
-   "category": "News",
-   "firstSeen": "2026-11-10T20:51:29.421Z"
-  },
-  {
-   "title": "Why McLaren went the opposite way to Mercedes' front wing",
-   "summary": "Mark Hughes and Giorgio Piola investigate the front wing switch that helped McLaren's Lando Norris win the Sao Paulo Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/why-mclaren-went-the-opposite-way-to-mercedes-on-their-front-wing.6adMZ9ne0eiXVRofKcPgF8",
-   "date": "2026-11-10T12:43:00.900Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mercedes",
-    "mclaren"
-   ],
-   "team": "mercedes",
-   "category": "Regeln",
-   "firstSeen": "2026-11-10T12:43:00.900Z"
-  },
-  {
-   "title": "Alonso credits ‘phenomenal’ car after strong drive in Brazil",
-   "summary": "After a difficult time of it in Mexico City, Aston Martin bounced back strongly in Brazil as Fernando Alonso finished 12th at Interlagos, just missing out on a rare chance to score points.",
-   "url": "https://www.formula1.com/en/latest/article/alonso-credits-phenomenal-car-after-strong-showing-in-sao-paulo.7d9xmDFQhJ3IRqGx0xuFHK",
-   "date": "2026-11-10T12:42:00.900Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "alonso"
-   ],
-   "teams": [
-    "aston_martin"
-   ],
-   "team": "aston_martin",
-   "category": "News",
-   "firstSeen": "2026-11-10T12:43:00.900Z"
-  },
-  {
-   "title": "P10 in Sao Paulo GP 'the maximum possible' – Hulkenberg",
-   "summary": "Nico Hulkenberg believes that P10 and the final point on offer was \"the maximum possible\" in the Sao Paulo Grand Prix, the Audi driver having recovered from a 10-second penalty.",
-   "url": "https://www.formula1.com/en/latest/article/the-maximum-possible-hulkenberg-on-audis-fight-for-points-in-sao-paulo-grand-prix.1KO1iL7LzQm3Cfl0CGspws",
-   "date": "2026-11-10T12:41:00.900Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hulkenberg"
-   ],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "Regeln",
-   "firstSeen": "2026-11-10T12:43:00.900Z"
-  },
-  {
-   "title": "5 betting lessons learnt after Norris wins in Brazil",
-   "summary": "The battle for race wins remains wide open heading into the season-closing triple header.",
-   "url": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-learnt-after-lando-norris-wins-the-sao-paulo-grand-prix-in-brazil.5yqAHXsmHN6KYWGDkNYvUt",
-   "date": "2026-11-10T12:40:00.900Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-11-10T12:43:00.900Z"
   }
  ]
 }
