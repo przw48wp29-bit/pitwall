@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T21:29:05.086Z",
+ "updatedAt": "2026-11-13T12:18:17.792Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,176 @@
   }
  },
  "items": [
+  {
+   "title": "Toto Wolff's journey from Williams to nine F1 titles",
+   "summary": "Discover Toto Wolff's journey from professional racing driver to team boss at Mercedes, where he has overseen nine Constructors' Championships, equalling Sir Frank Williams.",
+   "url": "https://www.formula1.com/en/latest/article/toto-wolffs-journey-from-williams-to-nine-time-champion-with-mercedes.2l85DG3mfUyL5icscw0Gbn",
+   "date": "2026-11-13T12:18:17.601Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "mercedes",
+    "williams"
+   ],
+   "team": "williams",
+   "category": "News",
+   "firstSeen": "2026-11-13T12:18:17.601Z"
+  },
+  {
+   "title": "F1 ACADEMY Champion Palmowski graduates to Formula Regional",
+   "summary": "F1 ACADEMY Champion Alisha Palmowski will make the step up to the Formula Regional European Championship (FREC), with F1 ACADEMY and Red Bull Racing announcing she will receive a fully-funded seat with Rodin Motorsport for the 2027 season.",
+   "url": "https://www.formula1.com/en/latest/article/f1-academy-champion-alisha-palmowski-graduates-to-formula-regional-with-fully-funded-seat.39A1mu7n4LQ3ljJdTyFlhW",
+   "date": "2026-11-13T12:17:17.601Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Transfer",
+   "firstSeen": "2026-11-13T12:18:17.601Z"
+  },
+  {
+   "title": "Mercedes' incredible history of Formula 1 success",
+   "summary": "As Mercedes claim their ninth F1 Constructors' title in 2026, discover the Silver Arrows' incredible history in Formula 1.",
+   "url": "https://www.formula1.com/en/latest/article/mercedes-incredible-success-through-formula-1-history.7yLliKc36ZI9pd7xzNYFwq",
+   "date": "2026-11-13T12:16:17.601Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-13T12:18:17.601Z"
+  },
+  {
+   "title": "Wichtiger Termin: Audi hofft auf nachträglichen Punkt am grünen Tisch",
+   "summary": "Audi könnte im November einen zusätzlichen WM-Punkt am grünen Tisch gewinnen - Im engen Kampf gegen Haas könnte das am Ende des Jahres Millionen wert sein",
+   "url": "https://www.formel1.de/nc/149845",
+   "date": "2026-11-13T12:04:49.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "haas",
+    "audi"
+   ],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-11-13T12:18:17.601Z"
+  },
+  {
+   "title": "Nächste Frau im Juniorteam: Red Bull befördert F1-Academy-Meisterin",
+   "summary": "Das Red-Bull-Juniorteam bekommt eine zweite Frau - Nach Chiara Bättig hat sich nun auch F1-Academy-Meisterin Alisha Palmowski einen Platz dort gesichert",
+   "url": "https://www.formel1.de/nc/149844",
+   "date": "2026-11-13T10:52:29.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-13T12:18:17.601Z"
+  },
+  {
+   "title": "Formel-1-Star George Russell macht 25 Kindern ein besonderes Angebot",
+   "summary": "George Russell gründet eine eigene Kart-Akademie und finanziert 25 Kindern eine komplette Rennsaison, doch nicht jeder darf sich für das Programm bewerben",
+   "url": "https://www.formel1.de/nc/149843",
+   "date": "2026-11-13T09:58:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Business",
+   "firstSeen": "2026-11-13T12:18:17.601Z"
+  },
+  {
+   "title": "Piastri unter Druck? \"Dann wird Zak den nächsten Oscar suchen\"",
+   "summary": "Weil Oscar Piastri 2026 klar von Lando Norris abgehängt wird, kann sich Günther Steiner vorstellen, dass McLaren sich bald nach Alternativen umsehen könnte",
+   "url": "https://www.formel1.de/nc/149842",
+   "date": "2026-11-13T09:01:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "piastri",
+    "norris"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-11-13T12:18:17.601Z"
+  },
+  {
+   "title": "Red Bull setzt auf Nikola Tsolov: Warum Lawson und Lindblad aufpassen müssen",
+   "summary": "Nikola Tsolov erhält 2027 noch kein Formel-1-Cockpit, doch Red Bull bereitet ihn auf den Aufstieg vor - mit möglichen Folgen für Lawson und Lindblad",
+   "url": "https://www.formel1.de/nc/149841",
+   "date": "2026-11-13T07:49:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "lawson",
+    "arvid_lindblad"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Transfer",
+   "firstSeen": "2026-11-13T12:18:17.601Z"
+  },
+  {
+   "title": "Toto Wolff: Antonelli ist nicht Senna, aber er könnte ein \"Senninha\" sein",
+   "summary": "Während der neue Formel-1-Weltmeister Kimi Antonelli mit Ayrton Senna verglichen wird, will Mercedes-Teamchef Toto Wolff diese Vergleiche eher relativieren",
+   "url": "https://www.formel1.de/nc/149840",
+   "date": "2026-11-13T06:58:06.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-13T12:18:17.601Z"
+  },
+  {
+   "title": "Formel-1-Experte: Mit anderen Fahrern hätte Ferrari mehr Rennen gewonnen",
+   "summary": "Experte Ralf Schumacher ist der Meinung, dass Ferrari in der Formel-1-Saison 2026 mit anderen Fahrern im Cockpit mehr Rennen gewonnen hätte",
+   "url": "https://www.formel1.de/nc/149839",
+   "date": "2026-11-13T05:33:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Transfer",
+   "firstSeen": "2026-11-13T12:18:17.601Z"
+  },
   {
    "title": "Why the F1 driver market might produce one last twist",
    "summary": "Following Racing Bulls’ confirmation of their unchanged driver line-up, Lawrence Barretto dissects everything that’s still left to play for on the 2027 grid.",
@@ -862,178 +1032,6 @@
    "team": "mclaren",
    "category": "Rennen",
    "firstSeen": "2026-11-10T12:43:00.900Z"
-  },
-  {
-   "title": "Keine Änderungen: FIA veröffentlicht finale ADUO-Ergebnisse 2026",
-   "summary": "Nach der dritten Analysephase in der laufenden Formel-1-Saison 2026 gibt es keine Änderungen an den ADUO-Zuteilungen für die Motorenhersteller",
-   "url": "https://www.formel1.de/nc/149809",
-   "date": "2026-11-10T12:10:24.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
-   "firstSeen": "2026-11-10T12:43:00.900Z"
-  },
-  {
-   "title": "Unbekannte F1-Regel: Haas könnte gezwungen sein, mit Hirakawa zu fahren",
-   "summary": "Haas darf in der Formel-1-Saison 2026 keinen neuen Fahrer mehr einsetzen - Nach dem Debüt von Rafael Camara hat man das Limit einer unbekannten Regel erreicht",
-   "url": "https://www.formel1.de/nc/149808",
-   "date": "2026-11-10T11:51:35.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "ryo_hirakawa",
-    "rafael_camara"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Regeln",
-   "firstSeen": "2026-11-10T12:43:00.900Z"
-  },
-  {
-   "title": "Keine Pace: Was hinter Ferraris jahrelanger Regen-Krise steckt",
-   "summary": "Ferrari kämpft seit Jahren im Regen: In Brasilien offenbarten Reifenprobleme erneut massive Pace-Verluste, die Leclerc und Hamilton ausbremsten",
-   "url": "https://www.formel1.de/nc/149807",
-   "date": "2026-11-10T10:45:58.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc",
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-10T12:43:00.900Z"
-  },
-  {
-   "title": "Zwei Unfälle und Letzter: Warum das Camara-Debüt trotzdem \"positiv\" war",
-   "summary": "Rafael Camara erlebt ein schwieriges Formel-1-Debüt - Mit dem Endergebnis ist er selbst nicht zufrieden, Mut macht jedoch seine grundsätzliche Pace am Wochenende",
-   "url": "https://www.formel1.de/nc/149806",
-   "date": "2026-11-10T09:16:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "rafael_camara"
-   ],
-   "teams": [],
-   "team": "haas",
-   "category": "News",
-   "firstSeen": "2026-11-10T12:43:00.900Z"
-  },
-  {
-   "title": "Audi versteht Hülkenberg-Strafe nicht: \"Sehr strittige Situation\"",
-   "summary": "Nico Hülkenberg erhielt in Brasilien zehn Sekunden Strafe: Audi-Renndirektor Allan McNish erklärt, warum das Team die FIA-Entscheidung für strittig hält",
-   "url": "https://www.formel1.de/nc/149805",
-   "date": "2026-11-10T08:03:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hulkenberg"
-   ],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "Regeln",
-   "firstSeen": "2026-11-10T12:43:00.900Z"
-  },
-  {
-   "title": "Live im TV und Stream: Welche Sender den Grand Prix von Las Vegas zeigen",
-   "summary": "Alle Informationen zur Formel 1 2026 im TV und Livestream: Wie Du die Saison mit Audi, Ferrari, McLaren, Mercedes, Red Bull und Cadillac live verfolgen kannst!",
-   "url": "https://www.formel1.de/nc/123413",
-   "date": "2026-11-10T07:11:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes",
-    "red_bull",
-    "cadillac",
-    "ferrari",
-    "mclaren",
-    "audi"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-10T12:43:00.900Z"
-  },
-  {
-   "title": "Warum sich Oscar Piastri wirklich von Mark Webber getrennt hat",
-   "summary": "Warum haben Oscar Piastri und Mark Webber ihre Zusammenarbeit beendet? Die Hintergründe reichen von Papaya-Regeln bis zu Webbers Red-Bull-Vergangenheit",
-   "url": "https://www.formel1.de/nc/149804",
-   "date": "2026-11-10T06:22:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "piastri"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "mclaren",
-   "category": "Regeln",
-   "firstSeen": "2026-11-10T12:43:00.900Z"
-  },
-  {
-   "title": "TV-Quoten Brasilien: Formel 1 trotz entschiedener WM gefragt",
-   "summary": "Starke Quoten trotz entschiedener Formel-1-WM: Sky übertrifft seinen Saisonschnitt, ServusTV erzielt das zweitbeste Saisonergebnis in Österreich",
-   "url": "https://www.formel1.de/nc/149803",
-   "date": "2026-11-10T05:36:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Business",
-   "firstSeen": "2026-11-10T12:43:00.900Z"
-  },
-  {
-   "title": "The best images from Mercedes' title celebrations",
-   "summary": "Mercedes sealed the Teams' Championship in Sao Paulo on Sunday after a double points finish from George Russell and Kimi Antonelli.",
-   "url": "https://www.formula1.com/en/latest/article/gallery-the-best-images-from-mercedes-title-celebrations-2026.1GRUyTDIodPm4vvlVEydw5",
-   "date": "2026-11-09T23:27:28.296Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell",
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-09T23:27:28.296Z"
-  },
-  {
-   "title": "5 Winners and 5 Losers from Sao Paulo",
-   "summary": "Lawrence Barretto selects his winners and losers at the Autodromo Jose Carlos Pace.",
-   "url": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-sao-paulo.3fmqE8g482DzZTO98sG7Bf",
-   "date": "2026-11-09T23:26:28.296Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-09T23:27:28.296Z"
   }
  ]
 }
