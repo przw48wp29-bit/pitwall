@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T11:33:23.368Z",
+ "updatedAt": "2026-11-14T18:11:37.189Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,108 @@
   }
  },
  "items": [
+  {
+   "title": "Button explains what will ‘keep Alonso going’ at Aston Martin",
+   "summary": "2009 F1 World Champion, and Aston Martin Ambassador, Jenson Button details what Fernando Alonso's re-signing means for the team.",
+   "url": "https://www.formula1.com/en/latest/article/exclusive-button-explains-what-will-keep-alonso-going-as-spaniard-prepares-for-another-year-with-aston-martin.7bxjUs5DZSH18UP0SEqFWD",
+   "date": "2026-11-14T18:11:37.177Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-11-14T18:11:37.177Z"
+  },
+  {
+   "title": "Piastri-Trennung von Webber: Günther Steiner sieht einen möglichen Grund",
+   "summary": "Oscar Piastri und Mark Webber gehen getrennte Wege: Günther Steiner vermutet hinter der Trennung mehr als nur den Wunsch nach Eigenständigkeit",
+   "url": "https://www.formel1.de/nc/149859",
+   "date": "2026-11-14T18:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "piastri"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-11-14T18:11:37.177Z"
+  },
+  {
+   "title": "\"Mit Kimi fühlt man sich wohl\": Der Kimi Antonelli, den man nicht kennt",
+   "summary": "Fünf Teammitglieder aus der Mercedes-Box geben Einblick in eine Seite von Formel-1-Weltmeister Kimi Antonelli, die die Öffentlichkeit selten zu sehen bekommt",
+   "url": "https://www.formel1.de/nc/149858",
+   "date": "2026-11-14T16:05:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-14T18:11:37.177Z"
+  },
+  {
+   "title": "Eisrennen: Formel-1-Auto gegen MotoGP-Bike, Rallyeauto und Schneemobil",
+   "summary": "Red Bull veranstaltet ein verrücktes Rennen: Fünf Fahrzeuge fahren mit speziellen Spikereifen und auf getrennten Ideallinien über einen vereisten Kurs",
+   "url": "https://www.formel1.de/nc/149857",
+   "date": "2026-11-14T14:30:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-11-14T18:11:37.177Z"
+  },
+  {
+   "title": "Rosberg enthüllt: Wie Toto Wolff ihn im WM-Kampf gegen Hamilton schockte",
+   "summary": "Die Rivalität zwischen Hamilton und Rosberg spaltete Mercedes bis in die Garage - Toto Wolff griff radikal durch und überraschte damit sogar seine eigenen Fahrer",
+   "url": "https://www.formel1.de/nc/149856",
+   "date": "2026-11-14T13:46:15.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-14T18:11:37.177Z"
+  },
+  {
+   "title": "Kimi Antonelli auf Italien-Tour: Vom Fussballstadion in die Präsidentenkanzlei",
+   "summary": "Kimi Antonelli wird von Italiens Staatspräsident Sergio Mattarella empfangen, dabei stellt der Formel-1-Weltmeister eine Frage mit überraschender Reaktion",
+   "url": "https://www.formel1.de/nc/149855",
+   "date": "2026-11-14T11:52:21.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-14T18:11:37.177Z"
+  },
   {
    "title": "Our writers on Antonelli’s title success and what it means",
    "summary": "After Kimi Antonelli was crowned the 2026 Formula 1 Drivers' World Champion, we asked our writers to give us their take on his achievement.",
@@ -919,110 +1021,6 @@
    ],
    "teams": [],
    "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-11T11:55:04.989Z"
-  },
-  {
-   "title": "3 drivers to watch in the early Las Vegas GP markets",
-   "summary": "Lando Norris returned to the top step of the podium in Brazil, but what did the Sao Paulo Grand Prix signal in the markets ahead of the trip to Las Vegas?",
-   "url": "https://www.formula1.com/en/latest/article/3-drivers-to-watch-closely-in-the-early-las-vegas-grand-prix-betting-markets.7jgVWNjbZFmirJ9nK704a",
-   "date": "2026-11-11T11:53:04.989Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-11-11T11:55:04.989Z"
-  },
-  {
-   "title": "Mekies stellt klar: Wer über die Zukunft von Liam Lawson entscheidet",
-   "summary": "Red-Bull-Teamchef Laurent Mekies lobt Liam Lawson für seine starke Saison 2026, doch bei der Entscheidung über dessen Zukunft hält er sich bewusst zurück",
-   "url": "https://www.formel1.de/nc/149820",
-   "date": "2026-11-11T11:23:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "lawson"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "rb",
-   "category": "News",
-   "firstSeen": "2026-11-11T11:55:04.989Z"
-  },
-  {
-   "title": "Andrea Stella: Startphase von Verstappen und Hamilton war \"einfach unglaublich\"",
-   "summary": "Die Aufholjagd von Max Verstappen beeindruckte auch McLaren-Teamchef Andrea Stella: Vor allem die ersten Runden des Rennens seien \"einfach unglaublich\" gewesen",
-   "url": "https://www.formel1.de/nc/149819",
-   "date": "2026-11-11T10:11:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "hamilton"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-11T11:55:04.989Z"
-  },
-  {
-   "title": "Nach Regen-Chaos in Brasilien: Wie gefährlich ist die Formel 1 von 2026 wirklich?",
-   "summary": "Vor dem Brasilien-Grand-Prix gab es grosse Bedenken wegen der neuen Formel-1-Autos im Regen: Was sich bewahrheitete und wo die Probleme tatsächlich liegen",
-   "url": "https://www.formel1.de/nc/149818",
-   "date": "2026-11-11T09:03:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-11T11:55:04.989Z"
-  },
-  {
-   "title": "Haas verschenkt wichtige WM-Punkte: Bearman rechnet mit seinem Team ab",
-   "summary": "Haas verliert in Brasilien wichtige WM-Punkte im Duell mit Audi: Oliver Bearman ist nach Platz 17 frustriert und kritisiert die Boxenstopps seines Teams",
-   "url": "https://www.formel1.de/nc/149817",
-   "date": "2026-11-11T07:50:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bearman"
-   ],
-   "teams": [
-    "haas",
-    "audi"
-   ],
-   "team": "haas",
-   "category": "News",
-   "firstSeen": "2026-11-11T11:55:04.989Z"
-  },
-  {
-   "title": "Lance Stroll: 13. Ausfall des Jahres gibt Honda Rätsel auf",
-   "summary": "Aston-Martin-Pilot Lance Stroll wurde am Sonntag in Brasilien erneut von einem Batterieproblem erwischt - Die Ursache dafür ist laut Honda noch nicht bekannt",
-   "url": "https://www.formel1.de/nc/149816",
-   "date": "2026-11-11T05:31:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "stroll"
-   ],
-   "teams": [
-    "aston_martin"
-   ],
-   "team": "aston_martin",
    "category": "News",
    "firstSeen": "2026-11-11T11:55:04.989Z"
   }
