@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T19:51:42.851Z",
+ "updatedAt": "2026-11-14T11:33:23.368Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,84 @@
   }
  },
  "items": [
+  {
+   "title": "Our writers on Antonelli’s title success and what it means",
+   "summary": "After Kimi Antonelli was crowned the 2026 Formula 1 Drivers' World Champion, we asked our writers to give us their take on his achievement.",
+   "url": "https://www.formula1.com/en/latest/article/our-writers-on-antonellis-title-success-and-what-it-means.2FAfHA49byUlrrTfVgWKWc",
+   "date": "2026-11-14T11:33:23.353Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-14T11:33:23.353Z"
+  },
+  {
+   "title": "Horner enthüllt: Diese Nachricht schickte Wolff nach Abu Dhabi 2021",
+   "summary": "Während Red Bull den WM-Titel 2021 feierte, erhielt Christian Horner eine Nachricht von Toto Wolff - In seinem Buch schildert er die Stunden nach dem Finale",
+   "url": "https://www.formel1.de/nc/149854",
+   "date": "2026-11-14T11:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-14T11:33:23.353Z"
+  },
+  {
+   "title": "FIA sperrt Formel-1-Journalisten: Hat er diese Strafe wirklich verdient?",
+   "summary": "Ein Kommentar: Die FIA entzieht einem Journalisten die Akkreditierung, doch die eigentliche Frage dieser Affäre reicht weit über eine Beleidigung hinaus",
+   "url": "https://www.formel1.de/nc/149853",
+   "date": "2026-11-14T10:18:42.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-11-14T11:33:23.353Z"
+  },
+  {
+   "title": "Andrea Stella hofft: McLaren will mit Las Vegas \"endlich Frieden schliessen\"",
+   "summary": "McLaren will mit Las Vegas endlich Frieden schliessen: Andrea Stella erklärt, warum die Strecke seinem Team Probleme bereitet und weshalb er diesmal optimistisch ist",
+   "url": "https://www.formel1.de/nc/149852",
+   "date": "2026-11-14T09:30:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-11-14T11:33:23.353Z"
+  },
+  {
+   "title": "Die ältesten Formel-1-Weltmeister: Alle lebenden Champions nach Geburtsdatum",
+   "summary": "Von Jackie Stewart bis Kimi Antonelli: Diese Formel-1-Weltmeister leben noch - Die Übersicht ist nach Geburtsdatum sortiert, der älteste steht oben",
+   "url": "https://www.formel1.de/nc/149851",
+   "date": "2026-11-14T06:04:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-14T11:33:23.353Z"
+  },
   {
    "title": "Lawson's top-six hopes after new Racing Bulls deal",
    "summary": "Liam Lawson's future at Racing Bulls has been decided, but how far is he from breaking into the top-six betting markets?",
@@ -947,84 +1025,6 @@
    "team": "aston_martin",
    "category": "News",
    "firstSeen": "2026-11-11T11:55:04.989Z"
-  },
-  {
-   "title": "PALMER: Why Norris’ Sao Paulo victory was one of his best ever wins",
-   "summary": "Races like the Sao Paulo Grand Prix show everybody why Lando Norris is a World Champion, writes former Renault F1 driver Jolyon Palmer.",
-   "url": "https://www.formula1.com/en/latest/article/why-norris-sao-paulo-victory-was-one-of-his-best-ever-wins.3hyiRlbfztlQekIw1WuvWd",
-   "date": "2026-11-10T20:51:29.421Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-11-10T20:51:29.421Z"
-  },
-  {
-   "title": "Who impressed our Power Rankings judges in Sao Paulo?",
-   "summary": "Find out who featured at the top of the Power Rankings table after the Sao Paulo Grand Prix weekend.",
-   "url": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-2026-sao-paulo-grand-prix.4dgXaQOufQtljKWj7Q7Yhs",
-   "date": "2026-11-10T20:50:29.421Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-10T20:51:29.421Z"
-  },
-  {
-   "title": "F1 ACADEMY announces 2027 calendar",
-   "summary": "F1 ACADEMY has revealed its calendar for the 2027 campaign, with the all-female series’ fifth season featuring seven rounds.",
-   "url": "https://www.formula1.com/en/latest/article/f1-academy-unveils-calendar-for-2027-season.1mYuyMEiCaWyI8pAfg5K0O",
-   "date": "2026-11-10T20:49:29.421Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Business",
-   "firstSeen": "2026-11-10T20:51:29.421Z"
-  },
-  {
-   "title": "Camara experiences every condition in ‘tricky’ Haas debut",
-   "summary": "While Rafael Camara saw the chequered flag in a “tricky” debut race for Haas, the Brazilian faced the tough task of navigating his first Grand Prix and in changeable conditions.",
-   "url": "https://www.formula1.com/en/latest/article/camara-experiences-every-condition-going-in-tricky-haas-debut.40TC0zRX2AaMmtJ50RsCYH",
-   "date": "2026-11-10T20:48:29.421Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "rafael_camara"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Rennen",
-   "firstSeen": "2026-11-10T20:51:29.421Z"
-  },
-  {
-   "title": "Kritik an Pirelli-Regenreifen: \"Funktionieren nicht besonders gut\"",
-   "summary": "Die meisten Formel-1-Fahrer sind mit den 2026er-Regenreifen nicht zufrieden - Brasilien-Sieger Lando Norris ist weniger kritisch, sieht aber auch Probleme",
-   "url": "https://www.formel1.de/nc/149815",
-   "date": "2026-11-10T17:58:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-11-10T20:51:29.421Z"
   }
  ]
 }
