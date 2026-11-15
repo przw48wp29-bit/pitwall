@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T11:59:12.295Z",
+ "updatedAt": "2026-11-15T18:54:56.534Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,87 @@
   }
  },
  "items": [
+  {
+   "title": "QUIZ: Can you identify these F1 tracks from just one picture?",
+   "summary": "",
+   "url": "https://www.formula1.com/en/latest/article/trivia-guess-the-track-1.1N6Z8MTxyBFjqio8h5hOSW",
+   "date": "2026-11-15T18:54:56.519Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-15T18:54:56.519Z"
+  },
+  {
+   "title": "Behind the lens with Mark Sutton for Antonelli's F1 title triumph",
+   "summary": "F1 photographer Mark Sutton reflects on capturing Kimi Antonelli's 2026 championship, from the emotional celebrations at Monza to his title triumph in Mexico.",
+   "url": "https://www.formula1.com/en/latest/article/one-of-the-best-experiences-of-my-life-mark-sutton-on-photographing-antonellis-f1-title.2oqpziZe3WQ5B2xFvPWsnU",
+   "date": "2026-11-15T18:53:56.519Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-15T18:54:56.519Z"
+  },
+  {
+   "title": "Mercedes-Technikchef klärt auf: Darum war Antonelli 2026 schneller als Russell",
+   "summary": "Mercedes-Technikchef James Allison verrät das technische Geheimnis hinter Antonellis WM-Triumph und erklärt, warum er George Russells Reaktion bewundert",
+   "url": "https://www.formel1.de/nc/149864",
+   "date": "2026-11-15T18:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli",
+    "russell"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Technik",
+   "firstSeen": "2026-11-15T18:54:56.519Z"
+  },
+  {
+   "title": "David Coulthard: McLaren bevorzugte Mika - und ich verstehe das!",
+   "summary": "\"Er mochte dich lieber als mich\": David Coulthard spricht über das Verhältnis von Ron Dennis zu Mika Häkkinen und eine Erklärung, die seine Sicht veränderte",
+   "url": "https://www.formel1.de/nc/149863",
+   "date": "2026-11-15T16:25:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-11-15T18:54:56.519Z"
+  },
+  {
+   "title": "James Vowles: Warum der Williams-Rückschlag 2026 sogar positiv ist",
+   "summary": "Teamchef James Vowles spricht über die Probleme der Saison 2026 und erklärt, warum diese Rückschläge für Williams in gewisser Weise sogar positiv waren",
+   "url": "https://www.formel1.de/nc/149862",
+   "date": "2026-11-15T13:11:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "News",
+   "firstSeen": "2026-11-15T18:54:56.519Z"
+  },
   {
    "title": "TREMAYNE: It’s 10 years since Ron Dennis left F1 – I miss him",
    "summary": "F1 Hall of Fame journalist David Tremayne remembers one of the titans of the paddock, a decade after he walked away from the sport in which he'd been so successful.",
@@ -929,88 +1010,6 @@
    "teams": [],
    "team": "mercedes",
    "category": "Rennen",
-   "firstSeen": "2026-11-11T19:40:03.268Z"
-  },
-  {
-   "title": "Where do Mercedes rank among Teams' Championship winners",
-   "summary": "The Sao Paulo Grand Prix last weekend proved to be a day of celebration for Mercedes, as the German manufacturer secured the 2026 Constructors' Championship.",
-   "url": "https://www.formula1.com/en/latest/article/where-do-mercedes-rank-in-the-list-of-constructors-championship-winners.4Cr98XypZEcBtcbsBqOtEB",
-   "date": "2026-11-11T19:38:03.268Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-11T19:40:03.268Z"
-  },
-  {
-   "title": "Lando Norris: Sieg in Brasilien \"eine meiner besten Leistungen überhaupt\"",
-   "summary": "Der 14. Grand-Prix-Sieg von Lando Norris war \"einer seiner besten\" Erfolge : Warum das Rennen in Brasilien \"alles andere als einfach\" war - und was sein Teamchef sagt",
-   "url": "https://www.formel1.de/nc/149826",
-   "date": "2026-11-11T18:05:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-11-11T19:40:03.268Z"
-  },
-  {
-   "title": "Mercedes erklärt Ursache für Kimi Antonellis Dreher in Brasilien",
-   "summary": "Das Mercedes-Team erklärt die Ursachen für Kimi Antonellis Probleme mit dem Fahrverhalten seines Autos beim Grand Prix von Sao Paulo in Brasilien",
-   "url": "https://www.formel1.de/nc/149825",
-   "date": "2026-11-11T17:01:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-11T19:40:03.268Z"
-  },
-  {
-   "title": "Lewis Hamilton besucht Hilfsorganisationen an der Grenze zum Gazastreifen",
-   "summary": "Lewis Hamilton reist nur zwei Tage nach dem Grand Prix von Sao Paulo an die Grenze zum Gazastreifen und informiert sich über die humanitäre Hilfe vor Ort",
-   "url": "https://www.formel1.de/nc/149824",
-   "date": "2026-11-11T14:17:46.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-11T19:40:03.268Z"
-  },
-  {
-   "title": "Arvid Lindblad erneut ohne Punkte: Was in Brasilien genau schiefgelaufen ist",
-   "summary": "Arvid Lindblad bleibt in Brasilien zum vierten Mal in Folge ohne Punkte: Was beim Racing-Bulls-Piloten zuletzt schiefgelaufen ist - und warum er trotzdem zufrieden ist",
-   "url": "https://www.formel1.de/nc/149823",
-   "date": "2026-11-11T13:28:43.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "arvid_lindblad"
-   ],
-   "teams": [
-    "rb"
-   ],
-   "team": "rb",
-   "category": "News",
    "firstSeen": "2026-11-11T19:40:03.268Z"
   }
  ]
