@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T18:11:37.189Z",
+ "updatedAt": "2026-11-15T11:59:12.295Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,68 @@
   }
  },
  "items": [
+  {
+   "title": "TREMAYNE: It’s 10 years since Ron Dennis left F1 – I miss him",
+   "summary": "F1 Hall of Fame journalist David Tremayne remembers one of the titans of the paddock, a decade after he walked away from the sport in which he'd been so successful.",
+   "url": "https://www.formula1.com/en/latest/article/its-10-years-since-ron-dennis-left-f1-i-miss-him.1HKS8KLe46myFMW6qOzsdY",
+   "date": "2026-11-15T11:59:12.274Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-15T11:59:12.274Z"
+  },
+  {
+   "title": "Daniel Ricciardo: Warum er Red Bull heute für sein Formel-1-Aus dankbar ist",
+   "summary": "Schon Jahre vor seinem Formel-1-Aus wollte Daniel Ricciardo aufhören: Jetzt spricht er über seine damaligen Zweifel und die Folgen seines Karriereendes",
+   "url": "https://www.formel1.de/nc/149861",
+   "date": "2026-11-15T10:47:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-15T11:59:12.274Z"
+  },
+  {
+   "title": "Las-Vegas-GP am Samstag: Der simple Grund überrascht",
+   "summary": "Erklärt: Weshalb die Formel 1 beim Grand Prix von Las Vegas 2026 ihr Rennen bereits am Samstag austrägt und ob es zuvor schon Samstagsrennen gegeben hat",
+   "url": "https://www.formel1.de/nc/136936",
+   "date": "2026-11-15T08:37:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-15T11:59:12.274Z"
+  },
+  {
+   "title": "Abschied bei Red Bull: Max Verstappen verschenkt Senna-Helm in Sao Paulo",
+   "summary": "Nach über 20 Jahren bei Red Bull verabschiedet sich Mechaniker Ole Schack aus der Formel 1: Max Verstappen macht dem Dänen ein besonderes Abschiedsgeschenk",
+   "url": "https://www.formel1.de/nc/149860",
+   "date": "2026-11-15T06:06:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-15T11:59:12.274Z"
+  },
   {
    "title": "Button explains what will ‘keep Alonso going’ at Aston Martin",
    "summary": "2009 F1 World Champion, and Aston Martin Ambassador, Jenson Button details what Fernando Alonso's re-signing means for the team.",
@@ -950,79 +1012,6 @@
    "team": "rb",
    "category": "News",
    "firstSeen": "2026-11-11T19:40:03.268Z"
-  },
-  {
-   "title": "Mit der Pace \"ziemlich zufrieden\", aber: Bortoleto hadert mit Brasilien-Heimspiel",
-   "summary": "Audi-Pilot Gabriel Bortoleto ist mit der Pace in Sao Paulo \"ziemlich zufrieden\", geht aber trotzdem leer aus: Warum der Brasilianer beim Heimspiel ohne WM-Punkt bleibt",
-   "url": "https://www.formel1.de/nc/149822",
-   "date": "2026-11-11T12:33:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bortoleto"
-   ],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "News",
-   "firstSeen": "2026-11-11T19:40:03.268Z"
-  },
-  {
-   "title": "Verstappen kritisiert Ferraris Fahrerwahl: \"Dann bekommt man genau das\"",
-   "summary": "Max Verstappen hat eine klare Meinung zur Fahrerpaarung von Ferrari: Der Red-Bull-Star erklärt, warum er Hamilton und Leclerc niemals gemeinsam verpflichtet hätte",
-   "url": "https://www.formel1.de/nc/149821",
-   "date": "2026-11-11T12:31:27.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "red_bull",
-    "ferrari"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-11T19:40:03.268Z"
-  },
-  {
-   "title": "Bearman relieved ‘horrible three weeks’ for Haas are over",
-   "summary": "Ollie Bearman finished 17th in Sao Paulo on Sunday and afterwards cut a despondent figure as he revealed how pleased he was to be heading home after a tough triple header.",
-   "url": "https://www.formula1.com/en/latest/article/bearman-relieved-horrible-three-weeks-for-haas-are-over.2DZIcOEVILLVUfQT00bStA",
-   "date": "2026-11-11T11:55:04.989Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "bearman"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "News",
-   "firstSeen": "2026-11-11T11:55:04.989Z"
-  },
-  {
-   "title": "‘He was immediately fast’ – Antonelli’s junior racing boss on his early potential",
-   "summary": "Rene Rosin ran Antonelli from F4 up to F2 with the legendary PREMA Racing team, and says the potential was clear from the young Italian's earliest days in the sport.",
-   "url": "https://www.formula1.com/en/latest/article/he-was-immediately-fast-antonellis-junior-racing-boss-on-his-early-potential.3Hy1WZWp1lMwf0VTncC2xB",
-   "date": "2026-11-11T11:54:04.989Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-11T11:55:04.989Z"
   }
  ]
 }
