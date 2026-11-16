@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T18:54:56.534Z",
+ "updatedAt": "2026-11-16T12:50:21.442Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,151 @@
   }
  },
  "items": [
+  {
+   "title": "McLaren determined to take fight for P3 ‘down to the wire’",
+   "summary": "On the latest episode of F1 Nation, Racing Director Randy Singh opened up on the pressure McLaren are under to clinch P3 in the Teams’ Championship.",
+   "url": "https://www.formula1.com/en/latest/article/well-make-sure-it-goes-down-to-the-wire-mclaren-on-determination-to-finish-p3-in-teams-championship.2CPaMf6YTIkLE4pZlahf9y",
+   "date": "2026-11-16T12:50:21.424Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-11-16T12:50:21.424Z"
+  },
+  {
+   "title": "Haas confirm Camara to race for the team in Las Vegas",
+   "summary": "Rafael Camara will return for his second Formula 1 race weekend at the Las Vegas Grand Prix, having made his debut for Haas last time out in Sao Paulo.",
+   "url": "https://www.formula1.com/en/latest/article/haas-confirm-camara-to-race-for-the-team-in-las-vegas-as-hirakawa-returns-for-fp1-appearance.2as7TuSF4UHgXczZlu4245",
+   "date": "2026-11-16T12:49:21.424Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "rafael_camara"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Rennen",
+   "firstSeen": "2026-11-16T12:50:21.424Z"
+  },
+  {
+   "title": "Wie Istanbul seine Formel-1-Strecke für eine langfristige Zukunft umgestaltet",
+   "summary": "Der Istanbul Park kehrt in den Kalender zurück - Das von den Fahrern geschätzte Layout bleibt, doch den Grand Prix selbst wollen die Organisatoren überarbeiten",
+   "url": "https://www.formel1.de/nc/149869",
+   "date": "2026-11-16T11:31:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-16T12:50:21.424Z"
+  },
+  {
+   "title": "Formel-1-Reifen 2026: Welche Mischungen bei welchem Grand Prix?",
+   "summary": "Hier erfahren, welche Reifenmischungen Formel-1-Lieferant Pirelli bei den einzelnen Grands Prix der Saison 2026 zur Verfügung stellt und was anders ist als 2025",
+   "url": "https://www.formel1.de/nc/146922",
+   "date": "2026-11-16T10:17:13.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-16T12:50:21.424Z"
+  },
+  {
+   "title": "Neues Team von Lando Norris sichert sich deutsches Formel-2-Talent",
+   "summary": "Oliver Goethe wird in der Formel-2-Saison 2027 für LN4 Fusion an den Start gehen - Der deutsch-dänische Fahrer steht vor seiner dritten Saison im Formel-1-Unterbau",
+   "url": "https://www.formel1.de/nc/149868",
+   "date": "2026-11-16T09:42:08.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-11-16T12:50:21.424Z"
+  },
+  {
+   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
+   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
+   "url": "https://www.formel1.de/nc/146408",
+   "date": "2026-11-16T08:46:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-11-16T12:50:21.424Z"
+  },
+  {
+   "title": "Offiziell: Haas bestätigt zweiten Fahrer für Las Vegas",
+   "summary": "Haas setzt auch in Las Vegas erneut auf Rafael Camara - Ryo Hirakawa darf das erste Training fahren und könnte in Katar und Abu Dhabi wieder zum Einsatz kommen",
+   "url": "https://www.formel1.de/nc/149867",
+   "date": "2026-11-16T08:23:54.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "rafael_camara",
+    "ryo_hirakawa"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Rennen",
+   "firstSeen": "2026-11-16T12:50:21.424Z"
+  },
+  {
+   "title": "Warum Toto Wolff keine Angst hat, Kimi Antonelli an Ferrari zu verlieren",
+   "summary": "Toto Wolff spricht über den Status von Kimi Antonelli in seiner Heimat und erklärt, warum er keine Angst hat, dass der Italiener in Zukunft zu Ferrari wechseln könnte",
+   "url": "https://www.formel1.de/nc/149866",
+   "date": "2026-11-16T07:38:46.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-16T12:50:21.424Z"
+  },
+  {
+   "title": "Warum Michael Schumacher \"deutlich besser\" als Lewis Hamilton war",
+   "summary": "Ralf Schumacher stellt klar, sein Bruder Michael habe nicht nur \"Wasserträger\" als Teamkollegen gehabt - Wo dieser \"deutlich besser\" als Lewis Hamilton war",
+   "url": "https://www.formel1.de/nc/149865",
+   "date": "2026-11-16T05:34:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-16T12:50:21.424Z"
+  },
   {
    "title": "QUIZ: Can you identify these F1 tracks from just one picture?",
    "summary": "",
@@ -860,157 +1005,6 @@
    "team": "cadillac",
    "category": "Rennen",
    "firstSeen": "2026-11-12T12:49:36.648Z"
-  },
-  {
-   "title": "Übersicht: Die Fahrer und Teams der Formel-1-Saison 2027",
-   "summary": "Der aktuelle Ausblick auf die Formel-1-Saison 2027 mit allen bisher bestätigten Fahrern und Teams sowie allen Fahrerwechseln",
-   "url": "https://www.formel1.de/nc/148077",
-   "date": "2026-11-12T11:36:12.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-12T12:49:36.648Z"
-  },
-  {
-   "title": "Kein Platz für Tsolov: Racing Bulls bestätigen Lawson und Lindblad",
-   "summary": "Die Racing Bulls setzen auch in der Formel-1-Saison 2027 auf Liam Lawson und Arvid Lindblad - Für Red-Bull-Junior Nikola Tsolov ist damit kein Cockpit frei",
-   "url": "https://www.formel1.de/nc/149832",
-   "date": "2026-11-12T11:24:54.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "lawson",
-    "arvid_lindblad"
-   ],
-   "teams": [
-    "rb",
-    "red_bull"
-   ],
-   "team": "rb",
-   "category": "Transfer",
-   "firstSeen": "2026-11-12T12:49:36.648Z"
-  },
-  {
-   "title": "Formel-E-Teamboss stichelt: \"Formel 1 gehört ins Museum!\"",
-   "summary": "Die Formel 1 gehört ins Museum, meint Milliardär Andrew Forrest: Er fordert ein Duell mit der Formel E, doch wie stehen die Chancen der Elektroserie?",
-   "url": "https://www.formel1.de/nc/149831",
-   "date": "2026-11-12T10:51:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-12T12:49:36.648Z"
-  },
-  {
-   "title": "Knallhartes Russell-Urteil: Er ist der Rubens Barrichello für Kimi Antonelli!",
-   "summary": "Ralf Schumacher denkt, dass George Russell bei Mercedes intern auch in den kommenden Jahren keine Chance gegen Neu-Weltmeister Kimi Antonelli haben wird",
-   "url": "https://www.formel1.de/nc/149830",
-   "date": "2026-11-12T09:44:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell",
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Regeln",
-   "firstSeen": "2026-11-12T12:49:36.648Z"
-  },
-  {
-   "title": "Norris siegt in Brasilien, aber McLaren warnt: \"Noch nicht gut genug\"",
-   "summary": "McLaren dominiert in Brasilien, doch Norris und Stella relativieren den Erfolg: Ein entscheidender Faktor könnte den wahren Leistungsstand verschleiern",
-   "url": "https://www.formel1.de/nc/149829",
-   "date": "2026-11-12T08:34:28.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-11-12T12:49:36.648Z"
-  },
-  {
-   "title": "Patrick Friesacher fährt Irland-Route im Vettel-Auto in unter 20 Minuten",
-   "summary": "Mit dem WM-Auto von Sebastian Vettel über einen irischen Bergpass: Ex-Formel-1-Pilot Patrick Friesacher tritt gegen die Navi-App an - und gewinnt",
-   "url": "https://www.formel1.de/nc/149828",
-   "date": "2026-11-12T07:13:36.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-12T12:49:36.648Z"
-  },
-  {
-   "title": "Warum Audi in der Formel 1 nie doppelt punktet: McNish erklärt das Problem",
-   "summary": "Nico Hülkenberg und Gabriel Bortoleto haben noch nie gemeinsam für Audi gepunktet: Allan McNish erklärt die Gründe und einen besonderen Vorteil",
-   "url": "https://www.formel1.de/nc/149827",
-   "date": "2026-11-12T05:12:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hulkenberg",
-    "bortoleto"
-   ],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "News",
-   "firstSeen": "2026-11-12T12:49:36.648Z"
-  },
-  {
-   "title": "Ricciardo reacts to his best career moments",
-   "summary": "Former Red Bull and McLaren racer Daniel Ricciardo sat down with F1 to take a look back at his career highlights, from his sublime Monaco victory to unforgettable 'shoey' celebration.",
-   "url": "https://www.formula1.com/en/latest/article/i-know-f1-is-serious-but-we-can-still-make-it-fun-ricciardo-reacts-to-his-best-career-moments.NaM7kMUTZmxIzbRrJPoHY",
-   "date": "2026-11-11T19:40:03.268Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "red_bull",
-    "mclaren"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-11T19:40:03.268Z"
-  },
-  {
-   "title": "Bruno Senna recounts Antonelli’s visit to his family farm",
-   "summary": "In the latest episode of official podcast F1 Beyond The Grid, Bruno Senna opened up on Kimi Antonelli's emotional visit to the family estate of three-time champion Ayrton Senna.",
-   "url": "https://www.formula1.com/en/latest/article/it-showed-why-hes-a-world-champion-bruno-senna-recounts-antonellis-visit-to-his-family-farm.29P3uPrOthkJo2tTjljCwW",
-   "date": "2026-11-11T19:39:03.268Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-11T19:40:03.268Z"
   }
  ]
 }
