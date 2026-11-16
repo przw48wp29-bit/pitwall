@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T12:50:21.442Z",
+ "updatedAt": "2026-11-16T23:25:24.725Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,172 @@
   }
  },
  "items": [
+  {
+   "title": "Terry Crews on America's growing love for F1",
+   "summary": "As Formula 1 returns to Las Vegas, actor Terry Crews discusses the sport's growing popularity in the United States and how it is encouraging Americans to embrace the wider world.",
+   "url": "https://www.formula1.com/en/latest/article/americans-are-becoming-more-formula-1-terry-crews-on-why-f1-is-winning-over-the-us.6Uqdsu4AlrP8Y3fxNUMesa",
+   "date": "2026-11-16T23:25:24.419Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-16T23:25:24.419Z"
+  },
+  {
+   "title": "Williams unveil special livery for Las Vegas Grand Prix",
+   "summary": "The Williams FW48 will sport a unique livery across the Las Vegas Grand Prix weekend.",
+   "url": "https://www.formula1.com/en/latest/article/williams-unveil-special-one-off-livery-for-las-vegas-grand-prix.01klQqq0PYu7wjugCtr98K",
+   "date": "2026-11-16T23:24:24.419Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "Rennen",
+   "firstSeen": "2026-11-16T23:25:24.419Z"
+  },
+  {
+   "title": "What time is the 2026 Las Vegas GP and how can I watch it?",
+   "summary": "Here are all the timings – along with all the additional information you need – for the 21st Grand Prix weekend of the 2026 season from Las Vegas.",
+   "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-las-vegas-grand-prix-and-how-can-i-watch-it.5klYngWOQMjROxZ3nEp5Pr",
+   "date": "2026-11-16T23:23:24.419Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-16T23:25:24.419Z"
+  },
+  {
+   "title": "Las Vegas Grand Prix betting guide and latest odds",
+   "summary": "Our experts bring you all the important betting information you need before making your predictions for Vegas.",
+   "url": "https://www.formula1.com/en/latest/article/las-vegas-grand-prix-race-betting-guide-and-what-the-markets-expect-to-happen.5sEja0aYqYkyfdSZ9sTibF",
+   "date": "2026-11-16T23:22:24.419Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-16T23:25:24.419Z"
+  },
+  {
+   "title": "5 storylines we're excited about ahead of the Las Vegas GP",
+   "summary": "Chris Medland runs through the biggest talking points as F1 heads to Las Vegas for Round 21 of the 2026 season.",
+   "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-las-vegas-grand-prix.3fjavheTbHD8fjZI0i7BWd",
+   "date": "2026-11-16T23:21:24.419Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-16T23:25:24.419Z"
+  },
+  {
+   "title": "Kimi Antonelli nennt seinen grössten Gegner für die Titelverteidigung 2027",
+   "summary": "Der neue Formel-1-Weltmeister Kimi Antonelli sagt, dass die letzten Rennen dieser Saison ihm bei der Vorbereitung auf seine Titelverteidigung 2027 helfen werden",
+   "url": "https://www.formel1.de/nc/149875",
+   "date": "2026-11-16T18:45:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-16T23:25:24.419Z"
+  },
+  {
+   "title": "Die Botschaft an die Mercedes-Neuzugänge während der Titelflaute",
+   "summary": "Mercedes-Technikchef James Allison sagte hunderten neuen Mitarbeitern, dass sie irgendwann gewinnen und auch die Meisterschaft gewinnen würden",
+   "url": "https://www.formel1.de/nc/149874",
+   "date": "2026-11-16T17:28:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Technik",
+   "firstSeen": "2026-11-16T23:25:24.419Z"
+  },
+  {
+   "title": "Beide WM-Titel vergeben: Um was geht es in der Formel-1-Saison 2026 noch?",
+   "summary": "Beide WM-Titel 2026 sind bereits an Mercedes vergeben, doch in den letzten drei Rennen des Jahres geht es in der Weltmeisterschaft dahinter noch um einige Plätze",
+   "url": "https://www.formel1.de/nc/149873",
+   "date": "2026-11-16T16:04:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-16T23:25:24.419Z"
+  },
+  {
+   "title": "Weltpremiere nach F1-Sieg: Etihad-Flugzeug im McLaren-Design hebt ab",
+   "summary": "Der wohl grösste Partnerschafts-Coup der Formel-1-Geschichte: ein McLaren x Etihad Boeing 787 Dreamliner im orangen \"Papaya\"-Design hat seinen Erstflug absolviert",
+   "url": "https://www.formel1.de/nc/149872",
+   "date": "2026-11-16T14:47:38.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-11-16T23:25:24.419Z"
+  },
+  {
+   "title": "Toto Wolff: Was ihm Christian Horner nach dem WM-Titelgewinn schrieb",
+   "summary": "Mercedes hat beide Formel-1-WM-Titel gewonnen: Toto Wolff verrät, was Christian Horner ihm geschrieben hat und warum ihn die Nachricht \"nicht überraschte\"",
+   "url": "https://www.formel1.de/nc/149871",
+   "date": "2026-11-16T14:27:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-16T23:25:24.419Z"
+  },
+  {
+   "title": "V8-Motoren: Welche Punkte für das Reglement 2030 sind noch offen?",
+   "summary": "Auf dem Tisch der Formel-1-Kommission, die sich am Montag in London trifft, liegen ganz unterschiedliche Ideen, die sich zu einem Vorschlag zusammenfinden müssen",
+   "url": "https://www.formel1.de/nc/149870",
+   "date": "2026-11-16T13:20:49.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-11-16T23:25:24.419Z"
+  },
   {
    "title": "McLaren determined to take fight for P3 ‘down to the wire’",
    "summary": "On the latest episode of F1 Nation, Racing Director Randy Singh opened up on the pressure McLaren are under to clinch P3 in the Teams’ Championship.",
@@ -44,7 +210,7 @@
    "firstSeen": "2026-11-16T12:50:21.424Z"
   },
   {
-   "title": "Wie Istanbul seine Formel-1-Strecke für eine langfristige Zukunft umgestaltet",
+   "title": "Istanbul-Rückkehr: Layout bleibt gleich, viele Dinge ändern sich",
    "summary": "Der Istanbul Park kehrt in den Kalender zurück - Das von den Fahrern geschätzte Layout bleibt, doch den Grand Prix selbst wollen die Organisatoren überarbeiten",
    "url": "https://www.formel1.de/nc/149869",
    "date": "2026-11-16T11:31:04.000Z",
@@ -810,201 +976,6 @@
    "team": "rb",
    "category": "Rennen",
    "firstSeen": "2026-11-12T21:29:04.953Z"
-  },
-  {
-   "title": "Trivia: False Start",
-   "summary": "",
-   "url": "https://www.formula1.com/en/latest/article/trivia-false-start.403Q768qyuqJKKSGfQE9C1",
-   "date": "2026-11-12T21:28:04.953Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-12T21:29:04.953Z"
-  },
-  {
-   "title": "Tsolov to serve as Red Bull and Racing Bulls reserve driver",
-   "summary": "Formula 2 racer Nikola Tsolov will step up to a role as Red Bull and Racing Bulls’ reserve driver next season.",
-   "url": "https://www.formula1.com/en/latest/article/tsolov-to-join-red-bull-and-racing-bulls-as-reserve-driver-for-2027.390fvkyiS2t5fnyVjvxqFq",
-   "date": "2026-11-12T21:27:04.953Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "rb",
-    "red_bull"
-   ],
-   "team": "rb",
-   "category": "News",
-   "firstSeen": "2026-11-12T21:29:04.953Z"
-  },
-  {
-   "title": "Russell launches new karting academy for young racers",
-   "summary": "Mercedes driver George Russell has founded a karting academy to support and develop the next generation of young racers.",
-   "url": "https://www.formula1.com/en/latest/article/karting-is-where-it-all-started-for-me-russell-launches-new-academy-to-develop-young-racers.5kVDwrQLjkeQ8bYLZ5sqQ2",
-   "date": "2026-11-12T21:26:04.953Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-12T21:29:04.953Z"
-  },
-  {
-   "title": "Why Racing Bulls stuck with Lawson and Lindblad",
-   "summary": "Racing Bulls have retained Liam Lawson and Arvid Lindblad for 2027, but with Red Bull junior Nikola Tsolov pushing for promotion, Lawrence Barretto looks at why they decided against a change?",
-   "url": "https://www.formula1.com/en/latest/article/analysis-why-racing-bulls-stuck-with-lawson-and-lindblad-for-2027.5qokKr7EMWk8s3SNCSPwC",
-   "date": "2026-11-12T21:25:04.953Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "lawson",
-    "arvid_lindblad"
-   ],
-   "teams": [
-    "rb",
-    "red_bull"
-   ],
-   "team": "rb",
-   "category": "News",
-   "firstSeen": "2026-11-12T21:29:04.953Z"
-  },
-  {
-   "title": "Lewis Hamilton stürzt in Sportler-Ranking ab: Ferrari-Teamkollege zieht vorbei",
-   "summary": "2025 war Lewis Hamilton noch der vermarktbarste Sportler der Welt, jetzt liegt er nur noch auf Rang 22 - und hinter Ferrari-Teamkollege Charles Leclerc",
-   "url": "https://www.formel1.de/nc/149838",
-   "date": "2026-11-12T18:36:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-12T21:29:04.953Z"
-  },
-  {
-   "title": "Kimi Antonelli löst Versprechen ein: Mit gefärbten Haaren bei WM-Feier",
-   "summary": "Der neue Formel-1-Weltmeister Kimi Antonelli erschien mit grün-weiss-rotem Haar zur Party in Brackley, wo Mercedes mit den Mitarbeitern die beiden WM-Titel feierte",
-   "url": "https://www.formel1.de/nc/149837",
-   "date": "2026-11-12T17:22:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-12T21:29:04.953Z"
-  },
-  {
-   "title": "Formel-1-Weltmeister erklärt: Darum muss Ferrari alles auf Hamilton setzen",
-   "summary": "Damon Hill fordert Ferrari dazu auf, Lewis Hamilton zur Nummer 1 zu machen - Ohne eine klare Positionierung sieht der Weltmeister von 1996 keine Chance auf die WM",
-   "url": "https://www.formel1.de/nc/149836",
-   "date": "2026-11-12T16:16:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-12T21:29:04.953Z"
-  },
-  {
-   "title": "Racing Bulls: Wie Liam Lawson sein Formel-1-Cockpit gerettet hat",
-   "summary": "Wir werfen einen Blick auf die Zahlen, die dafür gesorgt haben, dass Liam Lawson auch in der Formel-1-Saison 2027 weiterhin für die Racing Bulls fahren darf",
-   "url": "https://www.formel1.de/nc/149835",
-   "date": "2026-11-12T14:54:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "lawson"
-   ],
-   "teams": [
-    "rb"
-   ],
-   "team": "rb",
-   "category": "Transfer",
-   "firstSeen": "2026-11-12T21:29:04.953Z"
-  },
-  {
-   "title": "Seltener Formel-1-Williams von Ayrton Senna wird versteigert",
-   "summary": "Ein Williams FW16, mit dem Ayrton Senna in der Formel-1-Saison 1994 gefahren ist, soll in New York versteigert werden",
-   "url": "https://www.formel1.de/nc/149834",
-   "date": "2026-11-12T13:33:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "williams"
-   ],
-   "team": "williams",
-   "category": "News",
-   "firstSeen": "2026-11-12T21:29:04.953Z"
-  },
-  {
-   "title": "Lawson and Lindblad to remain at Racing Bulls for 2027",
-   "summary": "Racing Bulls will retain their current pairing of Liam Lawson and Arvid Lindblad for the upcoming 2027 season.",
-   "url": "https://www.formula1.com/en/latest/article/lawson-and-lindblad-to-remain-at-racing-bulls-for-2027-as-team-confirm-unchanged-line-up.1vwKafZKAx8zw2Tb4B8fPx",
-   "date": "2026-11-12T12:49:36.648Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "lawson",
-    "arvid_lindblad"
-   ],
-   "teams": [
-    "rb"
-   ],
-   "team": "rb",
-   "category": "News",
-   "firstSeen": "2026-11-12T12:49:36.648Z"
-  },
-  {
-   "title": "Cadillac: Diese Fahrer könnten Valtteri Bottas ersetzen",
-   "summary": "Die Zukunft von Valtteri Bottas bei Cadillac bleibt weiterhin offen - TWG setzt auf Colton Herta, doch als Alternative gewinnt auch Frederik Vesti an Bedeutung",
-   "url": "https://www.formel1.de/nc/149833",
-   "date": "2026-11-12T12:41:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bottas"
-   ],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "Rennen",
-   "firstSeen": "2026-11-12T12:49:36.648Z"
   }
  ]
 }
