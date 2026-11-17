@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T23:25:24.725Z",
+ "updatedAt": "2026-11-17T13:32:06.257Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,200 @@
   }
  },
  "items": [
+  {
+   "title": "The 5 drivers most likely to win in Las Vegas",
+   "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Las Vegas Strip Circuit.",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-las-vegas-grand-prix-according-to-the-betting-markets.35XTVOVdU16UJWGZJj3ctb",
+   "date": "2026-11-17T13:32:06.242Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-17T13:32:06.242Z"
+  },
+  {
+   "title": "Alonso set for Dakar Rally return with Aston Martin",
+   "summary": "Fernando Alonso will compete in the 2027 edition of the Dakar Rally for Aston Martin.",
+   "url": "https://www.formula1.com/en/latest/article/alonso-to-make-dakar-rally-return-with-aston-martin-dreadnought-in-2027.6qKZRHvlJP4ECq2Bri772q",
+   "date": "2026-11-17T13:31:06.242Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-11-17T13:32:06.242Z"
+  },
+  {
+   "title": "Aston Martin showcase bespoke Las Vegas Grand Prix livery",
+   "summary": "Aston Martin will run a special livery on the AMR26 for the Las Vegas Grand Prix weekend.",
+   "url": "https://www.formula1.com/en/latest/article/gallery-aston-martin-showcase-bespoke-livery-for-las-vegas-grand-prix.7f71lWPYrxvriroCo30iaY",
+   "date": "2026-11-17T13:30:06.242Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "Rennen",
+   "firstSeen": "2026-11-17T13:32:06.242Z"
+  },
+  {
+   "title": "Zak Brown: McLaren war früher \"ein sehr toxisches Umfeld\"",
+   "summary": "Zak Brown erinnert sich an seine ersten Jahre bei McLaren zurück und erklärt, was er tun musste, um das kriselnde Team wieder zurück in die Spur zu bringen",
+   "url": "https://www.formel1.de/nc/149882",
+   "date": "2026-11-17T12:56:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-11-17T13:32:06.242Z"
+  },
+  {
+   "title": "Scharfe Kritik: Frederic Vasseur ist bei Ferrari \"schlichtweg überfordert\"",
+   "summary": "Ex-Formel-1-Boss Bernie Ecclestone übt harte Kritik an Ferrari - Lewis Hamilton müsse langsam \"ans Aufhören denken\" und Frederic Vasseur sei \"überfordert\"",
+   "url": "https://www.formel1.de/nc/149881",
+   "date": "2026-11-17T11:22:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-17T13:32:06.242Z"
+  },
+  {
+   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
+   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
+   "url": "https://www.formel1.de/nc/146408",
+   "date": "2026-11-17T10:30:27.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-11-16T12:50:21.424Z"
+  },
+  {
+   "title": "Mehrere Sonderdesigns beim Formel-1-Rennen in Las Vegas",
+   "summary": "Mehrere Formel-1-Teams haben für den Grossen Preis von Las Vegas Sonderdesigns vorgestellt - Aston Martin wirbt zudem für Acura, die Performance-Marke von Honda",
+   "url": "https://www.formel1.de/nc/149880",
+   "date": "2026-11-17T10:03:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "Rennen",
+   "firstSeen": "2026-11-17T13:32:06.242Z"
+  },
+  {
+   "title": "Offiziell: Fernando Alonso startet mit Aston Martin bei der Rallye Dakar 2027",
+   "summary": "Fernando Alonso kehrt 2027 zur Rallye Dakar zurück - Mit Sebastien Loeb und Lucas Moraes als Teamkollegen steuert der Spanier einen Aston Martin von Prodrive",
+   "url": "https://www.formel1.de/nc/149879",
+   "date": "2026-11-17T09:11:41.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-11-17T13:32:06.242Z"
+  },
+  {
+   "title": "Zehn Jahre nach Abu Dhabi 2016: Formel-1-Stammtisch mit Georg Nolte",
+   "summary": "Wie waren die legendären fünf Tage zwischen Abu Dhabi und Wien 2016? Dazu ist Nico Rosbergs langjähriger Medienberater Georg Nolte unser Gast …",
+   "url": "https://www.formel1.de/nc/149878",
+   "date": "2026-11-17T08:28:19.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-17T13:32:06.242Z"
+  },
+  {
+   "title": "Steiner zweifelt an Hamilton: Dieser Fahrer könnte die Ferrari-Probleme lösen",
+   "summary": "Michael Schumacher hat es vorgemacht: Ferrari braucht einen starken Anführer, doch Günther Steiner bezweifelt, dass Lewis Hamilton diese Rolle ausfüllen kann",
+   "url": "https://www.formel1.de/nc/149877",
+   "date": "2026-11-17T07:55:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-17T13:32:06.242Z"
+  },
+  {
+   "title": "Die aktuelle Wetterprognose für das Formel-1-Rennen in Las Vegas",
+   "summary": "Die aktuelle Wettervorschau für das 21. Rennwochenende der Formel-1-Saison 2026, den Grand Prix von Las Vegas auf dem Las Vegas Strip Circuit in den USA",
+   "url": "https://www.formel1.de/nc/123255",
+   "date": "2026-11-17T06:37:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-17T13:32:06.242Z"
+  },
+  {
+   "title": "Liam Lawson und Red Bull: Das eigentliche Problem waren nie seine Leistungen",
+   "summary": "Das Nachwuchssystem von Helmut Marko brachte Weltmeister hervor, aber auch Verlierer: Der Fall Liam Lawson zeigt, warum Red Bull einen Kurswechsel braucht",
+   "url": "https://www.formel1.de/nc/149876",
+   "date": "2026-11-17T05:23:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "lawson"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-17T13:32:06.242Z"
+  },
   {
    "title": "Terry Crews on America's growing love for F1",
    "summary": "As Formula 1 returns to Las Vegas, actor Terry Crews discusses the sport's growing popularity in the United States and how it is encouraging Americans to embrace the wider world.",
@@ -251,20 +445,6 @@
    "teams": [],
    "team": "mclaren",
    "category": "News",
-   "firstSeen": "2026-11-16T12:50:21.424Z"
-  },
-  {
-   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
-   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
-   "url": "https://www.formel1.de/nc/146408",
-   "date": "2026-11-16T08:46:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Transfer",
    "firstSeen": "2026-11-16T12:50:21.424Z"
   },
   {
@@ -790,192 +970,6 @@
    "team": null,
    "category": "News",
    "firstSeen": "2026-11-13T19:51:42.673Z"
-  },
-  {
-   "title": "Toto Wolff's journey from Williams to nine F1 titles",
-   "summary": "Discover Toto Wolff's journey from professional racing driver to team boss at Mercedes, where he has overseen nine Constructors' Championships, equalling Sir Frank Williams.",
-   "url": "https://www.formula1.com/en/latest/article/toto-wolffs-journey-from-williams-to-nine-time-champion-with-mercedes.2l85DG3mfUyL5icscw0Gbn",
-   "date": "2026-11-13T12:18:17.601Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "mercedes",
-    "williams"
-   ],
-   "team": "williams",
-   "category": "News",
-   "firstSeen": "2026-11-13T12:18:17.601Z"
-  },
-  {
-   "title": "F1 ACADEMY Champion Palmowski graduates to Formula Regional",
-   "summary": "F1 ACADEMY Champion Alisha Palmowski will make the step up to the Formula Regional European Championship (FREC), with F1 ACADEMY and Red Bull Racing announcing she will receive a fully-funded seat with Rodin Motorsport for the 2027 season.",
-   "url": "https://www.formula1.com/en/latest/article/f1-academy-champion-alisha-palmowski-graduates-to-formula-regional-with-fully-funded-seat.39A1mu7n4LQ3ljJdTyFlhW",
-   "date": "2026-11-13T12:17:17.601Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Transfer",
-   "firstSeen": "2026-11-13T12:18:17.601Z"
-  },
-  {
-   "title": "Mercedes' incredible history of Formula 1 success",
-   "summary": "As Mercedes claim their ninth F1 Constructors' title in 2026, discover the Silver Arrows' incredible history in Formula 1.",
-   "url": "https://www.formula1.com/en/latest/article/mercedes-incredible-success-through-formula-1-history.7yLliKc36ZI9pd7xzNYFwq",
-   "date": "2026-11-13T12:16:17.601Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-13T12:18:17.601Z"
-  },
-  {
-   "title": "Wichtiger Termin: Audi hofft auf nachträglichen Punkt am grünen Tisch",
-   "summary": "Audi könnte im November einen zusätzlichen WM-Punkt am grünen Tisch gewinnen - Im engen Kampf gegen Haas könnte das am Ende des Jahres Millionen wert sein",
-   "url": "https://www.formel1.de/nc/149845",
-   "date": "2026-11-13T12:04:49.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "haas",
-    "audi"
-   ],
-   "team": "audi",
-   "category": "News",
-   "firstSeen": "2026-11-13T12:18:17.601Z"
-  },
-  {
-   "title": "Nächste Frau im Juniorteam: Red Bull befördert F1-Academy-Meisterin",
-   "summary": "Das Red-Bull-Juniorteam bekommt eine zweite Frau - Nach Chiara Bättig hat sich nun auch F1-Academy-Meisterin Alisha Palmowski einen Platz dort gesichert",
-   "url": "https://www.formel1.de/nc/149844",
-   "date": "2026-11-13T10:52:29.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-13T12:18:17.601Z"
-  },
-  {
-   "title": "Formel-1-Star George Russell macht 25 Kindern ein besonderes Angebot",
-   "summary": "George Russell gründet eine eigene Kart-Akademie und finanziert 25 Kindern eine komplette Rennsaison, doch nicht jeder darf sich für das Programm bewerben",
-   "url": "https://www.formel1.de/nc/149843",
-   "date": "2026-11-13T09:58:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Business",
-   "firstSeen": "2026-11-13T12:18:17.601Z"
-  },
-  {
-   "title": "Piastri unter Druck? \"Dann wird Zak den nächsten Oscar suchen\"",
-   "summary": "Weil Oscar Piastri 2026 klar von Lando Norris abgehängt wird, kann sich Günther Steiner vorstellen, dass McLaren sich bald nach Alternativen umsehen könnte",
-   "url": "https://www.formel1.de/nc/149842",
-   "date": "2026-11-13T09:01:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "piastri",
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-11-13T12:18:17.601Z"
-  },
-  {
-   "title": "Red Bull setzt auf Nikola Tsolov: Warum Lawson und Lindblad aufpassen müssen",
-   "summary": "Nikola Tsolov erhält 2027 noch kein Formel-1-Cockpit, doch Red Bull bereitet ihn auf den Aufstieg vor - mit möglichen Folgen für Lawson und Lindblad",
-   "url": "https://www.formel1.de/nc/149841",
-   "date": "2026-11-13T07:49:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "lawson",
-    "arvid_lindblad"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Transfer",
-   "firstSeen": "2026-11-13T12:18:17.601Z"
-  },
-  {
-   "title": "Toto Wolff: Antonelli ist nicht Senna, aber er könnte ein \"Senninha\" sein",
-   "summary": "Während der neue Formel-1-Weltmeister Kimi Antonelli mit Ayrton Senna verglichen wird, will Mercedes-Teamchef Toto Wolff diese Vergleiche eher relativieren",
-   "url": "https://www.formel1.de/nc/149840",
-   "date": "2026-11-13T06:58:06.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-13T12:18:17.601Z"
-  },
-  {
-   "title": "Formel-1-Experte: Mit anderen Fahrern hätte Ferrari mehr Rennen gewonnen",
-   "summary": "Experte Ralf Schumacher ist der Meinung, dass Ferrari in der Formel-1-Saison 2026 mit anderen Fahrern im Cockpit mehr Rennen gewonnen hätte",
-   "url": "https://www.formel1.de/nc/149839",
-   "date": "2026-11-13T05:33:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "Transfer",
-   "firstSeen": "2026-11-13T12:18:17.601Z"
-  },
-  {
-   "title": "Why the F1 driver market might produce one last twist",
-   "summary": "Following Racing Bulls’ confirmation of their unchanged driver line-up, Lawrence Barretto dissects everything that’s still left to play for on the 2027 grid.",
-   "url": "https://www.formula1.com/en/latest/article/analysis-why-the-f1-driver-market-might-produce-one-last-twist-for-2027.6t7AwtqfHWkDqSgQZ3ElQ3",
-   "date": "2026-11-12T21:29:04.953Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "rb"
-   ],
-   "team": "rb",
-   "category": "Rennen",
-   "firstSeen": "2026-11-12T21:29:04.953Z"
   }
  ]
 }
