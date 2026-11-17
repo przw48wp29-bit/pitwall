@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T13:32:06.257Z",
+ "updatedAt": "2026-11-17T22:27:25.655Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,208 @@
   }
  },
  "items": [
+  {
+   "title": "Cadillac reveal special livery for Las Vegas Grand Prix",
+   "summary": "Cadillac have become the latest team to showcase a bespoke livery that will feature on their car for the Las Vegas Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/gallery-cadillac-reveal-special-livery-for-las-vegas-grand-prix.1b7NXQe83gP2LzjiCQf2ES",
+   "date": "2026-11-17T22:27:25.638Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "Rennen",
+   "firstSeen": "2026-11-17T22:27:25.638Z"
+  },
+  {
+   "title": "Audi announce Felbermayr for third F1 ACADEMY season in 2027",
+   "summary": "Audi have confirmed that Emma Felbermayr will contest a third F1 ACADEMY season next year, with the Austrian driver remaining part of the Audi Driver Development Programme.",
+   "url": "https://www.formula1.com/en/latest/article/audi-announce-emma-felbermayr-for-third-f1-academy-season-in-2027.3numbjpdYoNe5Bp0NCeSUz",
+   "date": "2026-11-17T22:26:25.638Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-11-17T22:27:25.638Z"
+  },
+  {
+   "title": "Sainz on his 250th GP and Williams’ ‘most important year’",
+   "summary": "Amid a challenging season for Williams, Carlos Sainz looks back at the ups and downs of his Formula 1 career so far as he gets ready for his 250th Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/exclusive-sainz-reflects-on-the-journey-to-his-250th-grand-prix-and-preparing-for-williams-most-important-year.4q4YmHp7ZpfnUTMjNNPXc9",
+   "date": "2026-11-17T22:25:25.638Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "sainz"
+   ],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "Rennen",
+   "firstSeen": "2026-11-17T22:27:25.638Z"
+  },
+  {
+   "title": "The 5 drivers to back in Qualifying in Las Vegas",
+   "summary": "We have looked at the betting markets for Qualifying at the Las Vegas Strip Circuit and assessed the chances of the leading contenders for pole.",
+   "url": "https://www.formula1.com/en/latest/article/the-5-drivers-who-are-most-likely-to-qualify-fastest-in-las-vegas.4bdBCuhbBNlUkHaoVfsopF",
+   "date": "2026-11-17T22:24:25.638Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-17T22:27:25.638Z"
+  },
+  {
+   "title": "Williams retain Jade Jacquet for 2027 F1 ACADEMY campaign",
+   "summary": "Williams have announced that Jade Jacquet will continue to represent the team for a second F1 ACADEMY season, with the French driver remaining with ART Grand Prix in 2027.",
+   "url": "https://www.formula1.com/en/latest/article/williams-retain-jade-jacquet-for-2027-f1-academy-campaign.5BcvOHlUPr9OJXYXq30dnE",
+   "date": "2026-11-17T22:23:25.638Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "Rennen",
+   "firstSeen": "2026-11-17T22:27:25.638Z"
+  },
+  {
+   "title": "How the Sphere became the heart of the Las Vegas GP",
+   "summary": "It's eye-catching, spectacular and unmistakably Las Vegas. The Sphere has become an integral part of the Las Vegas Grand Prix, and we explore how and why.",
+   "url": "https://www.formula1.com/en/latest/article/how-the-sphere-became-the-heart-of-the-las-vegas-grand-prix.1xiIUVGfOPf8kGx8oHY7V9",
+   "date": "2026-11-17T22:22:25.638Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-17T22:27:25.638Z"
+  },
+  {
+   "title": "Brown on why McLaren struggled to fight for title in 2026",
+   "summary": "McLaren CEO Zak Brown has reflected on why the team were unable to defend their titles in 2026 – and the learnings that they are taking forward into next season.",
+   "url": "https://www.formula1.com/en/latest/article/weve-just-got-to-do-a-better-job-brown-explains-why-mclaren-struggled-to-challenge-for-the-championship-in-2026.4vyTtKngYi0IPSrhXhRozz",
+   "date": "2026-11-17T22:21:25.638Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-11-17T22:27:25.638Z"
+  },
+  {
+   "title": "Ayrton Senna zerstörte eine Formel-1-Chance: Ein Manager packt aus",
+   "summary": "Ein blockierter Qualifyingversuch, ein Werbespot und ein neuer Leitsatz: F1-Manager Enrico Zanarini erinnert sich an einen folgenreichen Moment mit Ayrton Senna",
+   "url": "https://www.formel1.de/nc/149888",
+   "date": "2026-11-17T18:29:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-17T22:27:25.638Z"
+  },
+  {
+   "title": "Lewis Hamilton: Ex-Fahrer sollten nicht schlecht über junge Piloten reden",
+   "summary": "Formel-1-Rekordweltmeister Lewis Hamilton betont, er sei stolz auf die jungen Talente, die aktuell in der Formel 1 heranwachsen",
+   "url": "https://www.formel1.de/nc/149887",
+   "date": "2026-11-17T17:21:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-17T22:27:25.638Z"
+  },
+  {
+   "title": "Formel 1 plant Umrüstung auf V8-Turbomotoren schon für 2030",
+   "summary": "FIA lässt verlauten, dass Grundsatzvereinbarung darüber vorliegt, die Formel 1 bereits ab 2030 mit 2,1-Liter-Turbomotoren fahren zu lassen",
+   "url": "https://www.formel1.de/nc/149886",
+   "date": "2026-11-17T16:30:47.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-11-17T22:27:25.638Z"
+  },
+  {
+   "title": "Was hat Cadillac zu verlieren, wenn man Colton Herta verpflichtet?",
+   "summary": "Team und Fahrer haben bereits viel Zeit, Geld und Mühe investiert, um Colton Herta auf ein Formel-1-Debüt vorzubereiten - Jetzt ist der Zeitpunkt für eine Entscheidung",
+   "url": "https://www.formel1.de/nc/149885",
+   "date": "2026-11-17T16:05:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "News",
+   "firstSeen": "2026-11-17T22:27:25.638Z"
+  },
+  {
+   "title": "Welchen Schumacher-Rekord Lewis Hamilton 2026 noch einstellen kann",
+   "summary": "Lewis Hamilton kann 2026 einen weiteren Rekord von Michael Schumacher einstellen - Dazu muss der Brite in der Weltmeisterschaft noch unter die Top 3 kommen",
+   "url": "https://www.formel1.de/nc/149884",
+   "date": "2026-11-17T14:59:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hamilton"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-17T22:27:25.638Z"
+  },
+  {
+   "title": "\"Selbsthass\": Mercedes-Technikdirektor über psychische Belastung",
+   "summary": "Mercedes-Technikdirektor James Allison spricht über das Gefühl von \"Selbsthass\" und das Elend, das das Team während seiner Formel-1-Krise erlebt hat",
+   "url": "https://www.formel1.de/nc/149883",
+   "date": "2026-11-17T13:52:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Technik",
+   "firstSeen": "2026-11-17T22:27:25.638Z"
+  },
   {
    "title": "The 5 drivers most likely to win in Las Vegas",
    "summary": "We look at the betting odds and analyse the chances of the five drivers most likely to win at the Las Vegas Strip Circuit.",
@@ -172,7 +374,7 @@
    "firstSeen": "2026-11-17T13:32:06.242Z"
   },
   {
-   "title": "Die aktuelle Wetterprognose für das Formel-1-Rennen in Las Vegas",
+   "title": "Die aktuelle Wetterprognose für den Grand Prix von Las Vegas",
    "summary": "Die aktuelle Wettervorschau für das 21. Rennwochenende der Formel-1-Saison 2026, den Grand Prix von Las Vegas auf dem Las Vegas Strip Circuit in den USA",
    "url": "https://www.formel1.de/nc/123255",
    "date": "2026-11-17T06:37:04.000Z",
@@ -760,216 +962,6 @@
    "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-11-14T11:33:23.353Z"
-  },
-  {
-   "title": "Horner enthüllt: Diese Nachricht schickte Wolff nach Abu Dhabi 2021",
-   "summary": "Während Red Bull den WM-Titel 2021 feierte, erhielt Christian Horner eine Nachricht von Toto Wolff - In seinem Buch schildert er die Stunden nach dem Finale",
-   "url": "https://www.formel1.de/nc/149854",
-   "date": "2026-11-14T11:00:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-14T11:33:23.353Z"
-  },
-  {
-   "title": "FIA sperrt Formel-1-Journalisten: Hat er diese Strafe wirklich verdient?",
-   "summary": "Ein Kommentar: Die FIA entzieht einem Journalisten die Akkreditierung, doch die eigentliche Frage dieser Affäre reicht weit über eine Beleidigung hinaus",
-   "url": "https://www.formel1.de/nc/149853",
-   "date": "2026-11-14T10:18:42.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
-   "firstSeen": "2026-11-14T11:33:23.353Z"
-  },
-  {
-   "title": "Andrea Stella hofft: McLaren will mit Las Vegas \"endlich Frieden schliessen\"",
-   "summary": "McLaren will mit Las Vegas endlich Frieden schliessen: Andrea Stella erklärt, warum die Strecke seinem Team Probleme bereitet und weshalb er diesmal optimistisch ist",
-   "url": "https://www.formel1.de/nc/149852",
-   "date": "2026-11-14T09:30:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-11-14T11:33:23.353Z"
-  },
-  {
-   "title": "Die ältesten Formel-1-Weltmeister: Alle lebenden Champions nach Geburtsdatum",
-   "summary": "Von Jackie Stewart bis Kimi Antonelli: Diese Formel-1-Weltmeister leben noch - Die Übersicht ist nach Geburtsdatum sortiert, der älteste steht oben",
-   "url": "https://www.formel1.de/nc/149851",
-   "date": "2026-11-14T06:04:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-14T11:33:23.353Z"
-  },
-  {
-   "title": "Lawson's top-six hopes after new Racing Bulls deal",
-   "summary": "Liam Lawson's future at Racing Bulls has been decided, but how far is he from breaking into the top-six betting markets?",
-   "url": "https://www.formula1.com/en/latest/article/the-extra-gear-liam-lawsons-top-six-hopes-examined-after-securing-new-racing-bulls-deal.4FuO5PyKE8vCtfqm1OyxrJ",
-   "date": "2026-11-13T19:51:42.673Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "lawson"
-   ],
-   "teams": [
-    "rb"
-   ],
-   "team": "rb",
-   "category": "News",
-   "firstSeen": "2026-11-13T19:51:42.673Z"
-  },
-  {
-   "title": "Piastri on his tough 2026 and why it could make him stronger",
-   "summary": "McLaren's Oscar Piastri opens up about his difficulties in 2026 and why he hopes he can be better for them.",
-   "url": "https://www.formula1.com/en/latest/article/exclusive-piastri-on-taming-the-mcl40-redefining-success-and-why-a-tough-2026-could-make-him-stronger.qz9mVgFRNxNey7waRfq83",
-   "date": "2026-11-13T19:50:42.673Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "piastri"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-11-13T19:51:42.673Z"
-  },
-  {
-   "title": "Antonelli names his biggest threat for 2027 title defence",
-   "summary": "Kimi Antonelli has outlined his expectations for the competitive picture in 2027 – his first season as reigning World Champion.",
-   "url": "https://www.formula1.com/en/latest/article/antonelli-identifies-which-driver-poses-the-biggest-threat-to-his-title-defence-in-2027.6qjcpNnf8IerbXck8NpB05",
-   "date": "2026-11-13T19:49:42.673Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-13T19:51:42.673Z"
-  },
-  {
-   "title": "Why are F1 drivers obsessed with padel?",
-   "summary": "Padel has become increasingly popular among F1 drivers, with Aston Martin the latest team to embrace the sport through a new racket collection.",
-   "url": "https://www.formula1.com/en/latest/article/why-f1-drivers-love-padel-as-aston-martin-become-the-latest-to-embrace-the-sport.2n2jOtb63TbalovQuHIIUi",
-   "date": "2026-11-13T19:48:42.673Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "aston_martin"
-   ],
-   "team": "aston_martin",
-   "category": "News",
-   "firstSeen": "2026-11-13T19:51:42.673Z"
-  },
-  {
-   "title": "110 Kilo beim Flachbankdrücken: Toto Wolff verrät sein Fitnessgeheimnis",
-   "summary": "Toto Wolff stemmt beim Bankdrücken 110 Kilogramm und setzt auf klare Fitnessregeln, doch bei Ernährung und Supplements überrascht der Mercedes-Chef",
-   "url": "https://www.formel1.de/nc/149850",
-   "date": "2026-11-13T18:11:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-13T19:51:42.673Z"
-  },
-  {
-   "title": "Übersicht: Die Test- und Ersatzfahrer der Formel 1 2027",
-   "summary": "Ein Blick in die \"zweite Reihe\" der Formel-1-Teams in der Saison 2027: Welche Test- und Ersatzfahrer bei Red Bull, Mercedes, Ferrari und Co. unter Vertrag stehen",
-   "url": "https://www.formel1.de/nc/149849",
-   "date": "2026-11-13T17:13:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes",
-    "red_bull",
-    "ferrari"
-   ],
-   "team": "mercedes",
-   "category": "Transfer",
-   "firstSeen": "2026-11-13T19:51:42.673Z"
-  },
-  {
-   "title": "Bei Mercedes gelernt: Toto Wolff verrät seine wichtigste Lebensweisheit",
-   "summary": "Bevor Toto Wolff sich ein Urteil über andere erlaubt, stellt er eine ungewöhnliche Bedingung: Was der Mercedes-Teamchef über Menschen gelernt hat",
-   "url": "https://www.formel1.de/nc/149848",
-   "date": "2026-11-13T16:02:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Regeln",
-   "firstSeen": "2026-11-13T19:51:42.673Z"
-  },
-  {
-   "title": "Fährt Kimi Antonelli bald ein Formel-1-Auto von Ayrton Senna?",
-   "summary": "Bruno Senna hofft, Formel-1-Weltmeister Kimi Antonelli im kommenden Jahr die Möglichkeit zu geben, eines der historischen Autos von Ayrton Senna zu fahren",
-   "url": "https://www.formel1.de/nc/149847",
-   "date": "2026-11-13T14:55:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-13T19:51:42.673Z"
-  },
-  {
-   "title": "Grosjean zieht nach 23 Jahren einen Schlussstrich: \"Das will ich nicht mehr\"",
-   "summary": "Romain Grosjean hat genug vom Formelsport: Nach einer enttäuschenden IndyCar-Saison erklärt er, warum er künftig andere Prioritäten setzen will",
-   "url": "https://www.formel1.de/nc/149846",
-   "date": "2026-11-13T13:34:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-13T19:51:42.673Z"
   }
  ]
 }
