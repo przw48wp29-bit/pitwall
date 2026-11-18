@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T13:08:58.974Z",
+ "updatedAt": "2026-11-18T22:01:36.669Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,191 @@
   }
  },
  "items": [
+  {
+   "title": "Cadillac confirm Bottas will remain with the team in 2027",
+   "summary": "Cadillac have completed their 2027 driver line-up, with Valtteri Bottas set to continue racing alongside Sergio Perez.",
+   "url": "https://www.formula1.com/en/latest/article/cadillac-confirm-bottas-will-remain-with-the-team-in-2027.2FzTQfliXlMixOPFUMpPB4",
+   "date": "2026-11-18T22:01:36.560Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "bottas",
+    "perez"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "News",
+   "firstSeen": "2026-11-18T22:01:36.560Z"
+  },
+  {
+   "title": "Best value early bets for the Las Vegas Grand Prix",
+   "summary": "We've assessed the latest betting markets and picked the early bets offering the best value at the Las Vegas Strip Circuit.",
+   "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-las-vegas-grand-prix.G1YHN2K36iO2K2PxC7zjh",
+   "date": "2026-11-18T22:00:36.560Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-18T22:01:36.560Z"
+  },
+  {
+   "title": "Formula 1 and WHOOP announce landmark partnership",
+   "summary": "WHOOP has become an Official Partner of Formula 1 in a multi-year partnership, helping unlock a new era of human performance storytelling in the sport.",
+   "url": "https://www.formula1.com/en/latest/article/formula-1-and-whoop-announce-landmark-partnership-to-bring-fans-closer-to-the-human-side-of-racing.1YTsprVRx7MPlaDJnniexm",
+   "date": "2026-11-18T21:59:36.560Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-18T22:01:36.560Z"
+  },
+  {
+   "title": "Our early Bet Builder picks for Las Vegas",
+   "summary": "Our expert betting writers have picked a four-leg Bet Builder for the Las Vegas Grand Prix, including two podium finishes, a top-six selection and a driver with points potential.",
+   "url": "https://www.formula1.com/en/latest/article/our-early-bet-builder-selections-for-the-las-vegas-grand-prix.3CN1v7zsYxJIfD3azv9vjj",
+   "date": "2026-11-18T21:58:36.560Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-18T22:01:36.560Z"
+  },
+  {
+   "title": "The F1 braking system innovation that could soon be revealed",
+   "summary": "Mark Hughes and Giorgio Piola speculate about a revolutionary cooling method that could soon be revealed.",
+   "url": "https://www.formula1.com/en/latest/article/the-f1-braking-system-innovation-that-could-soon-be-revealed.5BLbJmoFNGwhbllIHNGHOG",
+   "date": "2026-11-18T21:57:36.560Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-18T22:01:36.560Z"
+  },
+  {
+   "title": "Endlich offiziell: Cadillac bestätigt Valtteri Bottas für 2027",
+   "summary": "Cadillac hat Valtteri Bottas auch für die Formel-1-Saison 2027 bestätigt - Damit bleiben voraussichtlich 21 der 22 Cockpits im kommenden Jahr unverändert",
+   "url": "https://www.formel1.de/nc/149902",
+   "date": "2026-11-18T20:01:17.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bottas"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "News",
+   "firstSeen": "2026-11-18T22:01:36.560Z"
+  },
+  {
+   "title": "Exklusiv: Wer ist Kimi Antonelli? Seine Vertrauten bei Mercedes verraten Details",
+   "summary": "Teil 2 unserer exklusiven Serie: Mehrere Teammitglieder von Mercedes geben einen Einblick in die Arbeit mit Kimi Antonelli - So tickt der Formel-1-Weltmeister wirklich",
+   "url": "https://www.formel1.de/nc/149901",
+   "date": "2026-11-18T18:55:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-18T22:01:36.560Z"
+  },
+  {
+   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
+   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
+   "url": "https://www.formel1.de/nc/146408",
+   "date": "2026-11-18T18:51:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-11-16T12:50:21.424Z"
+  },
+  {
+   "title": "Warum Monza seit 2026 nicht mehr zu den härtesten Bremsenstrecken zählt",
+   "summary": "Monza galt lange als eine der härtesten Formel-1-Strecken für die Bremsen, seit 2026 ist das anders: Was sich verändert hat und warum 2027 der nächste Wandel folgt",
+   "url": "https://www.formel1.de/nc/149900",
+   "date": "2026-11-18T17:36:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-18T22:01:36.560Z"
+  },
+  {
+   "title": "Trotz vorzeitigem Titel: Toto Wolff sieht keine erneute Mercedes-Dominanz",
+   "summary": "Mercedes hat beide WM-Titel in der Saison 2026 vorzeitig gewonnen, doch für Toto Wolff ist das kein Grund, an eine erneute Dominanz-Ära der Silberpfeile zu glauben",
+   "url": "https://www.formel1.de/nc/149899",
+   "date": "2026-11-18T15:41:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-18T22:01:36.560Z"
+  },
+  {
+   "title": "Nico Rosberg: \"In der Formel 1 war ich zu 90 Prozent der Versager\"",
+   "summary": "Nico Rosberg wurde 2016 Formel-1-Weltmeister, trotzdem erinnert er sich vor allem an Niederlagen: Eine davon hat ihn besonders schwer getroffen",
+   "url": "https://www.formel1.de/nc/149898",
+   "date": "2026-11-18T14:32:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-18T22:01:36.560Z"
+  },
+  {
+   "title": "Technikchef Allison erklärt, warum der Mercedes W17 plötzlich schwächelt",
+   "summary": "Technikchef James Allison räumt ein, dass Mercedes' spätes Saison-Upgrade einige unerwartete Schwächen mit sich brachte, die den W17 schwer beherrschbar machten",
+   "url": "https://www.formel1.de/nc/149897",
+   "date": "2026-11-18T13:14:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Technik",
+   "firstSeen": "2026-11-18T22:01:36.560Z"
+  },
   {
    "title": "Why Russell won't run Mercedes' upgraded turbocharger in Vegas",
    "summary": "World Champion Kimi Antonelli is set to run with Mercedes' upgraded turbocharger at this weekend's Las Vegas Grand Prix, but team mate George Russell will not.",
@@ -572,20 +757,6 @@
    "firstSeen": "2026-11-17T13:32:06.242Z"
   },
   {
-   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
-   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
-   "url": "https://www.formel1.de/nc/146408",
-   "date": "2026-11-17T10:30:27.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Transfer",
-   "firstSeen": "2026-11-16T12:50:21.424Z"
-  },
-  {
    "title": "Mehrere Sonderdesigns beim Formel-1-Rennen in Las Vegas",
    "summary": "Mehrere Formel-1-Teams haben für den Grossen Preis von Las Vegas Sonderdesigns vorgestellt - Aston Martin wirbt zudem für Acura, die Performance-Marke von Honda",
    "url": "https://www.formel1.de/nc/149880",
@@ -786,183 +957,6 @@
    "team": "mercedes",
    "category": "Technik",
    "firstSeen": "2026-11-16T23:25:24.419Z"
-  },
-  {
-   "title": "Beide WM-Titel vergeben: Um was geht es in der Formel-1-Saison 2026 noch?",
-   "summary": "Beide WM-Titel 2026 sind bereits an Mercedes vergeben, doch in den letzten drei Rennen des Jahres geht es in der Weltmeisterschaft dahinter noch um einige Plätze",
-   "url": "https://www.formel1.de/nc/149873",
-   "date": "2026-11-16T16:04:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-16T23:25:24.419Z"
-  },
-  {
-   "title": "Weltpremiere nach F1-Sieg: Etihad-Flugzeug im McLaren-Design hebt ab",
-   "summary": "Der wohl grösste Partnerschafts-Coup der Formel-1-Geschichte: ein McLaren x Etihad Boeing 787 Dreamliner im orangen \"Papaya\"-Design hat seinen Erstflug absolviert",
-   "url": "https://www.formel1.de/nc/149872",
-   "date": "2026-11-16T14:47:38.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-11-16T23:25:24.419Z"
-  },
-  {
-   "title": "Toto Wolff: Was ihm Christian Horner nach dem WM-Titelgewinn schrieb",
-   "summary": "Mercedes hat beide Formel-1-WM-Titel gewonnen: Toto Wolff verrät, was Christian Horner ihm geschrieben hat und warum ihn die Nachricht \"nicht überraschte\"",
-   "url": "https://www.formel1.de/nc/149871",
-   "date": "2026-11-16T14:27:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-16T23:25:24.419Z"
-  },
-  {
-   "title": "V8-Motoren: Welche Punkte für das Reglement 2030 sind noch offen?",
-   "summary": "Auf dem Tisch der Formel-1-Kommission, die sich am Montag in London trifft, liegen ganz unterschiedliche Ideen, die sich zu einem Vorschlag zusammenfinden müssen",
-   "url": "https://www.formel1.de/nc/149870",
-   "date": "2026-11-16T13:20:49.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
-   "firstSeen": "2026-11-16T23:25:24.419Z"
-  },
-  {
-   "title": "McLaren determined to take fight for P3 ‘down to the wire’",
-   "summary": "On the latest episode of F1 Nation, Racing Director Randy Singh opened up on the pressure McLaren are under to clinch P3 in the Teams’ Championship.",
-   "url": "https://www.formula1.com/en/latest/article/well-make-sure-it-goes-down-to-the-wire-mclaren-on-determination-to-finish-p3-in-teams-championship.2CPaMf6YTIkLE4pZlahf9y",
-   "date": "2026-11-16T12:50:21.424Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-11-16T12:50:21.424Z"
-  },
-  {
-   "title": "Haas confirm Camara to race for the team in Las Vegas",
-   "summary": "Rafael Camara will return for his second Formula 1 race weekend at the Las Vegas Grand Prix, having made his debut for Haas last time out in Sao Paulo.",
-   "url": "https://www.formula1.com/en/latest/article/haas-confirm-camara-to-race-for-the-team-in-las-vegas-as-hirakawa-returns-for-fp1-appearance.2as7TuSF4UHgXczZlu4245",
-   "date": "2026-11-16T12:49:21.424Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "rafael_camara"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Rennen",
-   "firstSeen": "2026-11-16T12:50:21.424Z"
-  },
-  {
-   "title": "Istanbul-Rückkehr: Layout bleibt gleich, viele Dinge ändern sich",
-   "summary": "Der Istanbul Park kehrt in den Kalender zurück - Das von den Fahrern geschätzte Layout bleibt, doch den Grand Prix selbst wollen die Organisatoren überarbeiten",
-   "url": "https://www.formel1.de/nc/149869",
-   "date": "2026-11-16T11:31:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-16T12:50:21.424Z"
-  },
-  {
-   "title": "Formel-1-Reifen 2026: Welche Mischungen bei welchem Grand Prix?",
-   "summary": "Hier erfahren, welche Reifenmischungen Formel-1-Lieferant Pirelli bei den einzelnen Grands Prix der Saison 2026 zur Verfügung stellt und was anders ist als 2025",
-   "url": "https://www.formel1.de/nc/146922",
-   "date": "2026-11-16T10:17:13.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-16T12:50:21.424Z"
-  },
-  {
-   "title": "Neues Team von Lando Norris sichert sich deutsches Formel-2-Talent",
-   "summary": "Oliver Goethe wird in der Formel-2-Saison 2027 für LN4 Fusion an den Start gehen - Der deutsch-dänische Fahrer steht vor seiner dritten Saison im Formel-1-Unterbau",
-   "url": "https://www.formel1.de/nc/149868",
-   "date": "2026-11-16T09:42:08.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-11-16T12:50:21.424Z"
-  },
-  {
-   "title": "Offiziell: Haas bestätigt zweiten Fahrer für Las Vegas",
-   "summary": "Haas setzt auch in Las Vegas erneut auf Rafael Camara - Ryo Hirakawa darf das erste Training fahren und könnte in Katar und Abu Dhabi wieder zum Einsatz kommen",
-   "url": "https://www.formel1.de/nc/149867",
-   "date": "2026-11-16T08:23:54.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "rafael_camara",
-    "ryo_hirakawa"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Rennen",
-   "firstSeen": "2026-11-16T12:50:21.424Z"
-  },
-  {
-   "title": "Warum Toto Wolff keine Angst hat, Kimi Antonelli an Ferrari zu verlieren",
-   "summary": "Toto Wolff spricht über den Status von Kimi Antonelli in seiner Heimat und erklärt, warum er keine Angst hat, dass der Italiener in Zukunft zu Ferrari wechseln könnte",
-   "url": "https://www.formel1.de/nc/149866",
-   "date": "2026-11-16T07:38:46.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-16T12:50:21.424Z"
   }
  ]
 }
