@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T22:27:25.655Z",
+ "updatedAt": "2026-11-18T13:08:58.974Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,281 @@
   }
  },
  "items": [
+  {
+   "title": "Why Russell won't run Mercedes' upgraded turbocharger in Vegas",
+   "summary": "World Champion Kimi Antonelli is set to run with Mercedes' upgraded turbocharger at this weekend's Las Vegas Grand Prix, but team mate George Russell will not.",
+   "url": "https://www.formula1.com/en/latest/article/why-russell-wont-run-mercedes-upgraded-turbocharger-in-las-vegas.2ZwhMHFGbRFb6pApmMiEgY",
+   "date": "2026-11-18T13:08:58.955Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "russell",
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-18T13:08:58.955Z"
+  },
+  {
+   "title": "How F1 drivers and strategists tackle the Las Vegas Grand Prix",
+   "summary": "In Formula 1, performance is decided in moments where conditions change instantly, and decisions carry consequence. The difference isn’t just speed – it’s perspective.",
+   "url": "https://www.formula1.com/en/latest/article/the-risk-perspective-how-f1-drivers-engineers-and-strategists-tackle-the-las-vegas-grand-prix.7yJLDDlVCuKALLnoYrpgrb",
+   "date": "2026-11-18T13:07:58.955Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-18T13:08:58.955Z"
+  },
+  {
+   "title": "Save the date: F1 Unlocked Season Finale Watch Party",
+   "summary": "",
+   "url": "https://www.formula1.com/en/latest/article/save-the-date-f1-unlocked-season-finale-watch-party.22ZXTQut4A8OosqH0ldCTM",
+   "date": "2026-11-18T13:06:58.955Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-18T13:08:58.955Z"
+  },
+  {
+   "title": "QUIZ: 10 tricky questions on Formula 1 night races",
+   "summary": "This weekend we return to Las Vegas – F1’s newest night race – so it’s the best time to test your knowledge on racing action under floodlights …",
+   "url": "https://www.formula1.com/en/latest/article/quiz-10-tricky-questions-on-formula-1-night-races.w2XDE4bcho7ho79HRKfFa",
+   "date": "2026-11-18T13:05:58.955Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-18T13:08:58.955Z"
+  },
+  {
+   "title": "Piastri set for grid penalty at Las Vegas Grand Prix",
+   "summary": "Oscar Piastri is set to take a penalty for the Las Vegas Grand Prix with McLaren confirming the Australian will have a new Internal Combustion Engine.",
+   "url": "https://www.formula1.com/en/latest/article/piastri-set-for-10-place-grid-penalty-at-las-vegas-grand-prix.5eT1wWFQzCfOS6W2tvTtLk",
+   "date": "2026-11-18T13:04:58.955Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "piastri"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Regeln",
+   "firstSeen": "2026-11-18T13:08:58.955Z"
+  },
+  {
+   "title": "How to stream the 2026 Las Vegas Grand Prix on F1 TV Premium",
+   "summary": "Here is all the information you need to follow the Las Vegas Grand Prix weekend live on F1 TV.",
+   "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-las-vegas-grand-prix-on-f1-tv-premium.5YZztaEts0uPxfdx2UwaQE",
+   "date": "2026-11-18T13:03:58.955Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-18T13:08:58.955Z"
+  },
+  {
+   "title": "What is the weather forecast for the Las Vegas Grand Prix?",
+   "summary": "The weather forecast is in ahead of the Las Vegas Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2026-las-vegas-grand-prix.1ki78WcweOZ8vq2zQ1HOJX",
+   "date": "2026-11-18T13:02:58.955Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-18T13:08:58.955Z"
+  },
+  {
+   "title": "What tyres will the teams have for the Las Vegas Grand Prix?",
+   "summary": "Pirelli have confirmed the tyre compounds that will be in use for the Las Vegas Grand Prix weekend.",
+   "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-las-vegas-grand-prix.1HEaoIW48MVZs9cAT7rP2w",
+   "date": "2026-11-18T13:01:58.955Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-18T13:08:58.955Z"
+  },
+  {
+   "title": "QUIZ: How well do you know F1's races in the Americas?",
+   "summary": "",
+   "url": "https://www.formula1.com/en/latest/article/trivia-the-facts.5avgFqteXDYBLcsPPYOJcj",
+   "date": "2026-11-18T13:00:58.955Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-18T13:08:58.955Z"
+  },
+  {
+   "title": "Horner: Wie das Verstappen-Management die Red-Bull-Entwicklung 2022 veränderte",
+   "summary": "Der frühere Teamchef Christian Horner hat verraten, wie das Management von Max Verstappen 2022 die Entwicklung bei Red Bull beeinflusste - zulasten von Sergio Perez",
+   "url": "https://www.formel1.de/nc/149896",
+   "date": "2026-11-18T12:03:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "perez"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-18T13:08:58.955Z"
+  },
+  {
+   "title": "Esteban Ocon lässt sich Las-Vegas-Helm lackieren - und kann ihn gar nicht nutzen",
+   "summary": "Esteban Ocon hatte sich für den Grossen Preis von Las Vegas ein Sonderdesign für seinen Helm anfertigen lassen - Nach dem Haas-Aus kommt dieser nicht zum Einsatz",
+   "url": "https://www.formel1.de/nc/149895",
+   "date": "2026-11-18T11:06:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "ocon"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "News",
+   "firstSeen": "2026-11-18T13:08:58.955Z"
+  },
+  {
+   "title": "\"Ziegenpfad\" und unbezahlte Wette: Die kuriosesten Las-Vegas-Geschichten",
+   "summary": "Lange vor dem \"Strip\" fuhr die Formel 1 auf dem Parkplatz des \"Caesars Palace\": Die Rennen 1981 und 1982 lieferten Geschichten, die man kaum erfinden könnte",
+   "url": "https://www.formel1.de/nc/149894",
+   "date": "2026-11-18T10:19:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-18T13:08:58.955Z"
+  },
+  {
+   "title": "Horner kritisiert Red-Bull-System: Aufstiege wurden zu früh forciert",
+   "summary": "Fahrer wie Pierre Gasly und Liam Lawson wurden nach Ansicht von Christian Horner zu früh zu Red Bull geholt: Er selbst sei mit dem Tempo nicht einverstanden gewesen",
+   "url": "https://www.formel1.de/nc/149893",
+   "date": "2026-11-18T09:28:30.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "gasly",
+    "lawson"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "alpine",
+   "category": "News",
+   "firstSeen": "2026-11-18T13:08:58.955Z"
+  },
+  {
+   "title": "\"Echte Offenbarung\": Teamchef erklärt Entscheidung für Liam Lawson",
+   "summary": "Liam Lawson erhält für 2027 den Vorzug vor Nikola Tsolov: Racing-Bulls-Teamchef Alan Permane erklärt die Hintergründe und betont, dass es seine Entscheidung war",
+   "url": "https://www.formel1.de/nc/149892",
+   "date": "2026-11-18T08:21:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "lawson"
+   ],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "News",
+   "firstSeen": "2026-11-18T13:08:58.955Z"
+  },
+  {
+   "title": "Dank Sonderregel: Emma Felbermayr bekommt dritte Academy-Saison mit Audi",
+   "summary": "Emma Felbermayr wird auch 2027 mit Unterstützung von Audi in der F1 Academy antreten: Dabei profitiert die Österreicherin von einer Sonderregelung",
+   "url": "https://www.formel1.de/nc/149891",
+   "date": "2026-11-18T07:15:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-11-18T13:08:58.955Z"
+  },
+  {
+   "title": "Neuer Mercedes-Turbo für Las Vegas: Warum nur Antonelli das Upgrade bekommt",
+   "summary": "Mercedes bringt einen neuen Turbo zum Grand Prix von Las Vegas, doch nur Kimi Antonelli soll ihn einsetzen: Warum George Russell verzichten muss",
+   "url": "https://www.formel1.de/nc/149890",
+   "date": "2026-11-18T06:34:49.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli",
+    "russell"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Technik",
+   "firstSeen": "2026-11-18T13:08:58.955Z"
+  },
+  {
+   "title": "Ecclestone: Max Verstappen ist \"viel, viel besser\" als alle anderen",
+   "summary": "Auch wenn es mit Kimi Antonelli in diesem Jahr einen neuen Weltmeister gibt, ist Max Verstappen für Bernie Ecclestone weiter der mit Abstand beste Fahrer im Feld",
+   "url": "https://www.formel1.de/nc/149889",
+   "date": "2026-11-18T05:27:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-18T13:08:58.955Z"
+  },
   {
    "title": "Cadillac reveal special livery for Las Vegas Grand Prix",
    "summary": "Cadillac have become the latest team to showcase a bespoke livery that will feature on their car for the Las Vegas Grand Prix.",
@@ -120,7 +395,7 @@
    "firstSeen": "2026-11-17T22:27:25.638Z"
   },
   {
-   "title": "Ayrton Senna zerstörte eine Formel-1-Chance: Ein Manager packt aus",
+   "title": "50 Jahre Formel 1: Warum dieser Manager Red Bull und Mercedes kritisiert",
    "summary": "Ein blockierter Qualifyingversuch, ein Werbespot und ein neuer Leitsatz: F1-Manager Enrico Zanarini erinnert sich an einen folgenreichen Moment mit Ayrton Senna",
    "url": "https://www.formel1.de/nc/149888",
    "date": "2026-11-17T18:29:04.000Z",
@@ -128,8 +403,11 @@
    "sourceId": "formel1de",
    "lang": "de",
    "drivers": [],
-   "teams": [],
-   "team": null,
+   "teams": [
+    "mercedes",
+    "red_bull"
+   ],
+   "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-11-17T22:27:25.638Z"
   },
@@ -685,283 +963,6 @@
    "team": "ferrari",
    "category": "News",
    "firstSeen": "2026-11-16T12:50:21.424Z"
-  },
-  {
-   "title": "Warum Michael Schumacher \"deutlich besser\" als Lewis Hamilton war",
-   "summary": "Ralf Schumacher stellt klar, sein Bruder Michael habe nicht nur \"Wasserträger\" als Teamkollegen gehabt - Wo dieser \"deutlich besser\" als Lewis Hamilton war",
-   "url": "https://www.formel1.de/nc/149865",
-   "date": "2026-11-16T05:34:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-16T12:50:21.424Z"
-  },
-  {
-   "title": "QUIZ: Can you identify these F1 tracks from just one picture?",
-   "summary": "",
-   "url": "https://www.formula1.com/en/latest/article/trivia-guess-the-track-1.1N6Z8MTxyBFjqio8h5hOSW",
-   "date": "2026-11-15T18:54:56.519Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-15T18:54:56.519Z"
-  },
-  {
-   "title": "Behind the lens with Mark Sutton for Antonelli's F1 title triumph",
-   "summary": "F1 photographer Mark Sutton reflects on capturing Kimi Antonelli's 2026 championship, from the emotional celebrations at Monza to his title triumph in Mexico.",
-   "url": "https://www.formula1.com/en/latest/article/one-of-the-best-experiences-of-my-life-mark-sutton-on-photographing-antonellis-f1-title.2oqpziZe3WQ5B2xFvPWsnU",
-   "date": "2026-11-15T18:53:56.519Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-15T18:54:56.519Z"
-  },
-  {
-   "title": "Mercedes-Technikchef klärt auf: Darum war Antonelli 2026 schneller als Russell",
-   "summary": "Mercedes-Technikchef James Allison verrät das technische Geheimnis hinter Antonellis WM-Triumph und erklärt, warum er George Russells Reaktion bewundert",
-   "url": "https://www.formel1.de/nc/149864",
-   "date": "2026-11-15T18:00:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Technik",
-   "firstSeen": "2026-11-15T18:54:56.519Z"
-  },
-  {
-   "title": "David Coulthard: McLaren bevorzugte Mika - und ich verstehe das!",
-   "summary": "\"Er mochte dich lieber als mich\": David Coulthard spricht über das Verhältnis von Ron Dennis zu Mika Häkkinen und eine Erklärung, die seine Sicht veränderte",
-   "url": "https://www.formel1.de/nc/149863",
-   "date": "2026-11-15T16:25:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-11-15T18:54:56.519Z"
-  },
-  {
-   "title": "James Vowles: Warum der Williams-Rückschlag 2026 sogar positiv ist",
-   "summary": "Teamchef James Vowles spricht über die Probleme der Saison 2026 und erklärt, warum diese Rückschläge für Williams in gewisser Weise sogar positiv waren",
-   "url": "https://www.formel1.de/nc/149862",
-   "date": "2026-11-15T13:11:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "williams"
-   ],
-   "team": "williams",
-   "category": "News",
-   "firstSeen": "2026-11-15T18:54:56.519Z"
-  },
-  {
-   "title": "TREMAYNE: It’s 10 years since Ron Dennis left F1 – I miss him",
-   "summary": "F1 Hall of Fame journalist David Tremayne remembers one of the titans of the paddock, a decade after he walked away from the sport in which he'd been so successful.",
-   "url": "https://www.formula1.com/en/latest/article/its-10-years-since-ron-dennis-left-f1-i-miss-him.1HKS8KLe46myFMW6qOzsdY",
-   "date": "2026-11-15T11:59:12.274Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-15T11:59:12.274Z"
-  },
-  {
-   "title": "Daniel Ricciardo: Warum er Red Bull heute für sein Formel-1-Aus dankbar ist",
-   "summary": "Schon Jahre vor seinem Formel-1-Aus wollte Daniel Ricciardo aufhören: Jetzt spricht er über seine damaligen Zweifel und die Folgen seines Karriereendes",
-   "url": "https://www.formel1.de/nc/149861",
-   "date": "2026-11-15T10:47:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-15T11:59:12.274Z"
-  },
-  {
-   "title": "Las-Vegas-GP am Samstag: Der simple Grund überrascht",
-   "summary": "Erklärt: Weshalb die Formel 1 beim Grand Prix von Las Vegas 2026 ihr Rennen bereits am Samstag austrägt und ob es zuvor schon Samstagsrennen gegeben hat",
-   "url": "https://www.formel1.de/nc/136936",
-   "date": "2026-11-15T08:37:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-15T11:59:12.274Z"
-  },
-  {
-   "title": "Abschied bei Red Bull: Max Verstappen verschenkt Senna-Helm in Sao Paulo",
-   "summary": "Nach über 20 Jahren bei Red Bull verabschiedet sich Mechaniker Ole Schack aus der Formel 1: Max Verstappen macht dem Dänen ein besonderes Abschiedsgeschenk",
-   "url": "https://www.formel1.de/nc/149860",
-   "date": "2026-11-15T06:06:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-15T11:59:12.274Z"
-  },
-  {
-   "title": "Button explains what will ‘keep Alonso going’ at Aston Martin",
-   "summary": "2009 F1 World Champion, and Aston Martin Ambassador, Jenson Button details what Fernando Alonso's re-signing means for the team.",
-   "url": "https://www.formula1.com/en/latest/article/exclusive-button-explains-what-will-keep-alonso-going-as-spaniard-prepares-for-another-year-with-aston-martin.7bxjUs5DZSH18UP0SEqFWD",
-   "date": "2026-11-14T18:11:37.177Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "alonso"
-   ],
-   "teams": [
-    "aston_martin"
-   ],
-   "team": "aston_martin",
-   "category": "News",
-   "firstSeen": "2026-11-14T18:11:37.177Z"
-  },
-  {
-   "title": "Piastri-Trennung von Webber: Günther Steiner sieht einen möglichen Grund",
-   "summary": "Oscar Piastri und Mark Webber gehen getrennte Wege: Günther Steiner vermutet hinter der Trennung mehr als nur den Wunsch nach Eigenständigkeit",
-   "url": "https://www.formel1.de/nc/149859",
-   "date": "2026-11-14T18:00:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "piastri"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-11-14T18:11:37.177Z"
-  },
-  {
-   "title": "\"Mit Kimi fühlt man sich wohl\": Der Kimi Antonelli, den man nicht kennt",
-   "summary": "Fünf Teammitglieder aus der Mercedes-Box geben Einblick in eine Seite von Formel-1-Weltmeister Kimi Antonelli, die die Öffentlichkeit selten zu sehen bekommt",
-   "url": "https://www.formel1.de/nc/149858",
-   "date": "2026-11-14T16:05:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-14T18:11:37.177Z"
-  },
-  {
-   "title": "Eisrennen: Formel-1-Auto gegen MotoGP-Bike, Rallyeauto und Schneemobil",
-   "summary": "Red Bull veranstaltet ein verrücktes Rennen: Fünf Fahrzeuge fahren mit speziellen Spikereifen und auf getrennten Ideallinien über einen vereisten Kurs",
-   "url": "https://www.formel1.de/nc/149857",
-   "date": "2026-11-14T14:30:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-14T18:11:37.177Z"
-  },
-  {
-   "title": "Rosberg enthüllt: Wie Toto Wolff ihn im WM-Kampf gegen Hamilton schockte",
-   "summary": "Die Rivalität zwischen Hamilton und Rosberg spaltete Mercedes bis in die Garage - Toto Wolff griff radikal durch und überraschte damit sogar seine eigenen Fahrer",
-   "url": "https://www.formel1.de/nc/149856",
-   "date": "2026-11-14T13:46:15.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-14T18:11:37.177Z"
-  },
-  {
-   "title": "Kimi Antonelli auf Italien-Tour: Vom Fussballstadion in die Präsidentenkanzlei",
-   "summary": "Kimi Antonelli wird von Italiens Staatspräsident Sergio Mattarella empfangen, dabei stellt der Formel-1-Weltmeister eine Frage mit überraschender Reaktion",
-   "url": "https://www.formel1.de/nc/149855",
-   "date": "2026-11-14T11:52:21.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-14T18:11:37.177Z"
-  },
-  {
-   "title": "Our writers on Antonelli’s title success and what it means",
-   "summary": "After Kimi Antonelli was crowned the 2026 Formula 1 Drivers' World Champion, we asked our writers to give us their take on his achievement.",
-   "url": "https://www.formula1.com/en/latest/article/our-writers-on-antonellis-title-success-and-what-it-means.2FAfHA49byUlrrTfVgWKWc",
-   "date": "2026-11-14T11:33:23.353Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-14T11:33:23.353Z"
   }
  ]
 }
