@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T22:01:36.669Z",
+ "updatedAt": "2026-11-19T03:35:11.950Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,106 @@
   }
  },
  "items": [
+  {
+   "title": "‘This is another level’ – Alonso on daunting Dakar challenge",
+   "summary": "Fernando Alonso will compete in the 2027 edition of the Dakar Rally for Aston Martin ahead of the start of the next F1 season.",
+   "url": "https://www.formula1.com/en/latest/article/this-is-another-level-alonso-opens-up-on-daunting-dakar-rally-challenge-as-he-prepares-for-return.6bm7UWyTcLVjB2T1gVLRPL",
+   "date": "2026-11-19T03:35:11.923Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [
+    "aston_martin"
+   ],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-11-19T03:35:11.923Z"
+  },
+  {
+   "title": "'We can get rid of the noise' – Bottas after future confirmed",
+   "summary": "Valtteri Bottas admits that being confirmed for the 2027 season with Cadillac ahead of the Las Vegas Grand Prix \"gives me a peace\", after weeks of speculation he would not be retained.",
+   "url": "https://www.formula1.com/en/latest/article/we-can-get-rid-of-the-noise-bottas-relieved-to-have-cadillac-future-confirmed-for-2027.5LE0fIkWvK7hk8syPThmkE",
+   "date": "2026-11-19T03:34:11.923Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "bottas"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "Rennen",
+   "firstSeen": "2026-11-19T03:35:11.923Z"
+  },
+  {
+   "title": "Bearman frustrated by delay in confirming Haas future",
+   "summary": "Ollie Bearman is yet to have his future at Haas officially confirmed for 2027, a situation that the Briton says has been \"a bit disappointing\".",
+   "url": "https://www.formula1.com/en/latest/article/theres-no-excuses-for-that-bearman-frustrated-by-delay-in-confirming-haas-future.3B6g2yqgJgf3g8UNtsYU5L",
+   "date": "2026-11-19T03:33:11.923Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "bearman"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "News",
+   "firstSeen": "2026-11-19T03:35:11.923Z"
+  },
+  {
+   "title": "LIVE COVERAGE: Build-up ahead of the Las Vegas GP",
+   "summary": "Live coverage of all the build-up ahead of the 2026 Las Vegas Grand Prix weekend.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-wednesday-build-up-in-las-vegas-2026.MqDte4ggZDt3kjYNJ0CvS",
+   "date": "2026-11-19T03:32:11.923Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-19T03:35:11.923Z"
+  },
+  {
+   "title": "\"Keine Entschuldigung\": Bearman frustriert über fehlenden F1-Vertrag 2027",
+   "summary": "Drei Rennen vor Saisonende hat Oliver Bearman noch immer keine Gewissheit über seine Zukunft - Ein Zustand, der dem Haas-Piloten zunehmend aufs Gemüt schlägt",
+   "url": "https://www.formel1.de/nc/149904",
+   "date": "2026-11-19T03:19:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bearman"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Transfer",
+   "firstSeen": "2026-11-19T03:35:11.923Z"
+  },
+  {
+   "title": "F1-Motoren 2030: Was hinter der verfrühten V8-Ankündigung steckt",
+   "summary": "Schnell wieder gelöschte Social-Media-Beiträge deuteten an, dass eine Einigung erzielt worden ist - Doch ganz so weit ist man noch nicht",
+   "url": "https://www.formel1.de/nc/149903",
+   "date": "2026-11-19T02:04:14.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-19T03:35:11.923Z"
+  },
   {
    "title": "Cadillac confirm Bottas will remain with the team in 2027",
    "summary": "Cadillac have completed their 2027 driver line-up, with Valtteri Bottas set to continue racing alongside Sergio Perez.",
@@ -866,96 +966,6 @@
    "teams": [],
    "team": null,
    "category": "News",
-   "firstSeen": "2026-11-16T23:25:24.419Z"
-  },
-  {
-   "title": "Williams unveil special livery for Las Vegas Grand Prix",
-   "summary": "The Williams FW48 will sport a unique livery across the Las Vegas Grand Prix weekend.",
-   "url": "https://www.formula1.com/en/latest/article/williams-unveil-special-one-off-livery-for-las-vegas-grand-prix.01klQqq0PYu7wjugCtr98K",
-   "date": "2026-11-16T23:24:24.419Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "williams"
-   ],
-   "team": "williams",
-   "category": "Rennen",
-   "firstSeen": "2026-11-16T23:25:24.419Z"
-  },
-  {
-   "title": "What time is the 2026 Las Vegas GP and how can I watch it?",
-   "summary": "Here are all the timings – along with all the additional information you need – for the 21st Grand Prix weekend of the 2026 season from Las Vegas.",
-   "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-las-vegas-grand-prix-and-how-can-i-watch-it.5klYngWOQMjROxZ3nEp5Pr",
-   "date": "2026-11-16T23:23:24.419Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-16T23:25:24.419Z"
-  },
-  {
-   "title": "Las Vegas Grand Prix betting guide and latest odds",
-   "summary": "Our experts bring you all the important betting information you need before making your predictions for Vegas.",
-   "url": "https://www.formula1.com/en/latest/article/las-vegas-grand-prix-race-betting-guide-and-what-the-markets-expect-to-happen.5sEja0aYqYkyfdSZ9sTibF",
-   "date": "2026-11-16T23:22:24.419Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-16T23:25:24.419Z"
-  },
-  {
-   "title": "5 storylines we're excited about ahead of the Las Vegas GP",
-   "summary": "Chris Medland runs through the biggest talking points as F1 heads to Las Vegas for Round 21 of the 2026 season.",
-   "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-las-vegas-grand-prix.3fjavheTbHD8fjZI0i7BWd",
-   "date": "2026-11-16T23:21:24.419Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-16T23:25:24.419Z"
-  },
-  {
-   "title": "Kimi Antonelli nennt seinen grössten Gegner für die Titelverteidigung 2027",
-   "summary": "Der neue Formel-1-Weltmeister Kimi Antonelli sagt, dass die letzten Rennen dieser Saison ihm bei der Vorbereitung auf seine Titelverteidigung 2027 helfen werden",
-   "url": "https://www.formel1.de/nc/149875",
-   "date": "2026-11-16T18:45:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-16T23:25:24.419Z"
-  },
-  {
-   "title": "Die Botschaft an die Mercedes-Neuzugänge während der Titelflaute",
-   "summary": "Mercedes-Technikchef James Allison sagte hunderten neuen Mitarbeitern, dass sie irgendwann gewinnen und auch die Meisterschaft gewinnen würden",
-   "url": "https://www.formel1.de/nc/149874",
-   "date": "2026-11-16T17:28:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Technik",
    "firstSeen": "2026-11-16T23:25:24.419Z"
   }
  ]
