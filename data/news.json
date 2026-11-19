@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T13:20:06.277Z",
+ "updatedAt": "2026-11-19T22:12:17.095Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,186 @@
   }
  },
  "items": [
+  {
+   "title": "FIA to introduce full-time stewards in F1 from 2027",
+   "summary": "A new department of full-time stewards will be gradually introduced from the 2027 season.",
+   "url": "https://www.formula1.com/en/latest/article/fia-to-introduce-full-time-stewards-in-f1-from-2027.tbSC1HZmNj46TbAjzEPGj",
+   "date": "2026-11-19T22:12:17.076Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-11-19T22:12:17.076Z"
+  },
+  {
+   "title": "All the stories that got the Las Vegas paddock talking",
+   "summary": "Lawrence Barretto delves into the key talking points from Wednesday at the Las Vegas Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-las-vegas-paddock-talking.4DclxlWGaLDwKgzLpfAvuz",
+   "date": "2026-11-19T22:11:17.076Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-19T22:12:17.076Z"
+  },
+  {
+   "title": "Why Cadillac have stuck with Bottas for 2027",
+   "summary": "Cadillac believe experience in the cockpit is key as they look to level up in their second season in Formula 1 in 2027, which is why they have opted to keep Valtteri Bottas alongside Sergio Perez next season.",
+   "url": "https://www.formula1.com/en/latest/article/analysis-why-cadillac-have-stuck-with-bottas-for-2027.7vPHYNkm1aup0szRFaVYyd",
+   "date": "2026-11-19T22:10:17.076Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "bottas",
+    "perez"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "Transfer",
+   "firstSeen": "2026-11-19T22:12:17.076Z"
+  },
+  {
+   "title": "Nach jahrelanger Kritik: Permanente Rennkommissare kommen ab 2027",
+   "summary": "Immer wieder sorgen Entscheidungen der Formel-1-Rennkommissare für Diskussionen - Jetzt reagiert die FIA und stellt das bisherige System ab 2027 um",
+   "url": "https://www.formel1.de/nc/149928",
+   "date": "2026-11-19T21:24:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-11-19T22:12:17.076Z"
+  },
+  {
+   "title": "Sergio Perez: Wer nur glücklich ist, hier zu sein, sollte einfach gehen!",
+   "summary": "Sergio Perez hat bei einigen Mitarbeitern von Cadillac fehlenden Eifer erkannt: Doch wer sich nur freut, überhaupt dabei sein zu können, hat keinen Platz im Team",
+   "url": "https://www.formel1.de/nc/149927",
+   "date": "2026-11-19T20:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "perez"
+   ],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "News",
+   "firstSeen": "2026-11-19T22:12:17.076Z"
+  },
+  {
+   "title": "Colapinto sieht Social-Media-Pause positiv: \"Es fühlt sich angenehmer an\"",
+   "summary": "Franco Colapinto bereut seinen Rückzug aus den sozialen Medien nicht, schliesst aber nicht aus, irgendwann wieder dabei zu sein: Abstinenz wirkt sich positiv aus",
+   "url": "https://www.formel1.de/nc/149926",
+   "date": "2026-11-19T19:00:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "colapinto"
+   ],
+   "teams": [],
+   "team": "alpine",
+   "category": "News",
+   "firstSeen": "2026-11-19T22:12:17.076Z"
+  },
+  {
+   "title": "Schonungsloses Urteil: Der Formel-1-Williams \"mag keine Kurven\"",
+   "summary": "Carlos Sainz sieht Williams 2026 praktisch chancenlos: Warum er nur noch als Testfahrer unterwegs ist und welche Probleme das Team ausbremsen",
+   "url": "https://www.formel1.de/nc/149925",
+   "date": "2026-11-19T18:13:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "sainz"
+   ],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "Regeln",
+   "firstSeen": "2026-11-19T22:12:17.076Z"
+  },
+  {
+   "title": "Leclerc kritisiert Brasilien-Strafe nach Lawson-Kontakt als \"etwas hart\"",
+   "summary": "Die nachträgliche 5-Sekunden-Strafe für die Berührung mit Liam Lawson in Sao Paulo stösst bei Charles Leclerc auf Unverständnis - Ferrari-Pilot sieht normales Racing",
+   "url": "https://www.formel1.de/nc/149924",
+   "date": "2026-11-19T17:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc",
+    "lawson"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Regeln",
+   "firstSeen": "2026-11-19T22:12:17.076Z"
+  },
+  {
+   "title": "Leclerc verrät: Habe den Fitness-Tracker schon im Auto getragen",
+   "summary": "Die Formel 1 möchte Fans in Zukunft Live-Gesundheitsdaten von den Fahrern bieten: Charles Leclerc hat kein Problem damit und den Tracker auch schon getragen",
+   "url": "https://www.formel1.de/nc/149923",
+   "date": "2026-11-19T16:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc"
+   ],
+   "teams": [],
+   "team": "ferrari",
+   "category": "News",
+   "firstSeen": "2026-11-19T22:12:17.076Z"
+  },
+  {
+   "title": "Lando Norris: Wer unter den aktuellen F1-Fahrern der beste James Bond wäre",
+   "summary": "Wer wäre der beste James Bond aus der Formel 1? Lando Norris nennt zwei Kandidaten und erklärt, weshalb er selbst lieber eine andere Rolle spielen würde",
+   "url": "https://www.formel1.de/nc/149922",
+   "date": "2026-11-19T15:25:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-11-19T22:12:17.076Z"
+  },
+  {
+   "title": "Toto Wolff betont: Sicherheit der Mitarbeiter ein Schlüssel für Erfolg",
+   "summary": "Tot Wolff betont, dass bei Mercedes keine Hire-and-Fire-Mentalität herrscht und dass Mitarbeiter im Unternehmen keine Angst vor Fehlern haben müssen",
+   "url": "https://www.formel1.de/nc/149921",
+   "date": "2026-11-19T14:12:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-19T22:12:17.076Z"
+  },
   {
    "title": "The F1 Fantasy Strategist on Las Vegas and Qatar",
    "summary": "The cold, walled straights of the Las Vegas Strip and the fast, flowing corners of Lusail ask opposite questions on consecutive weekends. So, who deserves a place in your line-up?",
@@ -799,185 +979,6 @@
    ],
    "team": "mclaren",
    "category": "Regeln",
-   "firstSeen": "2026-11-18T13:08:58.955Z"
-  },
-  {
-   "title": "How to stream the 2026 Las Vegas Grand Prix on F1 TV Premium",
-   "summary": "Here is all the information you need to follow the Las Vegas Grand Prix weekend live on F1 TV.",
-   "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-las-vegas-grand-prix-on-f1-tv-premium.5YZztaEts0uPxfdx2UwaQE",
-   "date": "2026-11-18T13:03:58.955Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-18T13:08:58.955Z"
-  },
-  {
-   "title": "What is the weather forecast for the Las Vegas Grand Prix?",
-   "summary": "The weather forecast is in ahead of the Las Vegas Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2026-las-vegas-grand-prix.1ki78WcweOZ8vq2zQ1HOJX",
-   "date": "2026-11-18T13:02:58.955Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-18T13:08:58.955Z"
-  },
-  {
-   "title": "What tyres will the teams have for the Las Vegas Grand Prix?",
-   "summary": "Pirelli have confirmed the tyre compounds that will be in use for the Las Vegas Grand Prix weekend.",
-   "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-las-vegas-grand-prix.1HEaoIW48MVZs9cAT7rP2w",
-   "date": "2026-11-18T13:01:58.955Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-18T13:08:58.955Z"
-  },
-  {
-   "title": "QUIZ: How well do you know F1's races in the Americas?",
-   "summary": "",
-   "url": "https://www.formula1.com/en/latest/article/trivia-the-facts.5avgFqteXDYBLcsPPYOJcj",
-   "date": "2026-11-18T13:00:58.955Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-18T13:08:58.955Z"
-  },
-  {
-   "title": "Horner: Wie das Verstappen-Management die Red-Bull-Entwicklung 2022 veränderte",
-   "summary": "Der frühere Teamchef Christian Horner hat verraten, wie das Management von Max Verstappen 2022 die Entwicklung bei Red Bull beeinflusste - zulasten von Sergio Perez",
-   "url": "https://www.formel1.de/nc/149896",
-   "date": "2026-11-18T12:03:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "perez"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-18T13:08:58.955Z"
-  },
-  {
-   "title": "Esteban Ocon lässt sich Las-Vegas-Helm lackieren - und kann ihn gar nicht nutzen",
-   "summary": "Esteban Ocon hatte sich für den Grossen Preis von Las Vegas ein Sonderdesign für seinen Helm anfertigen lassen - Nach dem Haas-Aus kommt dieser nicht zum Einsatz",
-   "url": "https://www.formel1.de/nc/149895",
-   "date": "2026-11-18T11:06:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "ocon"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "News",
-   "firstSeen": "2026-11-18T13:08:58.955Z"
-  },
-  {
-   "title": "\"Ziegenpfad\" und unbezahlte Wette: Die kuriosesten Las-Vegas-Geschichten",
-   "summary": "Lange vor dem \"Strip\" fuhr die Formel 1 auf dem Parkplatz des \"Caesars Palace\": Die Rennen 1981 und 1982 lieferten Geschichten, die man kaum erfinden könnte",
-   "url": "https://www.formel1.de/nc/149894",
-   "date": "2026-11-18T10:19:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-18T13:08:58.955Z"
-  },
-  {
-   "title": "Horner kritisiert Red-Bull-System: Aufstiege wurden zu früh forciert",
-   "summary": "Fahrer wie Pierre Gasly und Liam Lawson wurden nach Ansicht von Christian Horner zu früh zu Red Bull geholt: Er selbst sei mit dem Tempo nicht einverstanden gewesen",
-   "url": "https://www.formel1.de/nc/149893",
-   "date": "2026-11-18T09:28:30.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "gasly",
-    "lawson"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "alpine",
-   "category": "News",
-   "firstSeen": "2026-11-18T13:08:58.955Z"
-  },
-  {
-   "title": "\"Echte Offenbarung\": Teamchef erklärt Entscheidung für Liam Lawson",
-   "summary": "Liam Lawson erhält für 2027 den Vorzug vor Nikola Tsolov: Racing-Bulls-Teamchef Alan Permane erklärt die Hintergründe und betont, dass es seine Entscheidung war",
-   "url": "https://www.formel1.de/nc/149892",
-   "date": "2026-11-18T08:21:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "lawson"
-   ],
-   "teams": [
-    "rb"
-   ],
-   "team": "rb",
-   "category": "News",
-   "firstSeen": "2026-11-18T13:08:58.955Z"
-  },
-  {
-   "title": "Dank Sonderregel: Emma Felbermayr bekommt dritte Academy-Saison mit Audi",
-   "summary": "Emma Felbermayr wird auch 2027 mit Unterstützung von Audi in der F1 Academy antreten: Dabei profitiert die Österreicherin von einer Sonderregelung",
-   "url": "https://www.formel1.de/nc/149891",
-   "date": "2026-11-18T07:15:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "News",
-   "firstSeen": "2026-11-18T13:08:58.955Z"
-  },
-  {
-   "title": "Neuer Mercedes-Turbo für Las Vegas: Warum nur Antonelli das Upgrade bekommt",
-   "summary": "Mercedes bringt einen neuen Turbo zum Grand Prix von Las Vegas, doch nur Kimi Antonelli soll ihn einsetzen: Warum George Russell verzichten muss",
-   "url": "https://www.formel1.de/nc/149890",
-   "date": "2026-11-18T06:34:49.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli",
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Technik",
    "firstSeen": "2026-11-18T13:08:58.955Z"
   }
  ]
