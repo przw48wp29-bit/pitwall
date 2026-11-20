@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T13:00:08.426Z",
+ "updatedAt": "2026-11-20T21:50:52.981Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,168 @@
   }
  },
  "items": [
+  {
+   "title": "FIA confirms unanimous agreement on 2030 PU framework",
+   "summary": "Key parties including the FIA and F1 teams have committed to the 2030 power unit technical framework.",
+   "url": "https://www.formula1.com/en/latest/article/fia-confirms-unanimous-agreement-on-framework-for-2030-power-units.AZ7EFvWPyGPH0xG1JS8Ud",
+   "date": "2026-11-20T21:50:52.958Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-11-20T21:50:52.958Z"
+  },
+  {
+   "title": "Best Qualifying bets before the Las Vegas GP",
+   "summary": "Our expert betting writers share their top picks for Qualifying at the Las Vegas Strip Circuit.",
+   "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-before-the-las-vegas-grand-prix.4Qbussswr7sBnmo1wEl7QR",
+   "date": "2026-11-20T21:49:52.958Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-20T21:50:52.958Z"
+  },
+  {
+   "title": "Thursday rain in Las Vegas leave teams playing catch-up",
+   "summary": "F1.com considers who looks to be the favourites after the first day on track at the Las Vegas Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/thursday-rains-in-las-vegas-leave-teams-playing-catch-up.4nppHnXLw7lc6WTCZ53Cae",
+   "date": "2026-11-20T21:48:52.958Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-20T21:50:52.958Z"
+  },
+  {
+   "title": "Formel 1 plant Umrüstung auf V8-Turbomotoren schon für 2030",
+   "summary": "UPDATE: FIA lässt verlauten, dass Grundsatzvereinbarung darüber vorliegt, die Formel 1 bereits ab 2030 mit 2,1-Liter-Turbomotoren fahren zu lassen",
+   "url": "https://www.formel1.de/nc/149886",
+   "date": "2026-11-20T19:25:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-11-20T21:50:52.958Z"
+  },
+  {
+   "title": "Alonso-Rückkehr nach Dakar: Warum seine erste Rallye ein Schock war",
+   "summary": "Alonso hält sein Dakar-Projekt nach wie vor für \"nahezu unmöglich\", sieht seine Teilnahme 2027 aber als weiteren Schritt auf dem Weg zu einem seiner grossen Ziele",
+   "url": "https://www.formel1.de/nc/149954",
+   "date": "2026-11-20T19:11:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-11-20T21:50:52.958Z"
+  },
+  {
+   "title": "Nach Kritik: Neuer Bearman-Vertrag laut Haas nur noch Formsache",
+   "summary": "Haas-Teamchef Ayao Komatsu geht davon aus, den Vertrag mit Oliver Bearman zu verlängern: Der Brite wäre trotz seiner 21 Jahre ein guter Teamleader",
+   "url": "https://www.formel1.de/nc/149953",
+   "date": "2026-11-20T18:05:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bearman"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Transfer",
+   "firstSeen": "2026-11-20T21:50:52.958Z"
+  },
+  {
+   "title": "Formel 1 in Las Vegas: Vom Beinahe-Flop zum Milliarden-Geschäft",
+   "summary": "Mit holprigem Start und einem losen Kanaldeckel begann die Geschichte der Formel 1 in Las Vegas - Heute ist der Grand Prix ein Milliardengeschäft",
+   "url": "https://www.formel1.de/nc/149952",
+   "date": "2026-11-20T17:06:54.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-20T21:50:52.958Z"
+  },
+  {
+   "title": "Ehemalige FIA-Mitarbeiterin \"fassungslos\" über Journalisten-Sperre in der Formel 1",
+   "summary": "Die frühere FIA-Medienchefin kritisiert die Sperre eines Formel-1-Journalisten scharf und warnt vor einer gefährlichen Entwicklung im Umgang mit den Medien",
+   "url": "https://www.formel1.de/nc/149951",
+   "date": "2026-11-20T16:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-11-20T21:50:52.958Z"
+  },
+  {
+   "title": "Toto Wolff scheitert bei FIA: \"Junge Ingenieure besser bezahlen\"",
+   "summary": "Die Budgetobergrenze in der Formel 1 bremst die Bezahlung junger Ingenieure - Mercedes-Teamchef Toto Wolff scheitert mit einem Vorstoss bei der FIA",
+   "url": "https://www.formel1.de/nc/149950",
+   "date": "2026-11-20T15:02:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Regeln",
+   "firstSeen": "2026-11-20T21:50:52.958Z"
+  },
+  {
+   "title": "Maximal 27 Runden: Pirelli gibt wieder Stintlänge in Katar vor",
+   "summary": "Wie schon im vergangenen Jahr wird es in Katar eine maximale Stintlänge geben: Die Rundenzahl hat sich im Vergleich zu 2025 erhöht, bedingt aber erneut zwei Stopps",
+   "url": "https://www.formel1.de/nc/149949",
+   "date": "2026-11-20T13:20:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-20T21:50:52.958Z"
+  },
+  {
+   "title": "Ein neuer Treffpunkt am Hockenheimring: Das Motorworld Inn Restaurant eröffnet",
+   "summary": "Zwischen Hebebühnen und Rennsport-Ikonen: Am 21. November startet das neue Kult-Restaurant mit Steaks, Burgern und Rennstrecken-Flair",
+   "url": "https://www.formel1.de/nc/149948",
+   "date": "2026-11-20T13:19:34.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-20T21:50:52.958Z"
+  },
   {
    "title": "Winner of the F1® X Heineken® 2027 Season Ticket revealed",
    "summary": "",
@@ -209,7 +371,7 @@
    "firstSeen": "2026-11-20T13:00:08.413Z"
   },
   {
-   "title": "\"Aussergewöhnlich schnell\": George Russell staunt über McLaren-Pace",
+   "title": "Mercedes-Bestzeit ohne Wert: Russell staunt über McLaren-Pace",
    "summary": "Während George Russell vor allem von McLaren beeindruckt ist, musste das Papaya-Team auf den Einsatz eines neuen Unterbodens in Las Vegas verzichten",
    "url": "https://www.formel1.de/nc/149945",
    "date": "2026-11-20T10:12:04.000Z",
@@ -220,9 +382,10 @@
     "russell"
    ],
    "teams": [
+    "mercedes",
     "mclaren"
    ],
-   "team": "mclaren",
+   "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-11-20T13:00:08.413Z"
   },
@@ -275,7 +438,7 @@
    "firstSeen": "2026-11-20T13:00:08.413Z"
   },
   {
-   "title": "Zak Brown: Ich würde Lando Norris gegen niemanden eintauschen!",
+   "title": "Zak Brown würde Norris nie eintauschen, auch nicht gegen Max Verstappen!",
    "summary": "In Las Vegas erklärt Zak Brown, wieso er Lando Norris gegen keinen anderen Fahrer in der Formel 1 eintauschen würde - auch nicht Max Verstappen",
    "url": "https://www.formel1.de/nc/149941",
    "date": "2026-11-20T07:13:22.000Z",
@@ -806,186 +969,6 @@
    "teams": [],
    "team": null,
    "category": "Rennen",
-   "firstSeen": "2026-11-19T13:20:06.161Z"
-  },
-  {
-   "title": "Everything you need to know about the Las Vegas Strip Circuit",
-   "summary": "Get up to speed with all the key Las Vegas statistics, driving pointers, facts and more.",
-   "url": "https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-las-vegas-strip-circuit.1W9ULMy0aEkvfsJ9tRzItg",
-   "date": "2026-11-19T13:17:06.161Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-19T13:20:06.161Z"
-  },
-  {
-   "title": "Camara offers update on plans for final races of 2026",
-   "summary": "Rafael Camara reflects on his F1 debut in Brazil as he prepares for the Las Vegas Grand Prix, with his plans for Qatar and Abu Dhabi still undecided.",
-   "url": "https://www.formula1.com/en/latest/article/camara-looks-ahead-to-second-f1-outing-and-offers-update-on-plans-for-final-races.75aokJ7GXrP44nJ1p7NZbv",
-   "date": "2026-11-19T13:16:06.161Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "rafael_camara"
-   ],
-   "teams": [],
-   "team": "haas",
-   "category": "Technik",
-   "firstSeen": "2026-11-19T13:20:06.161Z"
-  },
-  {
-   "title": "Piastri opens up on decision to split with management team",
-   "summary": "Oscar Piastri has reflected on the decision to part ways with his management team, led by nine-time Grand Prix winner Mark Webber and his partner Ann Webber.",
-   "url": "https://www.formula1.com/en/latest/article/it-felt-like-the-time-was-right-for-something-new-piastri-opens-up-on-decision-to-split-with-management-team.4v3F2IJjTzAoRC9OIkyLgG",
-   "date": "2026-11-19T13:15:06.161Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "piastri"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-11-19T13:20:06.161Z"
-  },
-  {
-   "title": "'I want to fight for the victory' in Las Vegas – Russell",
-   "summary": "George Russell states he wants \"to fight for the victory and I think we can do it\" in this weekend's Las Vegas Grand Prix, having decided against taking a new turbo for his Mercedes.",
-   "url": "https://www.formula1.com/en/latest/article/i-want-to-fight-for-the-victory-russell-confident-in-his-las-vegas-chances-as-he-opens-up-on-call-not-to-take-new-turbo.7umaum2qrpemrxRVZhHfEN",
-   "date": "2026-11-19T13:14:06.161Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-19T13:20:06.161Z"
-  },
-  {
-   "title": "Verstappen explains his only goal for the rest of 2026",
-   "summary": "Ahead of the Las Vegas Grand Prix weekend, Max Verstappen has reflected on what his key aim is for the final races of the 2026 season.",
-   "url": "https://www.formula1.com/en/latest/article/verstappen-explains-his-only-goal-for-the-rest-of-2026-and-why-red-bull-can-be-very-proud.18FKT9igd9FRjKkBk7PD9q",
-   "date": "2026-11-19T13:13:06.161Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-19T13:20:06.161Z"
-  },
-  {
-   "title": "Hamilton identifies 'main focus' ahead of Las Vegas",
-   "summary": "Lewis Hamilton and Charles Leclerc discuss Ferrari's fight for P2 in the Constructors' Championship and the importance of the final three races ahead of 2027.",
-   "url": "https://www.formula1.com/en/latest/article/hamilton-identifies-main-focus-ahead-of-las-vegas-as-ferrari-eye-big-changes-for-2027.7nMnDgPqgxIf8GVZxywkzR",
-   "date": "2026-11-19T13:12:06.161Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-19T13:20:06.161Z"
-  },
-  {
-   "title": "Norris assesses McLaren's turnaround ahead of Las Vegas GP",
-   "summary": "Lando Norris believes that McLaren has finally reached a point \"where we can almost stop playing catch up\", after the team took victory at the most recent race in Brazil.",
-   "url": "https://www.formula1.com/en/latest/article/first-time-where-we-can-almost-stop-playing-catch-up-norris-assesses-mclarens-turnaround-ahead-of-las-vegas-gp.5AFaPtFnGnni7aXVlu3UiC",
-   "date": "2026-11-19T13:11:06.161Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Rennen",
-   "firstSeen": "2026-11-19T13:20:06.161Z"
-  },
-  {
-   "title": "F1-Fahrerlager im GTA-VI-Fieber: Nur zwei Fahrer lässt es kalt",
-   "summary": "Max Verstappen hat es schon runtergeladen, Pierre Gasly ärgert sich, seinen Gaming-PC zu Hause gelassen zu haben - Zwei Fahrer lehnen GTA VI aber ab",
-   "url": "https://www.formel1.de/nc/149920",
-   "date": "2026-11-19T13:00:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "gasly"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-19T13:20:06.161Z"
-  },
-  {
-   "title": "Kimi Antonelli bestätigt: Bremsen waren eines meiner Erfolgsgeheimnisse 2026",
-   "summary": "Kimi Antonelli hat auf dem Weg zu seinem Formel-1-Titel 2026 stark mit Set-up-Einstellungen gespielt: Vor allem die Bremse stand bei ihm im Fokus",
-   "url": "https://www.formel1.de/nc/149919",
-   "date": "2026-11-19T12:15:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-19T13:20:06.161Z"
-  },
-  {
-   "title": "George Russell: Der Saisonabschluss ist für mich die perfekte Chance!",
-   "summary": "Vor den letzten drei Saisonrennen der Formel-1-Saison 2026 zeigt sich George Russell optimistisch und möchte das Beste aus seiner Situation machen",
-   "url": "https://www.formel1.de/nc/149918",
-   "date": "2026-11-19T11:22:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-19T13:20:06.161Z"
-  },
-  {
-   "title": "Honda: Worauf jetzt der grosse Fokus des Herstellers liegt",
-   "summary": "Honda hat für den Grossen Preis von Las Vegas eine neue \"Gegenmassnahme\" eingeführt, kündigt aber für 2027 die Entwicklung einer neuen Batteriestruktur an",
-   "url": "https://www.formel1.de/nc/149917",
-   "date": "2026-11-19T10:39:06.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
    "firstSeen": "2026-11-19T13:20:06.161Z"
   }
  ]
