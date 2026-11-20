@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T22:12:17.095Z",
+ "updatedAt": "2026-11-20T03:25:24.397Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,164 @@
   }
  },
  "items": [
+  {
+   "title": "Wet conditions limit running in FP1 at Las Vegas Grand Prix",
+   "summary": "Rain at the Las Vegas Grand Prix led to a quiet first practice session on Thursday.",
+   "url": "https://www.formula1.com/en/latest/article/fp1-wet-conditions-limit-running-in-first-practice-at-las-vegas-grand-prix.7H085JgIW1k8jM3ysejVqJ",
+   "date": "2026-11-20T03:25:24.373Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-20T03:25:24.373Z"
+  },
+  {
+   "title": "Komatsu insists there is 'no doubt' over Bearman’s Haas seat",
+   "summary": "Ollie Bearman voiced his frustrations over the delay in confirming his Haas seat for next season.",
+   "url": "https://www.formula1.com/en/latest/article/komatsu-insists-there-is-no-doubt-over-bearmans-2027-haas-seat-after-britons-frustrations.1lCOdGv5mDv2FcqDshxnYB",
+   "date": "2026-11-20T03:24:24.373Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "bearman"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "Transfer",
+   "firstSeen": "2026-11-20T03:25:24.373Z"
+  },
+  {
+   "title": "AS IT HAPPENED: First practice for the Las Vegas GP",
+   "summary": "Live coverage of Thursday's first practice session for the 2026 Las Vegas Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-las-vegas-2026.6znaP19Dx0zBrPVStcB2BP",
+   "date": "2026-11-20T03:23:24.373Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-20T03:25:24.373Z"
+  },
+  {
+   "title": "Sainz handed grid penalty for Las Vegas Grand Prix",
+   "summary": "Williams driver Carlos Sainz will serve a grid penalty for this weekend's Las Vegas Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/sainz-handed-grid-penalty-for-las-vegas-grand-prix-after-turbo-change.hKQ2ZkbOHVlu58FKLxMca",
+   "date": "2026-11-20T03:22:24.373Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "sainz"
+   ],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "Regeln",
+   "firstSeen": "2026-11-20T03:25:24.373Z"
+  },
+  {
+   "title": "Formula 1 and Nike join forces in long-term partnership",
+   "summary": "Formula 1 welcomes Nike as an Official Partner from 2027 in a deal that will see the sports and lifestyle brand become F1’s Official Apparel and Uniform Supplier as part of a long-term partnership.",
+   "url": "https://www.formula1.com/en/latest/article/formula-1-and-nike-join-forces-to-shape-the-future-of-sport-and-culture.W36MoCI5DL9I0evuX1xtd",
+   "date": "2026-11-20T03:21:24.373Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-20T03:25:24.373Z"
+  },
+  {
+   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
+   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
+   "url": "https://www.formel1.de/nc/146408",
+   "date": "2026-11-20T03:07:28.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-11-16T12:50:21.424Z"
+  },
+  {
+   "title": "Alexander Wurz: Ein schneller Herta hätte Bottas den Platz gekostet",
+   "summary": "Alexander Wurz verteidigt Cadillacs Vertragsverlängerung mit Valtteri Bottas: Warum Colton Hertas Schwierigkeiten dem Finnen geholfen haben könnten",
+   "url": "https://www.formel1.de/nc/149933",
+   "date": "2026-11-20T03:06:14.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bottas"
+   ],
+   "teams": [],
+   "team": "cadillac",
+   "category": "Transfer",
+   "firstSeen": "2026-11-20T03:25:24.373Z"
+  },
+  {
+   "title": "Lando Norris über Formel-1-Rennen im Nahen Osten: \"Keine Bedenken\"",
+   "summary": "Lando Norris sieht trotz der Nahostkrise keinen Grund zur Sorge - Der McLaren-Pilot erklärt, warum er sogar schon vor dem nächsten Rennen nach Bahrain reist",
+   "url": "https://www.formel1.de/nc/149932",
+   "date": "2026-11-20T02:08:54.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Rennen",
+   "firstSeen": "2026-11-20T03:25:24.373Z"
+  },
+  {
+   "title": "Keine einzige Rundenzeit: Erstes Training in Las Vegas fällt ins Wasser",
+   "summary": "Das gibt es auch nur selten: Wegen Regens setzte im ersten Freien Training zum Grand Prix von Las Vegas kein einziger Fahrer eine Rundenzeit",
+   "url": "https://www.formel1.de/nc/149929",
+   "date": "2026-11-20T01:46:24.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-20T03:25:24.373Z"
+  },
+  {
+   "title": "Webber-Aus bei Oscar Piastri: Was hinter dem Neustart steckt",
+   "summary": "Nach sieben gemeinsamen Jahren endet die Zusammenarbeit zwischen Oscar Piastri und Mark Webber: Der McLaren-Pilot erklärt, wie es jetzt weitergeht",
+   "url": "https://www.formel1.de/nc/149930",
+   "date": "2026-11-20T01:34:59.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "piastri"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-11-20T03:25:24.373Z"
+  },
   {
    "title": "FIA to introduce full-time stewards in F1 from 2027",
    "summary": "A new department of full-time stewards will be gradually introduced from the 2027 season.",
@@ -827,159 +985,6 @@
    "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-11-18T22:01:36.560Z"
-  },
-  {
-   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
-   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
-   "url": "https://www.formel1.de/nc/146408",
-   "date": "2026-11-18T18:51:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Transfer",
-   "firstSeen": "2026-11-16T12:50:21.424Z"
-  },
-  {
-   "title": "Warum Monza seit 2026 nicht mehr zu den härtesten Bremsenstrecken zählt",
-   "summary": "Monza galt lange als eine der härtesten Formel-1-Strecken für die Bremsen, seit 2026 ist das anders: Was sich verändert hat und warum 2027 der nächste Wandel folgt",
-   "url": "https://www.formel1.de/nc/149900",
-   "date": "2026-11-18T17:36:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-18T22:01:36.560Z"
-  },
-  {
-   "title": "Trotz vorzeitigem Titel: Toto Wolff sieht keine erneute Mercedes-Dominanz",
-   "summary": "Mercedes hat beide WM-Titel in der Saison 2026 vorzeitig gewonnen, doch für Toto Wolff ist das kein Grund, an eine erneute Dominanz-Ära der Silberpfeile zu glauben",
-   "url": "https://www.formel1.de/nc/149899",
-   "date": "2026-11-18T15:41:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-18T22:01:36.560Z"
-  },
-  {
-   "title": "Nico Rosberg: \"In der Formel 1 war ich zu 90 Prozent der Versager\"",
-   "summary": "Nico Rosberg wurde 2016 Formel-1-Weltmeister, trotzdem erinnert er sich vor allem an Niederlagen: Eine davon hat ihn besonders schwer getroffen",
-   "url": "https://www.formel1.de/nc/149898",
-   "date": "2026-11-18T14:32:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-18T22:01:36.560Z"
-  },
-  {
-   "title": "Technikchef Allison erklärt, warum der Mercedes W17 plötzlich schwächelt",
-   "summary": "Technikchef James Allison räumt ein, dass Mercedes' spätes Saison-Upgrade einige unerwartete Schwächen mit sich brachte, die den W17 schwer beherrschbar machten",
-   "url": "https://www.formel1.de/nc/149897",
-   "date": "2026-11-18T13:14:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Technik",
-   "firstSeen": "2026-11-18T22:01:36.560Z"
-  },
-  {
-   "title": "Why Russell won't run Mercedes' upgraded turbocharger in Vegas",
-   "summary": "World Champion Kimi Antonelli is set to run with Mercedes' upgraded turbocharger at this weekend's Las Vegas Grand Prix, but team mate George Russell will not.",
-   "url": "https://www.formula1.com/en/latest/article/why-russell-wont-run-mercedes-upgraded-turbocharger-in-las-vegas.2ZwhMHFGbRFb6pApmMiEgY",
-   "date": "2026-11-18T13:08:58.955Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell",
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-18T13:08:58.955Z"
-  },
-  {
-   "title": "How F1 drivers and strategists tackle the Las Vegas Grand Prix",
-   "summary": "In Formula 1, performance is decided in moments where conditions change instantly, and decisions carry consequence. The difference isn’t just speed – it’s perspective.",
-   "url": "https://www.formula1.com/en/latest/article/the-risk-perspective-how-f1-drivers-engineers-and-strategists-tackle-the-las-vegas-grand-prix.7yJLDDlVCuKALLnoYrpgrb",
-   "date": "2026-11-18T13:07:58.955Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-18T13:08:58.955Z"
-  },
-  {
-   "title": "Save the date: F1 Unlocked Season Finale Watch Party",
-   "summary": "",
-   "url": "https://www.formula1.com/en/latest/article/save-the-date-f1-unlocked-season-finale-watch-party.22ZXTQut4A8OosqH0ldCTM",
-   "date": "2026-11-18T13:06:58.955Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-18T13:08:58.955Z"
-  },
-  {
-   "title": "QUIZ: 10 tricky questions on Formula 1 night races",
-   "summary": "This weekend we return to Las Vegas – F1’s newest night race – so it’s the best time to test your knowledge on racing action under floodlights …",
-   "url": "https://www.formula1.com/en/latest/article/quiz-10-tricky-questions-on-formula-1-night-races.w2XDE4bcho7ho79HRKfFa",
-   "date": "2026-11-18T13:05:58.955Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-18T13:08:58.955Z"
-  },
-  {
-   "title": "Piastri set for grid penalty at Las Vegas Grand Prix",
-   "summary": "Oscar Piastri is set to take a penalty for the Las Vegas Grand Prix with McLaren confirming the Australian will have a new Internal Combustion Engine.",
-   "url": "https://www.formula1.com/en/latest/article/piastri-set-for-10-place-grid-penalty-at-las-vegas-grand-prix.5eT1wWFQzCfOS6W2tvTtLk",
-   "date": "2026-11-18T13:04:58.955Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "piastri"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Regeln",
-   "firstSeen": "2026-11-18T13:08:58.955Z"
   }
  ]
 }
