@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T21:50:52.981Z",
+ "updatedAt": "2026-11-21T03:15:19.433Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,74 @@
   }
  },
  "items": [
+  {
+   "title": "Russell goes fastest during final practice in Las Vegas",
+   "summary": "Mercedes' George Russell set the quickest time during an action-packed third and final practice session at the Las Vegas Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/fp3-russell-goes-fastest-from-antonelli-and-norris-during-final-practice-in-las-vegas.3qwe57vQf1Qjrm2tdp7Vfy",
+   "date": "2026-11-21T03:15:19.418Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "russell"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-21T03:15:19.418Z"
+  },
+  {
+   "title": "AS IT HAPPENED: Final practice for the Las Vegas GP",
+   "summary": "Live coverage of Friday's third practice session for the 2026 Las Vegas Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-las-vegas-2026.50OIQwa2hcjUWGKsiu3h5L",
+   "date": "2026-11-21T03:14:19.418Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-21T03:15:19.418Z"
+  },
+  {
+   "title": "Wie Oscar Piastri vom F1-Reglement 2026 ausgebremst wird",
+   "summary": "2025 schrammte Oscar Piastri noch hauchdünn am WM-Titel vorbei, 2026 tut sich der McLaren-Pilot deutlich schwerer - Geschäftsführer Zak Brown kennt den Grund",
+   "url": "https://www.formel1.de/nc/149957",
+   "date": "2026-11-21T03:01:22.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "piastri"
+   ],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "Regeln",
+   "firstSeen": "2026-11-21T03:15:19.418Z"
+  },
+  {
+   "title": "FT3 Las Vegas: Max Verstappen gleich in zwei Untersuchungen involviert",
+   "summary": "Mercedes fährt der Konkurrenz im dritten Training in Las Vegas auf und davon, doch für die grössten Diskussionen sorgt Max Verstappen mit zwei Zwischenfällen",
+   "url": "https://www.formel1.de/nc/149956",
+   "date": "2026-11-21T01:51:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-11-21T03:15:19.418Z"
+  },
   {
    "title": "FIA confirms unanimous agreement on 2030 PU framework",
    "summary": "Key parties including the FIA and F1 teams have committed to the 2030 power unit technical framework.",
@@ -38,7 +106,7 @@
    "firstSeen": "2026-11-20T21:50:52.958Z"
   },
   {
-   "title": "Thursday rain in Las Vegas leave teams playing catch-up",
+   "title": "Thursday rain in Las Vegas leaves teams playing catch-up",
    "summary": "F1.com considers who looks to be the favourites after the first day on track at the Las Vegas Grand Prix.",
    "url": "https://www.formula1.com/en/latest/article/thursday-rains-in-las-vegas-leave-teams-playing-catch-up.4nppHnXLw7lc6WTCZ53Cae",
    "date": "2026-11-20T21:48:52.958Z",
@@ -912,64 +980,6 @@
    "team": "mclaren",
    "category": "News",
    "firstSeen": "2026-11-19T22:12:17.076Z"
-  },
-  {
-   "title": "Toto Wolff betont: Sicherheit der Mitarbeiter ein Schlüssel für Erfolg",
-   "summary": "Tot Wolff betont, dass bei Mercedes keine Hire-and-Fire-Mentalität herrscht und dass Mitarbeiter im Unternehmen keine Angst vor Fehlern haben müssen",
-   "url": "https://www.formel1.de/nc/149921",
-   "date": "2026-11-19T14:12:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-19T22:12:17.076Z"
-  },
-  {
-   "title": "The F1 Fantasy Strategist on Las Vegas and Qatar",
-   "summary": "The cold, walled straights of the Las Vegas Strip and the fast, flowing corners of Lusail ask opposite questions on consecutive weekends. So, who deserves a place in your line-up?",
-   "url": "https://www.formula1.com/en/latest/article/f1-fantasy-strategist-preview-the-williams-mini-league-and-what-you-need-to-know-for-las-vegas-and-qatar.6hHYy6ckLb4oqMNCVPbRul",
-   "date": "2026-11-19T13:20:06.161Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-19T13:20:06.161Z"
-  },
-  {
-   "title": "What could shake up the Las Vegas betting markets?",
-   "summary": "After the lights go out in Las Vegas, clued-up bettors will be poised to make smart betting decisions in real-time markets.",
-   "url": "https://www.formula1.com/en/latest/article/what-could-turn-the-race-on-its-head-during-the-las-vegas-grand-prix.23xD9tDM6jLn41uH4otMbZ",
-   "date": "2026-11-19T13:19:06.161Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-19T13:20:06.161Z"
-  },
-  {
-   "title": "Facts, stats and trivia ahead of the 2026 Las Vegas GP",
-   "summary": "As F1 prepares for the Las Vegas Grand Prix, Need to Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
-   "url": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-las-vegas-grand-prix.6ynxQ4e9Z7F1o2Uijhh1FK",
-   "date": "2026-11-19T13:18:06.161Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-19T13:20:06.161Z"
   }
  ]
 }
