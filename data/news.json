@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T12:44:23.045Z",
+ "updatedAt": "2026-11-21T20:33:52.893Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,150 @@
   }
  },
  "items": [
+  {
+   "title": "Our final Las Vegas Grand Prix betting predictions",
+   "summary": "Our expert betting writers bring you their final predictions and latest odds before the Las Vegas Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/our-final-las-vegas-grand-prix-betting-predictions-before-lights-out-on-the-strip.4jYqIilNqAOjx4y3poORZX",
+   "date": "2026-11-21T20:33:52.875Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-21T20:33:52.875Z"
+  },
+  {
+   "title": "How F1 fans can avoid emotional betting in Las Vegas",
+   "summary": "Safer gambling is important, so we’ve flagged some key areas where you should keep a cool head when betting during this weekend's race.",
+   "url": "https://www.formula1.com/en/latest/article/how-f1-fans-can-avoid-emotional-betting-during-the-las-vegas-grand-prix.24NadP7NoIqRfhaeuykCuI",
+   "date": "2026-11-21T20:32:52.875Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-21T20:33:52.875Z"
+  },
+  {
+   "title": "Our Las Vegas GP Bet Builder selections made",
+   "summary": "We have picked a four-leg Bet Builder for Las Vegas, including winner and a podium finish selection.",
+   "url": "https://www.formula1.com/en/latest/article/our-las-vegas-grand-prix-bet-builder-selections-as-max-verstappen-to-start-on-pole.5kZr0wohlPjcax9jtd9RLX",
+   "date": "2026-11-21T20:31:52.875Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-21T20:33:52.875Z"
+  },
+  {
+   "title": "Niki Lauda hat Toto Wolff immer gesagt: \"Du denkst und sprichst zu kompliziert\"",
+   "summary": "Mercedes-Teamchef Toto Wolff erinnert sich an seine besondere Verbindung zu Niki Lauda - und verrät, warum die Formel-1-Legende von Kimi Antonelli begeistert wäre",
+   "url": "https://www.formel1.de/nc/149979",
+   "date": "2026-11-21T19:11:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-21T20:33:52.875Z"
+  },
+  {
+   "title": "Warum McLaren seine F1-Autos versteigert, bevor sie gefahren wurden",
+   "summary": "McLaren bringt den künftigen MCL41 für die Saison 2027 bereits im Dezember unter den Hammer - Zak Brown erklärt, warum das Modell für ihn Sinn ergibt",
+   "url": "https://www.formel1.de/nc/149978",
+   "date": "2026-11-21T18:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "mclaren"
+   ],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-11-21T20:33:52.875Z"
+  },
+  {
+   "title": "Mega-Kurve \"The Blade\" nimmt Formen an: \"Zwei Jahre, dann fahren wir dort\"",
+   "summary": "Alexander Wurz gibt Einblicke in den Bau der spektakulären Strecke in Qiddiya und erklärt, warum der erste Grand Prix von mehr als fertigem Asphalt abhängt",
+   "url": "https://www.formel1.de/nc/149977",
+   "date": "2026-11-21T16:00:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-21T20:33:52.875Z"
+  },
+  {
+   "title": "Kimi Antonelli: \"Wahrscheinlich unmöglich\", sich im Rennen abzusetzen",
+   "summary": "Trotz seiner Motorenstrafe sieht sich Kimi Antonelli in Las Vegas noch im Kampf um den Sieg und rechnet nicht damit, dass ein Fahrer den anderen wegfahren kann",
+   "url": "https://www.formel1.de/nc/149976",
+   "date": "2026-11-21T13:24:53.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-21T20:33:52.875Z"
+  },
+  {
+   "title": "Mercedes-Chaos in Las Vegas: Antonelli sollte Russell helfen, doch dann …",
+   "summary": "Mercedes wollte George Russell mit einem Windschatten von Kimi Antonelli zur Poleposition verhelfen: Doch im Qualifying von Las Vegas lief plötzlich alles anders",
+   "url": "https://www.formel1.de/nc/149975",
+   "date": "2026-11-21T13:15:45.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli",
+    "russell"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-21T20:33:52.875Z"
+  },
+  {
+   "title": "Unsafe Release von Arvid Lindblad: Geldstrafe für Racing Bulls",
+   "summary": "Weil man Arvid Lindblad in den Fahrweg von Alexander Albon geschickt hat, muss Racing Bulls eine Geldstrafe in Höhe von 5.000 Euro zahlen",
+   "url": "https://www.formel1.de/nc/149974",
+   "date": "2026-11-21T12:57:22.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "arvid_lindblad",
+    "albon"
+   ],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "News",
+   "firstSeen": "2026-11-21T20:33:52.875Z"
+  },
   {
    "title": "Wolff reflects on impact of tow in Las Vegas Qualifying",
    "summary": "Toto Wolff reflected on the impact of the slipstream during Las Vegas Grand Prix Qualifying, with Mercedes believing George Russell was ideally positioned for pole.",
@@ -847,156 +991,6 @@
    ],
    "team": "red_bull",
    "category": "Rennen",
-   "firstSeen": "2026-11-20T13:00:08.413Z"
-  },
-  {
-   "title": "Russell admits Mercedes lacking pace despite topping FP2",
-   "summary": "George Russell admits that \"realistically we probably were not the fastest\", despite finishing top of the times in a wet Free Practice 2 ahead of the Las Vegas Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/we-probably-were-not-the-fastest-russell-admits-mercedes-lacking-pace-despite-topping-fp2-in-las-vegas.6t2XX2vWPRCohJvtJ5PLeu",
-   "date": "2026-11-20T12:52:08.413Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-20T13:00:08.413Z"
-  },
-  {
-   "title": "Piastri shares early impressions of new engine in Las Vegas",
-   "summary": "After taking on new power unit components, McLaren's Oscar Piastri has assessed how his first day on track went at the Las Vegas Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/piastri-shares-early-impressions-of-new-engine-in-las-vegas-as-he-prepares-for-grid-penalty.1EhZ4bKxodItgmXEX2euQf",
-   "date": "2026-11-20T12:51:08.413Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "piastri"
-   ],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "Technik",
-   "firstSeen": "2026-11-20T13:00:08.413Z"
-  },
-  {
-   "title": "\"Bin wie ein grosses Kind\": Lewis Hamilton zockt nach dem Training GTA VI",
-   "summary": "Lewis Hamilton will sich nach dem Training in Las Vegas mit seiner Konsole im Hotelzimmer einschliessen, um dort das neue Spiel GTA VI zu zocken",
-   "url": "https://www.formel1.de/nc/149947",
-   "date": "2026-11-20T12:19:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-20T13:00:08.413Z"
-  },
-  {
-   "title": "Beängstigend bei 100 km/h: Fahrer über Las-Vegas-Eisbahn \"wirklich schockiert\"",
-   "summary": "Die nassen und kühlen Bedingungen brachten die Reifen in Las Vegas an ihre Grenzen: Viele Fahrer fühlten sich nicht wohl, doch es gab auch Ausnahmen",
-   "url": "https://www.formel1.de/nc/149946",
-   "date": "2026-11-20T11:17:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-20T13:00:08.413Z"
-  },
-  {
-   "title": "Mercedes-Bestzeit ohne Wert: Russell staunt über McLaren-Pace",
-   "summary": "Während George Russell vor allem von McLaren beeindruckt ist, musste das Papaya-Team auf den Einsatz eines neuen Unterbodens in Las Vegas verzichten",
-   "url": "https://www.formel1.de/nc/149945",
-   "date": "2026-11-20T10:12:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [
-    "mercedes",
-    "mclaren"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-20T13:00:08.413Z"
-  },
-  {
-   "title": "Keine Siegchance in Las Vegas? Red Bull steht vor grossen Problemen",
-   "summary": "In Las Vegas haben Red Bull und Max Verstappen mit Balance-Problemen zu kämpfen, die der viermalige Weltmeister dementsprechend kommentiert",
-   "url": "https://www.formel1.de/nc/149944",
-   "date": "2026-11-20T09:09:39.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-20T13:00:08.413Z"
-  },
-  {
-   "title": "Wurz erklärt: Darum hat sich die GPDA permanente Kommissare gewünscht",
-   "summary": "Dass die FIA im kommenden Jahr professionelle Formel-1-Kommissare einsetzen wird, stösst bei GPDA-Präsident Alexander Wurz auf Wohlwollen",
-   "url": "https://www.formel1.de/nc/149943",
-   "date": "2026-11-20T08:19:26.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Regeln",
-   "firstSeen": "2026-11-20T13:00:08.413Z"
-  },
-  {
-   "title": "Flavio Briatore: Alpine steht heute viel besser da als bei meinem Amtsantritt",
-   "summary": "Vor dem Grand Prix von Las Vegas betont Flavio Briatore, welch grosse Fortschritte man bei Alpine seit seinem Amtsantritt bereits getätigt hat",
-   "url": "https://www.formel1.de/nc/149942",
-   "date": "2026-11-20T08:18:38.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "alpine"
-   ],
-   "team": "alpine",
-   "category": "Rennen",
-   "firstSeen": "2026-11-20T13:00:08.413Z"
-  },
-  {
-   "title": "Zak Brown würde Norris nie eintauschen, auch nicht gegen Max Verstappen!",
-   "summary": "In Las Vegas erklärt Zak Brown, wieso er Lando Norris gegen keinen anderen Fahrer in der Formel 1 eintauschen würde - auch nicht Max Verstappen",
-   "url": "https://www.formel1.de/nc/149941",
-   "date": "2026-11-20T07:13:22.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris",
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "News",
    "firstSeen": "2026-11-20T13:00:08.413Z"
   }
  ]
