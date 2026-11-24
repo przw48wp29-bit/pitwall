@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T14:46:28.846Z",
+ "updatedAt": "2026-11-24T02:55:38.713Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,153 @@
   }
  },
  "items": [
+  {
+   "title": "The timeline of Verstappen and Russell’s long rivalry",
+   "summary": "F1.com charts how tensions first flared – and have since been reignited – between Max Verstappen and George Russell.",
+   "url": "https://www.formula1.com/en/latest/article/timeline-how-the-verstappen-vs-russell-rivalry-has-unfolded-over-several-years.4Y4Vmh0tOMo60qq4D2uXPN",
+   "date": "2026-11-24T02:55:38.688Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen",
+    "russell"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-24T02:55:38.688Z"
+  },
+  {
+   "title": "Sainz hails ‘amazing’ Las Vegas GP after ‘incredible’ P8",
+   "summary": "Carlos Sainz managed to bring his Williams home in eighth place in Las Vegas, scoring for the first time since Baku with a drive the Spaniard called “amazing” after the race.",
+   "url": "https://www.formula1.com/en/latest/article/sainz-hails-amazing-las-vegas-grand-prix-after-incredible-p8-finish.4FBiwflePJER6l3k6aIFqU",
+   "date": "2026-11-24T02:54:38.688Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "sainz"
+   ],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "Rennen",
+   "firstSeen": "2026-11-24T02:55:38.688Z"
+  },
+  {
+   "title": "5 Winners and 5 Losers from Las Vegas",
+   "summary": "Lawrence Barretto picks out his winners and losers from an eventful 2026 Las Vegas Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-las-vegas.6HVn4aszKitqrWNRTWkksX",
+   "date": "2026-11-24T02:53:38.688Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-24T02:55:38.688Z"
+  },
+  {
+   "title": "Qatar Grand Prix betting guide and latest odds",
+   "summary": "Our experts bring you all the important betting information you need before making your predictions for Lusail.",
+   "url": "https://www.formula1.com/en/latest/article/qatar-grand-prix-race-betting-guide-and-what-the-markets-predict-will-happen.5A5FEXzRhph6ATX2PvVmmq",
+   "date": "2026-11-24T02:52:38.688Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-24T02:55:38.688Z"
+  },
+  {
+   "title": "Ex-Teamchef warnt George Russell: Man sollte Max Verstappen besser nicht reizen",
+   "summary": "Günther Steiner warnt George Russell nach dem Wortgefecht in Las Vegas vor Max Verstappen: Der Ex-Teamchef meint, dass der Red-Bull-Pilot \"mental überlegen\" ist",
+   "url": "https://www.formel1.de/nc/150016",
+   "date": "2026-11-23T19:02:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "russell",
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-24T02:55:38.688Z"
+  },
+  {
+   "title": "Max Verstappen mit deutlicher Ansage vor Katar: \"Ich wäre lieber zu Hause\"",
+   "summary": "Max Verstappen vertraut den Sicherheitszusagen der Formel 1 für Katar und Abu Dhabi: Wohl ist ihm bei den Gedanken an die Rennen allerdings nicht",
+   "url": "https://www.formel1.de/nc/150015",
+   "date": "2026-11-23T18:04:38.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-11-24T02:55:38.688Z"
+  },
+  {
+   "title": "Fahrernoten Las Vegas: Ganz schwache Bewertung für Charles Leclerc",
+   "summary": "Max Verstappen dominiert erwartungsgemäss die Leserwertung zum Formel-1-Rennen in Las Vegas, doch Ferrari-Fahrer Charles Leclerc kommt gar nicht gut weg …",
+   "url": "https://www.formel1.de/nc/150014",
+   "date": "2026-11-23T17:12:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "leclerc",
+    "max_verstappen"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-24T02:55:38.688Z"
+  },
+  {
+   "title": "Max Verstappen nach Las Vegas: Diese Antwort dürfte LEGO nicht gefallen",
+   "summary": "Verstappen wird nach seinem Sieg in Las Vegas nach seiner liebsten LEGO-Erfahrung gefragt, doch die trockene Antwort dürfte den Formel-1-Partner überraschen",
+   "url": "https://www.formel1.de/nc/150013",
+   "date": "2026-11-23T16:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-11-24T02:55:38.688Z"
+  },
+  {
+   "title": "Vorzeitiges Aus in der Formel 2: Hitech ersetzt Colton Herta sofort",
+   "summary": "Colton Herta beendet seine schwache Formel 2 Saison vorzeitig und lässt die letzten beiden Rennwochenenden aus - Roman Bilinski übernimmt ab sofort bei Hitech",
+   "url": "https://www.formel1.de/nc/150012",
+   "date": "2026-11-23T15:33:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-24T02:55:38.688Z"
+  },
   {
    "title": "Perez and Camara react to Las Vegas GP clash",
    "summary": "Sergio Perez's Las Vegas Grand Prix came to an early end when the Cadillac driver collided with the Haas of Rafael Camara.",
@@ -118,7 +265,7 @@
    "firstSeen": "2026-11-23T14:46:28.831Z"
   },
   {
-   "title": "Live im TV und Stream: Welche Sender den Grand Prix von Katar zeigen",
+   "title": "Live im TV und Stream: Welche Sender 2026 den Grand Prix von Katar zeigen",
    "summary": "Alle Informationen zur Formel 1 2026 im TV und Livestream: Wie Du die Saison mit Audi, Ferrari, McLaren, Mercedes, Red Bull und Cadillac live verfolgen kannst!",
    "url": "https://www.formel1.de/nc/123413",
    "date": "2026-11-23T13:32:17.000Z",
@@ -908,150 +1055,6 @@
    "team": "ferrari",
    "category": "News",
    "firstSeen": "2026-11-22T12:38:47.296Z"
-  },
-  {
-   "title": "Kurioses F1-Roulette in Las Vegas: Verstappen siegt, Russell crasht",
-   "summary": "39 Führungswechsel und ein völlig verrücktes Finale in Las Vegas: Max Verstappen gewinnt ein Formel-1-Rennen, das selbst die Fahrer sprachlos zurücklässt",
-   "url": "https://www.formel1.de/nc/149982",
-   "date": "2026-11-22T07:14:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "russell"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-22T12:38:47.296Z"
-  },
-  {
-   "title": "Mercedes ärgert sich: Hatten für die letzte Runde ein Ass im Ärmel!",
-   "summary": "Ein Lupfer im falschen Moment hat Kimi Antonelli die Chance auf den Rennsieg in Las Vegas gekostet, weil das System die Batterie leerte - Mercedes hatte Ass im Ärmel",
-   "url": "https://www.formel1.de/nc/149983",
-   "date": "2026-11-22T07:11:07.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-22T12:38:47.296Z"
-  },
-  {
-   "title": "Die Qualifying-, Sprint- und Rennduelle der Formel-1-Saison 2026",
-   "summary": "Der aktuelle Zwischenstand bei den Qualifying- und Rennduellen der Teamkollegen in der Formel-1-Saison 2026",
-   "url": "https://www.formel1.de/nc/146557",
-   "date": "2026-11-22T05:53:02.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-21T12:44:23.034Z"
-  },
-  {
-   "title": "McLaren: Topspeed-Rückstand in Las Vegas überrascht Oscar Piastri",
-   "summary": "Obwohl McLaren in Las Vegas mit Nachteilen auf den Geraden gerechnet hatte, überrascht Oscar Piastri das Ausmass des Rückstands zu anderen Mercedes-Teams",
-   "url": "https://www.formel1.de/nc/149981",
-   "date": "2026-11-22T03:31:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "piastri"
-   ],
-   "teams": [
-    "mercedes",
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-11-22T12:38:47.296Z"
-  },
-  {
-   "title": "Our final Las Vegas Grand Prix betting predictions",
-   "summary": "Our expert betting writers bring you their final predictions and latest odds before the Las Vegas Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/our-final-las-vegas-grand-prix-betting-predictions-before-lights-out-on-the-strip.4jYqIilNqAOjx4y3poORZX",
-   "date": "2026-11-21T20:33:52.875Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-21T20:33:52.875Z"
-  },
-  {
-   "title": "How F1 fans can avoid emotional betting in Las Vegas",
-   "summary": "Safer gambling is important, so we’ve flagged some key areas where you should keep a cool head when betting during this weekend's race.",
-   "url": "https://www.formula1.com/en/latest/article/how-f1-fans-can-avoid-emotional-betting-during-the-las-vegas-grand-prix.24NadP7NoIqRfhaeuykCuI",
-   "date": "2026-11-21T20:32:52.875Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-21T20:33:52.875Z"
-  },
-  {
-   "title": "Our Las Vegas GP Bet Builder selections made",
-   "summary": "We have picked a four-leg Bet Builder for Las Vegas, including winner and a podium finish selection.",
-   "url": "https://www.formula1.com/en/latest/article/our-las-vegas-grand-prix-bet-builder-selections-as-max-verstappen-to-start-on-pole.5kZr0wohlPjcax9jtd9RLX",
-   "date": "2026-11-21T20:31:52.875Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-21T20:33:52.875Z"
-  },
-  {
-   "title": "Niki Lauda hat Toto Wolff immer gesagt: \"Du denkst und sprichst zu kompliziert\"",
-   "summary": "Mercedes-Teamchef Toto Wolff erinnert sich an seine besondere Verbindung zu Niki Lauda - und verrät, warum die Formel-1-Legende von Kimi Antonelli begeistert wäre",
-   "url": "https://www.formel1.de/nc/149979",
-   "date": "2026-11-21T19:11:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-21T20:33:52.875Z"
-  },
-  {
-   "title": "Warum McLaren seine F1-Autos versteigert, bevor sie gefahren wurden",
-   "summary": "McLaren bringt den künftigen MCL41 für die Saison 2027 bereits im Dezember unter den Hammer - Zak Brown erklärt, warum das Modell für ihn Sinn ergibt",
-   "url": "https://www.formel1.de/nc/149978",
-   "date": "2026-11-21T18:00:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-11-21T20:33:52.875Z"
   }
  ]
 }
