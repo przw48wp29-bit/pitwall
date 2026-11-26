@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T14:29:30.357Z",
+ "updatedAt": "2026-11-26T00:27:30.351Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,132 @@
   }
  },
  "items": [
+  {
+   "title": "FIA confirm Williams’ minor overspend breach of 2025 Cost Cap",
+   "summary": "The FIA have completed their review of the F1 teams' and power unit manufacturers' compliance with the 2025 Financial Regulations.",
+   "url": "https://www.formula1.com/en/latest/article/fia-confirm-williams-minor-overspend-breach-in-2025-cost-cap-review.12rGorQ1pzc6aH0LX2WdLZ",
+   "date": "2026-11-26T00:27:30.340Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "Regeln",
+   "firstSeen": "2026-11-26T00:27:30.340Z"
+  },
+  {
+   "title": "5 storylines we're excited about ahead of the Qatar GP",
+   "summary": "Chris Medland runs through the biggest talking points as F1 heads to Qatar for Round 22 of the 2026 season.",
+   "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-qatar-grand-prix.1bXINUYO8R8X3K7DjINr1A",
+   "date": "2026-11-26T00:26:30.340Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-26T00:27:30.340Z"
+  },
+  {
+   "title": "QUIZ: 10 tricky questions on F1 driver bust-ups",
+   "summary": "George Russell and Max Verstappen exchanged words off track and battled on track in Las Vegas – and F1 history has seen plenty of flashpoints between rivals.",
+   "url": "https://www.formula1.com/en/latest/article/quiz-10-tricky-questions-on-f1-driver-bust-ups.L5pATOFep8eOxnoTZTjjf",
+   "date": "2026-11-26T00:25:30.340Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "russell",
+    "max_verstappen"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-26T00:27:30.340Z"
+  },
+  {
+   "title": "Jack Whitehall on why Antonelli surprised him in first meeting",
+   "summary": "In the latest episode of official podcast F1 Beyond The Grid, Jack Whitehall has shared his experiences as an official Friend of F1 – including a memorable first meeting with Kimi Antonelli.",
+   "url": "https://www.formula1.com/en/latest/article/hes-not-like-any-sportsman-ive-interacted-with-jack-whitehall-on-why-antonelli-surprised-him-in-first-meeting.2AZ1Cm2uN2NeNKwiQknWZY",
+   "date": "2026-11-26T00:24:30.340Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-26T00:27:30.340Z"
+  },
+  {
+   "title": "Best value early bets for the Qatar Grand Prix",
+   "summary": "We've selected our pick of early bets offering the best value for F1 bettors at the Qatar Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-qatar-grand-prix.5himIJYPG93VDcnQ3sccs9",
+   "date": "2026-11-26T00:23:30.340Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-26T00:27:30.340Z"
+  },
+  {
+   "title": "Our early Bet Builder for the Qatar Grand Prix",
+   "summary": "Our expert betting writers have picked a four-leg Bet Builder for the Qatar Grand Prix, including podium finish and top-six selections.",
+   "url": "https://www.formula1.com/en/latest/article/our-early-bet-builder-selections-for-the-qatar-grand-prix.7FBX6XRKhMuX5CMZ996cZ1",
+   "date": "2026-11-26T00:22:30.340Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-26T00:27:30.340Z"
+  },
+  {
+   "title": "Williams und Alpine haben 2025 gegen Budgetobergrenze verstossen",
+   "summary": "FIA teilt mit, dass man mit Williams und auch mit Alpine eine Vereinbarung nach Verstössen gegen F1-Kostengrenze 2025 geschlossen hat - Strafmass unterschiedlich",
+   "url": "https://www.formel1.de/nc/150037",
+   "date": "2026-11-25T18:29:07.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "williams",
+    "alpine"
+   ],
+   "team": "williams",
+   "category": "Regeln",
+   "firstSeen": "2026-11-26T00:27:30.340Z"
+  },
+  {
+   "title": "\"Abnormale\" Fähigkeiten: Horner erklärt Sonderrolle von Verstappen bei Red Bull",
+   "summary": "Max Verstappen verlangt eine aussergewöhnliche Fahrzeugbalance - Für seine Teamkollegen wird genau diese Abstimmung zum Problem, weiss Christian Horner",
+   "url": "https://www.formel1.de/nc/150036",
+   "date": "2026-11-25T16:47:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-26T00:27:30.340Z"
+  },
   {
    "title": "From Monza mayhem to Suzuka showdowns – 10 dramatic F1 rivalry flashpoints",
    "summary": "Max Verstappen and George Russell traded blows on and off track in Las Vegas last weekend – but that is merely the latest episode in a long history of driver rivalries in Formula 1.",
@@ -69,7 +195,7 @@
    "firstSeen": "2026-11-25T14:29:30.343Z"
   },
   {
-   "title": "\"Nur eine Frage der Zeit\": Warum Alonso zuversichtlich ist für Aston Martin",
+   "title": "Fernando Alonso glaubt an Aston Martin - doch eine grosse Baustelle bleibt",
    "summary": "Fernando Alonso erklärt, warum er trotz der enttäuschenden Formel-1-Saison 2026 optimistisch bleibt und weshalb Honda für Aston Martin der entscheidende Faktor ist",
    "url": "https://www.formel1.de/nc/150035",
    "date": "2026-11-25T14:02:04.000Z",
@@ -850,148 +976,6 @@
    ],
    "teams": [],
    "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-23T14:46:28.831Z"
-  },
-  {
-   "title": "Carlos Sainz: Mit 50 Qualifying-Runden auf Platz acht in Las Vegas",
-   "summary": "So sicherte sich Carlos Sainz in Las Vegas mit einer starken ersten Runde, klugem Energiemanagement und permanentem Fahren am Limit den achten Platz",
-   "url": "https://www.formel1.de/nc/150008",
-   "date": "2026-11-23T11:00:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "sainz"
-   ],
-   "teams": [],
-   "team": "williams",
-   "category": "Rennen",
-   "firstSeen": "2026-11-23T14:46:28.831Z"
-  },
-  {
-   "title": "Arvid Lindblad: So erklärt er seinen Crash während der Safety-Car-Phase",
-   "summary": "Arvid Lindblad versteht seinen Safety-Car-Crash in Las Vegas selbst nicht: Besonders schmerzt den Rookie eine möglicherweise einmalige Chance auf Spitzenplätze",
-   "url": "https://www.formel1.de/nc/150007",
-   "date": "2026-11-23T10:35:46.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "arvid_lindblad"
-   ],
-   "teams": [],
-   "team": "rb",
-   "category": "Transfer",
-   "firstSeen": "2026-11-23T14:46:28.831Z"
-  },
-  {
-   "title": "Nico Hülkenberg wieder Elfter für Audi: \"Lehrreiches Rennen\" in Las Vegas",
-   "summary": "Audi geht in Las Vegas leer aus: Nico Hülkenberg und Allan McNish erklären, warum eine einzige Runde den Unterschied hätte machen können",
-   "url": "https://www.formel1.de/nc/150006",
-   "date": "2026-11-23T09:56:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hulkenberg"
-   ],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "Rennen",
-   "firstSeen": "2026-11-23T14:46:28.831Z"
-  },
-  {
-   "title": "\"Ich habe mein Gehirn eingeschaltet\": Was Hadjar Red Bull beweisen wollte",
-   "summary": "Isack Hadjar widerspricht Red Bulls Taktik und demonstriert seinen Punkt sogar live auf der Strecke, doch im Nachhinein räumt Laurent Mekies Zweifel ein",
-   "url": "https://www.formel1.de/nc/150005",
-   "date": "2026-11-23T09:50:09.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hadjar"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-23T14:46:28.831Z"
-  },
-  {
-   "title": "Franco Colapinto: Hat Spass gemacht, mit McLaren und Ferrari zu kämpfen",
-   "summary": "Nach einem schwierigen ersten Stint und einem Doppelstopp kämpfte sich Franco Colapinto im Las-Vegas-Rennen nach vorn - Dort duellierte es sich mit den Top-Teams",
-   "url": "https://www.formel1.de/nc/150004",
-   "date": "2026-11-23T09:04:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "colapinto"
-   ],
-   "teams": [
-    "ferrari",
-    "mclaren"
-   ],
-   "team": "ferrari",
-   "category": "Rennen",
-   "firstSeen": "2026-11-23T14:46:28.831Z"
-  },
-  {
-   "title": "Lewis Hamilton: Zehnsekundenstrafe in Las Vegas war \"total daneben\"",
-   "summary": "Lewis Hamilton kritisiert seine Zehnsekundenstrafe in Las Vegas scharf: Ferrari-Teamchef Fred Vasseur ist ebenfalls überrascht und erklärt die schwierige Situation",
-   "url": "https://www.formel1.de/nc/150003",
-   "date": "2026-11-23T08:59:08.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-23T14:46:28.831Z"
-  },
-  {
-   "title": "Warum Fernando Alonso den Aston Martin vorzeitig abgestellt hat",
-   "summary": "Fernando Alonso klagt nach seinem Aus in Las Vegas über massive Probleme mit dem Honda-Antrieb, doch Aston Martin vermeidet eine klare Defekt-Diagnose",
-   "url": "https://www.formel1.de/nc/150002",
-   "date": "2026-11-23T08:18:34.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "alonso"
-   ],
-   "teams": [
-    "aston_martin"
-   ],
-   "team": "aston_martin",
-   "category": "Technik",
-   "firstSeen": "2026-11-23T14:46:28.831Z"
-  },
-  {
-   "title": "Formel 1 plant Motoren-Hammer: 2030 nur noch ein Kundenteam erlaubt?",
-   "summary": "Die Formel 1 plant ab 2030 nur noch zwei Teams pro Motorenhersteller: Für Mercedes-Kunden McLaren, Williams und Alpine drohen Konsequenzen",
-   "url": "https://www.formel1.de/nc/150000",
-   "date": "2026-11-23T07:00:16.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes",
-    "williams",
-    "mclaren",
-    "alpine"
-   ],
-   "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-11-23T14:46:28.831Z"
   }
