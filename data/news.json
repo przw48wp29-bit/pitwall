@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T13:56:12.248Z",
+ "updatedAt": "2026-11-27T22:44:38.334Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,423 @@
   }
  },
  "items": [
+  {
+   "title": "Are Mercedes the team to beat in Qatar?",
+   "summary": "F1.com analyses the state of play after the first day of action at the Qatar Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/are-mercedes-the-team-to-beat-in-qatar.6iRbqa3JJ85o0bWNYQTlTl",
+   "date": "2026-11-27T22:44:38.321Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "Leclerc searching for answers after tricky Friday in Qatar",
+   "summary": "Charles Leclerc reflected on Ferrari’s lack of pace in Qatar as Diego Ioverno offered reassurance over Lewis Hamilton’s stoppage in second practice.",
+   "url": "https://www.formula1.com/en/latest/article/it-looks-like-a-very-difficult-weekend-leclerc-searching-for-answers-after-tricky-friday-in-qatar.34CxxcaWerPPLl84sU9cZq",
+   "date": "2026-11-27T22:43:38.321Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "leclerc",
+    "hamilton"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "ferrari",
+   "category": "Rennen",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "What the teams said – Friday in Qatar",
+   "summary": "The drivers and teams report back on all the action from Friday practice at the Lusail International Circuit, ahead of the 2026 Qatar Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-qatar-2026.4NjrvUy3Zc6X6YN4i896S6",
+   "date": "2026-11-27T22:42:38.321Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "Verstappen and Red Bull left looking for car balance in Qatar",
+   "summary": "Max Verstappen admits that he and Red Bull had \"a bit of a difficult day\" during Friday practice ahead of the Qatar Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/a-bit-of-a-difficult-day-verstappen-and-red-bull-left-looking-for-car-balance-after-friday-in-qatar.zvqj1nQ6dBT2PSxEzzKWP",
+   "date": "2026-11-27T22:41:38.321Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "Racing Bulls lead midfield in Qatar after 'really big step'",
+   "summary": "Racing Bulls led the midfield pack after Friday practice ahead of the Qatar Grand Prix, as Liam Lawson and Arvid Lindblad finished Free Practice 2 in P9 and P10.",
+   "url": "https://www.formula1.com/en/latest/article/racing-bulls-lead-the-midfield-charge-in-qatar-after-changes-pay-off.11wtPFM25qXm0dPTocDHRn",
+   "date": "2026-11-27T22:40:38.321Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "lawson",
+    "arvid_lindblad"
+   ],
+   "teams": [
+    "rb"
+   ],
+   "team": "rb",
+   "category": "Rennen",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "Best Qualifying bets for the Qatar Grand Prix",
+   "summary": "Our expert betting writers share their top picks for Qualifying at the Lusail International Circuit.",
+   "url": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-in-the-markets-for-the-qatar-grand-prix.2mQLEJUkKJHjLj8bHzNnaI",
+   "date": "2026-11-27T22:39:38.321Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "'It's never nice' – Gasly explains dramatic FP2 spin",
+   "summary": "Pierre Gasly has revealed how a combination of low tyre temperatures and increased bottoming contributed to his FP2 spin in Qatar, as Alpine continue to battle handling difficulties.",
+   "url": "https://www.formula1.com/en/latest/article/its-never-nice-gasly-explains-dramatic-high-speed-spin-during-qatar-practice.11hIcFNT6zuvEG0mwAggDn",
+   "date": "2026-11-27T22:38:38.321Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "gasly"
+   ],
+   "teams": [
+    "alpine"
+   ],
+   "team": "alpine",
+   "category": "Rennen",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "Norris worried by McLaren’s deficit to Mercedes in Qatar",
+   "summary": "Lando Norris believes McLaren are fighting for P3 at the Qatar Grand Prix after Mercedes led the way in both of Friday’s practice sessions.",
+   "url": "https://www.formula1.com/en/latest/article/i-dont-think-weve-been-further-off-norris-worried-by-mclarens-deficit-to-mercedes-in-qatar.6mwnUPpxnOsIv6YJ7O6Lgm",
+   "date": "2026-11-27T22:37:38.321Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [
+    "mercedes",
+    "mclaren"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "Antonelli wary of rivals despite topping Friday in Qatar",
+   "summary": "Kimi Antonelli believes \"you can never write off Max [Verstappen] and the others\" despite the new World Champion and Mercedes dominating Friday practice ahead of the Qatar Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/you-can-never-write-off-max-and-the-others-antonelli-wary-of-rivals-despite-topping-friday-in-qatar.2bsPJciIE8epCdw1AXd6zC",
+   "date": "2026-11-27T22:36:38.321Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "antonelli",
+    "max_verstappen"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "Audi's Italian GP appeal over Tsunoda decision is dismissed",
+   "summary": "Audi's appeal has been dismissed following a hearing at the International Court of Appeal on November 25.",
+   "url": "https://www.formula1.com/en/latest/article/audis-italian-grand-prix-appeal-over-tsunoda-restart-decision-is-dismissed.53YK6RxY4GWQ0WvgCUm3xh",
+   "date": "2026-11-27T22:35:38.321Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [
+    "tsunoda"
+   ],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "Rennen",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "Konkurrenz fürchtet: Mercedes \"auf einem ganz anderen Niveau\"",
+   "summary": "Mercedes versetzt die Konkurrenz in Katar in Staunen: Lando Norris erwartet eine Doppelpole, Max Verstappen und Charles Leclerc suchen Antworten",
+   "url": "https://www.formel1.de/nc/150085",
+   "date": "2026-11-27T22:19:24.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris",
+    "max_verstappen",
+    "leclerc"
+   ],
+   "teams": [
+    "mercedes"
+   ],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "Verstappen fühlt sich noch nicht wohl: \"Massive Limitierung\" für Red Bull",
+   "summary": "Für Max Verstappen und Red Bull lief der Formel-1-Freitag in Katar noch nicht nach Plan: Kann der viermalige Weltmeister das Blatt erneut wenden?",
+   "url": "https://www.formel1.de/nc/150084",
+   "date": "2026-11-27T21:03:35.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "Fast eine Sekunde Vorsprung: Antonelli dominiert die Katar-Longruns",
+   "summary": "Kimi Antonelli dominiert den Trainingsfreitag in Katar: Die Longrun-Daten offenbaren einen gewaltigen Vorsprung und überraschend hohen Reifenverschleiss",
+   "url": "https://www.formel1.de/nc/150083",
+   "date": "2026-11-27T20:45:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "Colapinto trickst Flughafen aus: Alpine-Pilot setzt kurzerhand seinen Helm auf",
+   "summary": "Um Kosten für Übergepäck zu sparen, hat sich Franco Colapinto beim Rückflug von Las Vegas seinen Helm aufgesetzt und ihn so nicht als Gepäckstück zählen lassen",
+   "url": "https://www.formel1.de/nc/150082",
+   "date": "2026-11-27T20:10:54.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "colapinto"
+   ],
+   "teams": [
+    "alpine"
+   ],
+   "team": "alpine",
+   "category": "News",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "Katar-Freitag: Erst haarige Szene mit Verstappen, dann bleibt Hamilton liegen!",
+   "summary": "Kimi Antonelli dominiert auch das zweite Freie Training in Katar - Lewis Hamilton gerät mit Max Verstappen aneinander und muss seinen Ferrari später abstellen",
+   "url": "https://www.formel1.de/nc/150079",
+   "date": "2026-11-27T19:50:44.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "hamilton",
+    "antonelli"
+   ],
+   "teams": [
+    "ferrari"
+   ],
+   "team": "red_bull",
+   "category": "Rennen",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "FIA und Hersteller einigen sich: F1-Motoren-Freeze ab Mitte 2028!",
+   "summary": "Die FIA hat sich mit den Motorenherstellern geeinigt, ab Mitte 2028 nicht mehr an den aktuellen Antrieben zu arbeiten - Dann auch grünes Licht für die V8-Entwicklung",
+   "url": "https://www.formel1.de/nc/150081",
+   "date": "2026-11-27T19:35:22.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "Teammitglied gefährdet: Geldstrafe für Red Bull nach Boxengassen-Vorfall",
+   "summary": "Red Bull muss nach einem Vorfall rund um Isack Hadjar eine Geldstrafe bezahlen, weil ein Mitarbeiter des Rennstalls gefährdet wurde - Fuss fast überfahren",
+   "url": "https://www.formel1.de/nc/150080",
+   "date": "2026-11-27T18:37:32.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "hadjar"
+   ],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "Audi-Einspruch abgewiesen: Yuki Tsunoda behält Punkt aus Monza",
+   "summary": "Das Internationale Berufungsgericht der FIA hat den Einspruch von Audi aus Monza zurückgewiesen und den zehnten Platz von Yuki Tsunoda bestätigt",
+   "url": "https://www.formel1.de/nc/150078",
+   "date": "2026-11-27T17:39:31.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "tsunoda"
+   ],
+   "teams": [
+    "audi"
+   ],
+   "team": "audi",
+   "category": "Regeln",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "Arvid Lindblads erstes Formel-1-Jahr: Qualifyings top, Langstreckenflüge Flop",
+   "summary": "Arvid Lindblad zieht eine positive Bilanz seiner ersten Formel-1-Saison, offenbart aber, wie sehr ihn die vielen Reisen und Langstreckenflüge belasten",
+   "url": "https://www.formel1.de/nc/150077",
+   "date": "2026-11-27T17:20:21.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "arvid_lindblad"
+   ],
+   "teams": [],
+   "team": "rb",
+   "category": "News",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "F1-Kommentator: Verstappen hat die Intelligenz von Alonso - aber ist schneller",
+   "summary": "Formel-1-Kommentator David Croft sieht Max Verstappen und Fernando Alonso in Sachen Rennintelligenz auf Augenhöhe, doch in Sachen Speed punktet Verstappen",
+   "url": "https://www.formel1.de/nc/150076",
+   "date": "2026-11-27T17:03:10.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "alonso"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "Carlos Sainz vor Katar: Reifendruck in der Formel 1 ist 2026 \"verrückt\" hoch",
+   "summary": "Williams-Pilot Carlos Sainz möchte nicht gegen die vorgegebene Stintlänge in Katar argumentieren, findet aber die hohen Reifendrücke seltsam",
+   "url": "https://www.formel1.de/nc/150075",
+   "date": "2026-11-27T16:24:50.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "sainz"
+   ],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "News",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "\"Was zur Hölle wollen sie?\" Fahrer genervt von Überholkritik",
+   "summary": "Gabriel Bortoleto verteidigt das Überholspektakel von Las Vegas gegen Kritik seiner Fahrerkollegen, während Carlos Sainz konkrete Vorschläge für 2030 macht",
+   "url": "https://www.formel1.de/nc/150074",
+   "date": "2026-11-27T16:01:25.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "bortoleto",
+    "sainz"
+   ],
+   "teams": [],
+   "team": "audi",
+   "category": "News",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "Die Freitagsfahrer der Formel 1 2026 in der Übersicht",
+   "summary": "Jeder Formel-1-Fahrer muss in der Saison 2026 Nachwuchspiloten für zwei Trainings sein Cockpit überlassen - Wer hat schon ausgesetzt und wer muss noch?",
+   "url": "https://www.formel1.de/nc/146408",
+   "date": "2026-11-27T15:46:13.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
+  {
+   "title": "Einziger Fahrer mit härteren Reifen: Antonelli Schnellster im Katar-FT1",
+   "summary": "So lief das erste Freie Training der Formel 1 in Doha 2026: Mercedes am schnellsten, Reifen im Fokus, kurze Schrecksekunde an der Red-Bull-Box",
+   "url": "https://www.formel1.de/nc/150073",
+   "date": "2026-11-27T14:32:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [
+    "mercedes",
+    "red_bull"
+   ],
+   "team": "mercedes",
+   "category": "Rennen",
+   "firstSeen": "2026-11-27T22:44:38.321Z"
+  },
   {
    "title": "LIVE COVERAGE: First practice for the Qatar GP",
    "summary": "Live coverage of Friday's first practice session for the 2026 Qatar Grand Prix.",
@@ -595,398 +1012,6 @@
    "team": null,
    "category": "News",
    "firstSeen": "2026-11-26T13:57:34.422Z"
-  },
-  {
-   "title": "2027 line-ups confirmed: Who is on the grid for next season?",
-   "summary": "With Ollie Bearman now confirmed at Haas for next season, the 2027 grid is finally complete. So, which teams have changed their line ups, who is sticking with their current pairings and how many new faces are on the grid next season? Read on to find out …",
-   "url": "https://www.formula1.com/en/latest/article/2027-f1-line-ups-confirmed-in-full-who-is-on-the-grid-for-next-season.4CSw0BzYUotJ459iJ8jEGX",
-   "date": "2026-11-26T13:54:34.422Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "bearman"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Rennen",
-   "firstSeen": "2026-11-26T13:57:34.422Z"
-  },
-  {
-   "title": "Why Bearman’s new Haas deal took so long to get over the line",
-   "summary": "Lawrence Barretto explains the delay in announcing Ollie Bearman's latest Haas contract, which marks the completion of the 2027 grid.",
-   "url": "https://www.formula1.com/en/latest/article/analysis-why-bearmans-new-haas-deal-took-so-long-to-get-over-the-line.M0No4qdgSUFPFMgGKkNKv",
-   "date": "2026-11-26T13:53:34.422Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "bearman"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Transfer",
-   "firstSeen": "2026-11-26T13:57:34.422Z"
-  },
-  {
-   "title": "Bearman to continue with Haas for 2027",
-   "summary": "The Haas Formula 1 team have confirmed that Ollie Bearman has re-signed with the American outfit.",
-   "url": "https://www.formula1.com/en/latest/article/bearman-to-continue-with-haas-for-2027-as-he-completes-next-years-grid.dRq9fWh9OGjhXuShgGnqE",
-   "date": "2026-11-26T13:52:34.422Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "bearman"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "News",
-   "firstSeen": "2026-11-26T13:57:34.422Z"
-  },
-  {
-   "title": "McLaren-Ingenieur erklärt Strategie-Falle in Katar: Welcher Fehler jetzt teuer wird",
-   "summary": "Pirelli schreibt für den Grossen Preis von Katar 2026 wieder eine maximale Stintlänge vor: McLaren-Ingenieur Adrian Goodwin erklärt, worauf jetzt besonders zu achten ist",
-   "url": "https://www.formel1.de/nc/150047",
-   "date": "2026-11-26T12:59:37.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mclaren"
-   ],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-11-26T13:57:34.422Z"
-  },
-  {
-   "title": "\"Irgendwie verrückt\": Nico Rosberg trifft interessante WM-Prognose für 2027",
-   "summary": "Nico Rosberg zählt George Russell auch in der Formel-1-Saison 2027 nicht zum Kreis der WM-Favoriten: Er meint, dass der Brite jetzt \"in einem mentalen Loch\" steckt",
-   "url": "https://www.formel1.de/nc/150046",
-   "date": "2026-11-26T11:57:02.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "russell"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-26T13:57:34.422Z"
-  },
-  {
-   "title": "\"Viraler Infekt\": Fernando Alonso lässt Medientag in Katar aus",
-   "summary": "Fernando Alonso lässt den Medientag vor dem Formel-1-Rennen in Katar aus, da er sich laut Aston Martin von einem viralen Infekt erholen muss",
-   "url": "https://www.formel1.de/nc/150045",
-   "date": "2026-11-26T11:49:52.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "alonso"
-   ],
-   "teams": [
-    "aston_martin"
-   ],
-   "team": "aston_martin",
-   "category": "Rennen",
-   "firstSeen": "2026-11-26T13:57:34.422Z"
-  },
-  {
-   "title": "\"Zwei Hähne im Hühnerstall\": Was hinter dem Ferrari-Konflikt steckt",
-   "summary": "Drei Berührungen und wiederholt hitzige Diskussionen: Mentalcoach Riccardo Ceccarelli erklärt, was hinter dem Machtkampf zwischen Leclerc und Hamilton steckt",
-   "url": "https://www.formel1.de/nc/150044",
-   "date": "2026-11-26T11:03:56.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "leclerc",
-    "hamilton"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-26T13:57:34.422Z"
-  },
-  {
-   "title": "\"Widert mich wirklich an\": Ex-F1-Pilot kritisiert Doppelmoral von Verstappen",
-   "summary": "Der frühere Formel-1-Pilot Sebastien Bourdais findet scharfe Worte für die vermeintliche Doppelmoral von Max Verstappen: \"Etwas, das mich wirklich anwidert\"",
-   "url": "https://www.formel1.de/nc/150042",
-   "date": "2026-11-26T10:36:48.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-26T13:57:34.422Z"
-  },
-  {
-   "title": "Palmer kritisiert Ferrari-Fahrer scharf: \"Völlige Missachtung des Teams\"",
-   "summary": "Ex-Pilot Jolyon Palmer wirft den Ferrari-Piloten eine \"völlige Missachtung des Teams\" vor und zeigt Mitleid mit Teamchef Frederic Vasseur",
-   "url": "https://www.formel1.de/nc/150043",
-   "date": "2026-11-26T10:01:29.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-26T13:57:34.422Z"
-  },
-  {
-   "title": "Übersicht: Die Fahrer und Teams der Formel-1-Saison 2027",
-   "summary": "Der aktuelle Ausblick auf die Formel-1-Saison 2027 mit allen bisher bestätigten Fahrern und Teams sowie allen Fahrerwechseln",
-   "url": "https://www.formel1.de/nc/148077",
-   "date": "2026-11-26T09:18:40.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-26T13:57:34.422Z"
-  },
-  {
-   "title": "Endlich offiziell: Haas bestätigt Oliver Bearman für Formel 1 2027",
-   "summary": "Noch in Las Vegas beklagte Oliver Bearman die Unsicherheit um seine Formel-1-Zukunft: Jetzt hat Haas verlängert und damit das letzte Cockpit für 2027 besetzt",
-   "url": "https://www.formel1.de/nc/150041",
-   "date": "2026-11-26T09:01:00.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bearman"
-   ],
-   "teams": [
-    "haas"
-   ],
-   "team": "haas",
-   "category": "Transfer",
-   "firstSeen": "2026-11-26T13:57:34.422Z"
-  },
-  {
-   "title": "Tsolov-Nachfolger gefunden: Das ist Red Bulls neuer Juniorfahrer",
-   "summary": "Red Bull hat den Franzosen Theophile Nael für sein Nachwuchsprogramm verpflichtet: Der 19-Jährige wird Nachfolger von Nikola Tsolov in der Formel 2",
-   "url": "https://www.formel1.de/nc/150040",
-   "date": "2026-11-26T08:02:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Transfer",
-   "firstSeen": "2026-11-26T13:57:34.422Z"
-  },
-  {
-   "title": "Fernando Alonso: Sehe keinen, der mir überlegen ist!",
-   "summary": "Fernando Alonso wird 2030 nicht mehr in der Formel 1 fahren, bis dahin lässt er seinen Rücktritt offen: Karriereende keine Frage des Alters",
-   "url": "https://www.formel1.de/nc/150039",
-   "date": "2026-11-26T06:57:41.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "alonso"
-   ],
-   "teams": [],
-   "team": "aston_martin",
-   "category": "News",
-   "firstSeen": "2026-11-26T13:57:34.422Z"
-  },
-  {
-   "title": "Neues Ferrari-Buch enthüllt bislang unbekannte F1-Pläne von Marchionne",
-   "summary": "Sergio Marchionne hatte vor seinem Tod 2018 grosse Pläne für seine Zukunft bei Ferrari - und erwog darüber hinaus den Kauf eines eigenen Formel-1-Rennstalls",
-   "url": "https://www.formel1.de/nc/150038",
-   "date": "2026-11-26T05:26:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-26T13:57:34.422Z"
-  },
-  {
-   "title": "FIA confirm Williams’ minor overspend breach of 2025 Cost Cap",
-   "summary": "The FIA have completed their review of the F1 teams' and power unit manufacturers' compliance with the 2025 Financial Regulations.",
-   "url": "https://www.formula1.com/en/latest/article/fia-confirm-williams-minor-overspend-breach-in-2025-cost-cap-review.12rGorQ1pzc6aH0LX2WdLZ",
-   "date": "2026-11-26T00:27:30.340Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [
-    "williams"
-   ],
-   "team": "williams",
-   "category": "Regeln",
-   "firstSeen": "2026-11-26T00:27:30.340Z"
-  },
-  {
-   "title": "5 storylines we're excited about ahead of the Qatar GP",
-   "summary": "Chris Medland runs through the biggest talking points as F1 heads to Qatar for Round 22 of the 2026 season.",
-   "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-qatar-grand-prix.1bXINUYO8R8X3K7DjINr1A",
-   "date": "2026-11-26T00:26:30.340Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-26T00:27:30.340Z"
-  },
-  {
-   "title": "QUIZ: 10 tricky questions on F1 driver bust-ups",
-   "summary": "George Russell and Max Verstappen exchanged words off track and battled on track in Las Vegas – and F1 history has seen plenty of flashpoints between rivals.",
-   "url": "https://www.formula1.com/en/latest/article/quiz-10-tricky-questions-on-f1-driver-bust-ups.L5pATOFep8eOxnoTZTjjf",
-   "date": "2026-11-26T00:25:30.340Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell",
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "News",
-   "firstSeen": "2026-11-26T00:27:30.340Z"
-  },
-  {
-   "title": "Jack Whitehall on why Antonelli surprised him in first meeting",
-   "summary": "In the latest episode of official podcast F1 Beyond The Grid, Jack Whitehall has shared his experiences as an official Friend of F1 – including a memorable first meeting with Kimi Antonelli.",
-   "url": "https://www.formula1.com/en/latest/article/hes-not-like-any-sportsman-ive-interacted-with-jack-whitehall-on-why-antonelli-surprised-him-in-first-meeting.2AZ1Cm2uN2NeNKwiQknWZY",
-   "date": "2026-11-26T00:24:30.340Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "antonelli"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-26T00:27:30.340Z"
-  },
-  {
-   "title": "Best value early bets for the Qatar Grand Prix",
-   "summary": "We've selected our pick of early bets offering the best value for F1 bettors at the Qatar Grand Prix.",
-   "url": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-qatar-grand-prix.5himIJYPG93VDcnQ3sccs9",
-   "date": "2026-11-26T00:23:30.340Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-26T00:27:30.340Z"
-  },
-  {
-   "title": "Our early Bet Builder for the Qatar Grand Prix",
-   "summary": "Our expert betting writers have picked a four-leg Bet Builder for the Qatar Grand Prix, including podium finish and top-six selections.",
-   "url": "https://www.formula1.com/en/latest/article/our-early-bet-builder-selections-for-the-qatar-grand-prix.7FBX6XRKhMuX5CMZ996cZ1",
-   "date": "2026-11-26T00:22:30.340Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-26T00:27:30.340Z"
-  },
-  {
-   "title": "Williams und Alpine haben 2025 gegen Budgetobergrenze verstossen",
-   "summary": "FIA teilt mit, dass man mit Williams und auch mit Alpine eine Vereinbarung nach Verstössen gegen F1-Kostengrenze 2025 geschlossen hat - Strafmass unterschiedlich",
-   "url": "https://www.formel1.de/nc/150037",
-   "date": "2026-11-25T18:29:07.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "williams",
-    "alpine"
-   ],
-   "team": "williams",
-   "category": "Regeln",
-   "firstSeen": "2026-11-26T00:27:30.340Z"
-  },
-  {
-   "title": "\"Abnormale\" Fähigkeiten: Horner erklärt Sonderrolle von Verstappen bei Red Bull",
-   "summary": "Max Verstappen verlangt eine aussergewöhnliche Fahrzeugbalance - Für seine Teamkollegen wird genau diese Abstimmung zum Problem, weiss Christian Horner",
-   "url": "https://www.formel1.de/nc/150036",
-   "date": "2026-11-25T16:47:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-26T00:27:30.340Z"
-  },
-  {
-   "title": "From Monza mayhem to Suzuka showdowns – 10 dramatic F1 rivalry flashpoints",
-   "summary": "Max Verstappen and George Russell traded blows on and off track in Las Vegas last weekend – but that is merely the latest episode in a long history of driver rivalries in Formula 1.",
-   "url": "https://www.formula1.com/en/latest/article/from-monza-mayhem-to-suzuka-showdowns-10-dramatic-rivalry-flashpoints-in-f1-history.3tetZNSgL2jM1F3THX3k1M",
-   "date": "2026-11-25T14:29:30.343Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen",
-    "russell"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "News",
-   "firstSeen": "2026-11-25T14:29:30.343Z"
-  },
-  {
-   "title": "EXPLAINED: Why there's a 27-lap tyre limit for the Qatar GP",
-   "summary": "The penultimate race weekend of the 2026 season comes from Qatar, and much like last year, Pirelli have mandated a lap limit on each tyre set for the Lusail International Circuit, due to the unique demands of the track.",
-   "url": "https://www.formula1.com/en/latest/article/explained-why-theres-a-27-lap-limit-on-tyres-for-the-qatar-grand-prix.4oeu38BqJh1h7llxUeILBe",
-   "date": "2026-11-25T14:28:30.343Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-25T14:29:30.343Z"
   }
  ]
 }
