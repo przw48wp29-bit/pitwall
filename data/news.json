@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T23:01:58.306Z",
+ "updatedAt": "2026-11-27T13:56:12.248Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,206 @@
   }
  },
  "items": [
+  {
+   "title": "LIVE COVERAGE: First practice for the Qatar GP",
+   "summary": "Live coverage of Friday's first practice session for the 2026 Qatar Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-qatar-2026.4b9OJ86R4u41lS38JHHCuO",
+   "date": "2026-11-27T13:56:12.236Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-27T13:56:12.236Z"
+  },
+  {
+   "title": "All the stories that got the Qatar paddock talking",
+   "summary": "F1.com's Mike Seymour looks back on the stories that got the paddock talking ahead of the 2026 Qatar Grand Prix.",
+   "url": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-qatar-paddock-talking.7oePpDkNxzG1j0359UuyOo",
+   "date": "2026-11-27T13:55:12.236Z",
+   "source": "Formula1.com",
+   "sourceId": "f1com",
+   "lang": "en",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-27T13:56:12.236Z"
+  },
+  {
+   "title": "Formel 1 im Free-TV: So teilen sich ServusTV und ORF die Saison 2027 auf",
+   "summary": "Alle 24 Grands Prix und zehn Sprintrennen der Formel-1-Saison 2027 im österreichischen Free-TV: Die komplette Aufteilung zwischen ServusTV und ORF",
+   "url": "https://www.formel1.de/nc/150072",
+   "date": "2026-11-27T13:41:10.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Business",
+   "firstSeen": "2026-11-27T13:56:12.236Z"
+  },
+  {
+   "title": "Alexander Albon: Was ein Kommissar in der Formel 1 heute können muss",
+   "summary": "Alexander Albon hält sich in Formel-1-Zweikämpfen bewusst zurück: Welche Probleme er bei der Regelauslegung sieht und was er sich von der FIA erhofft",
+   "url": "https://www.formel1.de/nc/150071",
+   "date": "2026-11-27T12:44:20.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "albon"
+   ],
+   "teams": [],
+   "team": "williams",
+   "category": "Regeln",
+   "firstSeen": "2026-11-27T13:56:12.236Z"
+  },
+  {
+   "title": "Quiznacht rund um Regeldebatte: Wird das Kommissarproblem so gelöst?",
+   "summary": "Die Formel-1-Fahrer durften in Katar über strittige Rennszenen diskutieren, wobei eine geheime Abstimmung rund um das Strafmass stattfand",
+   "url": "https://www.formel1.de/nc/150070",
+   "date": "2026-11-27T11:27:29.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-11-27T13:56:12.236Z"
+  },
+  {
+   "title": "Honda findet kein Problem am Motor: \"Fragen Sie bitte Fernando ...\"",
+   "summary": "Fernando Alonso stellte sein Auto in Las Vegas mit einem vermeintlichen Motorenproblem vor der Ziellinie ab, doch Honda erkennt keinen Defekt",
+   "url": "https://www.formel1.de/nc/150069",
+   "date": "2026-11-27T10:25:24.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "alonso"
+   ],
+   "teams": [],
+   "team": "aston_martin",
+   "category": "News",
+   "firstSeen": "2026-11-27T13:56:12.236Z"
+  },
+  {
+   "title": "Carlos Sainz hat eine Idee, wie die Formel 1 das Überholen verbessern kann",
+   "summary": "Carlos Sainz würde den zusätzlichen Leistungsschub in der Formel 1 an einer anderen Stelle einsetzen - und damit die Voraussetzungen für Zweikämpfe verändern",
+   "url": "https://www.formel1.de/nc/150068",
+   "date": "2026-11-27T10:01:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "sainz"
+   ],
+   "teams": [],
+   "team": "williams",
+   "category": "News",
+   "firstSeen": "2026-11-27T13:56:12.236Z"
+  },
+  {
+   "title": "Zurückrunden hinter dem Safety-Car: Diese Änderung wünscht sich Lawson",
+   "summary": "Liam Lawson wünscht sich eine neue Regel beim Zurückrunden hinter dem Safety-Car, nachdem er in Las Vegas den Anschluss an das Feld nicht herstellen konnte",
+   "url": "https://www.formel1.de/nc/150067",
+   "date": "2026-11-27T09:32:43.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "lawson"
+   ],
+   "teams": [],
+   "team": "rb",
+   "category": "Regeln",
+   "firstSeen": "2026-11-27T13:56:12.236Z"
+  },
+  {
+   "title": "Verstappen gegen Russell: Warum Lando Norris einen Unterschied sieht",
+   "summary": "Lando Norris äussert sich zum neuerlichen Streit zwischen Max Verstappen und George Russell - und erklärt, was die beiden Formel-1-Fahrer unterscheidet",
+   "url": "https://www.formel1.de/nc/150065",
+   "date": "2026-11-27T08:43:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "max_verstappen",
+    "russell",
+    "norris"
+   ],
+   "teams": [],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-27T13:56:12.236Z"
+  },
+  {
+   "title": "Cadillac muss länger warten: Warum sich ein wichtiger Fortschritt verzögert",
+   "summary": "Ein wichtiger Baustein für die Zukunft des Formel-1-Teams Cadillac steht erst mit Verspätung zur Verfügung: Was das für die Entwicklung des Rennstalls bedeutet",
+   "url": "https://www.formel1.de/nc/150064",
+   "date": "2026-11-27T07:56:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "cadillac"
+   ],
+   "team": "cadillac",
+   "category": "News",
+   "firstSeen": "2026-11-27T13:56:12.236Z"
+  },
+  {
+   "title": "Kimi Antonelli gibt zu: Fokus hat nachgelassen, seit ich Weltmeister bin",
+   "summary": "Kimi Antonelli räumt ein, dass sein Fokus nach dem Titelgewinn nachgelassen hat: Der Fehler in Brasilien wäre ihm im Titelkampf vermutlich nicht passiert",
+   "url": "https://www.formel1.de/nc/150063",
+   "date": "2026-11-27T07:04:25.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "antonelli"
+   ],
+   "teams": [],
+   "team": "mercedes",
+   "category": "News",
+   "firstSeen": "2026-11-27T13:56:12.236Z"
+  },
+  {
+   "title": "Persönliche Gründe: Gianpiero Lambiase fehlt Red Bull in Katar",
+   "summary": "Max Verstappens Renningenieur Gianpiero Lambiase wird in Katar und vielleicht auch Abu Dhabi aus persönlichen Gründen fehlen - Nachfolger übernimmt erneut",
+   "url": "https://www.formel1.de/nc/150062",
+   "date": "2026-11-27T06:30:00.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "red_bull"
+   ],
+   "team": "red_bull",
+   "category": "Transfer",
+   "firstSeen": "2026-11-27T13:56:12.236Z"
+  },
+  {
+   "title": "Nico Rosberg: Was ihn der Formel-1-WM-Titel 2016 wirklich gekostet hat",
+   "summary": "Schlafmangel, panische Angst und ein zitternder Fuss: Nico Rosberg schildert, was sich bei den entscheidenden Formel-1-Rennen 2016 hinter den Kulissen abspielte",
+   "url": "https://www.formel1.de/nc/150061",
+   "date": "2026-11-27T05:06:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Rennen",
+   "firstSeen": "2026-11-27T13:56:12.236Z"
+  },
   {
    "title": "What could shake up the Qatar betting markets?",
    "summary": "After the lights go out in Lusail, clued-up bettors will be poised to make smart betting decisions in real time markets.",
@@ -787,217 +987,6 @@
    "team": null,
    "category": "Rennen",
    "firstSeen": "2026-11-25T14:29:30.343Z"
-  },
-  {
-   "title": "How to stream the 2026 Qatar Grand Prix on F1 TV Premium",
-   "summary": "Here is all the information you need to follow the Qatar Grand Prix weekend live on F1 TV.",
-   "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-qatar-grand-prix-on-f1-tv-premium.4CMqa6NvWBGhwyaOXXgsxI",
-   "date": "2026-11-25T14:27:30.343Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-25T14:29:30.343Z"
-  },
-  {
-   "title": "What tyres will the teams have for the Qatar Grand Prix?",
-   "summary": "Pirelli have confirmed the tyre compounds that will be in use for the Qatar Grand Prix weekend, with a maximum of 27 laps permitted on each set.",
-   "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-qatar-grand-prix.7JllCRweDY5sW1N9LzdkLm",
-   "date": "2026-11-25T14:26:30.343Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-25T14:29:30.343Z"
-  },
-  {
-   "title": "Fernando Alonso glaubt an Aston Martin - doch eine grosse Baustelle bleibt",
-   "summary": "Fernando Alonso erklärt, warum er trotz der enttäuschenden Formel-1-Saison 2026 optimistisch bleibt und weshalb Honda für Aston Martin der entscheidende Faktor ist",
-   "url": "https://www.formel1.de/nc/150035",
-   "date": "2026-11-25T14:02:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "alonso"
-   ],
-   "teams": [
-    "aston_martin"
-   ],
-   "team": "aston_martin",
-   "category": "News",
-   "firstSeen": "2026-11-25T14:29:30.343Z"
-  },
-  {
-   "title": "Palmer schwärmt von Verstappen: \"Kein anderer Fahrer hätte das geschafft\"",
-   "summary": "In Las Vegas lieferten sich Verstappen und Russell ein packendes Duell - TV-Experte Palmer schwärmt besonders vom Red-Bull-Piloten und stellt eine klare These auf",
-   "url": "https://www.formel1.de/nc/150034",
-   "date": "2026-11-25T12:33:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen",
-    "russell"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Business",
-   "firstSeen": "2026-11-25T14:29:30.343Z"
-  },
-  {
-   "title": "Formel 1 als Milliardenbusiness: Was die elf Teams 2026 wert sind",
-   "summary": "Selbst Neueinsteiger Cadillac und Schlusslicht Haas sind Milliarden wert: Die aktuelle Forbes-Erhebung verdeutlicht den wirtschaftlichen Aufstieg der Formel 1",
-   "url": "https://www.formel1.de/nc/150033",
-   "date": "2026-11-25T11:14:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "cadillac",
-    "haas"
-   ],
-   "team": "cadillac",
-   "category": "News",
-   "firstSeen": "2026-11-25T14:29:30.343Z"
-  },
-  {
-   "title": "Formel-1-Motoren 2030: Alle Fragen und Antworten zum neuen V8-Antrieb",
-   "summary": "V8-Turbo, kleiner Hybrid, Push-to-Pass und nur noch ein Kundenteam pro Hersteller: Was bereits über das neue Antriebsreglement der Formel 1 für 2030 bekannt ist",
-   "url": "https://www.formel1.de/nc/150032",
-   "date": "2026-11-25T10:03:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Technik",
-   "firstSeen": "2026-11-25T14:29:30.343Z"
-  },
-  {
-   "title": "Warum Colton Herta seinen Formel-1-Traum schon jetzt aufgeben könnte",
-   "summary": "Nach der Cadillac-Absage für 2027 steht Colton Herta vor einer richtungsweisenden Karriereentscheidung: Warum dabei das Jahr 2028 eine Schlüsselrolle spielt",
-   "url": "https://www.formel1.de/nc/150031",
-   "date": "2026-11-25T08:48:04.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "cadillac"
-   ],
-   "team": "cadillac",
-   "category": "News",
-   "firstSeen": "2026-11-25T14:29:30.343Z"
-  },
-  {
-   "title": "Verstappen-Sieg in Las Vegas: Was die Red-Bull-Funksprüche offenbaren",
-   "summary": "Red Bull zog in Las Vegas in Betracht, Max Verstappen eine Runde vor Schluss die Führung abgeben zu lassen: Was hinter dieser ungewöhnlichen Idee steckte",
-   "url": "https://www.formel1.de/nc/150030",
-   "date": "2026-11-25T07:35:19.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-25T14:29:30.343Z"
-  },
-  {
-   "title": "Formel 1: Die weitreichenden Folgen einer kaum beachteten V8-Entscheidung",
-   "summary": "Die neuen V8-Regeln könnten Mercedes zwei Kundenteams kosten: Welche politischen und finanziellen Ziele mit dem Motorenwechsel 2030 verfolgt werden",
-   "url": "https://www.formel1.de/nc/150029",
-   "date": "2026-11-25T05:22:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [],
-   "teams": [
-    "mercedes"
-   ],
-   "team": "mercedes",
-   "category": "Regeln",
-   "firstSeen": "2026-11-25T14:29:30.343Z"
-  },
-  {
-   "title": "What time is the 2026 Qatar GP and how can I watch it?",
-   "summary": "Here are all the timings – along with all the additional information you need – for the 22nd Grand Prix weekend of the 2026 season from Qatar.",
-   "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-qatar-grand-prix-and-how-can-i-watch-it.XirX9Qy8hRZnH3O1Qhcch",
-   "date": "2026-11-25T00:49:31.215Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-25T00:49:31.215Z"
-  },
-  {
-   "title": "Was Russell ‘playing mind games with himself’ in Las Vegas?",
-   "summary": "George Russell and Max Verstappen were the talk of the town after last weekend’s Las Vegas Grand Prix, with the pair’s long-standing rivalry being renewed via a sequence of on- and off-track moments.",
-   "url": "https://www.formula1.com/en/latest/article/was-russell-playing-mind-games-with-himself-before-verstappens-victory-in-las-vegas.3ZYU5SCNPd2f2JQIKr7LlM",
-   "date": "2026-11-25T00:48:31.215Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "russell",
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "mercedes",
-   "category": "Rennen",
-   "firstSeen": "2026-11-25T00:49:31.215Z"
-  },
-  {
-   "title": "The RB22 tweaks that helped Verstappen take victory in Las Vegas",
-   "summary": "Red Bull made tweaks to their RB22 for the Las Vegas Grand Prix, with a new front wing endplate to complement recent tweaks to the sidepod, as Mark Hughes explains, with technical illustrations from Giorgio Piola.",
-   "url": "https://www.formula1.com/en/latest/article/the-rb22-tweaks-that-helped-verstappen-take-victory-in-las-vegas.67NV2uD7vnuxKuW9SHi685",
-   "date": "2026-11-25T00:47:31.215Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [
-    "red_bull"
-   ],
-   "team": "red_bull",
-   "category": "Technik",
-   "firstSeen": "2026-11-25T00:49:31.215Z"
-  },
-  {
-   "title": "Who impressed our Power Rankings judges in Las Vegas?",
-   "summary": "Max Verstappen came out on top at the end of a thrilling Las Vegas Grand Prix, adding another first-class victory to his name after an overtake-filled race. But who else impressed our Power Rankings judges in the City of Lights? Check out the latest scores and overall leaderboard below …",
-   "url": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-2026-las-vegas-grand-prix.8LxxDUxVsoaYjfw269gz5",
-   "date": "2026-11-25T00:46:31.215Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [
-    "max_verstappen"
-   ],
-   "teams": [],
-   "team": "red_bull",
-   "category": "Rennen",
-   "firstSeen": "2026-11-25T00:49:31.215Z"
   }
  ]
 }
