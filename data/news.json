@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T22:44:38.334Z",
+ "updatedAt": "2026-11-28T13:07:43.266Z",
  "feeds": {
   "formel1de": {
    "ok": true
@@ -9,6 +9,115 @@
   }
  },
  "items": [
+  {
+   "title": "Mit V8-Einführung: Das klassische DRS könnte Overtake-Modus wieder ersetzen",
+   "summary": "Gemeinsam mit den V8-Motoren könnte 2030 auch ein bekanntes Überholsystem in die Formel 1 zurückkehren: die FIA prüft eine Kombination aus DRS und Push-to-Pass",
+   "url": "https://www.formel1.de/nc/150093",
+   "date": "2026-11-28T12:18:16.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Regeln",
+   "firstSeen": "2026-11-28T13:07:43.247Z"
+  },
+  {
+   "title": "Lando Norris: Welcher Rennfahrer ihn beim Feiern mit seinen Donuts begeistert",
+   "summary": "Nach seinem WM-Triumph 2025 liess Lando Norris die Reifen qualmen, doch perfekt waren seine Donuts nicht: Welcher Rennfahrer beim Feiern sein \"echtes Vorbild\" ist",
+   "url": "https://www.formel1.de/nc/150092",
+   "date": "2026-11-28T11:09:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "norris"
+   ],
+   "teams": [],
+   "team": "mclaren",
+   "category": "News",
+   "firstSeen": "2026-11-28T13:07:43.247Z"
+  },
+  {
+   "title": "Foto enthüllt geheime Bremsscheibe bei Red Bull & Audi",
+   "summary": "Dem geschickten Fotografen von AG Galli ist es gelungen, eine streng geheime Lösung einzufangen, die Brembo gemeinsam mit Red Bull und Audi erprobt",
+   "url": "https://www.formel1.de/nc/150091",
+   "date": "2026-11-28T09:44:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "red_bull",
+    "audi"
+   ],
+   "team": "red_bull",
+   "category": "News",
+   "firstSeen": "2026-11-28T13:07:43.247Z"
+  },
+  {
+   "title": "James Vowles: Strafe für Überschreitung der Budgetgrenze \"Peanuts\"",
+   "summary": "Für James Vowles ist die Strafe für das Überschreiten der Budgetgrenze nicht so schlimm: Er erklärt, warum Williams davon ausging, die Kosten wären ausgenommen",
+   "url": "https://www.formel1.de/nc/150089",
+   "date": "2026-11-28T08:45:05.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [
+    "williams"
+   ],
+   "team": "williams",
+   "category": "Regeln",
+   "firstSeen": "2026-11-28T13:07:43.247Z"
+  },
+  {
+   "title": "Nach 18 Jahren Pirelli: Bekommt die Formel 1 einen neuen Reifenlieferanten?",
+   "summary": "Pirelli bekommt offenbar einen neuen Herausforderer: Hankook bereitet nach Informationen von Motorsport-Total.com einen Angriff auf den Formel-1-Vertrag vor",
+   "url": "https://www.formel1.de/nc/150088",
+   "date": "2026-11-28T08:00:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "Transfer",
+   "firstSeen": "2026-11-28T13:07:43.247Z"
+  },
+  {
+   "title": "Pirelli schlägt Alarm: Reifen in Katar sind schon nach 15 Runden komplett kaputt",
+   "summary": "Pirelli erlebt in Katar eine Überraschung: Der Reifenverschleiss fällt höher aus als erwartet, sogar Schäden bis zur Karkasse wurden festgestellt - So geht es nun weiter",
+   "url": "https://www.formel1.de/nc/150087",
+   "date": "2026-11-28T06:45:27.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [],
+   "teams": [],
+   "team": null,
+   "category": "News",
+   "firstSeen": "2026-11-28T13:07:43.247Z"
+  },
+  {
+   "title": "Haas: Darum lassen wir Rafael Camara nicht um den Formel-2-Titel kämpfen",
+   "summary": "Rafael Camara darf in dieser Saison nicht mehr um den Formel-2-Titel kämpfen, doch laut Haas-Teamchef Ayao Komatsu musste man ihn nicht gross überzeugen",
+   "url": "https://www.formel1.de/nc/150086",
+   "date": "2026-11-28T05:30:04.000Z",
+   "source": "Formel1.de",
+   "sourceId": "formel1de",
+   "lang": "de",
+   "drivers": [
+    "rafael_camara"
+   ],
+   "teams": [
+    "haas"
+   ],
+   "team": "haas",
+   "category": "News",
+   "firstSeen": "2026-11-28T13:07:43.247Z"
+  },
   {
    "title": "Are Mercedes the team to beat in Qatar?",
    "summary": "F1.com analyses the state of play after the first day of action at the Qatar Grand Prix.",
@@ -900,118 +1009,6 @@
    "team": "mercedes",
    "category": "News",
    "firstSeen": "2026-11-26T23:01:58.283Z"
-  },
-  {
-   "title": "Lance Stroll: Formel 1 mit DRS war besser als das, was wir jetzt haben",
-   "summary": "Vor dem Grand Prix von Katar erklärt Lance Stroll, wieso ihm die Formel 1 mit DRS besser gefallen hat als die aktuelle Formel rund um Batteriemanagement",
-   "url": "https://www.formel1.de/nc/150051",
-   "date": "2026-11-26T16:33:42.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "stroll"
-   ],
-   "teams": [],
-   "team": "aston_martin",
-   "category": "Rennen",
-   "firstSeen": "2026-11-26T23:01:58.283Z"
-  },
-  {
-   "title": "Ralf Schumacher sicher: Lewis Hamilton will Charles Leclerc kaputt machen",
-   "summary": "Experte Ralf Schumacher sieht im Ferrari-Duell zwischen Lewis Hamilton und Charles Leclerc gezielte Psychospielchen - und erhebt nach der Kollision schwere Vorwürfe",
-   "url": "https://www.formel1.de/nc/150050",
-   "date": "2026-11-26T15:39:21.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "hamilton",
-    "leclerc"
-   ],
-   "teams": [
-    "ferrari"
-   ],
-   "team": "ferrari",
-   "category": "News",
-   "firstSeen": "2026-11-26T23:01:58.283Z"
-  },
-  {
-   "title": "Audi-Crash vorprogrammiert? Bortoleto rechnet früher oder später mit Kollision",
-   "summary": "Vor dem Grand Prix von Katar spricht Gabriel Bortoleto darüber, wie er und Nico Hülkenberg es bislang geschafft haben, sich nicht gegenseitig ins Auto zu fahren",
-   "url": "https://www.formel1.de/nc/150049",
-   "date": "2026-11-26T15:32:05.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "bortoleto",
-    "hulkenberg"
-   ],
-   "teams": [
-    "audi"
-   ],
-   "team": "audi",
-   "category": "Rennen",
-   "firstSeen": "2026-11-26T23:01:58.283Z"
-  },
-  {
-   "title": "Lando Norris: Wenn wir 2030 die Batterie reduzieren, gibt's auch ein Risiko …",
-   "summary": "In Katar spricht Lando Norris über einen möglichen Nachteil, den das für 2030 geplante V8-Comeback in der Formel 1 mit sich bringen könnte",
-   "url": "https://www.formel1.de/nc/150048",
-   "date": "2026-11-26T14:19:07.000Z",
-   "source": "Formel1.de",
-   "sourceId": "formel1de",
-   "lang": "de",
-   "drivers": [
-    "norris"
-   ],
-   "teams": [],
-   "team": "mclaren",
-   "category": "News",
-   "firstSeen": "2026-11-26T23:01:58.283Z"
-  },
-  {
-   "title": "AS IT HAPPENED: All the build-up ahead of the Qatar GP weekend",
-   "summary": "Live coverage of all the build-up ahead of the 2026 Qatar Grand Prix weekend.",
-   "url": "https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-qatar-2026.4WEmmZr6fKX8XU6mHM6lN9",
-   "date": "2026-11-26T13:57:34.422Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-26T13:57:34.422Z"
-  },
-  {
-   "title": "Facts, stats and trivia ahead of the 2026 Qatar GP",
-   "summary": "As F1 moves on to Lusail for the Qatar Grand Prix, Need to Know is your all-in-one guide with statistics, driving pointers, strategy tips and more.",
-   "url": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-qatar-grand-prix.7Ayey9W9IVQ1yNkR8F6zEI",
-   "date": "2026-11-26T13:56:34.422Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "Rennen",
-   "firstSeen": "2026-11-26T13:57:34.422Z"
-  },
-  {
-   "title": "Everything you need to know about the Lusail International Circuit",
-   "summary": "Get up to speed with all the key Lusail International Circuit statistics, driving pointers, facts and more.",
-   "url": "https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-lusail-international-circuit.5QWk6JkgFRrObe3OR2mROI",
-   "date": "2026-11-26T13:55:34.422Z",
-   "source": "Formula1.com",
-   "sourceId": "f1com",
-   "lang": "en",
-   "drivers": [],
-   "teams": [],
-   "team": null,
-   "category": "News",
-   "firstSeen": "2026-11-26T13:57:34.422Z"
   }
  ]
 }
